@@ -4,10 +4,6 @@ This repository contains open-source documentation for products made by Kagi Inc
 
 Currently, the documentation is limited to the [Kagi Search](https://kagi.com) product, which you can [view online](https://docs.kagi.com/search/).
 
-Documentation for the [Orion web browser](https://browser.kagi.com) will be added to the repository in the near future. Kagi Inc. will also release documentation for any future products here.
+Feedback about the Kagi Search documentation can be made on our [Discord Server](https://kagi.com/discord) in the **\#documentation** channel.
 
-Feedback about the Kagi Search documentation can be made in several places:
-
-- [Feedback Forum](https://kagifeedback.org)
-- [Discord Server](https://kagi.com/discord)
-- [support@kagi.com](mailto:support@kagi.com)
+Documentation for the [Orion web browser](https://browser.kagi.com) will be added to this repository in the near future. Kagi Inc. will also release documentation for any future products here.
