@@ -1,0 +1,14 @@
+# Welcome to Kagi Search!
+
+Kagi is a lightning-fast, user-centric, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches. We're glad you're here!
+
+If you're new to Kagi Search, our [Quick Start](/articles/getting-started/quick-start.md) and [FAQs](/articles/getting-started/faqs.md) are great places to begin.
+
+You can access our documentation in several ways:
+
+- Click or tap an article link from the list.
+- Click or tap the magnifying glass icon at the top of the screen and do a search.
+- Use the **!help** [bang](/articles/features/bangs.md) in Kagi Search. For example, searching in Kagi for [!help setting default search engine](https://kagi.com/search?q=!help%20setting%20default%20search%20engine) will show you results containing our default search documentation.
+ 
+
+

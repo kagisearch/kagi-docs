@@ -1,0 +1,6 @@
+[book]
+authors = ["Marc LaFountain"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kagi Search Docs"
