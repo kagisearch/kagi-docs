@@ -1,0 +1,18 @@
+[book]
+authors = ["Marc LaFountain"]
+language = "en"
+multilingual = false
+src = "./src"
+title = "Kagi Search Docs"
+
+[build]
+create-missing = false
+
+[output.html]
+git-repository-url = "https://github.com/kagisearch/kagi-docs"
+site-url = "/kagi/"
+additional-css = ["patch.css"]
+fold = {enable = true, level= 0}
+
+[output.html.font]
+enable = false

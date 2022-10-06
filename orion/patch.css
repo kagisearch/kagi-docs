@@ -1,0 +1,39 @@
+/*
+ * NOTE(z64): This file is some simple tweaks that make these pages better
+ * for API documentation for day 1.
+ *
+ * If we do a full-on branding of these pages, this should *not* be done
+ * by additional-css files: the better place to start would be overriding
+ * the default mdbook css files.
+ *
+ * See: https://rust-lang.github.io/mdBook/format/theme/index.html
+ */
+
+/* Disable horizontal centering of tables from general.css */
+table {
+  margin: unset;
+}
+
+/*
+ * We currently "abuse" chapters so we can get collapseable sections.
+ * To make them clickable, we make the top-level items in SUMMARY.md
+ * link to the first item. However, this means when you click the
+ * top-level item, both the top-level item and the child will be
+ * highlighted as "active". This fixes that.
+ */
+ol.chapter > li.chapter-item.expanded a.active {
+  color: var(--sidebar-fg);
+}
+
+
+.menu-title {
+  display:none;
+}
+
+html {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  font-size: 1.8rem;
+}

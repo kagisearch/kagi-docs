@@ -1,0 +1,9 @@
+steps:
+  - name: us-central1-docker.pkg.dev/kagi-global/kagi-mdbook/mdbook:latest
+    args:
+      - '$_SERVICE'
+    id: Push
+options:
+  substitutionOption: ALLOW_LOOSE
+substitutions:
+  _SERVICE: orion

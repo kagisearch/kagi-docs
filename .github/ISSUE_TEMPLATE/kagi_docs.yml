@@ -1,0 +1,22 @@
+name: Kagi Search Documentation Issue
+description: Report an issue with the Kagi Search documentation contents or website (Errors, inaccuracies, bugs..)
+labels: ["product:kagi_search", "status:needs_review"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please [search existing issues](https://github.com/kagisearch/kagi-docs/issues?q=is%3Aissue+label%3Aproduct%3Akagi_search)"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Relevant Page(s)
+      description: Links to the relevant sections of documentation to your issue.
+      value: "https://docs.kagi.com/kagi"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a clear and concise description of what the problem is.
+    validations:
+      required: true
