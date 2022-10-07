@@ -15,7 +15,7 @@
 - [Why Pay for Search](articles/why-kagi/why-pay.md)
 - [Kagi vs. The Competition](articles/why-kagi/kagi-vs-competition.md)
 - [Kagi vs. Google](articles/why-kagi/kagi-vs-google.md)
-- [Kagi vs. DuclDuckGo](articles/why-kagi/kagi-vs-duckduckgo.md)
+- [Kagi vs. DuckDuckGo](articles/why-kagi/kagi-vs-duckduckgo.md)
 - [Kagi vs. Brave Search](articles/why-kagi/kagi-vs-brave.md)
 
 # About Kagi
