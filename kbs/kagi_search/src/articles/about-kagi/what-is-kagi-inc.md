@@ -8,7 +8,7 @@ Kagi is currently [Kagi Search](https://kagi.com), a fast, private search engine
 > 
 > —Vladimir Prelovac
   
-Our company is based in the San Francisco Bay Area and is being built by a fully-remote team. Our team is small, like “feed with two pizzas” small. Of course, it’d be tricky to deliver those slices across 16 timezones, because our team is that remote.
+Our company is based in the San Francisco Bay Area and our products are being built by a fully-remote team. Our team is small, like “feed with two pizzas” small. Of course, it’d be tricky to deliver those slices across 16 timezones, because our team is that remote.
 
 We are not affiliated with the legendary Kagi shareware payments platform. That Kagi went bankrupt in an unfortunate turn of events. We liked the name and acquired it when we got the chance.
   
