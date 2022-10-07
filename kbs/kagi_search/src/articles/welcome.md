@@ -10,5 +10,5 @@ You can access our documentation in several ways:
 - Click or tap the magnifying glass icon at the top of the screen and do a search.
 - Use the **!help** [bang](/articles/features/bangs.md) in Kagi Search. For example, searching in Kagi for [!help setting default search engine](https://kagi.com/search?q=!help%20setting%20default%20search%20engine) will show you results containing our default search documentation.
  
-
+Feedback about this Kagi Search documentation can be shared on our [Discord Server](https://kagi.com/discord) in the **\#documentation** channel. We would love to hear your thoughts on anything we can fix or improve.
 
