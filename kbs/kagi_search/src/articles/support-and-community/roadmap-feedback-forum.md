@@ -1,8 +1,8 @@
 # Product Roadmap & Feedback Forum
 
-You can view our [Product Roadmap](https://kagifeedback.org/roadmap) to see the bug reports and feature requests we are discussing, reviewing, and planning to address.
+You can view our [Kagi Search Product Roadmap](https://kagifeedback.org/roadmap) to see the bug reports and feature requests we are discussing, reviewing, and planning to address.
 
-The Roadmap is part of our [feedback forum](https://kagifeedback.org), where you are welcome to submit bug reports and feature requests of your own. Our community drives the future product direction of Kagi Search and we hope you will become a part of it.
+The Roadmap is part of our [Kagi Search feedback forum](https://kagifeedback.org), where you are welcome to submit bug reports and feature requests of your own. Our community drives the future product direction of Kagi Search and we hope you will become a part of it.
 
 When reporting a bug, please give us as much detail as possible. This will help us understand the problem. Include information such as:
 
