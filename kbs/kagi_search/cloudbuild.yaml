@@ -6,4 +6,4 @@ steps:
 options:
   substitutionOption: ALLOW_LOOSE
 substitutions:
-  _SERVICE: kagi-search
+  _SERVICE: kagi_search
