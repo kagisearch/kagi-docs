@@ -1,0 +1,9 @@
+steps:
+  - name: gcr.io/cloud-builders/docker
+      args:
+        - '$_SERVICE'
+      id: Push
+options:
+  substitutionOption: ALLOW_LOOSE
+substitutions:
+  _SERVICE: kagi-search
