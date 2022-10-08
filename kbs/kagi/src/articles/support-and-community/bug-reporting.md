@@ -45,11 +45,11 @@ Sometimes there are a few things you can do to help us narrow down certain issue
 
 1. Open the Control Center in the upper-right corner of any page
 
-![Control Center button location](/media/bug-reporting/control-center-location.png)
+![Control Center button location](../../media/bug-reporting/control-center-location.png)
 
 2. Find the dropdown that says "Country/Region". Here, "United States" is the current region.
 
-![Search region and node location](/media/bug-reporting/region-and-node.png)
+![Search region and node location](../../media/bug-reporting/region-and-node.png)
 
 3. At the bottom, you will see "Connected to: US-EAST". Here, "US-EAST" is the current Kagi node.
 
