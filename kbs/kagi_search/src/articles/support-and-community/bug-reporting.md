@@ -37,8 +37,8 @@ Sometimes there are a few things you can do to help us narrow down certain issue
 - Logging out & logging back in
 - Waiting for some time, then trying again
 
-<a name="FAQs"></a>
-## Frequently Asked Questions (FAQs)
+<a name="common_questions"></a>
+## Common Questions
 
 <a name="find_region_node"></a>
 ### How do I find my search region and "Kagi node"?
