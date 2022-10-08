@@ -1,5 +1,5 @@
 steps:
-  - name: gcr.io/cloud-builders/docker
+  - name: us-central1-docker.pkg.dev/kagi-global/kagi-mdbook/mdbook:latest
     args:
       - '$_SERVICE'
     id: Push
