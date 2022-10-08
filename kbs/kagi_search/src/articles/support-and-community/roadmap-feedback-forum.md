@@ -4,11 +4,6 @@ You can view our [Kagi Search Product Roadmap](https://kagifeedback.org/roadmap)
 
 The Roadmap is part of our [Kagi Search feedback forum](https://kagifeedback.org), where you are welcome to submit bug reports and feature requests of your own. Our community drives the future product direction of Kagi Search and we hope you will become a part of it.
 
-When reporting a bug, please give us as much detail as possible. This will help us understand the problem. Include information such as:
-
-- Steps to reproduce the problem
-- Screenshots of what you are seeing
-- Operating system and version
-- Web browser and version
-- Any web browser extensions you are running and their versions
-- Any error messages from the console of your web browser
+- Please see our [Bug Reporting Guide](/articles/support-and-community/bug-reporting.md) for instructions on reporting issues.
+- All bugs and feature requests are encouraged to be posted on the forum, but you can also [email us](/articles/support-and-community/email-support.md).
+- You can also [join our Discord!](/articles/support-and-community/discord-server.md)

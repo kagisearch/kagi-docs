@@ -59,8 +59,9 @@
 # Support & Community
 
 - [Product Roadmap & Feedback Forum](articles/support-and-community/roadmap-feedback-forum.md)
-- [Discord Server](articles/support-and-community/discord-server.md)
+- [Reporting a Bug](articles/support-and-community/bug-reporting.md)
 - [Email Support](articles/support-and-community/email-support.md)
+- [Discord Server](articles/support-and-community/discord-server.md)
 
 # Technical Docs
 
