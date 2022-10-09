@@ -7,5 +7,4 @@ title = "Kagi Search Docs"
 
 [output.html]
 git-repository-url = "https://github.com/kagisearch/kagi-docs"
-edit-url-template = "https://github.com/kagisearch/kagi-docs/edit/main/kbs/kagi/src/{path}"
 site-url = "/kagi/"
