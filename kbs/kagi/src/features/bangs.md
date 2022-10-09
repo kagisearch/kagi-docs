@@ -17,4 +17,5 @@ Some of the more popular search bangs include:
 - **!m** for Kagi Maps
 - **!n** for Kagi News
 - **!v** for Kagi Videos
+- **!help**  to search this knowledge base for information about Kagi Search
 
