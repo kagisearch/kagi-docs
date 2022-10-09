@@ -1,1 +1,0 @@
-# Why Pay for Search

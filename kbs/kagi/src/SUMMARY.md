@@ -1,68 +1,68 @@
 # Summary
 
-[Welcome](articles/welcome.md)
+[Welcome](welcome.md)
 
 # Getting Started
 
-- [Quick Start](articles/getting-started/quick-start.md)
-- [Frequently Asked Questions](articles/getting-started/faqs.md)
-- [Search is in Public Beta](articles/getting-started/public-beta.md)
-- [Setting Kagi as Your Default Search Engine](articles/getting-started/setting-default.md)
-- [The Control Center](articles/getting-started/control-center.md)
+- [Quick Start](./getting-started/quick-start.md)
+- [Frequently Asked Questions](./getting-started/faqs.md)
+- [Search is in Public Beta](./getting-started/public-beta.md)
+- [Setting Kagi as Your Default Search Engine](./getting-started/setting-default.md)
+- [The Control Center](./getting-started/control-center.md)
 
 # Why Kagi
 
-- [Why Pay for Search](articles/why-kagi/why-pay.md)
-- [Kagi vs. The Competition](articles/why-kagi/kagi-vs-competition.md)
-- [Kagi vs. Google](articles/why-kagi/kagi-vs-google.md)
-- [Kagi vs. DuckDuckGo](articles/why-kagi/kagi-vs-duckduckgo.md)
-- [Kagi vs. Brave Search](articles/why-kagi/kagi-vs-brave.md)
+- [Why Pay for Search](./why-kagi/why-pay.md)
+- [Kagi vs. The Competition](./why-kagi/kagi-vs-competition.md)
+- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
+- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
+- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
 
 # About Kagi
 
-- [What is Kagi Inc.?](articles/about-kagi/what-is-kagi-inc.md)
-- [What Does "Kagi" Mean?](articles/about-kagi/kagi-meaning.md)
-- [Who is Kagi's Mascot?](articles/about-kagi/kagi-mascot.md)
-- [Why a "g" Logo?](articles/about-kagi/kagi-logo.md)
-- [Resources & Brand Assets](articles/about-kagi/kagi-assets.md)
-- [Working at Kagi](articles/about-kagi/hiring.md)
+- [What is Kagi Inc.?](./about-kagi/what-is-kagi-inc.md)
+- [What Does "Kagi" Mean?](./about-kagi/kagi-meaning.md)
+- [Who is Kagi's Mascot?](./about-kagi/kagi-mascot.md)
+- [Why a "g" Logo?](./about-kagi/kagi-logo.md)
+- [Resources & Brand Assets](./about-kagi/kagi-assets.md)
+- [Working at Kagi](./about-kagi/hiring.md)
 
 # Features
 
-- [Search Operators](articles/features/search-operators.md)
-- [Bangs](articles/features/bangs.md)
-- [Lenses](articles/features/lenses.md)
-- [Website Info & Personalized Results](articles/features/website-info-personalized-results.md)
-- [Filtering Results](articles/features/filtering-results.md)
-- [Settings](articles/features/settings.md)
-- [Turning Off Animations](articles/features/turning-off-animations.md)
-- [Customizing Kagi CSS](articles/features/custom-css.md)
+- [Search Operators](./features/search-operators.md)
+- [Bangs](./features/bangs.md)
+- [Lenses](./features/lenses.md)
+- [Website Info & Personalized Results](./features/website-info-personalized-results.md)
+- [Filtering Results](./features/filtering-results.md)
+- [Settings](./features/settings.md)
+- [Turning Off Animations](./features/turning-off-animations.md)
+- [Customizing Kagi CSS](./features/custom-css.md)
 
 # Privacy & Security
 
-- [Privacy Protection](articles/privacy-and-security/privacy-protection.md)
-- [Private Browser Sessions](articles/privacy-and-security/private-browser-sessions.md)
-- [Security](articles/privacy-and-security/security.md)
+- [Privacy Protection](./privacy-and-security/privacy-protection.md)
+- [Private Browser Sessions](./privacy-and-security/private-browser-sessions.md)
+- [Security](./privacy-and-security/security.md)
 
 # Search Details
 
-- [Search Sources](articles/search-details/search-sources.md)
-- [Search Quality](articles/search-details/search-quality.md)
-- [Search Speed](articles/search-details/search-speed.md)
+- [Search Sources](./search-details/search-sources.md)
+- [Search Quality](./search-details/search-quality.md)
+- [Search Speed](./search-details/search-speed.md)
 
 # Plans & Payment
 
-- [Plan Types](articles/plans-and-payment/plan-types.md)
-- [Premium Plan](articles/plans-and-payment/premium-plan.md)
-- [Deleting Your Account](articles/plans-and-payment/delete-account.md)
+- [Plan Types](./plans-and-payment/plan-types.md)
+- [Premium Plan](./plans-and-payment/premium-plan.md)
+- [Deleting Your Account](./plans-and-payment/delete-account.md)
 
 # Support & Community
 
-- [Product Roadmap & Feedback Forum](articles/support-and-community/roadmap-feedback-forum.md)
-- [Reporting a Bug](articles/support-and-community/bug-reporting.md)
-- [Email Support](articles/support-and-community/email-support.md)
-- [Discord Server](articles/support-and-community/discord-server.md)
+- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
+- [Reporting a Bug](./support-and-community/bug-reporting.md)
+- [Email Support](./support-and-community/email-support.md)
+- [Discord Server](./support-and-community/discord-server.md)
 
 # Technical Docs
 
-- [Kagi Rich Autosuggest](articles/technical-docs/kagi-rich-autosuggest.md)
+- [Kagi Rich Autosuggest](./technical-docs/kagi-rich-autosuggest.md)
