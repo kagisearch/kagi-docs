@@ -18,15 +18,6 @@
 - [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
 - [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
 
-# About Kagi
-
-- [What is Kagi Inc.?](./about-kagi/what-is-kagi-inc.md)
-- [What Does "Kagi" Mean?](./about-kagi/kagi-meaning.md)
-- [Who is Kagi's Mascot?](./about-kagi/kagi-mascot.md)
-- [Why a "g" Logo?](./about-kagi/kagi-logo.md)
-- [Resources & Brand Assets](./about-kagi/kagi-assets.md)
-- [Working at Kagi](./about-kagi/hiring.md)
-
 # Features
 
 - [Search Operators](./features/search-operators.md)
@@ -62,6 +53,15 @@
 - [Reporting a Bug](./support-and-community/bug-reporting.md)
 - [Email Support](./support-and-community/email-support.md)
 - [Discord Server](./support-and-community/discord-server.md)
+
+# About Kagi
+
+- [What is Kagi Inc.?](./about-kagi/what-is-kagi-inc.md)
+- [What Does "Kagi" Mean?](./about-kagi/kagi-meaning.md)
+- [Who is Kagi's Mascot?](./about-kagi/kagi-mascot.md)
+- [Why a "g" Logo?](./about-kagi/kagi-logo.md)
+- [Resources & Brand Assets](./about-kagi/kagi-assets.md)
+- [Working at Kagi](./about-kagi/hiring.md)
 
 # Technical Docs
 
