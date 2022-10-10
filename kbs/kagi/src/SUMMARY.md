@@ -62,7 +62,3 @@
 - [Why a "g" Logo?](./about-kagi/kagi-logo.md)
 - [Resources & Brand Assets](./about-kagi/kagi-assets.md)
 - [Working at Kagi](./about-kagi/hiring.md)
-
-# Technical Docs
-
-- [Kagi Rich Autosuggest](./technical-docs/kagi-rich-autosuggest.md)
