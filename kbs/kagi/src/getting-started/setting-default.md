@@ -9,6 +9,8 @@
     - [Desktop](#chromium_desktop)
     - [Mobile](#chromium_mobile)
   - [Firefox-Based Browsers](#firefox_browsers)
+    - [Desktop](#firefox_desktop)
+    - [Mobile](#firefox_mobile)
   - [Safari](#safari)
     - [Desktop](#safari_desktop)
     - [iOS & iPadOS](#safari_ios_ipados)
@@ -76,6 +78,9 @@ You can configure your web browser manually to use Kagi as its default search en
 <a name="firefox_browsers"></a>
 ### Firefox-Based Browsers
 
+<a name="firefox_desktop"></a>
+#### Desktop
+
 1. Open [https://kagi.com](https://kagi.com), then right-click the browser address/search bar and select **Add Kagi Search**.
 2. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
 3. Scroll to **Default Search Engine** and select **Kagi** from the dropdown.
@@ -86,6 +91,22 @@ To set up a private session link in Firefox, use [this extension](https://addons
 <img src="media/kagi_default_firefox1.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 1">
 
 <img src="media/kagi_default_firefox2.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 2">
+
+<a name="firefox_mobile"></a>
+#### Mobile
+
+1. Tap the three-dot menu button.
+
+<img src="media/firefox_android.png" width="300" alt="Firefox Android Menu Button">
+
+2. Tap **Settings**.
+3. In the **General** section, tap **Search**.
+4. Tap **Add search engine**.
+5. A list of additional predefined search engines will be displayed.
+6. Tap the **Other** radio button to add a search engine and do the following:
+  - in the **Name** field, enter **Kagi**.
+  - In the **Search string to use** field, enter **https://kagi.com/search?q=%s**
+  - Tap the confirmation button at the top right corner of the screen.
 
 <a name="safari"></a>
 ### Safari
