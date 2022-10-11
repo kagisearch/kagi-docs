@@ -10,7 +10,7 @@
     - [Mobile](#chromium_mobile)
   - [Firefox-Based Browsers](#firefox_browsers)
     - [Desktop](#firefox_desktop)
-    - [Mobile](#firefox_mobile)
+    - [Android Mobile](#firefox_android_mobile)
   - [Safari](#safari)
     - [Desktop](#safari_desktop)
     - [iOS & iPadOS](#safari_ios_ipados)
@@ -92,8 +92,8 @@ To set up a private session link in Firefox, use [this extension](https://addons
 
 <img src="media/kagi_default_firefox2.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 2">
 
-<a name="firefox_mobile"></a>
-#### Mobile
+<a name="firefox_android_mobile"></a>
+#### Android Mobile
 
 1. Tap the three-dot menu button.
 
