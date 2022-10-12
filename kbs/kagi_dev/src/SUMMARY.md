@@ -7,8 +7,8 @@
 - [Overview](search_api/overview.md)
 
 - [Making Requests](search_api/making_requests/index.md)
-  - [Base API URL](search_api/making_requests/api_url.md)
   - [Authentication](search_api/making_requests/auth.md)
+  - [Base API URL](search_api/making_requests/api_url.md)
   - [Response Format](search_api/making_requests/response_format.md)
   - [Image Proxy URLs](search_api/making_requests/image_proxy_urls.md)
 
