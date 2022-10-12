@@ -1,0 +1,12 @@
+[book]
+authors = ["Zac Nowicki"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kagi Developer Documentation"
+
+[output.html]
+git-repository-url = "https://github.com/kagisearch/kagi-docs"
+edit-url-template = "https://github.com/kagisearch/kagi-docs/edit/main/kbs/kagi_dev/{path}"
+site-url = "/kagi_dev/"
+additional-css = ["patch.css"]
