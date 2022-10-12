@@ -7,6 +7,8 @@ with a note:
 
 > This is a **PAID** endpoint.
 
-## Searching the Web
+## Endpoint Categories
+
+### Searching the Web
 
 - [Execute Search](execute_search.md)
