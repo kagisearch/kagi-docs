@@ -13,8 +13,8 @@ and will be added to the documentation below as features become available.
 
 Use at your own risk, but please reach out to us if you have any questions.
 
-See the [Support](#support) and [Contributing](#contributing) sections for
-details.
+See the [Support](../welcome.md#support) and [Contributing](../welcome.md#contributing)
+sections for details.
 
 ## API Usage Billing
 
