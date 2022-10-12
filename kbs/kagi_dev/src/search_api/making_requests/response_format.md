@@ -18,9 +18,9 @@ error | array  | [Error](objects.md##error-object), if an error occured
 ## Examples
 
 <details>
-<summary>Full successful response object</summary>
+<summary>Successful response object</summary>
 
-From the [Execute Search]() endpoint:
+From the [Execute Search](../endpoints/making_requests.md) endpoint:
 
 ```json
 {
@@ -43,6 +43,30 @@ From the [Execute Search]() endpoint:
       "url": "https://browser.kagi.com",
       "title": "Orion Browser by Kagi",
       "snippet": "Incredible performance. Total Protection.",
+    }
+  ]
+}
+```
+</details>
+
+<details>
+<summary>Error response object</summary>
+
+From the [Execute Search](../endpoints/making_requests.md) endpoint:
+
+```json
+{
+  "meta": {
+    "id": "bcbf11d2-1afa-4e72-a0ee-2d9079d1d332",
+    "node": "us-east",
+    "ms": 0
+  },
+  "data": null,
+  "error": [
+    {
+      "code": 1,
+      "msg": "Missing q parameter",
+      "ref": null
     }
   ]
 }
