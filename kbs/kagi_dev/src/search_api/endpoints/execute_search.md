@@ -29,7 +29,7 @@ curl -v -H "Authorization: Bot $TOKEN" https://kagi.com/api/v0/search\?q=steve+j
 {
   "meta": {
     "id": "f82bee15-ae0b-4b32-9a9e-05490fe3a8e4",
-    "node": "local",
+    "node": "us-east",
     "ms": 600
   },
   "data": [
