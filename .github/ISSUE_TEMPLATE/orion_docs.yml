@@ -1,0 +1,22 @@
+name: Orion Documentation Issue
+description: Report an issue with the Orion documentation contents or website (Errors, inaccuracies, bugs..)
+labels: ["product:orion", "status:needs_review"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please [search existing issues](https://github.com/kagisearch/kagi-docs/issues?q=is%3Aissue+label%3Akind%3Abug+label%3Aproduct%3Akagi_search_api)"
+  - type: textarea
+    id: steps
+    attributes:
+      label: Relevant Page(s)
+      description: Links to the relevant sections of documentation to your issue.
+      value: "https://docs.kagi.com/orion"
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a clear and concise description of what the problem is.
+    validations:
+      required: true
