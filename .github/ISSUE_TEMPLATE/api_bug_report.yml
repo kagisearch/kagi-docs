@@ -1,0 +1,35 @@
+name: Kagi Search API Bug Report
+description: Report a bug found in the Kagi Search API.
+labels: ["product:kagi_search_api", "kind:bug", "status:needs_review"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please [search existing issues](https://github.com/kagisearch/kagi-docs/issues?q=is%3Aissue+label%3Aproduct%3Akagi_search_api)"
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a clear and concise description of what the problem is.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Include specific cURL requests that we can copy and paste to replicate your issue. Provide specific, clear, and concise steps for us to reliably reproduce this issue. Do not include your API token or any other sensitive information!
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What is the behavior you expect to occur that is not?
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current Behavior
+      description: What is the behavior you are currently seeing instead?
+    validations:
+      required: true
