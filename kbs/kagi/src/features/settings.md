@@ -15,11 +15,11 @@
 <a name="accessing_settings"></a>
 ## Accessing Settings
 
-You can configure the Settings for Kagi Search from the [Control Center](../getting-started/control-center.md). You access the Control Center using the icon in the upper right corner of any kagi.com webpage:
+You can configure the Settings for Kagi Search from the [Control Center](../getting-started/control-center.md). You access the Control Center using the icon in the upper-right corner of any kagi.com webpage:
 
 <img src="media/control_center_icon.png" width="400" alt="Control Center Icon"><br />
 
-Use the **[All Settings](https://kagi.com/settings)** button in the lower right of the Control Center panel to view your Settings.
+Use the **[All Settings](https://kagi.com/settings)** button in the lower-right of the Control Center panel to view your Settings.
 
 <img src="media/control_center_panel.png" width="400" alt="Control Center Panel"><br />
 
