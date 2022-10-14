@@ -1,5 +1,7 @@
 [Welcome](welcome.md)
 
+---
+
 - [Company](./about-kagi/history.md)
 	- [History](./about-kagi/history.md)
 	- [Name](./about-kagi/kagi-meaning.md)
@@ -12,6 +14,7 @@
 - [Support & Community](./support-and-community/roadmap-feedback-forum.md)
 	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
 	- [Reporting a Bug](./support-and-community/bug-reporting.md)
+	- [Public Beta](./getting-started/public-beta.md)	
 	- [Email Support](./support-and-community/email-support.md)
 	- [Discord Server](./support-and-community/discord-server.md)
 	- [Blog](./support-and-community/blog.md)
@@ -21,9 +24,10 @@
 - [Getting Started](./getting-started/quick-start.md)
 	- [Quick Start](./getting-started/quick-start.md)
 	- [Frequently Asked Questions](./getting-started/faqs.md)
-	- [Search is in Public Beta](./getting-started/public-beta.md)
 	- [Setting Kagi as Your Default Search Engine](./getting-started/setting-default.md)
-	- [The Control Center](./getting-started/control-center.md)
+	- [Plans & Payment](./plans-and-payment/plan-types.md)
+		- [Plan Types](./plans-and-payment/plan-types.md)
+		- [Premium Plan](./plans-and-payment/premium-plan.md)
 
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
@@ -31,7 +35,6 @@
 	- [Lenses](./features/lenses.md)
 	- [Website Info & Personalized Results](./features/website-info-personalized-results.md)
 	- [Filtering Results](./features/filtering-results.md)
-	- [Settings](./features/settings.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
 
@@ -40,14 +43,14 @@
 	- [Private Browser Sessions](./privacy-and-security/private-browser-sessions.md)
 	- [Security](./privacy-and-security/security.md)
 
-- [Search Details](./search-details/search-sources.md)
-	- [Search Sources](./search-details/search-sources.md)
-	- [Search Quality](./search-details/search-quality.md)
-	- [Search Speed](./search-details/search-speed.md)
+- [Results](./search-details/search-sources.md)
+	- [Sources](./search-details/search-sources.md)
+	- [Quality](./search-details/search-quality.md)
+	- [Speed](./search-details/search-speed.md)
 
-- [Plans & Payment](./plans-and-payment/plan-types.md)
-	- [Plan Types](./plans-and-payment/plan-types.md)
-	- [Premium Plan](./plans-and-payment/premium-plan.md)
+- [Settings](./features/settings.md)
+	- [Settings](./features/settings.md)
+	- [The Control Center](./getting-started/control-center.md)
 	- [Deleting Your Account](./plans-and-payment/delete-account.md)
 
 - [For Developers](search-api/overview.md)

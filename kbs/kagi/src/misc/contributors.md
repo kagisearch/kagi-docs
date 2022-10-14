@@ -8,6 +8,8 @@ Thank you!
 - Marc
 - Zac
 - Seth
+- Alex Aidun
+- Liam 
 - Vladimir Prelovac ([vprelovac](https://github.com/vprelovac))
 
 If you feel you're missing from this list, feel free to add yourself in a PR.
