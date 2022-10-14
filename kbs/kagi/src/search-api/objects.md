@@ -29,9 +29,6 @@ t     | Type
 ------|-------------------------------
 0     | [Search Result](#search-result)
 1     | [Related Searches](#related-searches)
-2     | [Instant Answer](#instant-answer)
-3     | [Domain Info](#domain-info)
-4     | [Infobox](#infobox)
 
 ### Search Result
 
