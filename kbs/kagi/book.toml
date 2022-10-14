@@ -5,6 +5,9 @@ multilingual = false
 src = "./src"
 title = "Kagi Search Docs"
 
+[build]
+create-missing = false
+
 [output.html]
 git-repository-url = "https://github.com/kagisearch/kagi-docs"
 site-url = "/kagi/"
