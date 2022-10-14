@@ -1,6 +1,7 @@
 [Welcome](welcome.md)
 
 ---
+# About
 
 - [Company](./about-kagi/history.md)
 	- [History](./about-kagi/history.md)
@@ -20,6 +21,8 @@
 	- [Blog](./support-and-community/blog.md)
 	- [Open Source](./support-and-community/open-source.md)
 	- [Share with Friends and Family](./support-and-community/share-kagi.md)
+
+# User Guide
 
 - [Getting Started](./getting-started/quick-start.md)
 	- [Quick Start](./getting-started/quick-start.md)
@@ -53,26 +56,27 @@
 	- [The Control Center](./getting-started/control-center.md)
 	- [Deleting Your Account](./plans-and-payment/delete-account.md)
 
-- [For Developers](search-api/overview.md)
-  - [Overview](search-api/overview.md)
-  - [API Version](search-api/api-version.md)
-
-  - [Making Requests](search-api/making-requests/index.md)
-    - [Authentication](search-api/making-requests/auth.md)
-    - [Base API URL](search-api/making-requests/api-url.md)
-    - [Response Format](search-api/making-requests/response-format.md)
-    - [Image Proxy URLs](search-api/making-requests/image-proxy_urls.md)
-
-  - [Objects](search-api/objects.md)
-  - [Endpoints](search-api/endpoints/index.md)
-    - [Execute Search](search-api/endpoints/execute-search.md)
-
 - [Frequently Asked Questions](./why-kagi/why-pay.md)
 	- [Why Pay for Search](./why-kagi/why-pay.md)
 	- [Kagi vs. The Competition](./why-kagi/kagi-vs-competition.md)
 	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
 	- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
 	- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
+
+# Developers
+
+- [Kagi API](search-api/overview.md)
+  - [Overview](search-api/overview.md)
+  - [API Version](search-api/api-version.md)
+  - [Making Requests](search-api/making-requests/index.md)
+    - [Authentication](search-api/making-requests/auth.md)
+    - [Base API URL](search-api/making-requests/api-url.md)
+    - [Response Format](search-api/making-requests/response-format.md)
+    - [Image Proxy URLs](search-api/making-requests/image-proxy_urls.md)
+  - [Objects](search-api/objects.md)
+  - [Endpoints](search-api/endpoints/index.md)
+    - [Execute Search](search-api/endpoints/execute-search.md)
+
 
 ---
 
