@@ -3,14 +3,14 @@
 ---
 # About
 
-- [Company](./about-kagi/history.md)
-	- [History](./about-kagi/history.md)
-	- [Name](./about-kagi/kagi-meaning.md)
-	- [Mascot](./about-kagi/kagi-mascot.md)
-	- [Logo](./about-kagi/kagi-logo.md)
-	- [Assets](./about-kagi/kagi-assets.md)
-	- [Working at Kagi](./about-kagi/hiring.md)
-	- [Contact Us](./about-kagi/contact.md)
+- [Company](./company/index.md)
+	- [History](./company/index.md)
+	- [Name](./company/meaning.md)
+	- [Mascot](./company/mascot.md)
+	- [Logo](./company/logo.md)
+	- [Assets](./company/assets.md)
+	- [Working at Kagi](./company/hiring.md)
+	- [Contact Us](./company/contact.md)
 
 - [Support & Community](./support-and-community/roadmap-feedback-forum.md)
 	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
@@ -24,8 +24,8 @@
 
 # User Guide
 
-- [Getting Started](./getting-started/quick-start.md)
-	- [Quick Start](./getting-started/quick-start.md)
+- [Getting Started](./getting-started/index.md)
+	- [Quick Start](./getting-started/index.md)
 	- [Frequently Asked Questions](./getting-started/faqs.md)
 	- [Setting Kagi as Your Default Search Engine](./getting-started/setting-default.md)
 	- [Plans & Payment](./plans-and-payment/plan-types.md)
@@ -41,22 +41,22 @@
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
 
-- [Privacy & Security](./privacy-and-security/privacy-protection.md)
-	- [Privacy Protection](./privacy-and-security/privacy-protection.md)
-	- [Private Browser Sessions](./privacy-and-security/private-browser-sessions.md)
-	- [Security](./privacy-and-security/security.md)
-
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
 	- [Quality](./search-details/search-quality.md)
 	- [Speed](./search-details/search-speed.md)
 
+- [Privacy & Security](./privacy-and-security/privacy-protection.md)
+	- [Privacy Protection](./privacy-and-security/privacy-protection.md)
+	- [Private Browser Sessions](./privacy-and-security/private-browser-sessions.md)
+	- [Security](./privacy-and-security/security.md)
+
 - [Settings](./features/settings.md)
 	- [Settings](./features/settings.md)
 	- [The Control Center](./getting-started/control-center.md)
-	- [Deleting Your Account](./plans-and-payment/delete-account.md)
+	- [Deleting Your Account](./plans-and-payment/delete-account.md)	
 
-- [Frequently Asked Questions](./why-kagi/why-pay.md)
+- [F.A.Q.](./why-kagi/why-pay.md)
 	- [Why Pay for Search](./why-kagi/why-pay.md)
 	- [Kagi vs. The Competition](./why-kagi/kagi-vs-competition.md)
 	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
