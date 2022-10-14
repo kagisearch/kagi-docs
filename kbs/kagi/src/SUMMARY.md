@@ -14,6 +14,9 @@
 	- [Reporting a Bug](./support-and-community/bug-reporting.md)
 	- [Email Support](./support-and-community/email-support.md)
 	- [Discord Server](./support-and-community/discord-server.md)
+	- [Blog](./support-and-community/blog.md)
+	- [Open Source](./support-and-community/open-source.md)
+	- [Share with Friends and Family](./support-and-community/share-kagi.md)
 
 - [Getting Started](./getting-started/quick-start.md)
 	- [Quick Start](./getting-started/quick-start.md)
@@ -47,7 +50,7 @@
 	- [Premium Plan](./plans-and-payment/premium-plan.md)
 	- [Deleting Your Account](./plans-and-payment/delete-account.md)
 
-- [Search API](search-api/overview.md)
+- [For Developers](search-api/overview.md)
   - [Overview](search-api/overview.md)
   - [API Version](search-api/api-version.md)
 
@@ -67,10 +70,6 @@
 	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
 	- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
 	- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
-
-
-
-
 
 ---
 
