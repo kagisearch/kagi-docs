@@ -32,7 +32,7 @@ with a note:
 If you have issues or questions with the Search API, you can get assistance
 in a few ways:
 
-### [Q&A Forum](https://github.com/kagisearch/kagi-docs/discussions/categories/q-a?discussions_q=category%3AQ%26A+label%3Adocs%3Asearch_api)
+### [Q&A Forum](https://github.com/kagisearch/kagi-docs/discussions/categories/kagi-search-api-feature-requests-ideas)
 
 This is the preferred venue for bug reports and feature requests.
 

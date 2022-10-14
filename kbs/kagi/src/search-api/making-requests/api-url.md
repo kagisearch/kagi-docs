@@ -8,7 +8,7 @@ https://kagi.com/api/$VERSION
 
 Where `$VERSION` is a [listed active API version](../api-version.md).
 
-For example, the full URL for the [Execute Search](endpoints/execute-search.md)
+For example, the full URL for the [Execute Search](../endpoints/execute-search.md)
 endpoint is:
 
 ```
