@@ -32,9 +32,13 @@ with a note:
 If you have issues or questions with the Search API, you can get assistance
 in a few ways:
 
-### [Q&A Forum](https://github.com/kagisearch/kagi-docs/discussions/categories/kagi-search-api-feature-requests-ideas)
+### GitHub Discussions
 
 This is the preferred venue for bug reports and feature requests.
+
+- [Bug Reports](https://github.com/kagisearch/kagi-docs/issues/new/choose)
+- [Q&A Forum](https://github.com/kagisearch/kagi-docs/discussions/categories/q-a?discussions_q=category%3AQ%26A+label%3Aproduct%3Akagi_search_api)
+- [API Feature Requests](https://github.com/kagisearch/kagi-docs/discussions/categories/kagi-search-api-feature-requests-ideas)
 
 ### [Discord](https://kagi.com/discord)
 
