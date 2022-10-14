@@ -9,7 +9,7 @@
 	- [Setting Kagi as Your Default Search Engine](./getting-started/setting-default.md)
 	- [The Control Center](./getting-started/control-center.md)
 
-- [Frequently asked Questions]()
+- [Frequently asked Questions](./why-kagi/why-pay.md)
 	- [Why Pay for Search](./why-kagi/why-pay.md)
 	- [Kagi vs. The Competition](./why-kagi/kagi-vs-competition.md)
 	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
