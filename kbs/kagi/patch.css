@@ -24,3 +24,8 @@ table {
 ol.chapter > li.chapter-item.expanded a.active {
   color: var(--fg);
 }
+
+
+.menu-title {
+  display:none;
+}

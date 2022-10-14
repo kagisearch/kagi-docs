@@ -3,3 +3,6 @@ book/
 
 # Ignoring .DS_Store
 .DS_Store
+
+# Temp files
+*~

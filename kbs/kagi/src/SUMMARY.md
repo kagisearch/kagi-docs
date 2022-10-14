@@ -1,6 +1,19 @@
-# Summary
-
 [Welcome](welcome.md)
+
+- [Company](./about-kagi/history.md)
+	- [History](./about-kagi/history.md)
+	- [Name](./about-kagi/kagi-meaning.md)
+	- [Mascot](./about-kagi/kagi-mascot.md)
+	- [Logo](./about-kagi/kagi-logo.md)
+	- [Assets](./about-kagi/kagi-assets.md)
+	- [Working at Kagi](./about-kagi/hiring.md)
+	- [Contact Us](./about-kagi/contact.md)
+
+- [Support & Community](./support-and-community/roadmap-feedback-forum.md)
+	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
+	- [Reporting a Bug](./support-and-community/bug-reporting.md)
+	- [Email Support](./support-and-community/email-support.md)
+	- [Discord Server](./support-and-community/discord-server.md)
 
 - [Getting Started](./getting-started/quick-start.md)
 	- [Quick Start](./getting-started/quick-start.md)
@@ -8,17 +21,6 @@
 	- [Search is in Public Beta](./getting-started/public-beta.md)
 	- [Setting Kagi as Your Default Search Engine](./getting-started/setting-default.md)
 	- [The Control Center](./getting-started/control-center.md)
-
-- [Frequently asked Questions](./why-kagi/why-pay.md)
-	- [Why Pay for Search](./why-kagi/why-pay.md)
-	- [Kagi vs. The Competition](./why-kagi/kagi-vs-competition.md)
-	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
-	- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
-	- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
-	- [What Does "Kagi" Mean?](./about-kagi/kagi-meaning.md)
-	- [Who is Kagi's Mascot?](./about-kagi/kagi-mascot.md)
-	- [Why a "g" Logo?](./about-kagi/kagi-logo.md)
-
 
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
@@ -59,13 +61,17 @@
   - [Endpoints](search-api/endpoints/index.md)
     - [Execute Search](search-api/endpoints/execute-search.md)
 
-- [Support & Community](./support-and-community/roadmap-feedback-forum.md)
-	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
-	- [Reporting a Bug](./support-and-community/bug-reporting.md)
-	- [Email Support](./support-and-community/email-support.md)
-	- [Discord Server](./support-and-community/discord-server.md)
+- [Frequently Asked Questions](./why-kagi/why-pay.md)
+	- [Why Pay for Search](./why-kagi/why-pay.md)
+	- [Kagi vs. The Competition](./why-kagi/kagi-vs-competition.md)
+	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
+	- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
+	- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
 
-- [About](./about-kagi/what-is-kagi-inc.md)
-	- [What is Kagi Inc.?](./about-kagi/what-is-kagi-inc.md)
-	- [Resources & Brand Assets](./about-kagi/kagi-assets.md)
-	- [Working at Kagi](./about-kagi/hiring.md)
+
+
+
+
+---
+
+[Contributors](misc/contributors.md)

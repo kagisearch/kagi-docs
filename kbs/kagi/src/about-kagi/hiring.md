@@ -1,4 +1,4 @@
-# Working at Kagi
+# Working on Kagi Search
 
 - Do you have advanced Crystal (backend) and/or vanilla JavaScript (frontend) knowledge?
 - Can you solve difficult problems and code exceptionally well? (We’ll send a test project.)

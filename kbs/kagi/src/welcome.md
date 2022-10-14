@@ -1,8 +1,6 @@
-# Welcome to Kagi Search Docs!
+# Welcome to Kagi Search Help!
 
-Kagi is a lightning-fast, user-centric, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches. We're glad you're here!
-
-If you're new to Kagi Search, our [Quick Start](./getting-started/quick-start.md) and [FAQs](./getting-started/faqs.md) are great places to begin.
+Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](./getting-started/quick-start.md) and [FAQs](./getting-started/faqs.md) are great places to begin. If you can’t find an answer to your Kagi question, [ask the community](https://kagi.com/discord)!
 
 You can access our documentation in several ways:
 
@@ -12,10 +10,16 @@ You can access our documentation in several ways:
  
 Feedback about this Kagi Search documentation can be shared on our [Discord Server](https://kagi.com/discord) in the **\#documentation** channel. We would love to hear your thoughts on anything we can fix or improve.
 
+
+## About Kagi Search
+
+Kagi is a lightning-fast, user-centric, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches. We're glad you're here!
+
 ## Contributing
 
-This documentation is open source at our [Kagi Docs](https://github.com/kagisearch/kagi-docs)
-repo.
+This documentation is open source at our [Kagi Docs](https://github.com/kagisearch/kagi-docs) repo.
 
 We gladly welcome any fixes & improvements! Please see our [contribution guide](https://github.com/kagisearch/kagi-docs#contributing)
 before making a Pull Request.
+
+Once your contributions are accepted, make sure too add yourself to the list of [Contributors](./misc/contributors.md). Thank you!
