@@ -13,3 +13,14 @@
 table {
   margin: unset;
 }
+
+/*
+ * We currently "abuse" chapters so we can get collapseable sections.
+ * To make them clickable, we make the top-level items in SUMMARY.md
+ * link to the first item. However, this means when you click the
+ * top-level item, both the top-level item and the child will be
+ * highlighted as "active". This fixes that.
+ */
+ol.chapter > li.chapter-item.expanded a.active {
+  color: var(--fg);
+}
