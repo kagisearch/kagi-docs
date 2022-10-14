@@ -22,7 +22,6 @@ This repo serves documentation for multiple products developed by Kagi.
 Product | Documentation         | Repo Directory
 --------|-----------------------|----------------
 [Kagi Search](https://kagi.com) | https://docs.kagi.com/kagi | [kbs/kagi](https://github.com/kagisearch/kagi-docs/tree/main/kbs/kagi)
-Kagi Developer Documentation | https://docs.kagi.com/kagi_dev | [kbs/kagi_dev](https://github.com/kagisearch/kagi-docs/tree/main/kbs/kagi_dev)
 [Orion Browser](https://browser.kagi.com) | *Coming Soon* | *Coming Soon*
 
 Our documentation efforts are ongoing! We welcome your feedback and 
