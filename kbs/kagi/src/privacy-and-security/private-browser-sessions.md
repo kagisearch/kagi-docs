@@ -8,6 +8,6 @@ A Session Link is a special Kagi URL that contains a "login token." You can use 
 
 Because a Session Link provides access to your Kagi account, it should always be kept private. Never share your Session Link with others.
 
-A Session Link is attached to the Kagi session it was copied from. You can Sign Out of that Kagi session if you need to invalidate the Session Link for any reason. Click the icon in the upper right corner of a kagi.com webpage to open the Control Center. Then, use the **Sign Out** button in the lower right corner of the screen.
+A Session Link is attached to the Kagi session it was copied from. You can Sign Out of that Kagi session if you need to invalidate the Session Link for any reason. Click the icon in the upper-right corner of a kagi.com webpage to open the Control Center. Then, use the **Sign Out** button in the lower-right corner of the screen.
 
 <img src="media/sign_out.png" width="300" alt="Sign Out"><br />

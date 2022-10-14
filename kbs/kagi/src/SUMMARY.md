@@ -2,7 +2,7 @@
 
 [Welcome](welcome.md)
 
-- [Getting Started]()
+- [Getting Started](./getting-started/quick-start.md)
 	- [Quick Start](./getting-started/quick-start.md)
 	- [Frequently Asked Questions](./getting-started/faqs.md)
 	- [Search is in Public Beta](./getting-started/public-beta.md)
@@ -20,7 +20,7 @@
 	- [Why a "g" Logo?](./about-kagi/kagi-logo.md)
 
 
-- [Features]()
+- [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
 	- [Bangs](./features/bangs.md)
 	- [Lenses](./features/lenses.md)
@@ -30,29 +30,42 @@
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
 
-- [Privacy & Security]()
+- [Privacy & Security](./privacy-and-security/privacy-protection.md)
 	- [Privacy Protection](./privacy-and-security/privacy-protection.md)
 	- [Private Browser Sessions](./privacy-and-security/private-browser-sessions.md)
 	- [Security](./privacy-and-security/security.md)
 
-- [Search Details]()
+- [Search Details](./search-details/search-sources.md)
 	- [Search Sources](./search-details/search-sources.md)
 	- [Search Quality](./search-details/search-quality.md)
 	- [Search Speed](./search-details/search-speed.md)
 
-- [Plans & Payment]()
+- [Plans & Payment](./plans-and-payment/plan-types.md)
 	- [Plan Types](./plans-and-payment/plan-types.md)
 	- [Premium Plan](./plans-and-payment/premium-plan.md)
 	- [Deleting Your Account](./plans-and-payment/delete-account.md)
 
-- [Support & Community]()
+- [Search API](search-api/overview.md)
+  - [Overview](search-api/overview.md)
+  - [API Version](search-api/api-version.md)
+
+  - [Making Requests](search-api/making-requests/index.md)
+    - [Authentication](search-api/making-requests/auth.md)
+    - [Base API URL](search-api/making-requests/api-url.md)
+    - [Response Format](search-api/making-requests/response-format.md)
+    - [Image Proxy URLs](search-api/making-requests/image-proxy_urls.md)
+
+  - [Objects](search-api/objects.md)
+  - [Endpoints](search-api/endpoints/index.md)
+    - [Execute Search](search-api/endpoints/execute-search.md)
+
+- [Support & Community](./support-and-community/roadmap-feedback-forum.md)
 	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
 	- [Reporting a Bug](./support-and-community/bug-reporting.md)
 	- [Email Support](./support-and-community/email-support.md)
 	- [Discord Server](./support-and-community/discord-server.md)
 
-
-- [About]()
+- [About](./about-kagi/what-is-kagi-inc.md)
 	- [What is Kagi Inc.?](./about-kagi/what-is-kagi-inc.md)
 	- [Resources & Brand Assets](./about-kagi/kagi-assets.md)
 	- [Working at Kagi](./about-kagi/hiring.md)

@@ -1,0 +1,10 @@
+[book]
+authors = ["Marc LaFountain"]
+language = "en"
+multilingual = false
+src = "./src"
+title = "Orion Docs"
+
+[output.html]
+git-repository-url = "https://github.com/kagisearch/kagi-docs"
+site-url = "/orion/"

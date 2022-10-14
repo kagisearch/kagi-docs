@@ -12,3 +12,10 @@ You can access our documentation in several ways:
  
 Feedback about this Kagi Search documentation can be shared on our [Discord Server](https://kagi.com/discord) in the **\#documentation** channel. We would love to hear your thoughts on anything we can fix or improve.
 
+## Contributing
+
+This documentation is open source at our [Kagi Docs](https://github.com/kagisearch/kagi-docs)
+repo.
+
+We gladly welcome any fixes & improvements! Please see our [contribution guide](https://github.com/kagisearch/kagi-docs#contributing)
+before making a Pull Request.
