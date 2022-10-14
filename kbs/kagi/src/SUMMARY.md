@@ -45,12 +45,25 @@
 	- [Premium Plan](./plans-and-payment/premium-plan.md)
 	- [Deleting Your Account](./plans-and-payment/delete-account.md)
 
+- [Search API](search-api/overview.md)
+  - [Overview](search-api/overview.md)
+  - [API Version](search-api/api-version.md)
+
+  - [Making Requests](search-api/making-requests/index.md)
+    - [Authentication](search-api/making-requests/auth.md)
+    - [Base API URL](search-api/making-requests/api-url.md)
+    - [Response Format](search-api/making-requests/response-format.md)
+    - [Image Proxy URLs](search-api/making-requests/image-proxy_urls.md)
+
+  - [Objects](search-api/objects.md)
+  - [Endpoints](search-api/endpoints/index.md)
+    - [Execute Search](search-api/endpoints/execute-search.md)
+
 - [Support & Community](./support-and-community/roadmap-feedback-forum.md)
 	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
 	- [Reporting a Bug](./support-and-community/bug-reporting.md)
 	- [Email Support](./support-and-community/email-support.md)
 	- [Discord Server](./support-and-community/discord-server.md)
-
 
 - [About](./about-kagi/what-is-kagi-inc.md)
 	- [What is Kagi Inc.?](./about-kagi/what-is-kagi-inc.md)
