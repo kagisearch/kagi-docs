@@ -22,7 +22,7 @@ table {
  * highlighted as "active". This fixes that.
  */
 ol.chapter > li.chapter-item.expanded a.active {
-  color: var(--fg);
+  color: var(--sidebar-fg);
 }
 
 
