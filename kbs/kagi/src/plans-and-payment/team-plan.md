@@ -7,7 +7,9 @@ You can [Sign Up](https://kagi.com/signup) for a new Kagi account and add the [T
 
 If you already have a Kagi account, you can add the Team Plan in your [Billing settings](https://kagi.com/settings?p=billing).
 
-You will need to specify a company when signing up for a Team Plan.
+You will need to specify a company when signing up for a Team Plan. 
+
+You can also check out all [Team Plan Features](../features/team-plan-features.md).
 
 <a name="adding_members"></a>
 ## Adding Team Members

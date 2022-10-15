@@ -36,8 +36,7 @@
 		- [Plan Types](./plans-and-payment/plan-types.md)
 		- [Premium Plan](./plans-and-payment/premium-plan.md)
 		- [Team Plan](./plans-and-payment/team-plan.md)
-			- [Team Plan Features](./plans-and-payment/team-plan-features.md)
-
+			
 
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
@@ -47,6 +46,7 @@
 	- [Filtering Results](./features/filtering-results.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
+	- [Team Plan Features](./features/team-plan-features.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
