@@ -3,7 +3,7 @@
 The search API provides programmatic access to data that powers our search
 results & more.
 
-> Note: **Kagi Search API is currently only available on the Team Plan**.
+> Note: **Kagi Search API is currently only available in the Team Plan**.
 
 ## Beta Status
 

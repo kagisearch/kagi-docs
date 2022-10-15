@@ -27,10 +27,13 @@
 - [Getting Started](./getting-started/index.md)
 	- [Quick Start](./getting-started/index.md)
 	- [Frequently Asked Questions](./getting-started/faqs.md)
-	- [Setting Kagi as Your Default Search Engine](./getting-started/setting-default.md)
+	- [Set Kagi as Your Default Search Engine](./getting-started/setting-default.md)
 	- [Plans & Payment](./plans-and-payment/plan-types.md)
 		- [Plan Types](./plans-and-payment/plan-types.md)
 		- [Premium Plan](./plans-and-payment/premium-plan.md)
+		- [Team Plan](./plans-and-payment/team-plan.md)
+			- [Team Plan Features](./plans-and-payment/team-plan-features.md)
+
 
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
