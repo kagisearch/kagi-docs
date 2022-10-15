@@ -8,7 +8,7 @@ Standardizing on defaults will accelerate the onboarding of new team members and
 
 <a name="shared_rankings"></a>
 ## Shared Domain Ranking Prefernces 
-Team Members will sharae domain ranking preferences facilitating greater collaboration across users. All domains the administrator adds to the [“Raise”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) list will be up-ranked in the search results for the entire team. The same goes for the [“Block”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html), [“Lower”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) and [“Pin”]https://docs.kagi.com/kagi/features/website-info-personalized-results.html domain lists. You may also elect to leave these blank and defer to individual users for their prioritization.
+Team Members will share domain ranking preferences facilitating greater collaboration across users. All domains the administrator adds to the [“Raise”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) list will be up-ranked in the search results for the entire team. The same goes for the [“Block”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html), [“Lower”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) and [“Pin”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) domain lists. You may also elect to leave these blank and defer to individual users for their prioritization.
 <br> <br>
 <img src="media/personalized_results.png"  width="675" alt="Domain Ranking Preferences">
 
