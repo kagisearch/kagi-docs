@@ -1,4 +1,4 @@
-# Working at Orion Browser
+# Work on Orion Browser
 
 - Do you have advanced Swift, Javascript and/or C++ knowledge? 
 - Do you specialize in AppKit/UIKit or you can solve difficult problems and code exceptionally well? (We’ll send a test project.) 

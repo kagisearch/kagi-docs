@@ -16,8 +16,7 @@ We are not affiliated with the legendary Kagi - the shareware payments platform.
   
 We hope that our work impacts people's lives in some small way for the better. Thank you for your interest in being a part of this!
 
-Kagi Inc.
-Palo Alto, CA, USA
-
-email: vlad@kagi.com
+Kagi Inc.\
+Palo Alto, CA, USA\
+email: vlad@kagi.com\
 phone: (650) 535 2700

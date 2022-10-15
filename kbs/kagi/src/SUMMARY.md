@@ -11,7 +11,7 @@
 	- [Mascot](./company/mascot.md)
 	- [Logo](./company/logo.md)
 	- [Assets](./company/assets.md)
-	- [Working at Kagi](./company/hiring-kagi.md)
+	- [Jobs](./company/hiring-kagi.md)
 		- [Work on Kagi Search](./company/hiring-kagi.md)
 		- [Work on Orion Browser](./company/hiring-orion.md)
 	- [Contact Us](./company/contact.md)
