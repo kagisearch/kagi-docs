@@ -4,12 +4,16 @@
 # About
 
 - [Company](./company/index.md)
-	- [History](./company/index.md)
+	- [About](./company/index.md)
+	- [Products](./company/products.md)
+	- [History](./company/history.md)
 	- [Name](./company/meaning.md)
 	- [Mascot](./company/mascot.md)
 	- [Logo](./company/logo.md)
 	- [Assets](./company/assets.md)
-	- [Working at Kagi](./company/hiring.md)
+	- [Working at Kagi](./company/hiring-kagi.md)
+		- [Work on Kagi Search](./company/hiring-kagi.md)
+		- [Work on Orion Browser](./company/hiring-orion.md)
 	- [Contact Us](./company/contact.md)
 
 - [Support & Community](./support-and-community/roadmap-feedback-forum.md)
