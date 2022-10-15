@@ -32,10 +32,10 @@
 	- [Quick Start](./getting-started/index.md)
 	- [Frequently Asked Questions](./getting-started/faqs.md)
 	- [Set Kagi as Your Default Search Engine](./getting-started/setting-default.md)
-	- [Plans & Payment](./plans-and-payment/plan-types.md)
-		- [Plan Types](./plans-and-payment/plan-types.md)
-		- [Premium Plan](./plans-and-payment/premium-plan.md)
-		- [Team Plan](./plans-and-payment/team-plan.md)
+	- [Plans & Payment](./plans/plan-types.md)
+		- [Plan Types](./plans/plan-types.md)
+		- [Premium Plan](./plans/premium-plan.md)
+		- [Team Plan](./plans/team-plan.md)
 			
 
 - [Features](./features/search-operators.md)
@@ -53,15 +53,15 @@
 	- [Quality](./search-details/search-quality.md)
 	- [Speed](./search-details/search-speed.md)
 
-- [Privacy & Security](./privacy-and-security/privacy-protection.md)
-	- [Privacy Protection](./privacy-and-security/privacy-protection.md)
-	- [Private Browser Sessions](./privacy-and-security/private-browser-sessions.md)
-	- [Security](./privacy-and-security/security.md)
+- [Privacy & Security](./privacy/privacy-protection.md)
+	- [Privacy Protection](./privacy/privacy-protection.md)
+	- [Private Browser Sessions](./privacy/private-browser-sessions.md)
+	- [Security](./privacy/security.md)
 
 - [Settings](./features/settings.md)
 	- [Settings](./features/settings.md)
 	- [The Control Center](./getting-started/control-center.md)
-	- [Deleting Your Account](./plans-and-payment/delete-account.md)	
+	- [Deleting Your Account](./plans/delete-account.md)	
 
 - [F.A.Q.](./why-kagi/why-pay.md)
 	- [Why Pay for Search](./why-kagi/why-pay.md)

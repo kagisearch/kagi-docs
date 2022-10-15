@@ -13,7 +13,7 @@
 <a name="signing_up"></a>
 ## Signing Up
 
-Before you can use Kagi, you need to visit [https://kagi.com](https://kagi.com) and sign up for a [**Free Basic** or **Premium**](../plans-and-payment/plan-types.md) plan.
+Before you can use Kagi, you need to visit [https://kagi.com](https://kagi.com) and sign up for a [**Free Basic** or **Premium**](../plans/plan-types.md) plan.
 
 <a name="basic_searches"></a>
 ## Basic Searches

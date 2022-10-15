@@ -110,10 +110,10 @@ We have [documentation](website-info-personalized-results.md#personalized_result
 Billing Settings options:
 
 - We have documentation that covers how to:
-  - [Sign up for the Premium Plan](../plans-and-payment/premium-plan.md#signing_up)
-  - [Manage your billing](../plans-and-payment/premium-plan.md#managing_billing)
-  - [Cancel the Premium Plan](../plans-and-payment/premium-plan.md#cancel_premium)
-- **Usage** — This area  shows how many searches you've made over time and how that usage relates to any payments you've made.
+  - [Sign up for the Premium Plan](../plans/premium-plan.md#signing_up)
+  - [Manage your billing](../plans/premium-plan.md#managing_billing)
+  - [Cancel the Premium Plan](../plans/premium-plan.md#cancel_premium)
+- **Usage** — This area shows how many searches you've made over time and how that usage relates to any payments you've made.
 - **Tip Kagi** — If you find that your Kagi experience surpasses your expectations, or you simply find Kagi a great value, you are welcome to send a tip in an amount of your choosing. Tips are not tax-deductible.
 
 <img src="media/billing_settings.png" width="675" alt="Billing Settings"><br />
@@ -125,7 +125,7 @@ Account Settings options:
 
 - **Change Your Email** — Change the email that you use to log in to Kagi. This will log you out of all active sessions.
 - **Change Your Password** — Change the password that you use to log in to Kagi. This will log you out of all active sessions.
-- **Session Link** — The Session Link is a URL that automatically logs into your Kagi session. It can be used with [Private Browser Sessions](../privacy-and-security/private-browser-sessions.md). Do NOT share your Session Link with anyone else! To invalidate the Session Link, simply Sign Out in the [Control Center](../getting-started/control-center.md).
+- **Session Link** — The Session Link is a URL that automatically logs into your Kagi session. It can be used with [Private Browser Sessions](../privacy/private-browser-sessions.md). Do NOT share your Session Link with anyone else! To invalidate the Session Link, simply Sign Out in the [Control Center](../getting-started/control-center.md).
 - **Delete Account** — You can use this option to delete your Kagi account. If you have a Premium plan on your account, the plan will be automatically canceled when the account is deleted. No refunds or credits are available for canceled Premium plans.
 
 <img src="media/account_settings.png" width="675" alt="Account Settings"><br />

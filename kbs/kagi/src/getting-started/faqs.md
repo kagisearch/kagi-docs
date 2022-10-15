@@ -16,7 +16,7 @@ You can install a free browser extension or manually configure your browser to u
 ## How much does Kagi Search cost?
 
 - The **Free Basic** plan is limited to 50 searches per month
-- The [**Premium**](../plans-and-payment/premium-plan.md) plan offers unlimited searches for USD $10 per month or USD $120 per year
+- The [**Premium**](../plans/premium-plan.md) plan offers unlimited searches for USD $10 per month or USD $120 per year
 
 <a name="speed"></a>
 ## How fast is Kagi Search?
@@ -29,7 +29,7 @@ Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in ot
 
 ## What data does Kagi collect?
 
-Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy-and-security/privacy-protection.md) for more information.
+Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy/privacy-protection.md) for more information.
 
 ## How do I get help with Kagi?
 
