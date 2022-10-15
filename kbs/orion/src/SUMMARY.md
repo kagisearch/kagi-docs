@@ -67,10 +67,15 @@
 
 # About Kagi Inc.
 
-- [What is Kagi Inc.?](./about-kagi-inc/what-is-kagi-inc.md)
-- [What Does "Kagi" Mean?](./about-kagi-inc/kagi-meaning.md)
-- [Who is Kagi's Mascot?](./about-kagi-inc/kagi-mascot.md)
-- [Why a "g" Logo?](./about-kagi-inc/kagi-logo.md)
-- [Kagi Resources & Brand Assets](./about-kagi-inc/kagi-assets.md)
-- [Orion Brand Assets](./about-kagi-inc/orion-assets.md)
-- [Working on Orion](./about-kagi-inc/hiring.md)
+- [Company](./company/index.md)
+	- [About](./company/index.md)
+	- [Products](./company/products.md)
+	- [History](./company/history.md)
+	- [Name](./company/meaning.md)
+	- [Mascot](./company/mascot.md)
+	- [Logo](./company/logo.md)
+	- [Assets](./company/assets.md)
+	- [Jobs](./company/hiring-kagi.md)
+		- [Work on Kagi Search](./company/hiring-kagi.md)
+		- [Work on Orion Browser](./company/hiring-orion.md)
+	- [Contact Us](./company/contact.md)
