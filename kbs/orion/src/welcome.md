@@ -14,3 +14,11 @@ You can access our documentation in several ways:
  
 Feedback about this Orion documentation can be shared on our [Discord Server](https://discord.com/invite/gKh5E6ys6D) in the **\#documentation** channel. We would love to hear your thoughts on anything we can fix or improve.
 
+## Contributing
+
+This documentation is open source at our [Kagi Docs](https://github.com/kagisearch/kagi-docs) repo.
+
+We gladly welcome any fixes & improvements! Please see our [contribution guide](https://github.com/kagisearch/kagi-docs#contributing)
+before making a Pull Request.
+
+Once your contributions are accepted, make sure too add yourself to the list of [Contributors](./misc/contributors.md). Thank you!
