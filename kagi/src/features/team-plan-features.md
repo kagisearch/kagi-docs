@@ -8,21 +8,21 @@ Standardizing on defaults will accelerate the onboarding of new team members and
 
 <a name="shared_rankings"></a>
 ## Shared Domain Ranking Prefernces 
-Team Members will share domain ranking preferences facilitating greater collaboration across users. All domains the administrator adds to the [“Raise”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) list will be up-ranked in the search results for the entire team. The same goes for the [“Block”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html), [“Lower”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) and [“Pin”](https://docs.kagi.com/kagi/features/website-info-personalized-results.html) domain lists. You may also elect to leave these blank and defer to individual users for their prioritization.
+Team Members will share domain ranking preferences facilitating greater collaboration across users. All domains the administrator adds to the [“Raise”](https://help.kagi.com/kagi/features/website-info-personalized-results.html) list will be up-ranked in the search results for the entire team. The same goes for the [“Block”](https://help.kagi.com/kagi/features/website-info-personalized-results.html), [“Lower”](https://help.kagi.com/kagi/features/website-info-personalized-results.html) and [“Pin”](https://help.kagi.com/kagi/features/website-info-personalized-results.html) domain lists. You may also elect to leave these blank and defer to individual users for their prioritization.
 <br> <br>
 <img src="media/personalized_results.png"  width="675" alt="Domain Ranking Preferences">
 
 <a name="shared_lenses"></a>
 ## Shared Lenses
-Team Members may choose to share [Lenses](https://docs.kagi.com/kagi/features/lenses.html) across the team.
+Team Members may choose to share [Lenses](https://help.kagi.com/kagi/features/lenses.html) across the team.
 <br> <br>
 <img src="media/shared_lenses.png"  width="675" alt="Shared Lenses">
 
 <a name="search_api"></a>
 ## Search API
-The Team Plan provides access to one of Kagi's most important features - the [Kagi Search API](https://docs.kagi.com/kagi/search-api/overview.html). This is the same API that Kagi’s front end uses to render the results. The API use is charged the same rate as everyday use ($0.0025/search).
+The Team Plan provides access to one of Kagi's most important features - the [Kagi Search API](https://help.kagi.com/kagi/search-api/overview.html). This is the same API that Kagi’s front end uses to render the results. The API use is charged the same rate as everyday use ($0.0025/search).
 
-As a first step we recommend reviewing the [Kagi API Documentation](https://docs.kagi.com/kagi/search-api/overview.html). 
+As a first step we recommend reviewing the [Kagi API Documentation](https://help.kagi.com/kagi/search-api/overview.html). 
 <br> <br>
 <img src="media/kagi_search_api_docs.png"  width="675" alt="Kagi Search API Docs">
 
