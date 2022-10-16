@@ -79,7 +79,7 @@
     - [Authentication](search-api/making-requests/auth.md)
     - [Base API URL](search-api/making-requests/api-url.md)
     - [Response Format](search-api/making-requests/response-format.md)
-    - [Image Proxy URLs](search-api/making-requests/image-proxy_urls.md)
+    - [Image Proxy URLs](search-api/making-requests/image-proxy-urls.md)
   - [Objects](search-api/objects.md)
   - [Endpoints](search-api/endpoints/index.md)
     - [Execute Search](search-api/endpoints/execute-search.md)
