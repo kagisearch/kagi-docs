@@ -85,6 +85,6 @@
     - [Execute Search](search-api/endpoints/execute-search.md)
 
 
----
+# Credits
 
 [Contributors](misc/contributors.md)
