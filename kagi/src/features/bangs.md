@@ -29,3 +29,18 @@ Here is the full list of patterns that we support:
 - `g! query`
 - `query !g`
 - `query g!`
+
+## Feeling Lucky
+
+Sometimes, you just know the first result will be what you want.
+Or, you could be "feeling lucky" enough to take the chance!
+
+When you start your query with `!(space)query`, Kagi will redirect you to the first search result.
+
+![Feeling Lucky Example](media/feeling-lucky-example.png)
+
+Here is the full list of "feeling lucky" patterns that we support:
+
+- `! query`
+- `query !`
+- `\query`
