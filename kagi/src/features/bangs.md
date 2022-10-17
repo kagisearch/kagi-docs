@@ -4,7 +4,7 @@ Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang). Bangs a
 
 For example, searching Kagi for **!w Monty Python** will search Wikipedia directly for "Monty Python" and take you to that Wikipedia search result.
 
-<img src="media/bang.gif"  width="675" alt="Bang Example"><br />
+![Bang Example](media/bang.gif)
 
 Bangs can also be used regionally. For example, you can search with  **!de [query]** or **!nl [query]** to switch your region to Germany or Netherlands on the fly.
 
