@@ -19,3 +19,13 @@ Some of the more popular search bangs include:
 - **!v** for Kagi Videos
 - **!help**  to search this knowledge base for information about Kagi Search
 
+## Suppoted Bang Syntaxes
+
+For convenience, Kagi supports placing the bang trigger elsewhere in your query.
+
+Here is the full list of patterns that we support:
+
+- `!g query`
+- `g! query`
+- `query !g`
+- `query g!`
