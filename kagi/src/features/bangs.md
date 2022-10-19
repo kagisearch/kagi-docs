@@ -50,15 +50,19 @@ You can create your own Custom Bangs in Kagi from the "More" options on the Sear
 
 From within the More Options Menu select Customize.
 
-<img src="media/select_customize.PNG"  width="675" alt="Select Customize">
+<img src="media/select_customize.PNG"  width="675" height="700" alt="Select Customize">
 
 Using the Customize menu define your own Custom Bangs. 
 
-<img src="media/custom_bang_editor.PNG"  width="675" alt="Custom Bang Editor">
+<img src="media/custom_bang_editor.PNG"  width="675" height="700" alt="Custom Bang Editor">
 
-For example, you can set up a Custom Bang to search Duck Duck Go Español.
+For example, you can set up a Custom Bang to for the Kagi Feedback forum.
 
-<img src="media/example_custom_bang.PNG"  width="675" alt="Example Custom Bang">
+<img src="media/example_custom_bang.PNG"  width="675" height="700" alt="Example Custom Bang">
+
+You can then quickly search the Kagi Feedback forum using !kf.
+
+<img src="media/kf_search.PNG"  width="675" alt="Use Custom Bang">
 
 If you come across interesting Custom Bangs please consider sharing in our [Discord Community](https://discord.gg/V7HAVt5d). 
 
