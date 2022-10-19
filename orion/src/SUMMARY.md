@@ -68,11 +68,13 @@
 	- [Protecting Privacy](./privacy-and-security/protecting-privacy.md)
 	- [Preventing Fingerprinting](./privacy-and-security/preventing-fingerprinting.md)
 
-- [F.A.Q](./why-orion/orion-vs-safari.md)
+- [Why Orion?](./why-orion/orion-vs-safari.md)
 	- [Orion vs. Safari](./why-orion/orion-vs-safari.md)
 	- [Orion vs. Chrome, Firefox, & Others](./why-orion/kagi-vs-others.md)
 	- [Speed](./why-orion/orion-speed.md)
 	- [Memory Usage](./why-orion/memory-usage.md)
+
+- [Live stats](./misc/stats.md)
 
 # Credits
 

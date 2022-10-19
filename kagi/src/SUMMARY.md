@@ -44,8 +44,9 @@
 	- [Lenses](./features/lenses.md)
 	- [Website Info & Personalized Results](./features/website-info-personalized-results.md)
 	- [Filtering Results](./features/filtering-results.md)
-	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
+	- [Turning Off Animations](./features/turning-off-animations.md)
+
 	- [Team Plan Features](./features/team-plan-features.md)
 
 - [Results](./search-details/search-sources.md)
