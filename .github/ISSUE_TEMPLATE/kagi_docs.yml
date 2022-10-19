@@ -10,7 +10,7 @@ body:
     attributes:
       label: Relevant Page(s)
       description: Links to the relevant sections of documentation to your issue.
-      value: "https://docs.kagi.com/kagi"
+      value: "https://help.kagi.com/kagi"
     validations:
       required: false
   - type: textarea

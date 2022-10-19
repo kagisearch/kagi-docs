@@ -10,7 +10,7 @@ body:
     attributes:
       label: Relevant Page(s)
       description: Links to the relevant sections of documentation to your issue.
-      value: "https://docs.kagi.com/orion"
+      value: "https://help.kagi.com/orion"
     validations:
       required: false
   - type: textarea
