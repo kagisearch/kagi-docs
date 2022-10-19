@@ -17,16 +17,16 @@ migrate.
 
 ## Breaking Change Policy
 
-Clients are intended to use and conusme the API as-documented. Use of endpoints
+Clients are intended to use and consume the API as-documented. Use of endpoints
 or fields that are not documented are subject to change without notice.
 
 This means the following things are NOT considered breaking changes:
 
-- Removal of an undocumented enpoint
+- Removal of an undocumented endpoint
 - Renaming, removal, or type changes of an undocumented field
-- Changes occuring in undocumented API version numbers
+- Changes occurring in undocumented API version numbers
 
-Any detail that *is* documented is guarenteed to be stable for the rest of
+Any detail that *is* documented is guaranteed to be stable for the rest of
 that API version's lifetime. Any exceptions to this will be given with advanced
 notice.
 
@@ -35,4 +35,4 @@ notice.
 Changes to the API will be published here, as well as:
 
 - [GitHub Discussions Announcements](https://github.com/kagisearch/kagi-docs/discussions/categories/announcements) page
-- [Search API Managment](https://kagi.com/settings?p=user_api) page
+- [Search API Management](https://kagi.com/settings?p=user_api) page

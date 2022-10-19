@@ -13,7 +13,7 @@ Field | Type   | Description
 ------|--------|-----------
 meta  | object | [Request Metadata](../objects.md#request-metadata)
 data  | any    | Response data. Can be any valid JSON value, as documented
-error | array  | [Error Object](../objects.md#error-object), if an error occured
+error | array  | [Error Object](../objects.md#error-object), if an error occurred
 
 ## Examples
 

@@ -24,7 +24,7 @@ Some of the more popular search bangs include:
 - **!v** for Kagi Videos
 - **!help**  to search this knowledge base for information about Kagi Search
 
-## Suppoted Bang Syntaxes
+## Supported Bang Syntaxes
 
 For convenience, Kagi supports placing the bang trigger elsewhere in your query.
 
@@ -56,7 +56,7 @@ Using the Customize menu define your own Custom Bangs.
 
 <img src="media/custom_bang_editor.PNG"  width="675" alt="Custom Bang Editor">
 
-For example you can set up a Custom Bang to search Duck Duck Go Espanol.
+For example, you can set up a Custom Bang to search Duck Duck Go Español.
 
 <img src="media/example_custom_bang.PNG"  width="675" alt="Example Custom Bang">
 

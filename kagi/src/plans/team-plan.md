@@ -19,7 +19,7 @@ From the [Invites tab](https://kagi.com/settings?p=invites) there are two ways t
 1. Send the new members an email through Kagi.
 2. Generate an invite link and share with the new members. 
 
-You can also limit the domains used to sign-up to your team to your company’s domain or reset the invite link if necessary.
+You can also limit the domains used to sign up to your team to your company’s domain or reset the invite link if necessary.
 <img src="media/add_members.png"  width="675" alt="Add Members">
 
 <a name="removing_members"></a>

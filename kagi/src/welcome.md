@@ -22,4 +22,4 @@ This documentation is open source at our [Kagi Docs](https://github.com/kagisear
 We gladly welcome any fixes & improvements! Please see our [contribution guide](https://github.com/kagisearch/kagi-docs#contributing)
 before making a Pull Request.
 
-Once your contributions are accepted, make sure too add yourself to the list of [Contributors](./misc/contributors.md). Thank you!
+Once your contributions are accepted, make sure to add yourself to the list of [Contributors](./misc/contributors.md). Thank you!
