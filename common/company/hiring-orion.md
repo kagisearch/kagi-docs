@@ -1,6 +1,6 @@
 # Work on Orion Browser
 
-- Do you have advanced Swift, Javascript and/or C++ knowledge? 
+- Do you have advanced Swift, JavaScript and/or C++ knowledge? 
 - Do you specialize in AppKit/UIKit or you can solve difficult problems and code exceptionally well? (We’ll send a test project.) 
 - Do you want to be a part of international and fully-remote team building products with care?
 
@@ -28,7 +28,7 @@ macOS または iOS 開発者 (Orion browser を製作するチームです)
 
 
 必須スキル:
-Swift, Javascript and/or C++
+Swift, JavaScript and/or C++
 AppKit or UIKit に精通しており、難しい問題を解決できる
 
 

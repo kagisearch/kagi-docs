@@ -1,6 +1,6 @@
 # Discord Server
 
-We have a [Orion Discord server](https://discord.com/invite/gKh5E6ys6D) where you can provide general feedback and directly communicate with our community.
+We have an [Orion Discord server](https://discord.com/invite/gKh5E6ys6D) where you can provide general feedback and directly communicate with our community.
 
 Please use the **#introduce-yourself** channel to say hello and let everyone know a bit about you.
 

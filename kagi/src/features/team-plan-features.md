@@ -7,7 +7,7 @@ Standardizing on defaults will accelerate the onboarding of new team members and
 <img src="media/default_team_settings.jpg"  width="675" alt="Default Team Settings">
 
 <a name="shared_rankings"></a>
-## Shared Domain Ranking Prefernces 
+## Shared Domain Ranking Preferences 
 Team Members will share domain ranking preferences facilitating greater collaboration across users. All domains the administrator adds to the [“Raise”](../features/website-info-personalized-results.md) list will be up-ranked in the search results for the entire team. The same goes for the [“Block”](../features/website-info-personalized-results.md), [“Lower”](../features/website-info-personalized-results.md) and [“Pin”](../features/website-info-personalized-results.md) domain lists. You may also elect to leave these blank and defer to individual users for their prioritization.
 <br> <br>
 <img src="media/personalized_results.png"  width="675" alt="Domain Ranking Preferences">

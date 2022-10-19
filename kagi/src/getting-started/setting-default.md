@@ -106,7 +106,7 @@ To set up a private session link in Firefox, use [this extension](https://addons
 6. Tap the **Other** radio button to add a search engine and do the following:
   - in the **Name** field, enter **Kagi**.
   - In the **Search string to use** field, enter **https://kagi.com/search?q=%s**
-  - Tap the confirmation button at the top right corner of the screen.
+  - Tap the confirmation button in the top right corner of the screen.
 
 <a name="safari"></a>
 ### Safari
