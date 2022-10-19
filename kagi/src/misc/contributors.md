@@ -3,7 +3,7 @@
 This entire documentation is open source and you can contribute by editing
 any page and creating a pull request. Check the instructions [here](https://github.com/kagisearch/kagi-docs).
 
-The following contributors have helped improve Orion Browser
+The following contributors have helped improve Kagi
 documentation.
 
 Thank you!
