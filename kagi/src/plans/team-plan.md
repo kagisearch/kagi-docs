@@ -13,7 +13,7 @@ You can also check out all [Team Plan Features](../features/team-plan-features.m
 
 <a name="adding_members"></a>
 ## Adding Team Members
-Since the Kagi Team Plan is pay-per-use ($0.025 per search), you can add as many team members as possible and only pay for those that are actively searching. 
+Since the Kagi Team Plan is pay-per-use ($0.025 per search), you can add as many team members as you want and only pay for those that are actively searching. 
 
 From the [Invites tab](https://kagi.com/settings?p=invites) there are two ways to add new team members. 
 1. Send the new members an email through Kagi.
