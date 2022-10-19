@@ -58,6 +58,7 @@
 	- [Privacy Protection](./privacy/privacy-protection.md)
 	- [Private Browser Sessions](./privacy/private-browser-sessions.md)
 	- [Security](./privacy/security.md)
+	- [Anonymity](./privacy/anonymity.md)
 
 - [Settings](./features/settings.md)
 	- [Settings](./features/settings.md)
