@@ -46,8 +46,8 @@
 	- [Filtering Results](./features/filtering-results.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
-
-	- [Team Plan Features](./features/team-plan-features.md)
+  - [Redirects](./features/redirects.md)
+  - [Team Plan Features](./features/team-plan-features.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
