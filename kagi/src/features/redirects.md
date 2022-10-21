@@ -54,12 +54,12 @@ A redirect looks like this:
 It is composed of the following parts:
 
 <div class="rewrite-example">
-  <span style="color:blue;">^https://reddit.com/</span>
+  <span style="color:#3183ff;">^https://reddit.com/</span>
   <span>|</span>
   <span style="color:green;">https://old.reddit.com/</span>
 </div>
 
-- The <span style="color:blue;">regex match pattern</span>
+- The <span style="color:#3183ff;">regex match pattern</span>
 - A pipe (`|` ) separator character
 - The <span style="color:green;">replacement pattern</span>
 
@@ -91,13 +91,13 @@ Our community members and staff will be happy to help!
 We can make all `https://reddit.com` links change to `https://old.reddit.com` using a rule like this:
 
 <div class="rewrite-example">
-  <span style="color:blue;">^</span>
+  <span style="color:#3183ff;">^</span>
   <span>https://reddit.com/</span>
   <span>|</span>
   <span style="color:green;">https://old.reddit.com/</span>
 </div>
 
-- <span style="color:blue;">^</span> matches the start of the URL.
+- <span style="color:#3183ff;">^</span> matches the start of the URL.
   This will stop the rule from matching a URL that has the domain elsewhere in the URL.
 
 - `http://reddit.com` matches exactly this text.
@@ -124,7 +124,7 @@ and use a replacement to change the version number to the word `latest`.
 This can be done with a single redirect like this following:
 
 <div class="rewrite-example">
-  <span style="color:blue">^https://docs.rs/([^/]+)/(?:[^/]+)/(.*)</span>
+  <span style="color:#3183ff">^https://docs.rs/([^/]+)/(?:[^/]+)/(.*)</span>
   <span>|</span>
   <span style="color:green">https://docs.rs/$1/latest/$2</span>
 </div>
@@ -134,7 +134,7 @@ This example is a bit more complex, so we will walk through each part.
 #### Match Pattern
 
 <div class="rewrite-example">
-  <span style="color:blue;">^</span>
+  <span style="color:#3183ff;">^</span>
   <span >https://docs.rs</span>
   <span style="">/</span>
   <span style="color:red;">([^/]+)</span>
@@ -144,7 +144,7 @@ This example is a bit more complex, so we will walk through each part.
   <span style="color:green">(.*)</span>
 </div>
 
-<span style="color:blue;">^</span> matches the start of the URL.
+<span style="color:#3183ff;">^</span> matches the start of the URL.
 
 `https://docs.rs/` matches the domain of the website.
 
@@ -185,7 +185,7 @@ This match will be assigned to <span style="color:green">$2</span>.
 Given the rule:
 
 <div class="rewrite-example">
-  <span style="color:blue;">^</span>
+  <span style="color:#3183ff;">^</span>
   <span >https://docs.rs</span>
   <span style="">/</span>
   <span style="color:red;">([^/]+)</span>
@@ -242,7 +242,7 @@ When possible:
 For example, this means the [reddit example](#changing-a-domain) can also be simplified like this:
 
 <div class="rewrite-example">
-  <span style="color:blue;">^</span>
+  <span style="color:#3183ff;">^</span>
   <span>https://reddit.com/</span>
   <span>|</span>
   <span style="color:green;">old.reddit.com</span>
