@@ -19,6 +19,20 @@ You can create your own Lenses where you specify parameters such as:
 
 Lenses do not yet support image or video searches.
 
+<a name="defaults"></a>
+## Default Lenses
+Kagi offers several prebuilt lenses, the following are available by default:
+- Discussions: search forums from around the Web.
+- EDU: searches academic domains.
+- News 360: recent information from a selection of global news outlets across the globe.
+- PDF: search for PDF files.
+- Programming: official programming language websites and forums.
+
+The following lenses need to be activated from the [Lenses](https://kagi.com/settings?p=lenses) settings.
+- Noncommercial: results that favor noncommercial domains and topics.
+- Recipies: common sense recipies from sites with no ads. 
+
+
 <a name="example"></a>
 ## Lens Example
 
