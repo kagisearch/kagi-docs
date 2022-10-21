@@ -37,3 +37,19 @@ html {
 body {
   font-size: 1.8rem;
 }
+
+/* Special CSS for rewrite rule examples. */
+.rewrite-example {
+  font-family: monospace;
+  display: flex;
+  white-space: nowrap;
+  gap: 2px;
+  background: var(--quote-bg);
+  padding: 10px;
+  margin: 10px;
+  color: var(--fg);
+  font-weight: 500;
+  font-size: 2rem;
+  border-radius: 5px;
+  overflow-y: auto;
+}
