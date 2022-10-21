@@ -65,7 +65,7 @@ It is composed of the following parts:
 
 The match pattern is written using [Regex](https://en.wikipedia.org/wiki/Regular_expression), a standard language for pattern matching sequences of text.
 
-The replacement pattern is a verbatim string that will replace then entire URL.
+The replacement pattern is a verbatim string that will replace the entire URL.
 
 You can use `$1`, `$2`, and so on in the replacement pattern to refer to *capture groups* in the match pattern, to retain parts of the original URL.
 Capture groups in regex are parts of the pattern that are enclosed in parentheses `()`.
