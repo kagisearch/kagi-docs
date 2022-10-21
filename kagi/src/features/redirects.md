@@ -172,10 +172,13 @@ This match will be assigned to <span style="color:green">$2</span>.
   <span style="color:green">$2</span>
 </div>
 
-- `https://docs.rs` writes the domain
-- <span style="color:red">$1</span> fills in the *first capture group*
-- `latest` writes in the word latest
-- <span style="color:green">$2</span> fills in the *second capture group*
+`https://docs.rs` writes the domain.
+
+<span style="color:red">$1</span> copies from the *first capture group*.
+
+`latest` writes in the word "latest".
+
+<span style="color:green">$2</span> copies from the *second capture group*.
 
 #### Conclusion
 
