@@ -16,8 +16,8 @@
 		- [Work on Orion Browser](./company/hiring-orion.md)
 	- [Contact Us](./company/contact.md)
 
-- [Support & Community](./support-and-community/roadmap-feedback-forum.md)
-	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
+- [Support & Community](./support-and-community/index.md)
+	- [Product Roadmap & Feedback Forum](./support-and-community/index.md)
 	- [Reporting a Bug](./support-and-community/bug-reporting.md)
 	- [Public Beta](./getting-started/public-beta.md)	
 	- [Email Support](./support-and-community/email-support.md)
