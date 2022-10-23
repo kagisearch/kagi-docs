@@ -13,11 +13,11 @@ Focus Mode allows you to completely remove toolbars from your browser interface.
 <a name="macos"></a>
 ## macOS Focus Mode
 
-You can enter Focus Mode by clicking the **View** menu and choosing **Enter Full Screen**. Or, you can type **Shift-Command-F** on your keyboard.
+You can enter Focus Mode by clicking the **View** menu and choosing **Enable Focus Mode**. Or, you can type **Shift-Command-F** on your keyboard.
 
-<img src="media/macos_full_screen.png" width="300" alt="macOS Full Screen Menu Choice"><br />
+<img src="media/macos_enable_focus_mode.png" width="300" alt="macOS Focus Mode Menu Choice"><br />
 
-To exit Focus Mode, move your mouse to the top of the screen, click the **View** menu, and choose **Exit Full Screen**. Or, you can type **Shift-Command-F** again on your keyboard.
+To exit Focus Mode, click the **View** menu and choose **Disable Focus Mode**. Or, you can type **Shift-Command-F** again on your keyboard.
 
 <a name="ios"></a>
 ## iOS Focus Mode
