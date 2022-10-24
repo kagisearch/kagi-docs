@@ -6,7 +6,7 @@ src = "./src"
 title = "Orion Docs"
 
 [output.html]
-git-repository-url = "https://github.com/kagisearch/kagi-docs"
+edit-url-template = "https://github.com/kagisearch/kagi-docs/edit/main/orion/{path}"
 site-url = "/orion/"
 additional-css = ["patch.css"]
 fold = {enable = true, level= 0}

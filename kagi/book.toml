@@ -9,7 +9,7 @@ title = "Kagi Search Docs"
 create-missing = false
 
 [output.html]
-git-repository-url = "https://github.com/kagisearch/kagi-docs"
+edit-url-template = "https://github.com/kagisearch/kagi-docs/edit/main/kagi/{path}"
 site-url = "/kagi/"
 additional-css = ["patch.css"]
 fold = {enable = true, level= 0}
