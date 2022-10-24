@@ -29,7 +29,7 @@ We require an email address to be able to verify the account really belongs to y
 
 Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search. 
 
-Kagi does need our personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription business.
+Kagi does need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription business.
 
 ## How fast is Kagi Search?
 
