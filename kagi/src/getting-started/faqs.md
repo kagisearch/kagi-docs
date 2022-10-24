@@ -19,6 +19,24 @@ You can install a free browser extension or manually configure your browser to u
 - The [**Premium**](../plans/premium-plan.md) plan offers unlimited searches for USD $10 per month or USD $120 per year
 - The [**Team Plan**](../plans/team-plan.md) plan costs USD $19 per month fixed fee for unlimited users, and $1 per 40 searches (pay per use)
 
+## Why does Kagi Search require an account?
+Kagi Search requires an account only because it is a paid service which requires an account for the transcation. 
+
+Note that Kagi does not collect any personal information for billing and that you can even use an anonumous payment card such as PrivacyHQ if you want to.
+
+## Why does Kagi Search require an email address?
+We require an email address to be able to verify the account really belongs to you in the following cases:
+
+- To handle the account recovery (in case you lose your password)
+- In case you contact us via email with an account related questions (in particular requests to delete your account or change your subscription)
+
+Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search. 
+
+Kagi does need our personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription business.
+
+
+## How much does Kagi Search cost?
+
 <a name="speed"></a>
 ## How fast is Kagi Search?
 
