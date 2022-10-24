@@ -17,6 +17,7 @@ You can install a free browser extension or manually configure your browser to u
 
 - The **Free Basic** plan is limited to 50 searches per month
 - The [**Premium**](../plans/premium-plan.md) plan offers unlimited searches for USD $10 per month or USD $120 per year
+- The [**Team Plan**](../plans/team-plan.md) plan costs USD $19 per month fixed fee for unlimited users, and $1 per 40 searches (pay per use)
 
 <a name="speed"></a>
 ## How fast is Kagi Search?
