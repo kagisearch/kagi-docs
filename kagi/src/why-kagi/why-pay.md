@@ -6,7 +6,6 @@ Every "free" search engine out there comes with a hidden cost. Your private deta
 
 If you want a search experience tailored to you and your needs, one that could also make the world a slightly better place, then you need to break free from the ruts that advertisers and corporations have guided us into. Investing in Kagi is investing in a more humane web and your online future. It also invests in your children's future so they won't be bombarded with ads from an early age.
 
-<a name="ads_do_not_work"></a>
 ## Ad-Supported Search Engines Don't Work for the Future of the Web
 
 We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe why it is imperative for search engines to be ad-free:
@@ -19,7 +18,6 @@ We will let no other than the founders of Google explain this. The year is 1998,
 
 They were right in recognizing early on that ad-supported search engines will be biased towards the advertisers. They probably could not foresee how much damage to the web adopting the model they originally criticized would ultimately cause.
 
-<a name="search_engine_costs"></a>
 ## Costs to Deliver a Superior Ad-Free Search Product
 
 All search engines have search costs, development costs, and administrative costs. Most search engines cover this by advertising, tracking, and selling your data. We attempt to cover it with a simple subscription of USD $10 a month.
