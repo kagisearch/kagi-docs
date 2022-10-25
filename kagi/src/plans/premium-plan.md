@@ -1,13 +1,11 @@
 # Premium Plan
 
-<a name="signing_up"></a>
 ## Signing Up for the Premium Plan
 
 You can [Sign Up](https://kagi.com/signup) for a new Kagi account and add the [Premium plan](plan-types.md) during the sign-up process.
 
 If you already have a Kagi account, you can add the Premium plan in your [Billing settings](https://kagi.com/settings?p=billing).
 
-<a name="managing_billing"></a>
 ## Managing Billing
 
 To manage your Kagi [Premium plan](plan-types.md) billing, go to your [Billing settings](https://kagi.com/settings?p=billing).
@@ -21,7 +19,6 @@ From that Stripe page, you can:
 - See your invoices
 - Switch between monthly and annual billing (use the **Update plan** button)
 
-<a name="cancel_premium"></a>
 ## Canceling the Premium Plan
 
 If you want to cancel your Premium plan, you can do so in your Kagi account's [Billing settings](https://kagi.com/settings?p=billing):
