@@ -19,7 +19,6 @@ You can create your own Lenses where you specify parameters such as:
 
 Lenses do not yet support image or video searches.
 
-<a name="defaults"></a>
 ## Default Lenses
 Kagi offers several prebuilt lenses, the following are available by default:
 - Discussions: search forums from around the Web.
@@ -32,8 +31,6 @@ The following lenses need to be activated from the [Lenses](https://kagi.com/set
 - Noncommercial: results that favor noncommercial domains and topics.
 - Recipies: common sense recipies from sites with no ads. 
 
-
-<a name="example"></a>
 ## Lens Example
 
 Let's say you love movie news and reviews. You can make a Lens that searches only the movie-related websites you find most useful.
