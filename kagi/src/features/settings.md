@@ -22,7 +22,6 @@ Use the **[All Settings](https://kagi.com/settings)** button in the lower-right 
 
 <img src="media/control_center_panel.png" width="400" alt="Control Center Panel"><br />
 
-<a name="general"></a>
 ## General
 
 General Settings options:
@@ -34,7 +33,6 @@ General Settings options:
 
 <img src="media/general_settings.png" width="675" alt="General Settings"><br />
 
-<a name="appearance"></a>
 ## Appearance
 
 Appearance Settings options:
@@ -49,7 +47,6 @@ Appearance Settings options:
 
 <img src="media/appearance_settings.png" width="675" alt="Appearance Settings"><br />
 
-<a name="search"></a>
 ## Search
 
 Search Settings options:
@@ -78,7 +75,6 @@ This section typically features technical blog posts and opinion pieces from for
 
 <img src="media/search_settings.png" width="675" alt="Search Settings"><br />
 
-<a name="privacy"></a>
 ## Privacy
 
 Privacy Settings options:
@@ -89,21 +85,18 @@ Privacy Settings options:
 
 <img src="media/privacy_settings.png" width="675" alt="Privacy Settings"><br />
 
-<a name="lenses"></a>
 ## Lenses
 
 We have [documentation](lenses.md) that shows you how to use Lenses in detail.
 
 <img src="media/lenses_settings.png" width="675" alt="Lenses Settings"><br />
 
-<a name="personalized_results"></a>
 ## Personalized Results
 
 We have [documentation](website-info-personalized-results.md#personalized_results) that shows how to use Personalized Results in detail.
 
 <img src="media/personalized_results_settings.png" width="675" alt="Personalized Results Settings"><br />
 
-<a name="billing"></a>
 ## Billing
 
 Billing Settings options:
@@ -117,7 +110,7 @@ Billing Settings options:
 
 <img src="media/billing_settings.png" width="675" alt="Billing Settings"><br />
 
-<a name="account"></a>
+
 ## Account
 
 Account Settings options:
