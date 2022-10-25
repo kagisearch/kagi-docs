@@ -1,6 +1,6 @@
 # Search Speed
 
-Ahhh...speed. We’re obsessed with increasing speed and lowering latency, and we currently use three approaches.
+We’re obsessed with increasing speed and lowering latency, and we currently use three approaches.
 
 First, we optimized our technology stack to increase code execution speed and decrease connection latency. 
 
