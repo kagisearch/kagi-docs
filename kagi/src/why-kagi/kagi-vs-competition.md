@@ -1,6 +1,5 @@
 # Kagi vs. The Competition
 
-<a name="features"></a>
 ## Features
 
 The table below shows how Kagi stacks up to some of the most popular search engines around in terms of key features.
@@ -15,10 +14,8 @@ The table below shows how Kagi stacks up to some of the most popular search engi
 | Anonymises user data | Yes | No | Yes | Yes | No |
 | Zero search telemetry | Yes | No | No | No | No |
 
-<a name="speed"></a>
 ## Speed
-
-Ahhh...speed. We’re obsessed with increasing speed and lowering latency, and we currently use three approaches.
+We’re obsessed with increasing speed and lowering latency, and we currently use three approaches.
 
 First, we optimized our technology stack to increase code execution speed and decrease connection latency. 
 
