@@ -6,19 +6,16 @@ Paid models like Kagi only make money when users pay us, and users only pay when
 
 We designed our product to give you a good answer and get you on your way instead of forcing you to wade through a swamp of results that have leeches lurking under the surface. 
 
-<a name="data_collection"></a>
 ## Data Collection
 
 We only collect the bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) for more information.
 
-<a name="email"></a>
 ## Email Address Collection
 
 We tie Kagi Search accounts to email addresses so we can help users with account recovery should they ever need it. Rest assured that all Kagi Searches are anonymized and are never tied to your specific account.
 
 Note that you can register for Kagi Search with any email address you control. You do not have to use an email address that can easily identify you.
 
-<a name="trust"></a>
 ## Building Trust
 
 Let us reiterate that we do not log searches or in any way tie them to an account. We simply have no incentive to do it. Our business model is to sell subscriptions, not user data. 
