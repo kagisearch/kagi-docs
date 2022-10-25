@@ -10,12 +10,10 @@
 - [Lens Searches](#lens_searches)
 - [Personalized Results](#personalized_results)
 
-<a name="signing_up"></a>
 ## Signing Up
 
 Before you can use Kagi, you need to visit [https://kagi.com](https://kagi.com) and sign up for a [**Free Basic** or **Premium**](../plans/plan-types.md) plan.
 
-<a name="basic_searches"></a>
 ## Basic Searches
 
 To do a basic search, simply visit [https://kagi.com](https://kagi.com) and search for something.
@@ -24,7 +22,6 @@ To do a basic search, simply visit [https://kagi.com](https://kagi.com) and sear
 
 Or, if you've [set Kagi as your default search engine](setting-default.md), you can do a search from your browser's address bar.
 
-<a name="filter_results"></a>
 ## Filter Search Results
 
 You can [filter](../features/filtering-results.md) your search results to focus on the results you most care about.
@@ -33,7 +30,6 @@ You can [filter](../features/filtering-results.md) your search results to focus 
 
 <img src="media/filters.gif" width="675" alt="Filtering Results"><br />
 
-<a name="search_operators"></a>
 ## Using Search Operators
 
 If you press **?** on your keyboard (**shift + /**) while in search results, Kagi will open a scrollable window showing keyboard shortcuts, search operators, query shortcuts, and widgets. You can also click or tap **Help** at the bottom of any Kagi webpage to see the same information.
@@ -46,7 +42,6 @@ For example, searching for [outfit movie !](https://kagi.com/search?q=outfit%20m
 
 You can read [documentation](../features/search-operators.md) that covers the search operators in detail.
 
-<a name="bang_searches"></a>
 ## Bang Searches
 
 Kagi supports all DuckDuckGo-style [bangs](../features/bangs.md). Bangs are shortcuts starting with exclamation points (!) that quickly take you to search results on other sites.
@@ -55,7 +50,6 @@ For example, searching Kagi for **!w Monty Python** will search Wikipedia direct
 
 <img src="media/bang.gif" width="675" alt="Bang Example"><br />
 
-<a name="lens_searches"></a>
 ## Lens Searches
 
 Kagi [Lenses](../features/lenses.md) allow you to customize your searches by specifying which websites (and other parameters) you see in your results. We provide a few Lenses to get you started, such as one to search only online discussions and forums. You can also create your own!
@@ -64,7 +58,6 @@ Here's an example using the built-in EDU lens:
 
 <img src="media/lens.gif" width="675" alt="Lens Example"><br />
 
-<a name="personalized_results"></a>
 ## Personalized Results
 
 You can tweak how the website for a result is treated in future Kagi searches using [Personalized Results](../features/website-info-personalized-results.md#personalized_results).
