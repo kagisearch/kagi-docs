@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Accessing Settings](#accessing_settings)
+- [Accessing Settings](#accessing-settings)
 - [General](#general)
 - [Appearance](#appearance)
 - [Search](#search)
 - [Privacy](#privacy)
 - [Lenses](#lenses)
-- [Personalized Results](#personalized_results)
+- [Personalized Results](#personalized-results)
 - [Billing](#billing)
 - [Account](#account)
 

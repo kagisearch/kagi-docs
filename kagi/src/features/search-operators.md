@@ -1,10 +1,10 @@
 # Search Operators
 
 ## Table of Contents
-- [Viewing Search Operators](#viewing_operators)
-- [Keyboard Shortcuts](#keyboard_shortcuts)
-- [Search Operators](#search_operators)
-- [Query Shortcuts & Widgets](#queries_widgets)
+- [Viewing Search Operators](#viewing-search-operators)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Search Operators](#search-operators-1)
+- [Query Shortcuts & Widgets](#query-shortcuts--widgets)
 
 ## Viewing Search Operators
 
