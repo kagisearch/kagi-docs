@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Signing Up](#signing_up)
-- [Basic Searches](#basic_searches)
-- [Filter Search Results](#filter_results)
-- [Using Search Operators](#search_operators)
-- [Bang Searches](#bang_searches)
-- [Lens Searches](#lens_searches)
-- [Personalized Results](#personalized_results)
+- [Signing Up](#signing-up)
+- [Basic Searches](#basic-searches)
+- [Filter Search Results](#filter-search-results)
+- [Using Search Operators](#using-search-operators)
+- [Bang Searches](#bang-searches)
+- [Lens Searches](#lens-searches)
+- [Personalized Results](#personalized-results)
 
 ## Signing Up
 
