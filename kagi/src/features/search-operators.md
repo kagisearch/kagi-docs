@@ -6,14 +6,12 @@
 - [Search Operators](#search_operators)
 - [Query Shortcuts & Widgets](#queries_widgets)
 
-<a name="viewing_operators"></a>
 ## Viewing Search Operators
 
 If you press **?** on your keyboard (**shift + /**) while in search results, Kagi will open a scrollable window showing keyboard shortcuts, search operators, query shortcuts, and widgets. You can also click or tap **Help** at the bottom of any Kagi webpage to see the same information.
 
 <img src="media/search_operators.jpeg" width="675" alt="Search Operators">
 
-<a name="keyboard_shortcuts"></a>
 ## Keyboard Shortcuts
 
 **?** — Toggle open/close the keyboard shortcut help screen
@@ -50,7 +48,6 @@ If you press **?** on your keyboard (**shift + /**) while in search results, Kag
 
 **[** — Cycle backwards between navigation tabs
 
-<a name="search_operators"></a>
 ## Search Operators
 
 **filetype:** — Returns only search results that match a particular file extension, for example: [us census 1860 filetype:pdf](https://kagi.com/search?q=us+census+1860+filetype%3Apdf). The filetypes available in Kagi Search come from anonymized queries of the available [Google filetypes](https://developers.google.com/search/docs/crawling-indexing/indexable-file-types) and [Bing filetypes](https://blogs.bing.com/webmaster/2012/10/19/advanced-query-operators-filetype-ext-understanding-the-differences/). (Bing does not provide a filetypes list.)
@@ -69,7 +66,6 @@ If you press **?** on your keyboard (**shift + /**) while in search results, Kag
 
 <b>\*</b> — Matches any word, for example: [best * ever](https://kagi.com/search?q=best+*+ever)
 
-<a name="queries_widgets"></a>
 ## Query Shortcuts & Widgets
 
 **!bang** — Use Kagi [bangs](bangs.md), for example you can use **!r** to directly search reddit: [!r han shot first](https://kagi.com/search?q=!r%20han%20shot%20first)
