@@ -4,7 +4,6 @@ To the right of each Kagi search result is a Crystal Ball icon. Hovering over th
 
 <img src="media/crystal_ball.png" width="675" alt="Crystal Ball Icon">
 
-<a name="web_archive_and_more"></a>
 ## Web Archive & More Results
 
 Near the top of the information window for the search result are two links you can use:
@@ -14,7 +13,6 @@ Near the top of the information window for the search result are two links you c
 
 <img src="media/links.png" width="675" alt="Web Archive and More Results Links">
 
-<a name="personalized_results"></a>
 ## Personalized Results
 
 Midway down the information window for the search result, you can tweak how the website for the result is treated in future Kagi searches.
@@ -33,7 +31,6 @@ Your options are to:
 
 You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
 
-<a name="website_info"></a>
 ## Website Information
 
 At the bottom of the information window for the search result is useful data about the website for the result.
