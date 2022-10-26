@@ -10,12 +10,6 @@ We are confident that Kagi will help you amplify your search abilities, become m
 
 You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](setting-default.md) for details.
 
-## How much does Kagi Search cost?
-
-- The **Free Basic** plan is limited to 50 searches per month
-- The [**Premium**](../plans/premium-plan.md) plan offers unlimited searches for USD $10 per month or USD $120 per year
-- The [**Team Plan**](../plans/team-plan.md) plan costs USD $19 per month fixed fee for unlimited users, and $1 per 40 searches (pay per use)
-
 ## Why does Kagi Search require an account?
 Kagi Search requires an account only because it is a paid service which requires an account for the transcation. 
 
