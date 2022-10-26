@@ -11,6 +11,7 @@
   - [Firefox-Based Browsers](#firefox_browsers)
     - [Desktop](#firefox_desktop)
     - [Android Mobile](#firefox_android_mobile)
+    - [iOS](#firefox_ios)
   - [Safari](#safari)
     - [Desktop](#safari_desktop)
     - [iOS & iPadOS](#safari_ios_ipados)
@@ -107,6 +108,16 @@ To set up a private session link in Firefox, use [this extension](https://addons
   - in the **Name** field, enter **Kagi**.
   - In the **Search string to use** field, enter **https://kagi.com/search?q=%s**
   - Tap the confirmation button in the top right corner of the screen.
+
+<a name="firefox_ios"></a>
+#### iOS
+
+1. Tap the menu button, then **Settings** → **Search** → **Add Search Engine**.
+1. Enter the following:
+    - **Title**: `Kagi`
+    - **URL**: `https://kagi.com/search?q=%s`
+1. Tap **Save**.
+1. Under **Default Search Engine**, select **Kagi**.
 
 <a name="safari"></a>
 ### Safari
