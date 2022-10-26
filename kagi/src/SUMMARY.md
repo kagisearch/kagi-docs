@@ -16,8 +16,8 @@
 		- [Work on Orion Browser](./company/hiring-orion.md)
 	- [Contact Us](./company/contact.md)
 
-- [Support & Community](./support-and-community/index.md)
-	- [Product Roadmap & Feedback Forum](./support-and-community/index.md)
+- [Support & Community](./support-and-community/roadmap-feedback-forum.md)
+	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
 	- [Reporting a Bug](./support-and-community/bug-reporting.md)
 	- [Public Beta](./getting-started/public-beta.md)	
 	- [Email Support](./support-and-community/email-support.md)
@@ -46,8 +46,7 @@
 	- [Filtering Results](./features/filtering-results.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
-  - [Redirects](./features/redirects.md)
-  - [Team Plan Features](./features/team-plan-features.md)
+	- [Team Plan Features](./features/team-plan-features.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
@@ -58,7 +57,6 @@
 	- [Privacy Protection](./privacy/privacy-protection.md)
 	- [Private Browser Sessions](./privacy/private-browser-sessions.md)
 	- [Security](./privacy/security.md)
-	- [Anonymity](./privacy/anonymity.md)
 
 - [Settings](./features/settings.md)
 	- [Settings](./features/settings.md)

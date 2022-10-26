@@ -3,7 +3,7 @@ authors = ["Marc LaFountain"]
 language = "en"
 multilingual = false
 src = "./src"
-title = "Kagi Search Docs"
+title = "Kagi Search User Guide"
 
 [build]
 create-missing = false
