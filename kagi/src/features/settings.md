@@ -7,8 +7,6 @@
 - [Appearance](#appearance)
 - [Search](#search)
 - [Privacy](#privacy)
-- [Lenses](#lenses)
-- [Personalized Results](#personalized-results)
 - [Billing](#billing)
 - [Account](#account)
 
@@ -85,18 +83,6 @@ Privacy Settings options:
 
 <img src="media/privacy_settings.png" width="675" alt="Privacy Settings"><br />
 
-## Lenses
-
-We have [documentation](lenses.md) that shows you how to use Lenses in detail.
-
-<img src="media/lenses_settings.png" width="675" alt="Lenses Settings"><br />
-
-## Personalized Results
-
-We have [documentation](website-info-personalized-results.md#personalized_results) that shows how to use Personalized Results in detail.
-
-<img src="media/personalized_results_settings.png" width="675" alt="Personalized Results Settings"><br />
-
 ## Billing
 
 Billing Settings options:
@@ -109,7 +95,6 @@ Billing Settings options:
 - **Tip Kagi** — If you find that your Kagi experience surpasses your expectations, or you simply find Kagi a great value, you are welcome to send a tip in an amount of your choosing. Tips are not tax-deductible.
 
 <img src="media/billing_settings.png" width="675" alt="Billing Settings"><br />
-
 
 ## Account
 
