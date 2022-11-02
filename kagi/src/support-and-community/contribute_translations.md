@@ -2,7 +2,7 @@
 
 Community members help Kagi with translation support thereby making Kagi globally accessible. 
 
-If you are interested in helping us sign up at https://localazy.com/p/kagi-search
+If you are interested in helping us sign up at [https://localazy.com/p/kagi-search](https://localazy.com/p/kagi-search)
 
 Select the language(s) or let us know what language we should add.
 
