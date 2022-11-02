@@ -44,25 +44,8 @@ Configure Quick Bangs under [Search](https://kagi.com/settings?p=search) in the 
 <img src="media/quick_bangs.PNG" alt="Quick Bangs">
 
 ## Custom Bangs
-You can create your own Custom Bangs in Kagi from the "More" options on the Search Results Page.
 
-![More menu](media/more_menu.PNG)
-
-From within the More Options Menu select Customize.
-
-![Select Customize](media/select_customize.PNG)
-
-Using the Customize menu define your own Custom Bangs. 
-
-![Custom Bang Editor](media/custom_bang_editor.PNG)
-
-For example, you can set up a Custom Bang to for the Kagi Feedback forum.
-
-![Example Custom Bang](media/example_custom_bang.PNG)
-
-You can then quickly search the Kagi Feedback forum using !kf.
-
-If you come across interesting Custom Bangs please consider sharing in our [Discord Community](https://discord.gg/V7HAVt5d). 
+You can create your own Custom Bangs in Kagi using the [Search Shortcuts menu](search-shortcuts.md).
 
 ## Feeling Lucky
 
