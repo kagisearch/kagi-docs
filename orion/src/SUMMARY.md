@@ -82,3 +82,4 @@
 # Credits
 
 - [Contributors](misc/contributors.md)
+- [Kudos](misc/kudos.md)
