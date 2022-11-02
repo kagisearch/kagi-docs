@@ -16,15 +16,18 @@
 		- [Work on Orion Browser](./company/hiring-orion.md)
 	- [Contact Us](./company/contact.md)
 
-- [Support & Community](./support-and-community/index.md)
-	- [Product Roadmap & Feedback Forum](./support-and-community/index.md)
-	- [Reporting a Bug](./support-and-community/bug-reporting.md)
+- [Support and Community](./support-and-community/index.md)
+	- [Roadmap & Feedback Forum](./support-and-community/roadmap_feedback.md)
 	- [Public Beta](./getting-started/public-beta.md)	
+	- [Reporting a Bug](./support-and-community/bug-reporting.md)
 	- [Email Support](./support-and-community/email-support.md)
 	- [Discord Server](./support-and-community/discord-server.md)
 	- [Blog](./support-and-community/blog.md)
-	- [Open Source](./support-and-community/open-source.md)
 	- [Share with Friends and Family](./support-and-community/share-kagi.md)
+
+- [Contribute](./support-and-community/contribute.md)
+	- [Translations](./support-and-community/contribute_translations.md)
+	- [Open Source](./support-and-community/open-source.md)
 
 # User Guide
 
