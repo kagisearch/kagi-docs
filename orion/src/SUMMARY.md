@@ -28,6 +28,9 @@
 	- [macOS Keyboard Shortcuts](./support-and-community/keyboard-shortcuts.md)
 	- [Fastmail Issues](./support-and-community/fastmail-issues.md)
 
+- [Contribute](./support-and-community/contribute.md)
+	- [Translations](./support-and-community/contribute_translations.md)
+
 # User Guide
 
 - [Getting Started](./getting-started/quick-start.md)

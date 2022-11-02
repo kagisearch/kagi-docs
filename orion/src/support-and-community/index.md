@@ -1,9 +1,13 @@
 # Support & Community
 
+Get assistance, help shape the future of Orion and maybe even [contribute!](./support-and-community/contribute.md)
 
-## Community
+## Roadmap
 
-### Forum
+Our community drives the future product direction of Kagi Search, and we hope you will become a part of it.
+Check out our [roadmap](https://orionfeedback.org/roadmap).
+
+## Forum
 You can join [OrionFeedback.org](https://orionfeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address
 and to the discussion.
 
@@ -14,11 +18,6 @@ and to the discussion.
 
 In addition, you can also [join our Discord!](discord-server.md) for real-time discussion about
 the product and chat with other Orion users.
-
-## Roadmap
-
-Our community drives the future product direction of Kagi Search, and we hope you will become a part of it.
-Check out our [roadmap](https://orionfeedback.org/roadmap).
 
 ## Email support
 
