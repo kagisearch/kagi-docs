@@ -1,0 +1,15 @@
+# Appearance
+
+These settings control various visual options.
+
+![Appearance Settings](media/appearance_settings.png)
+
+### Overview
+
+- **Theme** — Change your theme between System Default, Light, or Dark. This setting is stored for mobile and desktop separately.
+- **Font Size** — Change your font size between Small, Medium, Normal, Large, or Larger. This setting is stored for mobile and desktop separately.
+- **Default Light Theme** — Choose between Calm Blue and Fine Print for the Default Light Theme.
+- **Default Dark Theme** — Choose between Royal Blue and Moon Dark for the Default Light Theme.
+- **Show Results** — Choose between showing results aligned to the left or center of your screen.
+- **Show URL Favicons** — Choose whether to display a favicon next to the result title, the result title, or not at all.
+- **Custom CSS** — Access settings to [customize the CSS](custom-css.md) of Kagi search and landing pages.
