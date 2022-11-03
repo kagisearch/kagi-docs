@@ -44,6 +44,7 @@
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
 	- [Bangs](./features/bangs.md)
+ 	- [Search Shortcuts](./features/search-shortcuts.md)
 	- [Lenses](./features/lenses.md)
 	- [Website Info & Personalized Results](./features/website-info-personalized-results.md)
 	- [Filtering Results](./features/filtering-results.md)
