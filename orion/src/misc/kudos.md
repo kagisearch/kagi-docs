@@ -22,7 +22,7 @@ The following individuals have provided 10 or more translations and have therefo
 - Japanese: Hiroto Yajima
 - Portuguese: Rafael Rallo
 - Czech: M_L_M
-- Russian, German: Den Sharf
+- Russian, German: Danman 
 - Dutch: toineenzo
 - Simplified Chinese: 宋泽晖
 - French: Charles Reeses
