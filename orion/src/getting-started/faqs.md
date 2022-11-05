@@ -39,3 +39,14 @@ Orion supports browser extensions based on open-standard WebExtensions APIs. The
 ## Does Orion have an iPhone or iPad app?
 
 Yep, Orion is available for both [iOS](https://apps.apple.com/app/orion-browser-by-kagi/id1484498200) and [iPadOS](https://apps.apple.com/app/orion-browser-by-kagi/id1484498200?platform=ipad).
+
+## Is there anyway to get a previous build of Orion?
+
+Yes, things don't always go as planed and mistakes can happen. If you ever need a perivous version you need to type a specific URL to get the version you want:  https://browser.kagi.com/updates/{Current_OS}/{Orion_Beta_Version}.zip
+
+### Examples: Version 0.99.119-beta
+- https://browser.kagi.com/updates/13_0/119.zip  (Ventura)
+- https://browser.kagi.com/updates/12_0/119.zip  (Monterey)
+- https://browser.kagi.com/updates/11_0/119.zip  (Big Sur)
+- https://browser.kagi.com/updates/10_15/119.zip (Catalina)
+- https://browser.kagi.com/updates/10_14/119.zip (Mojave)
