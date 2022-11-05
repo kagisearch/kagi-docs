@@ -11,9 +11,9 @@ We are confident that Kagi will help you amplify your search abilities, become m
 You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](setting-default.md) for details.
 
 ## Why does Kagi Search require an account?
-Kagi Search requires an account only because it is a paid service which requires an account for the transcation. 
+Kagi Search requires an account only because it is a paid service which requires an account for the transaction. 
 
-Note that Kagi does not collect any personal information for billing and that you can even use an anonumous payment card such as PrivacyHQ if you want to.
+Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as PrivacyHQ if you want to.
 
 ## Why does Kagi Search require an email address?
 We require an email address to be able to verify the account really belongs to you in the following cases:
