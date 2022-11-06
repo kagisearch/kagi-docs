@@ -15,6 +15,7 @@
 	- [Jobs](./company/hiring-kagi.md)
 		- [Work on Kagi Search](./company/hiring-kagi.md)
 		- [Work on Orion Browser](./company/hiring-orion.md)
+	- [Donations](./company/donations.md)
 	- [Contact Us](./company/contact.md)
 
 - [Support & Community](./support-and-community/index.md)

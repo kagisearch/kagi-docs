@@ -6,6 +6,7 @@
 - [Company](./company/index.md)
 	- [About](./company/index.md)
 	- [Say no to Ads](./company/noads.md)
+
 	- [Products](./company/products.md)
 	- [History](./company/history.md)
 	- [Name](./company/meaning.md)
@@ -15,6 +16,7 @@
 	- [Jobs](./company/hiring-kagi.md)
 		- [Work on Kagi Search](./company/hiring-kagi.md)
 		- [Work on Orion Browser](./company/hiring-orion.md)
+	- [Donations](./company/donations.md)
 	- [Contact Us](./company/contact.md)
 
 - [Support and Community](./support-and-community/index.md)
