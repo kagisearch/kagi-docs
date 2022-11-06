@@ -37,3 +37,13 @@ html {
 body {
   font-size: 1.8rem;
 }
+
+
+
+.left-buttons button {
+font-size:15px;
+}
+
+.right-buttons .fa {
+margin-top: 3px;
+}

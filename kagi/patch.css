@@ -53,3 +53,12 @@ body {
   border-radius: 5px;
   overflow-y: auto;
 }
+
+
+.left-buttons button {
+font-size:15px;
+}
+
+.right-buttons .fa {
+margin-top: 3px;
+}
