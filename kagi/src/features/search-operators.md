@@ -54,6 +54,10 @@ If you press **?** on your keyboard (**shift + /**) while in search results, Kag
 
 **site:** — Returns only search results from a particular website, for example: [best in show dog site:akc.org](https://kagi.com/search?q=best+in+show+dog+site%3Aakc.org)
 
+**inurl:** — Finds webpages whose URL includes a term of phrase, for example: [best headphones inurl:forum](https://kagi.com/search?q=best+headphones+inurl%3Aforum)
+
+**intitle:** — Finds webpages whose title includes a term of phrase, for example: [chess intitle:books](https://kagi.com/search?q=chess+intitle%3Abooks)
+
 **"words"** — Finds the exact words in a phrase, for example: ["survival is insufficient"](https://kagi.com/search?q=%22survival+is+insufficient%22)
 
 **()** — Finds or excludes webpages that contain a group of words, examples below
