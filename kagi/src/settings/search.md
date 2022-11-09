@@ -12,6 +12,14 @@ These are settings that primarily affect Web search results.
 
 ![Advanced Search Options](media/advanced_search.png)
 
+- **Grouped Results** - Choose wether to group search results on the page, enabled by default. Here's what that looks like enabled:
+
+![Grouped Results](media/grouped_results.png)
+
+Here's what that looks like disabled:
+
+![Ungrouped Results](media/ungrouped_results.png)
+
 - **Search Results per Page** — Choose to show All, 10, or 20 results per page.
 - **Result Snippet Length** — Influence how snippets are chosen from our indexes, whether to prefer short and punctual snippets, or longer detailed ones.
 - **Search Bangs** — Choose whether to allow the use of [search bangs](bangs.md). For example, [!r merge lane etiquette](https://kagi.com/search?q=!r%20merge%20lane%20etiquette) will search Reddit for you.
