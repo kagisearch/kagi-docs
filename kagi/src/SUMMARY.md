@@ -48,7 +48,6 @@
 	- [Search Operators](./features/search-operators.md)
 	- [Bangs](./features/bangs.md)
 	- [Shopping Searches](./features/shopping.md)
-	- [Verbatim Searches](./features/verbatim.md)
         - [Code Searches](./features/code.md)
  	- [Search Shortcuts](./features/search-shortcuts.md)
 	- [Lenses](./features/lenses.md)
@@ -58,6 +57,7 @@
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Redirects](./features/redirects.md)
 	- [Team Plan Features](./features/team-plan-features.md)
+	- [Verbatim Search](./features/verbatim.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
