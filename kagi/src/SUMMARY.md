@@ -49,7 +49,7 @@
 	- [Bangs](./features/bangs.md)
 	- [Shopping Searches](./features/shopping.md)
 	- [Verbatim Searches](./features/verbatim.md)
-  - [Code Searches](./features/code.md)
+        - [Code Searches](./features/code.md)
  	- [Search Shortcuts](./features/search-shortcuts.md)
 	- [Lenses](./features/lenses.md)
 	- [Website Info & Personalized Results](./features/website-info-personalized-results.md)
