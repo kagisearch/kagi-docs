@@ -15,6 +15,7 @@ Thank you!
 - Liam 
 - Vladimir Prelovac ([vprelovac](https://github.com/vprelovac))
 - Lukas Winkler ([Findus23](https://github.com/Findus23))
+- Daniel Martín ([danielmartin](https://github.com/danielmartin))
 
 If you feel you're missing from this list, feel free to add yourself in a pull request.
 
