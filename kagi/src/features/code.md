@@ -1,8 +1,8 @@
-# Code Seaching
+# Code Searching
 
 Kagi supports developers with code samples in response to search results. 
 
-For example, consdier searching for <i>write!<i>
+For example, consider searching for <i>write!<i>
 
 <img src="media/initial_write_search.PNG" alt="Write Search No Filter">
 
