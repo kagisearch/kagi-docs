@@ -1,8 +1,12 @@
 # Work on Orion Browser
 
-- Do you have advanced Swift, JavaScript and/or C++ knowledge? 
-- Do you specialize in AppKit/UIKit or you can solve difficult problems and code exceptionally well? (We’ll send a test project.) 
-- Do you want to be a part of international and fully-remote team building products with care?
+Requirements:
+- Swifth experience (3+ years) with macOS or iOS
+
+Roles:
+- UI/UX developer: You have experience with macOS or iOS UX/UI components (AppKit/UIKit) and love creating native apps with great user interactions
+- Backend developer - You can write code in Swift but also delve into WebKit (C++) if needed
+- Extension support developer - You can help extend our WebExtensions API support by combining JavaScript, Swift (and occasionaly WebKit if needed)
 
 We are hiring macOS and iOS developers for the Orion browser team.  Create the best browser on Apple devices with us. 
 
@@ -10,7 +14,8 @@ We are hiring macOS and iOS developers for the Orion browser team.  Create the b
 - Flexible work conditions, remote work OK. 
 - Early startup equity is available. 
 
-Send your CV to [vlad@kagi.com](mailto:vlad@kagi.com). 
+
+Send your CV to [vlad@kagi.com](mailto:vlad@kagi.com) and we will send a test project.
 
 ---
 
