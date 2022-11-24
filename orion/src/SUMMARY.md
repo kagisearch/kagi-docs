@@ -21,6 +21,7 @@
 - [Support & Community](./support-and-community/index.md)
 	- [Getting help and contributing](./support-and-community/index.md)
 	- [Troubleshooting Webpage Issues](./support-and-community/troubleshooting-webpage-issues.md)
+	- [Troubleshooting Extension Issues](./support-and-community/troubleshooting-extension-issues.md)
 	- [Supported OS Versions](./support-and-community/os-versions.md)
 	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
 		- [Reporting a bug](./support-and-community/bug-reporting.md)
