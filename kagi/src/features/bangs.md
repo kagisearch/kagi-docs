@@ -58,6 +58,10 @@ From here you can "Add Bang" to define new custom bangs.
 
 You can create your own Custom Bangs in Kagi using the [Search Shortcuts menu](search-shortcuts.md).
 
+## Watch a Demo
+You can see a full demo of using bangs - default, new and custom - by watching the video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Cy8PHrVs5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Feeling Lucky
 
