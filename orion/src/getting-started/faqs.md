@@ -50,3 +50,8 @@ Yes, things don't always go as planed and mistakes can happen. If you ever need 
 - https://browser.kagi.com/updates/11_0/119.zip  (Big Sur)
 - https://browser.kagi.com/updates/10_15/119.zip (Catalina)
 - https://browser.kagi.com/updates/10_14/119.zip (Mojave)
+
+## How do I access my Favorites via shortcuts (CMD + #)?
+
+Open Preferences -> Browsing, uncheck "Use cmd1 - cmd9 to switch tabs"
+
