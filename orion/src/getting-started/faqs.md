@@ -53,5 +53,7 @@ Yes, things don't always go as planed and mistakes can happen. If you ever need 
 
 ## How do I access my Favorites via shortcuts (CMD + #)?
 
-Open Preferences -> Browsing, uncheck "Use cmd1 - cmd9 to switch tabs"
+Open Preferences -> Browsing, uncheck "Use cmd1 - cmd9 to switch tabs".
+
+Note that Orion uses Bookmarks bar that is separate from Favorites for more control, so you would need to copy bookmarks you want to the Bookmarks bar folder.
 
