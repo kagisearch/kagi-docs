@@ -1,8 +1,8 @@
-# Frequently Asked Questions (FAQs)
+# Frequently Asked Questions (FAQ)
 
 ## What is Orion?
 
-Orion is a free, lightning-fast, privacy-protecting browser for Apple users, open to the web and all its standards and protocols. It's based on the [WebKit](https://en.wikipedia.org/wiki/WebKit) open-source browser engine that also powers Apple's Safari web browser. One day, we hope everyone will say Orion is the best browser for all Apple devices. 
+Orion is a free, lightning-fast, and privacy-protecting browser for Apple users, open to the web and all its standards and protocols. It's based on the [WebKit](https://en.wikipedia.org/wiki/WebKit) open-source browser engine that also powers Apple's Safari web browser. One day, we hope everyone will say Orion is the best browser for all Apple devices. 
 
 Orion was built for professionals by professionals, but anyone can benefit from it. Installing Orion with its default settings on any Apple device will cut down on annoying ads and speed up page loads. We want everyone to enjoy the web.
 
@@ -10,23 +10,23 @@ Orion was built for professionals by professionals, but anyone can benefit from 
 
 ## Why use Orion instead of Safari?
 
-Safari is truly one of the best browsers you can use on macOS, and we’re grateful to Apple for creating such a solid foundation. By basing Orion on Safari’s tech stack, then adding productivity enhancements such as built-in ad-blocking, Orion can provide users with [exactly what they need](../why-orion/orion-vs-safari.md).
+Safari is truly one of the best browsers you can use on macOS, and we're grateful to Apple for creating such a solid foundation. By basing Orion on Safari's tech stack, then adding productivity enhancements such as built-in ad-blocking, Orion can provide users with [exactly what they need](../why-orion/orion-vs-safari.md).
 
 ## Why use Orion instead of Chrome, Firefox, or other browsers based on Chromium/Firefox?
 
-Google and Mozilla have made great technological strides over the past decades. We’re grateful for those efforts because they help us take [the next step in browser evolution](../why-orion/kagi-vs-others.md).
+Google and Mozilla have made great technological strides over the past decades. We're grateful for those efforts because they help us take [the next step in browser evolution](../why-orion/kagi-vs-others.md).
 
 ## How fast is Orion?
 
-We are...ahem..[fast](../why-orion/orion-speed.md).
+We are... ahem.. [fast](../why-orion/orion-speed.md).
 
 ## How much memory does Orion use?
 
-Orion is lightweight, with [advanced memory-use technology](../why-orion/memory-usage.md) that includes the best closed-tab management of all contemporary browsers
+Orion is lightweight, with [advanced memory-use technology](../why-orion/memory-usage.md) that includes the best closed-tab management of all contemporary browsers.
 
 ## How does Orion respect my online privacy?
 
-Orion has no built-in telemetry, so it can never "phone home" and risk exposing your data. Orion is truly and verifiably a [privacy-respecting browser](../privacy-and-security/respecting-privacy.md), unlike those that offer only an illusion of privacy. 
+Orion has no built-in telemetry, so it can never "phone home" and risk exposing your data. Orion is truly and verifiably a [privacy-respecting browser](../privacy-and-security/respecting-privacy.md) — unlike those that only offer the illusion of privacy. 
 
 ## How does Orion protect my online privacy?
 
@@ -40,9 +40,9 @@ Orion supports browser extensions based on open-standard WebExtensions APIs. The
 
 Yep, Orion is available for both [iOS](https://apps.apple.com/app/orion-browser-by-kagi/id1484498200) and [iPadOS](https://apps.apple.com/app/orion-browser-by-kagi/id1484498200?platform=ipad).
 
-## Is there anyway to get a previous build of Orion?
+## Is there any way to get a previous build of Orion?
 
-Yes, things don't always go as planed and mistakes can happen. If you ever need a perivous version you need to type a specific URL to get the version you want:  https://browser.kagi.com/updates/{Current_OS}/{Orion_Beta_Version}.zip
+Yes, things don't always go as planned and mistakes can happen. If you ever need a previous version, you need to type a specific URL to get the version you want:  https://browser.kagi.com/updates/{Current_OS}/{Orion_Beta_Version}.zip
 
 ### Examples: Version 0.99.119-beta
 - https://browser.kagi.com/updates/13_0/119.zip  (Ventura)
@@ -57,3 +57,8 @@ Open Preferences -> Browsing, uncheck "Use cmd1 - cmd9 to switch tabs".
 
 Note that Orion uses Bookmarks bar that is separate from Favorites for more control, so you would need to copy bookmarks you want to the Bookmarks bar folder.
 
+## Orion is displaying wrong icons for Favorites and Frequently Visited pages on iOS — how can I fix that?
+
+The easiest way to fix incorrect icons is to purge the websites cache. You can accomplish this with the following steps:
+
+Settings -> Data Management -> Clear History and Websites Data -> Toggle on 'Websites Cache' -> Tap Clear.
