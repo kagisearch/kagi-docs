@@ -1,6 +1,6 @@
 # Support & Community
 
-Get assistance, help shape the future of Orion and maybe even [contribute!](./support-and-community/contribute.md)
+Get assistance, help shape the future of Orion and maybe even [contribute!](./contribute.md)
 
 ## Roadmap
 
