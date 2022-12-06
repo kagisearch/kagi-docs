@@ -85,7 +85,7 @@ Open Preferences -> Browsing, uncheck "Use cmd1 - cmd9 to switch tabs".
 Note that Orion uses Bookmarks bar that is separate from Favorites for more control, so you would need to copy bookmarks you want to the Bookmarks bar folder.
 
 <a name="wrongicons"></a>
-## Orion is displaying wrong icons for Favorites and Frequently Visited pages on iOS — how can I fix that?
+## Orion is displaying wrong icons for Favorites and Frequently Visited pages — how can I fix that?
 
 The easiest way to fix incorrect icons is to purge the websites cache. You can accomplish this with the following steps:
 
