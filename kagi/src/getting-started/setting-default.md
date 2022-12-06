@@ -25,7 +25,7 @@ Kagi is available as an extension for all major browsers. The extension sets Kag
 
 Extension download links:
 
-- [Chromium-based browsers](https://chrome.google.com/webstore/detail/cdglnehniifkbagbbombnjghhcihifij0) (Chrome, Edge, Brave, Opera, Vivaldi...)
+- [Chromium-based browsers](https://chrome.google.com/webstore/detail/cdglnehniifkbagbbombnjghhcihifij) (Chrome, Edge, Brave, Opera, Vivaldi...)
 - [Firefox-based browsers](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)
   - If you use Firefox on Android, check out [this guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/). Android doesn't set Kagi as the default search engine, but it allows search in private mode to work normally.
 - [Safari for macOS](https://apps.apple.com/app/kagi-search-for-safari/id1622835804)
