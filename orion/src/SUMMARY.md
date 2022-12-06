@@ -37,7 +37,6 @@
 
 - [Getting Started](./getting-started/quick-start.md)
 	- [Quick Start](./getting-started/quick-start.md)
-	- [Frequently Asked Questions](./getting-started/faqs.md)
 	- [Installing Orion](./getting-started/installing-orion.md)
 	- [Importing Data From Other Browsers](./getting-started/importing.md)
 	- [Default Search Engine](./getting-started/search-engine.md)
@@ -82,9 +81,11 @@
 	- [Speed](./why-orion/orion-speed.md)
 	- [Memory Usage](./why-orion/memory-usage.md)
 
+- [Frequently Asked Questions](./faq/faq.md)
+
 - [Live stats](./misc/stats.md)
 
 # Credits
 
-- [Contributors](misc/contributors.md)
-- [Kudos](misc/kudos.md)
+- [Contributors](./misc/contributors.md)
+- [Kudos](./misc/kudos.md)
