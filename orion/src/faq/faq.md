@@ -13,7 +13,7 @@
 - [Does Orion have an iPhone or iPad app?](#iOS)
 - [Is there any way to get a previous build of Orion?](#oldbuilds)
 - [How do I access my Favorites via shortcuts (CMD + #)?](#favorites_shortcuts)
-- [Orion is displaying wrong icons for Favorites and Frequently Visited pages on iOS — how can I fix that?](#wrongicons)
+- [Orion is displaying wrong icons for Favorites and Frequently Visited pages — how can I fix that?](#wrongicons)
 
 <a name="what_is_orion"></a>
 ## What is Orion?
