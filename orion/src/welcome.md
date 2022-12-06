@@ -4,7 +4,7 @@ Orion is a free, lightning-fast, privacy-protecting browser for Apple users, ope
 
 **Please note that Orion Docs are in beta and thus are not yet complete.** We haven't documented all of Orion's amazing features yet. But, we will be adding more documentation here over time.
 
-If you're new to Orion, our [Quick Start](./getting-started/quick-start.md) and [FAQs](./getting-started/faqs.md) are great places to begin.
+If you're new to Orion, our [Quick Start](./getting-started/quick-start.md) and [FAQs](./getting-started/faq.md) are great places to begin.
 
 You can access our documentation in several ways:
 
