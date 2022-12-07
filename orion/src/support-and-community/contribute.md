@@ -1,7 +1,13 @@
-# Contribute
+# Feedback
 
-The Orion user community is a diverse and passionate group of people who help make Orion better.
+## Forum
+You can join [OrionFeedback.org](https://orionfeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address
+and to the discussion.
 
-As our documentation is Open Source we are also supported by contributors of our community.
+- Please see our [Bug Reporting Guide](bug-reporting.md) for instructions on reporting issues.
+- All bugs and feature requests are encouraged to be posted on the forum.
 
-If you are going to support use, please join the [Orion Discord server](https://discord.gg/8kpHwBqZ) so we can collaborate. 
+## Discord
+
+In addition, you can also [join our Discord!](discord-server.md) for real-time discussion about
+the product and chat with other Orion users.

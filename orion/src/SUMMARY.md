@@ -31,6 +31,8 @@
 	- [Fastmail Issues](./support-and-community/fastmail-issues.md)
 
 - [Contribute](./support-and-community/contribute.md)
+	- [Feedback](./support-and-community/contribute.md)
+	- [Documentation](./support-and-community/contribute_documentation.md)
 	- [Translations](./support-and-community/contribute_translations.md)
 
 # User Guide
