@@ -85,6 +85,8 @@
 
 - [Frequently Asked Questions](./faq/faq.md)
 
+- [Technical Information](./misc/technical.md)
+
 - [Live stats](./misc/stats.md)
 
 # Credits
