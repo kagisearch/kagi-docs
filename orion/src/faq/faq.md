@@ -12,6 +12,7 @@
 - [How does Orion support extensions?](#extensions)
 - [Does Orion have an iPhone or iPad app?](#iOS)
 - [Is there any way to get a previous build of Orion?](#oldbuilds)
+- [How do I enable Debug menu?](#debugmenu)
 - [How do I access my Favorites via shortcuts (CMD + #)?](#favorites_shortcuts)
 - [Orion is displaying wrong icons for Favorites and Frequently Visited pages — how can I fix that?](#wrongicons)
 
@@ -76,6 +77,38 @@ Yes, things don't always go as planned and mistakes can happen. If you ever need
 - https://browser.kagi.com/updates/10_15/119.zip (Catalina)
 - https://browser.kagi.com/updates/10_14/119.zip (Mojave)
 
+<a name="debugmenu"></a>
+## How to use Debug menu?
+
+Orion's debug menu contains a number of commands that can be of interest to "advanced" users. To enabled Debug menu, type the following in terminal:
+
+> defaults write com.kagi.kagimacOS DebugMenu 1
+
+If you use Orion RC (release candidate) replace with com.kagi.kagimacOS.RC. 
+
+When you relaunch Orion, you’ll find a new Debug menu, located to the right of the Help menu.
+
+Test Web Page - Web Page for testing with default configuration and without any web-extension scripts
+
+Reset Welcome Animation State - To reset welcome animation flag to see again on next launch
+
+Reset Preferences - Reset all global settings
+
+Clear Website Data - Remove all website data (cache, cookies etc)
+
+Clear Content Blocking Lists - Remove Content Blocking List so that can be initialized again on next relaunch
+
+Clear Policy Cache - Removes WebRequest APIs request/response blocking (from web-extensions like uBlock) cache
+
+Disable Resource Interceptor - Bypass any requests/response interception (used by WebRequests API) to reduce request/response delay
+
+Disable Reloading Tab on WebKit Crash - Disables auto reload feature of webpage when WebContent process crashes
+
+Show Debug Log - Shows web-extension API console logs for testing/debug
+
+Factory Reset - Wipe all data and reset Orion to factory settings
+
+You can read more about Orion's advanced features in the [technical documentation](../misc/technical.md).
 
 <a name="favorites_shortcuts"></a>
 ## How do I access my Favorites via shortcuts (CMD + #)?
