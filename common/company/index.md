@@ -11,6 +11,7 @@ Kagi Inc. currently has two products: [Kagi Search](https://kagi.com), a fast, p
 Our company headquarters are in Palo Alto, CA.
 
 Contact:
+
 Kagi Inc.\
 Palo Alto, CA, USA\
 Email: vlad@kagi.com\
