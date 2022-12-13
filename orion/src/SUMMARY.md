@@ -20,15 +20,13 @@
 
 - [Support & Community](./support-and-community/index.md)
 	- [Getting help and contributing](./support-and-community/index.md)
-	- [Troubleshooting Webpage Issues](./support-and-community/troubleshooting-webpage-issues.md)
-	- [Troubleshooting Extension Issues](./support-and-community/troubleshooting-extension-issues.md)
+	- [Orion is in Public Beta](./getting-started/public-beta.md)
 	- [Supported OS Versions](./support-and-community/os-versions.md)
 	- [Product Roadmap & Feedback Forum](./support-and-community/roadmap-feedback-forum.md)
 		- [Reporting a bug](./support-and-community/bug-reporting.md)
 	- [Discord Server](./support-and-community/discord-server.md)
 	- [Email Support](./support-and-community/email-support.md)
 	- [macOS Keyboard Shortcuts](./support-and-community/keyboard-shortcuts.md)
-	- [Fastmail Issues](./support-and-community/fastmail-issues.md)
 
 - [Contribute](./support-and-community/contribute.md)
 	- [Feedback](./support-and-community/contribute.md)
@@ -42,7 +40,9 @@
 	- [Installing Orion](./getting-started/installing-orion.md)
 	- [Importing Data From Other Browsers](./getting-started/importing.md)
 	- [Default Search Engine](./getting-started/search-engine.md)
-	- [Orion is in Public Beta](./getting-started/public-beta.md)
+ 	- [Troubleshooting Webpage Issues](./support-and-community/troubleshooting-webpage-issues.md)
+	- [Troubleshooting Extension Issues](./support-and-community/troubleshooting-extension-issues.md)
+	
 
 - [Orion+](./orion-plus/orion-plus.md)
 
