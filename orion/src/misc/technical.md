@@ -91,7 +91,7 @@ Copy Orion settings from one Mac to another
 
 
 Parse Reading List as json and print all URLs
-> plutil -convert json -o - ~/Library/Application\ Support/Orion/Defaults/reading\_list.plist | jq -r '.[].url.relative'
+> plutil -convert json -o - ~/Library/Application\ Support/Orion/Defaults/reading_list.plist | jq -r '.[].url.relative'
 
 Start Orion without any extensions active
 > Rename ~/Library/Application Support/Orion/Defaults/Extensions directory before launch. And after that rename this directory to Extensions again to have them back. 
