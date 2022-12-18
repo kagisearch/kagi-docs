@@ -91,14 +91,14 @@ Copy Orion settings from one Mac to another
 
 
 Parse Reading List as json and print all URLs
-> plutil -convert json -o - 'Library/Application Support/Orion/Defaults/reading_list.plist' | jq -r '.[].url.relative 
+> plutil -convert json -o - ~/Library/Application\ Support/Orion/Defaults/reading_list.plist | jq -r '.[].url.relative'
 
 Start Orion without any extensions active
 > Rename ~/Library/Application Support/Orion/Defaults/Extensions directory before launch. And after that rename this directory to Extensions again to have them back. 
 
 
 Orion's history is an sqllite database. Here's a simple snippet to get you started
-> sqlite3 ~/Library/Application\ Support/Orion/Defaults/history 'SELECT url FROM history_items INNER JOIN visits ON visits.history_item_id = hist ory_items.id GROUP BY url ORDER BY count(visits.visit_time) DESC LIMIT 10' 
+> sqlite3 ~/Library/Application\ Support/Orion/Defaults/history 'SELECT url FROM history_items INNER JOIN visits ON visits.history_item_id = history_items.id GROUP BY url ORDER BY count(visits.visit_time) DESC LIMIT 10' 
 
 
 And here's a one-liner that will let you fuzzy search your history using fzf
