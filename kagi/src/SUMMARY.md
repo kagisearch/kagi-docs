@@ -38,10 +38,11 @@
 	- [Quick Start](./getting-started/index.md)
 	- [Frequently Asked Questions](./getting-started/faqs.md)
 	- [Set Kagi as Your Default Search Engine](./getting-started/setting-default.md)
-	- [Plans & Payment](./plans/plan-types.md)
-		- [Plan Types](./plans/plan-types.md)
-		- [Premium Plan](./plans/premium-plan.md)
-		- [Team Plan](./plans/team-plan.md)
+
+- [Plans & Payment](./plans/plan-types.md)
+	- [Plan Types](./plans/plan-types.md)
+	- [Premium Plan](./plans/premium-plan.md)
+	- [Team Plan](./plans/team-plan.md)
 			
 
 - [Features](./features/search-operators.md)
@@ -90,20 +91,20 @@
 
 # Developers
 
-- [Kagi API](search-api/overview.md)
-  - [Overview](search-api/overview.md)
-  - [API Version](search-api/api-version.md)
-  - [Making Requests](search-api/making-requests/index.md)
-    - [Authentication](search-api/making-requests/auth.md)
-    - [Base API URL](search-api/making-requests/api-url.md)
-    - [Response Format](search-api/making-requests/response-format.md)
-    - [Image Proxy URLs](search-api/making-requests/image-proxy-urls.md)
-  - [Objects](search-api/objects.md)
-  - [Endpoints](search-api/endpoints/index.md)
-    - [Execute Search](search-api/endpoints/execute-search.md)
+- [Kagi API](./search-api/overview.md)
+  - [Overview](./search-api/overview.md)
+  - [API Version](./search-api/api-version.md)
+  - [Making Requests](./search-api/making-requests/index.md)
+    - [Authentication](./search-api/making-requests/auth.md)
+    - [Base API URL](./search-api/making-requests/api-url.md)
+    - [Response Format](./search-api/making-requests/response-format.md)
+    - [Image Proxy URLs](./search-api/making-requests/image-proxy-urls.md)
+  - [Objects](./search-api/objects.md)
+  - [Endpoints](./search-api/endpoints/index.md)
+    - [Execute Search](./search-api/endpoints/execute-search.md)
 
 
 # Credits
 
-- [Contributors](misc/contributors.md)
-- [Kudos](misc/kudos.md)
+- [Contributors](./misc/contributors.md)
+- [Kudos](./misc/kudos.md)
