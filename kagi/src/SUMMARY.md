@@ -43,7 +43,8 @@
 	- [Plan Types](./plans/plan-types.md)
 	- [Premium Plan](./plans/premium-plan.md)
 	- [Team Plan](./plans/team-plan.md)
-			
+	- [Gift Kagi](./plans/gift-kagi.md)
+
 
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
