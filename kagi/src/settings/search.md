@@ -12,7 +12,7 @@ These are settings that primarily affect Web search results.
 
 ![Advanced Search Options](media/advanced_search.png)
 
-- **Grouped Results** - Choose wether to group search results on the page, enabled by default. Here's what that looks like enabled:
+- **Grouped Results** - Choose whether to group search results of the same domain on the page or unroll them into individual results, enabled by default. Here's what that looks like enabled:
 
 ![Grouped Results](media/grouped_results.png)
 
