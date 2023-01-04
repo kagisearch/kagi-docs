@@ -55,6 +55,7 @@
 	- [Website Info & Personalized Results](./features/website-info-personalized-results.md)
 	- [Filtering Results](./features/filtering-results.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
+		- [Brave Search Theme](.features/brave-search-theme.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Redirects](./features/redirects.md)
 	- [Team Plan Features](./features/team-plan-features.md)
