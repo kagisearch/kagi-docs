@@ -56,6 +56,7 @@
 	- [Filtering Results](./features/filtering-results.md)
 	- [Customizing Kagi CSS](./features/custom-css.md)
 		- [Brave Search Theme](.features/brave-search-theme.md)
+		- [Hide Group Search Results](.features/hide-group-search.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Redirects](./features/redirects.md)
 	- [Team Plan Features](./features/team-plan-features.md)
