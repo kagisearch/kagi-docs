@@ -10,20 +10,6 @@ The following only works when you have applied the Dark Theme in your appearance
 To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css) - this code is also available on [Snap Code](https://snapcode.vercel.app/snippet/bP4eAdE4ODm4XFkLaVMpZ).
 
 ```
-Explore
-My Snippets
-user photo
-Noah Raskin
-
-Created at: 06 January 2023
-
-
-Kagi CSS
-
-CSS
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
 .theme_dark {
   --k-accent: #f16d43;
