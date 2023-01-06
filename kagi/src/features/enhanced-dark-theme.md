@@ -5,7 +5,7 @@ User El_Dude shared an Enhanced Dark Theme in the  [Kagi Discord](https://kagi.
 
 The following only works when you have applied the Dark Theme in your appearance.
 
-![Dark Theme Settings](media/dark-theme-settings.png)
+![Dark Theme Settings](media/dark-theme-settings.PNG)
 
 To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css) - this code is also available on [Snap Code](https://snapcode.vercel.app/snippet/bP4eAdE4ODm4XFkLaVMpZ).
 
