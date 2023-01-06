@@ -7,7 +7,7 @@ Removing the grouped search results returns the following.
 
 ![Group Search Removed](media/group-search-hidden.png)
  
-To do so you can apply the following custom CSS. 
+To do so you can apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css). 
 ```
 .sr-group.__dl {
   display: none;
