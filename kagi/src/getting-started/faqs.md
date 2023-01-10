@@ -25,6 +25,16 @@ Note that you can use an anonymous email provider such as SimpleLogin with Kagi 
 
 Kagi does need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription business.
 
+## I have privacy concerns over linking my search queries with my credit card. Why should I trust you?
+
+We do not log search queries. Queries you type are never associated with your account. The simple reason is we don't have any reason to do so, as it would only be a liability for us. We are in the business of selling search results, not user data.
+
+You can also check our [privacy policy](https://kagi.com/privacy) for more information.
+
+## What data does Kagi collect?
+
+Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy/privacy-protection.md) for more information.
+
 ## How fast is Kagi Search?
 
 We are...ahem...[fast](../search-details/search-speed.md).
@@ -32,10 +42,6 @@ We are...ahem...[fast](../search-details/search-speed.md).
 ## How do Kagi's features compare to other search engines?
 
 Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in other search engines.
-
-## What data does Kagi collect?
-
-Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy/privacy-protection.md) for more information.
 
 ## How do I get help with Kagi?
 
