@@ -33,17 +33,17 @@ We take pride in Orion being 100% native on macOS/iOS/iPadOS.
 
 Lets define what native means first: Native macOS app is an app that is specifically designed for the Apple macOS operating system and utilizes its APIs, frameworks, UI components and guidelines.
 
-The main benefits include:
+The main benefits of native apps include:
 
-- Ensuring that the app feels native and familiar to users. Apple's guidelines for UI design (HIG) provide guidance on how to design an intuitive and easy-to-use UI, that follows platform conventions and therefore provides a consistent experience across apps for new and veteran users. 
+- Ensuring that the app feels familiar to users. HIG provides guidance on how to design an intuitive UI that follows platform conventions and therefore provides a consistent experience across apps for new and veteran users. 
 
-- It is generally accepted that Apple knows what it is doing when design is question. It is probably one of the reasons you own a Mac or an iPhone. Following the extensive Human Interface Guidelines (HIG) makes any designer's job easier, not harder. 
+- It is generally accepted that Apple knows what it is doing when design is question. It is probably a good idea to follow its lead and probably one of the reasons you own a Mac or an iPhone. Following the extensive Human Interface Guidelines (HIG) makes any designer's job easier, not harder. 
 
-- Any long time Mac user can easily see how Chrome or Firefox look and feel out of place on a Mac. These browsers were originally designed for Windows, and because they are cross platform, that design stuck, so they look the same even on macOS or Linux, when those are clearly different operating systems with different design rules and aesthetics.
+- Any long time Mac user can easily see how Chrome or Firefox look and feel out of place on a Mac. These browsers were originally designed for Windows, but they work and look the same even on macOS or Linux, when those are clearly different operating systems with different conventions, design rules and aesthetics.
 
 - Native integrations allow apps to use powerful components provided by the OS. For example Orion utilizes Keychain to store passwords or gets the benefit of Live Text recognition of text in images. This make apps more powerful while being leaner and easier to build and maintain at the same time.
 
-- Finally, using native components and frameworks generally makes apps faster, slicker, better for battery life and overall snappier. 
+- Finally, and maybe most importantly, using native components and frameworks generally makes apps faster, better for battery life and overall snappier. 
 
 <a name="orion_over_safari"></a>
 ## Why use Orion instead of Safari?
