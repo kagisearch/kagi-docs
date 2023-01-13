@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [What is Orion?](#what_is_orion)
-- [Why is importnat for an app to be native?](#native)
+- [Why is it important for an app to be native?](#native)
 - [Why use Orion instead of Safari?](#orion_over_safari)
 - [Why use Orion instead of Chrome, Firefox or other browsers based on Chromium/Firefox?](#orion_over_chrome)
 - [How fast is Orion?](#howfast)
@@ -27,7 +27,7 @@ Orion was built for professionals by professionals, but anyone can benefit from 
 <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/689121874?h=ddbd074d5a" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <a name="native"></a>
-## Why is importnat for an app to be native?
+## Why is it important for an app to be native?
 
 We take pride in Orion being 100% native on macOS/iOS/iPadOS.
 
