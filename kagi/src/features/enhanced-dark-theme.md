@@ -7,6 +7,10 @@ The following only works when you have applied the Dark Theme in your appearance
 
 ![Dark Theme Settings](media/dark-theme-settings.PNG)
 
+You will also need to make sure the Default Dark Theme is set to "Royal Blue".
+
+![Default_Dark_Theme](media/default_dark_theme.png)
+
 To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css) - this code is also available on [Snap Code](https://snapcode.vercel.app/snippet/bP4eAdE4ODm4XFkLaVMpZ).
 
 ```
