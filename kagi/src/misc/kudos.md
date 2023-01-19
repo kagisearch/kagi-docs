@@ -4,18 +4,9 @@ The Kagi community is  vibrant groups of passionate users who make us stronger.
 We would like to thank the following individuals for their contributions.
 
 ## Localazy Translations
-The following individuals have provided 10 or more translations and have therefore helped Kagi and Orion adoption worldwide.
+Thank you to all our translators, our leaderboard is hosted below.
 
-- French: httpjamesm, Martin
-- Danish: Rasmus Rosendahl
-- Portuguese: Martin
-- Korean: Kwanghyeon Jeong
-- Norwegian: Erlend Markussen
-- Spanish: Largo
-- German: Finn Erdmann, ryodari, Marc, Kai
-- Turkish: RGBCube
-- Swedish: CatX
-- Dutch: s
-- Czech: Daniel Bulant
-- Turkish: Ege Esin
-- Chinese (Taiwan, Traditional): Lin
+<iframe
+  src="[https://codepen.io/team/codepen/embed/preview/PNaGbb](https://localazy.com/leaderboards/projects/kagi-search)"
+  style="width:100%;"
+></iframe>
