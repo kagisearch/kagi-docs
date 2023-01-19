@@ -8,5 +8,5 @@ Thank you to all our translators, our leaderboard is hosted below.
 
 <iframe
   src="https://localazy.com/leaderboards/projects/orion-browser"
-  style="width:100% height:700px;"
+  style="width:100%; height:700px;"
 ></iframe>
