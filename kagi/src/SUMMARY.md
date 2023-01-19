@@ -57,6 +57,7 @@
 	- [Customizing Kagi CSS](./features/custom-css.md)
 		- [Brave Search Theme](./features/brave-search-theme.md)
 		- [Enhanced Dark Theme](./features/enhanced-dark-theme.md)
+		- [Slimmed Down Theme](./features/slimmed-down-theme.md)
 		- [Hide Group Search Results](./features/hide-group-search.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Redirects](./features/redirects.md)
