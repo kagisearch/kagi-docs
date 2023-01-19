@@ -1,11 +1,12 @@
 # Brave Search Theme
- User http.james shared a Brave Search Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. 
 
- ![Brave Theme Applied](media/brave-theme-applied.png)
+User http.james shared a Brave Search Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. 
 
- To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+![Brave Theme Applied](media/brave-theme-applied.png)
 
-```
+To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+
+```css
 .sri-group,
 .search-result,
 .scene {

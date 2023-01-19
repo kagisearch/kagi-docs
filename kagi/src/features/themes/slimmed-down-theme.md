@@ -1,23 +1,24 @@
  # Slimmed Down Theme
+
  User rasti shared a Slimmed Down Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. This theme removes some of the visual components that are present in Kagi Search, compare
 
- ![Slimmed Down Not Applied](media/slimmed-down-not-applied-one.PNG)
+![Slimmed Down Not Applied](media/slimmed-down-not-applied-one.png)
 
 with the following slimmed down page:
 
- ![Slimmed Down  Applied](media/slimmed-down-applied-one.PNG)
+![Slimmed Down  Applied](media/slimmed-down-applied-one.png)
 
  As another example consider
 
- ![Slimmed Down Not Applied](media/slimmed-down-not-applied-two.PNG)
+![Slimmed Down Not Applied](media/slimmed-down-not-applied-two.png)
 
 as cmpared with the following slimmed down page:
 
- ![Slimmed Down  Applied](media/slimmed-down-applied-two.PNG)
+![Slimmed Down  Applied](media/slimmed-down-applied-two.png)
 
  To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
 
- ```
+ ```css
  ._0_lenses .k_ui_dropdown {
   display: none;
 }
@@ -141,3 +142,4 @@ display: none;
     border-top: 1px solid #a0c5ff;
     border-bottom: 1px solid #a0c5ff;
 }
+```

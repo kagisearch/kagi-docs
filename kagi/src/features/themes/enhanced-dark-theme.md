@@ -1,11 +1,12 @@
 # Enhanced Dark Theme by El Dude
+
 User El_Dude shared an Enhanced Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. 
 
 ![Enhanced Dark Applied](media/enhanced_dark_applied.png)
 
 The following only works when you have applied the Dark Theme in your appearance.
 
-![Dark Theme Settings](media/dark-theme-settings.PNG)
+![Dark Theme Settings](media/dark-theme-settings.png)
 
 You will also need to make sure the Default Dark Theme is set to "Royal Blue".
 
@@ -13,7 +14,7 @@ You will also need to make sure the Default Dark Theme is set to "Royal Blue".
 
 To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css) - this code is also available on [Snap Code](https://snapcode.vercel.app/snippet/bP4eAdE4ODm4XFkLaVMpZ).
 
-```
+```css
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
 .theme_dark {
   --k-accent: #f16d43;
