@@ -15,9 +15,9 @@ Feedback about this Kagi Search documentation can be shared on our [Discord Serv
 
 Kagi is a high quality, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches. We're glad you're here!
 
-## About Oriob Browser
+## About Orion Browser
 
-Orion is a fast, zero telemetry browser for Mac/iOS. Learn more [here](https://browser.kagi.com) or check [Orion documentation](https://help/kagi.com/orion).
+Orion is a fast, zero telemetry browser for Mac/iOS. Learn more about [Orion](https://browser.kagi.com) or check [Orion documentation](https://help/kagi.com/orion).
 
 
 ## Contributing
