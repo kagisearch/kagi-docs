@@ -3,48 +3,40 @@
 ## Table of Contents
 - [Chrome and Firefox Extensions Support](#chrome_and_firefox)
 - [Installing Popular Extensions](#installing_extensions)
-- [Choosing a Chrome Extension or a Firefox Extension](#chrome_vs_firefox)
 - [Managing Extensions](#managing_extensions)
-- [Compatibility Mode](#compatibility_mode)
-- [Enabling 3rd party Extension installation]
+  - [Compatibility Mode](#compatibility_mode)
+- [Enabling 3rd party Extension installation](#enable_installation)
+   - [Choosing a Chrome Extension or a Firefox Extension](#chrome_vs_firefox)
 - [Troubleshooting Extension issues](#troubleshooting)
 - [Supported WebExtensions APIs](#supported_apis)
-- [Manifest v2 vs. v3 Chrome Extensions](#manifest)
+- [Manifest v2 vs. v3](#manifest)
 - [Safari Extensions Support](#safari)
 
 <a name="chrome_and_firefox"></a>
 ## Chrome and Firefox Extensions Support
 
-<img src="media/extensions-google-firefox.png" width="200" alt="Chrome & Firefox Logos"><br />
+One of the reason we started the Orion browser project was to bring the incredible eco-system of browser extensions to a fast, WebKit-based browser. Before Orion, Chrome and Firefox users could enjoy well over 300,000 extensions, while users using Safari were limited to a few thousand. Orion changes all that. 
 
-Orion supports browser extensions based on open-standard WebExtensions APIs. These are the same APIs that power browser extensions for Chrome and Firefox.
-
-If you're having a problem with an extension in Orion, check out [troubleshooting web extensions guide](../support-and-community/troubleshooting-extension-issues.md) you can file a bug report in our [feedback forum](https://orionfeedback.org).
+By adopting the WebExtensions APIs, we've shown our support for creating a unified browser extension experience across all three major web rendering engines. We've ended up porting hundreds of WebExtension APIs, one by one, that were never meant to work with WebKit. 
 
 On top of that, we've built advanced security features that give our users granular control over extensions, far beyond what Chrome and Firefox offer. For example, you can choose to allow an extension to run only on certain websites.
 
-By adopting the WebExtensions APIs, we've shown our support for creating a unified browser extension experience across all three major web rendering engines. We've ended up porting hundreds of APIs, one by one, that were never meant to work with WebKit. It took us a few years, but here we are!
+Orion support for WebExtensions APIs is [currently at about 70%](#supported_apis). This means that many extensions will work, but also that many are not fully supported. When an extension does not work in Orion, it is likely not a bug, but we simply did not support all the APIs it needs to run on WebKit yet. Stay patient, as our goal is to have 100% extension support by the time Orion leaves beta. 
   
-Note that extensions may affect Orion's performance. You can measure the impact of your extensions on Orion performance by running [SpeedoMeter 2.1](https://browserbench.org/Speedometer2.1/) browser benchmark, with and without extensions (using Compatibility mode option in Orion to disable all extensions).
+Note that while we designed Orion to be as fast and lightweight as possible, extensions may affect Orion's performance and this is something that is out of our control. We advise limiting the number of extensions you use to only bare minimum required by your workflow. Orion includes many extension features natively, including a built in ad-blocker. If you feel you  
 
-<a name="installing_extensions"></a>
-## Installing Extensions
+You can measure the impact of your extensions on Orion performance by running [SpeedoMeter 2.1](https://browserbench.org/Speedometer2.1/) browser benchmark, with and without extensions (using [Compatibility mode](../support-and-community/troubleshooting-webpage-issues.md) option in Orion to disable all extensions).
 
-Many Chrome and Firefox extensions already work with Orion. And, even more of them will work in the future. You can install them from the [Chrome](https://chrome.google.com/webstore/category/extensions) or [Firefox](https://addons.mozilla.org/en-US/firefox/extensions/) extension websites.
+<a name="popular_extensions"></a>
+## Installing Popular Extensions
 
-Orion also highlights some popular extensions for you to try:
+Orion highlights some popular Web Extensions for you to try first:
 
 1. Click the **Orion** menu.
 2. Choose **Popular Extensions**.
+3. Click **Get** to install an extension.
 
 <img src="media/macos_popular_extensions.png" width="500" alt="macOS Popular Extensions"><br />
-
-<a name="chrome_vs_firefox"></a>
-## Choosing a Chrome Extension or a Firefox Extension
-
-Orion supports both Chrome and Firefox extensions. Usually, they’re similar. Sometimes, an extension developer puts extra effort into one version, perhaps because they prefer that browser. 
-
-You can try both and use the one that works best for you. Orion is the only browser in the world that makes this choice possible!
 
 <a name="managing_extensions"></a>
 ## Managing Extensions
@@ -62,6 +54,44 @@ You can try both and use the one that works best for you. Orion is the only brow
   
 <img src="media/macos_extensions_area.png" width="500" alt="macOS Extensions Management"><br /> 
 
+<a name="compatibility_mode"></a>
+### Managing Extensions Permissions and Compatibility Mode
+
+In Orion, you can manage extension permissisions on a per website basis. 
+
+Click the Gear icon in the toolbar to bring up website settings and look for "Extensions permissions" section.You can also manage extension permissions globally through Settings -> Websites menu (scroll down).
+
+In addition Orion features a simple to use [Compatibility mode](../support-and-community/troubleshooting-webpage-issues.md) option, which applies 'safe' settings for the current website, including disabling all extensions.
+ 
+ 
+<a name="enable_installation"></a>
+## Enabling 3rd party extension installation
+
+For advanced users, we allow installing any 3rd party Chrome and Firefox extension.Note that the extension may not be fully supported and if you encounter problems, you can easilly uninstall it by right clicking the extension icon and selecting 'Uninstall' or through [manage extensions](managing_extensions) window.
+
+To do enable installation of 3rd party extension, go to Settings -> Advanced and find "Allow 3rd party Chrome extension installation" or "Allow 3rd party Firefox extension installation" options.
+
+
+<a name="chrome_vs_firefox"></a>
+### Choosing a Chrome Extension or a Firefox Extension
+
+Orion supports both Chrome and Firefox extensions. Usually, they’re similar. Sometimes, an extension developer puts extra effort into one version, perhaps because they prefer that browser. 
+
+You can try both and use the one that works best for you. Orion is the only browser in the world that makes this choice possible!
+
+
+<a name="installing_extensions"></a>
+## Installing Extensions
+
+Many Chrome and Firefox extensions already work with Orion. And, even more of them will work in the future. 
+
+<img src="media/extensions-google-firefox.png" width="200" alt="Chrome & Firefox Logos"><br />
+
+You can install them from the [Chrome](https://chrome.google.com/webstore/category/extensions) or [Firefox](https://addons.mozilla.org/en-US/firefox/extensions/) extension websites.
+
+The most popular extensions can be installed from [Popular extensions](#popular_extensions) screen.
+
+
 <a name="troubleshooting"></a>
 ## Troubleshooting Web Extensions Issues
 
@@ -75,7 +105,7 @@ Check out the [troubleshooting web extensions guide](../support-and-community/tr
 Orion currently supports [about 70% of the WebExtensions APIs](https://browser.kagi.com/WebExtensions-API-Support.html), and we add support for more all the time.
 
 <a name="manifest"></a>
-## Manifest v2 vs. v3 Chrome Extensions
+## Manifest v2 vs. v3
 
 The rollout of manifest v3 extensions in Chrome will not affect extensions in Orion.
 
