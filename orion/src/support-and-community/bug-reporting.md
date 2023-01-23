@@ -24,6 +24,10 @@ browser. If it does it is most likely caused be WebKit and this can be more
 difficult for us to fix. In this case, you are encouraged to [submit a bug
 report to WebKit](https://webkit.org/reporting-bugs/).
 
+**Important note**: You can also check if the issue is present using 
+[Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) 
+if this available and applicable to you. 
+
 2. **Expected behavior** - What did you expect will happen? Indicating how
 other browsers behave may be useful. Use a screenshot/video to make your
 point if needed.
