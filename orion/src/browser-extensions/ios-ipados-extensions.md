@@ -1,4 +1,4 @@
-#  iOS & iPadOS Extensions
+#  Orion iOS & iPadOS Web Extension Support
 
 ## Table of Contents
 
@@ -12,11 +12,9 @@
 
 <img src="media/extensions-google-firefox.png" width="200" alt="Chrome & Firefox Logos"><br />
 
-Orion is the first web browser to offer preliminary support for some Chrome and Firefox browser extensions on iOS and iPadOS.
+Orion is the first web browser to offer preliminary support for Chrome and Firefox browser extensions on iOS and iPadOS.
 
-We've ported [hundreds of web extension APIs](macos-extensions.md#chrome_and_firefox) to run on top of the WebKit browser engine, which also runs on iOS and iPadOS.
-
-We’re limited in the scope of APIs we can support. But, those that we do support will work out of the box, same as on desktop. And, you can one-click install them from the [Chrome](https://chrome.google.com/webstore/category/extensions) or [Firefox](https://addons.mozilla.org/en-US/firefox/extensions/) extension websites.
+Much of what we said about [Web Extensions support on desktop Orion](macos-extensions.md) stands, with further limitations in the scope of APIs we can support which are imposed by Apple. This results in a smaller number of extensions that are currently fully functional on iOS and iPadOS. But small number is better than zero, and you can one-click install them from the [Chrome](https://chrome.google.com/webstore/category/extensions) or [Firefox](https://addons.mozilla.org/en-US/firefox/extensions/) extension websites.
 
 <a name="ios_management"></a>
 ## iOS Extensions Management
