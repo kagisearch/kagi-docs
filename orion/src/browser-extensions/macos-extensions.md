@@ -15,15 +15,15 @@
 <a name="chrome_and_firefox"></a>
 ## Chrome and Firefox Extensions Support
 
-One of the reason we started the Orion browser project was to bring the incredible eco-system of browser extensions to a fast, WebKit-based browser. Before Orion, Chrome and Firefox users could enjoy well over 300,000 extensions, while users using Safari were limited to a few thousand. Orion changes all that. 
+One of the reasons we started the Orion browser project was to bring the incredible ecosystem of browser extensions to a fast, WebKit-based browser. Before Orion, Chrome and Firefox users could enjoy over 300,000 extensions, while Safari users were limited to a few thousand. Orion changes all that.
 
 By adopting the WebExtensions APIs, we've shown our support for creating a unified browser extension experience across all three major web rendering engines. We've ended up porting hundreds of WebExtension APIs, one by one, that were never meant to work with WebKit. 
 
 On top of that, we've built advanced security features that give our users granular control over extensions, far beyond what Chrome and Firefox offer. For example, you can choose to allow an extension to run only on certain websites.
 
-Orion support for WebExtensions APIs is [currently at about 70%](#supported_apis). This means that many extensions will work, but also that many are not fully supported. When an extension does not work in Orion, it is likely not a bug, but we simply did not support all the APIs it needs to run on WebKit yet. Stay patient, as our goal is to have 100% extension support by the time Orion leaves beta. 
+Orion support for WebExtensions APIs is [currently at about 70%](#supported_apis). This means that many extensions will work but also that many are not fully supported. When an extension does not work in Orion, it is likely not a bug, but we did not support all the APIs it needs to run on WebKit yet. Stay patient, as our goal is to have 100% extension support by the time Orion leaves beta. 
   
-Note that while we designed Orion to be as fast and lightweight as possible, extensions may affect Orion's performance and this is something that is out of our control. We advise limiting the number of extensions you use to only bare minimum required by your workflow. Orion includes many extension features natively, including a built in ad-blocker. If you feel you  
+Note that while we designed Orion to be as fast and lightweight as possible, extensions may affect Orion's performance, which is out of our control. We advise limiting the number of extensions you use to only bare minimum required by your workflow. Orion includes many extension features natively, including a built in ad-blocker. If you feel you  
 
 You can measure the impact of your extensions on Orion performance by running [SpeedoMeter 2.1](https://browserbench.org/Speedometer2.1/) browser benchmark, with and without extensions (using [Compatibility mode](../support-and-community/troubleshooting-webpage-issues.md) option in Orion to disable all extensions).
 
@@ -57,19 +57,19 @@ Orion highlights some popular Web Extensions for you to try first:
 <a name="compatibility_mode"></a>
 ### Managing Extensions Permissions and Compatibility Mode
 
-In Orion, you can manage extension permissisions on a per website basis. 
+In Orion, you can manage extension permissisions on a per-website basis. 
 
-Click the Gear icon in the toolbar to bring up website settings and look for "Extensions permissions" section.You can also manage extension permissions globally through Settings -> Websites menu (scroll down).
+Click the Gear icon in the toolbar to bring up website settings and look for "Extensions permissions" section. You can also manage extension permissions globally through Settings -> Websites menu (scroll down).
 
-In addition Orion features a simple to use [Compatibility mode](../support-and-community/troubleshooting-webpage-issues.md) option, which applies 'safe' settings for the current website, including disabling all extensions.
+In addition, Orion features a simple to use [Compatibility mode](../support-and-community/troubleshooting-webpage-issues.md) option, which applies 'safe' settings for the current website, including disabling all extensions.
  
  
 <a name="enable_installation"></a>
 ## Enabling 3rd party extension installation
 
-For advanced users, we allow installing any 3rd party Chrome and Firefox extension.Note that the extension may not be fully supported and if you encounter problems, you can easilly uninstall it by right clicking the extension icon and selecting 'Uninstall' or through [manage extensions](managing_extensions) window.
+We allow advanced users to install any 3rd party Chrome and Firefox extension. Note that the extension may not be fully supported, and if you encounter problems, you can easily uninstall it by right-clicking the extension icon and selecting 'Uninstall' or through the [manage extensions](managing_extensions) window.
 
-To do enable installation of 3rd party extension, go to Settings -> Advanced and find "Allow 3rd party Chrome extension installation" or "Allow 3rd party Firefox extension installation" options.
+To enable installation of 3rd party extension, go to Settings -> Advanced and find "Allow 3rd party Chrome extension installation" or "Allow 3rd party Firefox extension installation" options.
 
 
 <a name="chrome_vs_firefox"></a>
@@ -87,7 +87,7 @@ Many Chrome and Firefox extensions already work with Orion. And, even more of th
 
 <img src="media/extensions-google-firefox.png" width="200" alt="Chrome & Firefox Logos"><br />
 
-You can install them from the [Chrome](https://chrome.google.com/webstore/category/extensions) or [Firefox](https://addons.mozilla.org/en-US/firefox/extensions/) extension websites.
+You can install them directly from the [Chrome](https://chrome.google.com/webstore/category/extensions) or [Firefox](https://addons.mozilla.org/en-US/firefox/extensions/) extension websites with one click installation.
 
 The most popular extensions can be installed from [Popular extensions](#popular_extensions) screen.
 
@@ -95,9 +95,9 @@ The most popular extensions can be installed from [Popular extensions](#popular_
 <a name="troubleshooting"></a>
 ## Troubleshooting Web Extensions Issues
 
-WebExtensions are the likely cause of performance or resource issues. 
+Sometimes Web Extensions will not work properly. Also Web Extensions are the most likely cause of performance or resource issues in Orion. If such issues occur, the safest is to uninstall the extension causing the issue. 
 
-Check out the [troubleshooting web extensions guide](../support-and-community/troubleshooting-extension-issues.md).
+You can also submit a bug report to [Orion feedback forum](https://orionfeedback.org) and before that, check out our [troubleshooting web extensions guide](../support-and-community/troubleshooting-extension-issues.md) for more information.
 
 <a name="supported_apis"></a>
 ## Supported WebExtensions APIs
