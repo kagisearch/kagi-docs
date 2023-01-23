@@ -92,11 +92,11 @@ Yep, Orion is available for both [iOS](https://apps.apple.com/app/orion-browser-
 Yes, things don't always go as planned and mistakes can happen. If you ever need a previous version, you need to type a specific URL to get the version you want:  https://browser.kagi.com/updates/{Current_OS}/{Orion_Beta_Version}.zip
 
 ### Examples: Version 0.99.119-beta
-- https://browser.kagi.com/updates/13_0/119.zip  (Ventura)
-- https://browser.kagi.com/updates/12_0/119.zip  (Monterey)
-- https://browser.kagi.com/updates/11_0/119.zip  (Big Sur)
-- https://browser.kagi.com/updates/10_15/119.zip (Catalina)
-- https://browser.kagi.com/updates/10_14/119.zip (Mojave)
+- [browser.kagi.com/updates/13_0/119.zip](https://browser.kagi.com/updates/13_0/119.zip)  (Ventura)
+- [browser.kagi.com/updates/12_0/119.zip](https://browser.kagi.com/updates/12_0/119.zip)  (Monterey)
+- [browser.kagi.com/updates/11_0/119.zip](https://browser.kagi.com/updates/11_0/119.zip)  (Big Sur)
+- [browser.kagi.com/updates/10_15/119.zip](https://browser.kagi.com/updates/10_15/119.zip) (Catalina)
+- [browser.kagi.com/updates/10_14_0/119.zip](https://browser.kagi.com/updates/10_14/119.zip) (Mojave)
 
 <a name="debugmenu"></a>
 ## How to use Debug menu?
