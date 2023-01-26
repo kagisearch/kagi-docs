@@ -1,4 +1,4 @@
-# Welcome to the Orion Docs!
+# Welcome to the Orion User Guide!
 
 Orion is a free, lightning-fast, privacy-protecting browser for Apple users, open to the web and all its standards and protocols. One day, we hope everyone will say Orion is the best browser for all Apple devices. We're glad you're here!
 
