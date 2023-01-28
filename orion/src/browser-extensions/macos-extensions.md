@@ -69,7 +69,7 @@ In addition, Orion features a simple to use [Compatibility mode](../support-and-
 <a name="enable_installation"></a>
 ## Enabling 3rd party extension installation
 
-We allow advanced users to install any 3rd party Chrome and Firefox extension. Note that the extension may not be fully supported, and if you encounter problems, you can easily uninstall it by right-clicking the extension icon and selecting 'Uninstall' or through the [manage extensions](managing_extensions) window.
+We allow advanced users to install any 3rd party Chrome and Firefox extension. Note that the extension may not be fully supported, and if you encounter problems, you can easily uninstall it by right-clicking the extension icon and selecting 'Uninstall' or through the [manage extensions](#managing_extensions) window.
 
 To enable installation of 3rd party extension, go to Settings -> Advanced and find "Allow installation of 3rd party Chrome extensions" or "Allow installation of 3rd party Firefox extensions" options.
 
