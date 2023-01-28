@@ -17,17 +17,15 @@ You fill find here:
 <a name="chrome_and_firefox"></a>
 ## Chrome and Firefox Extensions Support
 
-One of the reasons we started the Orion browser project was to bring the incredible ecosystem of browser extensions to a fast, WebKit-based browser. Orion enabled users to tap into over 300,000 extensions created for the Chrome and Firefox browsers, and run them natively on top of efficient WebKit rendering engine.
+Orion enables users to tap into over 300,000 extensions created both for the Chrome and Firefox browsers, and run them natively on top of WebKit rendering engine.
 
 By adopting the WebExtensions APIs, we've shown our support for creating a unified browser extension experience across all three major web rendering engines. We've ended up porting hundreds of WebExtension APIs, one by one, that were never meant to work with WebKit. It took us a few years to do that and this is still work in progress. You can help this effort by [supporting Orion](https://browser.kagi.com/orionplus.html) development and becoming Orion+ member.
 
 On top of that, we've built advanced security features that give our users granular control over extensions, far beyond what Chrome and Firefox offer. For example, you can choose to allow an extension to run only on certain websites.
 
-Orion support for WebExtensions APIs is [currently at about 70%](#supported_apis). This means that many extensions will work but also that many are not fully supported. When an extension does not work in Orion, it is likely not a bug, but we did not support all the APIs it needs to run on WebKit yet. It is enough that one API is not supported for the extension to not work. Stay patient, as our goal is to have 100% extension support by the time Orion leaves beta. 
+Orion support for WebExtensions APIs is [currently at about 70%](#supported_apis). This means that many extensions will work but also that many are not fully supported. When an extension does not work in Orion, it is likely not a bug, but we did not support all the APIs it needs to run on WebKit yet. It is enough that one API is not supported for the extension to not work. Our goal is to have 100% extension support by the time Orion leaves beta. 
   
-Note that while we designed Orion to be as fast and lightweight as possible, extensions may affect Orion's performance, which is out of our control. We advise limiting the number of extensions you use to only bare minimum required by your workflow. Orion includes many extension features natively, including a built in ad-blocker. If you feel you  
-
-You can measure the impact of your extensions on Orion performance by running [SpeedoMeter 2.1](https://browserbench.org/Speedometer2.1/) browser benchmark, with and without extensions (using [Compatibility mode](../support-and-community/troubleshooting-webpage-issues.md) option in Orion to disable all extensions).
+Note that while we designed Orion to be as fast and lightweight as possible, extensions may affect Orion's performance, which is out of our control. We advise limiting the number of extensions you use to only bare minimum required by your workflow. Orion includes many extension features natively, including a built in ad-blocker.
 
 <a name="popular_extensions"></a>
 ## Installing Popular Extensions
