@@ -1,5 +1,7 @@
 # Reporting a Bug
 
+To report a bug, head out to [KagiFeedback.org](https://kagifeedback.org).
+
 When reporting a bug, it is important to give us as much information as
 possible to help narrow down what the issue may be. Search engines are
 very complex pieces of software—every detail matters!
