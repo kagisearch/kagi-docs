@@ -7,7 +7,7 @@ You will find here:
 - [Installing Popular Extensions](#installing_extensions)
 - [Managing Extensions](#managing_extensions)
   - [Compatibility Mode](#compatibility_mode)
-- [Enabling 3rd party Extension installation](#enable_installation)
+- [Enabling 3rd party extensions installation](#enable_installation)
    - [Choosing a Chrome Extension or a Firefox Extension](#chrome_vs_firefox)
 - [Troubleshooting Extension issues](#troubleshooting)
 - [Supported WebExtensions APIs](#supported_apis)
@@ -65,11 +65,13 @@ In addition, Orion features a simple to use [Compatibility mode](../support-and-
  
  
 <a name="enable_installation"></a>
-## Enabling 3rd party extension installation
+## Enabling 3rd party extensions installation
 
 To enable installation of 3rd party extension, go to **Settings -> Advanced** and find "Allow installation of 3rd party Chrome extensions" or "Allow installation of 3rd party Firefox extensions" options.
 
 Note that the extension support is still in beta. Extension may not be fully supported yet and if you encounter problems, website issues or performance issues, you can easily uninstall it by right-clicking the extension icon and selecting 'Uninstall' or through the [manage extensions](#managing_extensions) window.
+
+If you are a developer, we have some tips for [troubleshooting extension issues](../support-and-community/troubleshooting-extension-issues.md).
 
 
 <a name="chrome_vs_firefox"></a>
