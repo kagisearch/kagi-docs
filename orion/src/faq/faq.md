@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [What is Orion?](#what_is_orion)
+- [How do I replay the intro video](#intro_video)
 - [Why is it important for an app to be native?](#native)
 - [Why use Orion instead of Safari?](#orion_over_safari)
 - [Why use Orion instead of Chrome, Firefox or other browsers based on Chromium/Firefox?](#orion_over_chrome)
@@ -25,6 +26,13 @@ Orion is a native, lightning-fast, and privacy-protecting browser for Apple user
 Orion was built for professionals by professionals, but anyone can benefit from it. Installing Orion with its default settings on any Apple device will cut down on annoying ads and speed up page loads. We want everyone to enjoy the web.
 
 <div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/689121874?h=ddbd074d5a" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<a name="intro_vide"></a>
+## How do I replay the intro video?
+
+Watch is here in even higher quality!
+
+[Orion intro animation](https://vimeo.com/689121874)
 
 <a name="native"></a>
 ## Why is it important for an app to be native?
