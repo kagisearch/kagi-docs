@@ -11,6 +11,7 @@
 - [How much memory does Orion use?](#memory)
 - [How does Orion respect my online privacy?](#respectprivacy)
 - [How does Orion protect my online privacy?](#protectprivacy)
+- [How do I clear Cookies?](#cookies)
 - [How does Orion support extensions?](#extensions)
 - [Does Orion have an iPhone or iPad app?](#iOS)
 - [Is there any way to get a previous build of Orion?](#oldbuilds)
@@ -83,6 +84,11 @@ Orion has no built-in telemetry, so it can never "phone home" and risk exposing 
 ## How does Orion protect my online privacy?
 
 Web ads have steadily eroded the online experience with their layout crowding, page slowing, annoying popups, and insidious malware. Yet, most browsers do not block ads by default. [Orion is different](../privacy-and-security/protecting-privacy.md).
+
+<a name="cookies"></a>
+## How do I clear cookies?
+
+Go to _Settings->Orion->Manage_ to search and clear individual site cookies OR _Orion->Reset_ to reset ALL cookies, history, bookmarks, etc.
 
 <a name="extensions"></a>
 ## How does Orion support extensions?
