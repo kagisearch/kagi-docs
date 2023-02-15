@@ -58,6 +58,7 @@
 		- [Brave Search Theme](./features/themes/brave-search-theme.md)
 		- [Enhanced Dark Theme](./features/themes/enhanced-dark-theme.md)
 		- [Slimmed Down Theme](./features/themes/slimmed-down-theme.md)
+		- [Familiar Dark Theme](./features/themes/familiar-dark-theme.md)
 		- [Hide Group Search Results](./features/themes/hide-group-search.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Redirects](./features/redirects.md)
