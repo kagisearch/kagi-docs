@@ -2,7 +2,7 @@
 
 User 🅻uci shared a Familiar Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. 
 
-![Familiar Dark Theme Applied](media/familiar-dark-theme-applied.png)
+![Familiar Dark Theme Applied](media/familiar-dark-theme-applied.PNG)
 
 The following only works when you have applied the Dark Theme in your appearance.
 
@@ -10,7 +10,7 @@ The following only works when you have applied the Dark Theme in your appearance
 
 You will also need to make sure the Default Dark Theme is set to "Moon Dark".
 
-![Default_Dark_Theme_Moon](media/default_dark_theme_moon.png)
+![Default_Dark_Theme_Moon](media/default_dark_theme_moon.PNG)
 
 To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
 
