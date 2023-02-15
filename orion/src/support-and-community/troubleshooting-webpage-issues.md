@@ -19,6 +19,11 @@ To put a website into Compatibility Mode, use the gear icon on Orion's toolbar:
 
 The gear icon also allows you to access other [Website Settings](../features/website-settings.md) that allow more granular control when troubleshooting.
 
+## Empty Cache
+
+If you encounter sluggish loading of web pages and/or switching tabs, try Develop menu -> Empty Cache.
+
+
 ## iOS & iPadOS
 
 iOS and iPadOS don't have the Compatibility Mode feature. But, you can disable [content blockers](../privacy-and-security/ad-tracking-blocking.md) for specific websites where they cause problems.
