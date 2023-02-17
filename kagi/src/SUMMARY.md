@@ -49,6 +49,7 @@
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
 	- [Bangs](./features/bangs.md)
+	- [Sharing Results](./features/share-results.md)
 	- [Shopping Searches](./features/shopping.md)
  	- [Search Shortcuts](./features/search-shortcuts.md)
 	- [Lenses](./features/lenses.md)
