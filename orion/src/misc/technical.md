@@ -43,7 +43,7 @@ Location of Profiles
 ~/Library/Application Support/Orion/profiles (plist format)
 ```
 
-Locatinon of Snapshots
+Location of Snapshots
 ```
 ~/Library/Application Support/Orion/snapshots/snapshots.plist
 ```
