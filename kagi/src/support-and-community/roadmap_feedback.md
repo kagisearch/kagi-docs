@@ -8,7 +8,7 @@ Check out our [roadmap](https://kagifeedback.org/roadmap).
 ## Release notes & RSS
 
 HTML version of release notes is availableat:
-[kagi.com/changelogl](https://kagi.com/changelog)
+[kagi.com/changelog](https://kagi.com/changelog)
 
 
 RSS feed for release notes is available at:
