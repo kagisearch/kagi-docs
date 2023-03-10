@@ -1,12 +1,12 @@
 # Work on Orion Browser
 
 Requirements:
-- Swifth experience (3+ years) with macOS or iOS
+- Swift experience (3+ years) with macOS or iOS
 
 Roles:
 - UI/UX developer: You have experience with macOS or iOS UX/UI components (AppKit/UIKit) and love creating native apps with great user interactions
 - Backend developer - You can write code in Swift but also delve into WebKit (C++) if needed
-- Extension support developer - You can help extend our WebExtensions API support by combining JavaScript, Swift (and occasionaly WebKit if needed)
+- Extension support developer - You can help extend our WebExtensions API support by combining JavaScript, Swift (and occasionally WebKit if needed)
 
 We are hiring macOS and iOS developers for the Orion browser team.  Create the best browser on Apple devices with us. 
 
