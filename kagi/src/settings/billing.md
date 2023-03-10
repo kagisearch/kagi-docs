@@ -1,5 +1,9 @@
 # Billing
 
+> **Important Notice:** Our pricing is changing on March 15th.
+>
+> [Please see our blog post for details!](https://blog.kagi.com/update-kagi-search-pricing)
+
 These settings control your billing options and status with Kagi.
 
 ![Billing Settings](media/billing_settings.png)
