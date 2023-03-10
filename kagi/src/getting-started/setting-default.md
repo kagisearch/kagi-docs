@@ -125,7 +125,7 @@ To set up a private session link in Firefox, use [this extension](https://addons
 <a name="safari_desktop"></a>
 #### Desktop
 
-1. Install the [Kagi Search for Safari extension](https://github.com/marcocebrian/kagisearchsafari) made by one of our community members.
+1. Install the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1622835804).
 2. Activate the extension in **Safari -> Preferences -> Extensions**.
 3. Enjoy Kagi search from your Safari address bar!
 
@@ -135,9 +135,9 @@ If you are a macOS, iOS, or iPadOS user, we strongly recommend using Kagi with t
 <a name="safari_ios_ipados"></a>
 #### iOS & iPadOS
 
-Use the [Orion iOS/iPadOS web browser](https://testflight.apple.com/join/DeC8ZDnu) (still in beta), which has native support for Kagi Search.
+Use the [Orion iOS/iPadOS web browser](https://browser.kagi.com), which has native support for Kagi Search.
 
-If you prefer to use Safari, you can use the [Kagi Search for Safari extension](https://github.com/marcocebrian/kagisearchsafari) made by one of our community members.
+If you prefer to use Safari, you can use the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1607766153).
 
 <a name="custom_use"></a>
 ### Custom Use
