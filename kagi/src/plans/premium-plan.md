@@ -1,5 +1,9 @@
 # Premium Plan
 
+> **Important Notice:** Our pricing is changing on March 15th.
+>
+> [Please see our blog post for details!](https://blog.kagi.com/update-kagi-search-pricing)
+
 ## Signing Up for the Premium Plan
 
 You can [Sign Up](https://kagi.com/signup) for a new Kagi account and add the [Premium plan](plan-types.md) during the sign-up process.

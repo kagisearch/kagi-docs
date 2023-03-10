@@ -1,5 +1,9 @@
 # Plan Types
 
+> **Important Notice:** Our pricing is changing on March 15th.
+>
+> [Please see our blog post for details!](https://blog.kagi.com/update-kagi-search-pricing)
+
 Kagi is available in two plans:
 
 * The **Free Basic** plan is limited to 50 searches per month
