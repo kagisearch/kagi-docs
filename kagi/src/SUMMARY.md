@@ -38,6 +38,7 @@
 	- [Quick Start](./getting-started/index.md)
 	- [Frequently Asked Questions](./getting-started/faqs.md)
 	- [Set Kagi as Your Default Search Engine](./getting-started/setting-default.md)
+	- [Application Integrations](./getting-started/application-integrations.md)
 
 - [Plans & Payment](./plans/plan-types.md)
 	- [Plan Types](./plans/plan-types.md)
