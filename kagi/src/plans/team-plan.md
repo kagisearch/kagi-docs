@@ -1,17 +1,7 @@
 # Team Plan
 
-## Signing Up for the Team Plan
-
-You can [Sign Up](https://kagi.com/signup) for a new Kagi account and add the [Team Plan](plan-types.md) during the sign-up process.
-
-If you already have a Kagi account, you can add the Team Plan in your [Billing settings](https://kagi.com/settings?p=billing).
-
-You will need to specify a company when signing up for a Team Plan. 
-
-You can also check out all [Team Plan Features](../features/team-plan-features.md).
-
-## Team Plan Price
-Team Plan is $19 USD/month fixed fee for unlimited users, and $1 per 40 searches.
+## Inquire About Team Plan
+If you are interested in a plan for your team please inquire by emailing 
 
 ## Adding Team Members
 Since the Kagi Team Plan is pay-per-use, you can add as many team members as you want and only pay for those that are actively searching. 

@@ -42,10 +42,11 @@
 
 - [Plans & Payment](./plans/plan-types.md)
 	- [Plan Types](./plans/plan-types.md)
-	- [Premium Plan](./plans/premium-plan.md)
-	- [Team Plan](./plans/team-plan.md)
+	- [Pick The Plan](./plans/pick-the-plan.md)
+	- [Premium Plans](./plans/premium-plan.md)
+	- [Family Plan](./plans/family-plan.md)
+	- [Why Pay for Search](./plans/why-pay-for-search.md)
 	- [Gift Kagi](./plans/gift-kagi.md)
-
 
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
@@ -64,7 +65,6 @@
 		- [Hide Group Search Results](./features/themes/hide-group-search.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Redirects](./features/redirects.md)
-	- [Team Plan Features](./features/team-plan-features.md)
 	- [Code Searches](./features/code.md)
 	- [Verbatim Search](./features/verbatim.md)
 
