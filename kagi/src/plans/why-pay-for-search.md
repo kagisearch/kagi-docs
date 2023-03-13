@@ -1,62 +1,29 @@
 # Why Pay for Search
 
-Kagi is a paid search engine with the goal of humanizing the web and giving users the ability to take control of their search experience by removing the influence of paid advertisers which incentize large scale free search engines. 
+Kagi is a paid search engine with the goal of humanizing the web and giving users the ability to take control of their search experience with faster more relevant results backed by cutting edge AI. 
 
-## Search Is Not Free
-Currently Kagi spends about USD 1.25 cents per search however  search indexes are about to become several times more expensive and we now have the AI integration cost. It is our intention to keep the cost at USD 1.5 cents per search or below by rethinking our partnering strategy and investing more into our infrastructure. 
+## Ad-Supported Search Engines & The Future of the Web
+We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe why it is imperative for search engines to be ad-free:
 
-## How You Currently Pay for Search
-According to Google Search Statistics the average person searches Google three or four times per day or 90-120 times per month. According to DuckDuckGo’s data, the monthly average is about 30 searches per person or one per day. These search results are substantially impacted by advertisers and affiliate links that pay Google to influence your results. The cost is not free, you are paying with your time and cognitive bandwidth required to parse the results to find what is actually relevant. Consider how much time you spend scrolling through initial results to pass over the results you know are meaningless. Also consider the personal information you are sharing and losing control of as you use the search services that present themselves as free. Your 
+> "Currently, the predominant business model for commercial search engines is advertising. The goals of the advertising business model do not always correspond to providing quality search to users. For example, in our prototype search engine one of the top results for cellular phone is "The Effect of Cellular Phone Use Upon Driver Attention", a study which explains in great detail the distractions and risk associated with conversing on a cell phone while driving. This search result came up first because of its high importance as judged by the PageRank algorithm, an approximation of citation importance on the web [Page, 98].*
+> 
+> It is clear that a search engine which was taking money for showing cellular phone ads would have difficulty justifying the page that our system returned to its paying advertisers. For this type of reason and historical experience with other media [Bagdikian 83], we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers."
+> 
+> — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
+
+They were right in recognizing early on that ad-supported search engines will be biased towards the advertisers. They probably could not foresee how much damage to the web adopting the model they originally criticized would ultimately cause.
+
+## Ad-Supported Search Engines & How You Currently Pay for Search 
+According to Google Search Statistics the average person searches Google three or four times per day or 90-120 times per month. According to DuckDuckGo’s data, the monthly average is about 30 searches per person or one per day. These search results are substantially impacted by advertisers and affiliate links that pay Google to influence your results. The cost is not free, you are paying with your time and cognitive bandwidth required to parse the results to find what is actually relevant. Consider how much time you spend scrolling through initial results to pass over the results you know are meaningless. Also consider the personal information you are sharing and losing control of as you use the search services that present themselves as free.  
+
+## Kagi Strives to Lower Cost 
+All search engines have search costs, development costs, and administrative costs. Most search engines cover this by advertising, tracking, and selling your data. Currently Kagi spends about USD 1.25 cents per search however  search indexes are about to become several times more expensive and we now have the AI integration cost. It is our intention to keep the cost at USD 1.5 cents per search or below by rethinking our partnering strategy and investing more into our infrastructure. 
 
 ## The Numbers Tell a Tale
-Each user is worth X/month due to adtech revenue, Kagi needs X/month to sustainably bring P privacy, F functional and A AI features to the table, we're trying together to get rid of future C consequences in our lives and our kids and society, etc.
+In 2022 Google generated USD $224.47 Billion dollars from advertisement revenue while processesing approximately 8 Billion searches per day. At 365 days per year this amounts to approximatley USD $0.07 cents revenue per search. If an average user searches 10 times per day, assuming a 30 day month this results in Google generating USD $21 revenue per user per month. However the value you receive is well below USD $21 because your results are influenced so that Google can create that type of revenue. Chosing to subscribe to Kagi means that while you are now paying for search you are getting a fair value for your money, you are getting more relevant results, are able to personalize your expeirence and take advantage of AI tools all while protecting your and your family's privacy and data. 
 
 ## We Don't Offer a Free Tier
 While it’s true that many average search users may not be willing to pay for a search engine (yet!), we want to make our platform accessible to as many people as possible. The Standard plan is our way of providing an option for those users who may not require the advanced features of our professional plans. In addition, we have received requests from casual users and students for a starter-level plan. However, it’s important to note that our core focus remains on professionals, and they will continue to be the driving force behind our product roadmap.
 
-
-
-one of the things we can compare is how much your search is worth vs how much we cahrge for it.. and you calc its value by taking google's revenue from searh ads divided by total number of searches.. should be around 10 cents per search range
-
-
-What could help me when I start this discussion with my wife later (and I would wait for it), is to have a webpage on your main site with very clear copy on what are the tradeoffs of using those paid engines, vs Kagi. (My wife will not spend time reading your blog posts.) 
-I'm also wondering where the definition of "6" for a family will lead us.
-
-We have 5 kids and subscribe to the family plan of our favorite password manager (we'll be able to buy one more seat for a proportional price, so it's ok). We're also a family in Apple's services, in which it doesn't seem possible at all to add one more family member. This one makes me cringe and I don't understand how a corporation as big as Apple can get away with it and feel good in front of their user base. After all, so many things become possible in families in this ecosystem. When our youngest one becomes old enough to use these accounts, I hope the world of software will have opened up more to the human dimensions of our families. I don't see myself telling my youngest one: dear, I don't know what to say, these companies don't believe you can be part of our family, I had to set you up alone, and because of that, you can't X with us and we can't Y with you...
-
-I know it's early for you and I hope you'll be able to offer us, someday, to buy more seats with a proportional price add-on.
-
-## How Our Features Compare 
-
-### Features
-
-The table below shows how Kagi stacks up to some of the most popular search engines around in terms of key features.
-
-|  | Kagi | Google/Bing | DDG/StartPage | Brave | Neeva |
-| --- | --- | --- | --- | --- | --- |
-| Has own search results | Yes | Yes | No | Yes | Yes |
-| Builds own Maps | Yes | Yes | No | Yes | No |
-| User can block sites | Yes | No | No | No | No |
-| Question answering | Yes | Yes | No | Yes | No |
-| Ad-free business model | Yes | No | No | No | Yes |
-| Anonymises user data | Yes | No | Yes | Yes | No |
-| Zero search telemetry | Yes | No | No | No | No |
-
-### Speed
-We’re obsessed with increasing speed and lowering latency, and we currently use three approaches.
-
-First, we optimized our technology stack to increase code execution speed and decrease connection latency. 
-
-Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors! This reduction has the neat side-effect of reducing CO2 emissions. Using Kagi Search will benefit the environment as well as you! 
-
-| Product | SERP Size | CO2 | Load Time |
-| --- | --- | --- | --- |
-| Kagi | 0.76 MB | 0.43 g | 0.4 s |
-| Ecosia | 1.55 MB | 0.89 g | 1.2 s |
-| Bing | 1.94 MB | 1.11 g | 0.8 s |
-| Google | 2.43 MB | 1.39 g | 2.4 s |
-| DuckDuckGo | 2.48 MB | 1.42 g | 2.1 s |
-*Data from ecoping.earth*
-
-Third, our infrastructure is global, so you’ll always connect automatically to the Kagi node closest to you. 
-
+## Learn how to Pick a Plan
+We make it easy to pick the plan that is right for you, take a look at our [Plan Types](./plans/plan-types.md) and review our [Pick The Right Plan](./plans/pick-the-plan.md). 
