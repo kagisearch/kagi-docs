@@ -19,6 +19,13 @@ From that Stripe page, you can:
 - See your invoices
 - Switch between monthly and annual billing (use the **Update plan** button)
 
+## Managing Pay-per-use Options
+From within the billing screen you can change your pay-per-use limits and set two different types of limits:
+* The soft limit triggers a notification regarding pay-per-use cost
+* The hard limit prevents further searches so you do not incur additional costs. 
+
+![Pay Per Use](media/pay_per_use.png)
+
 ## Canceling a Premium Plan
 
 If you want to cancel your Premium plan, you can do so in your Kagi account's [Billing settings](https://kagi.com/settings?p=billing):
