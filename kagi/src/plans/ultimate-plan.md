@@ -1,8 +1,12 @@
 # Ultimate Plan
 The Kagi Ultimate Plan providers the premier Kagi experience. 
 
-## Discounted Access
-On top of unmetered searches you also have discounted access to other Kagi services such as our AI tools, API framework and more as we grow. 
+## Access
+With the Ulimate Plan you have access to advanced features:
+* [Universal Summarizer](./ai/summarizer.md)
+* [Page Summarizer](./ai/summarizer.md)
+* [Page Discussion](./ai/discuss.md)
+* API 
 
 ## Discounted Pricing
-For a discount in pricing you can pay annually. 
+For a 15% discount in pricing you can pay annually. 

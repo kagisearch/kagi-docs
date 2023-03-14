@@ -4,17 +4,19 @@ Kagi offers several subscriptions models:
 
 ![New Plans](media/new_plans.png)
 
-* The **Trial** plan is limited to 100 total searches. This plan is suited for those interest in exploring Kagi and are curious about paid search engines.  
+* The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and are curious about paid search engines.  
 * The **Standard** plan offers 200 searches for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience. 
 * The **Professional** plan offers 700 searches USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search usesrs. 
 * The [**Ultimate**](./plans/ultimate-plan.md) plan offers unlimited searches for USD $25 per month and offers the most flexiblity and power to the user. 
 
+<!--- 
 In addition to the individual plans we also offer multi-user plans:
 
 ![Bundled Plans](media/bundled_plans.png)
 
 * The **Duo** plan offers 1,000 searchs at USD $14 per month making it ideal for couples.
-* The **Family Plan** offers 1,500 searches at USD $20 per month and features kid focused features and protections making it ideal for entire families to enjoy Kagi. 
+* The **Family Plan** offers 1,500 searches at USD $20 per month and features kid focused features and protections making it ideal for entire families to enjoy Kagi. -->
+
 
 Note that no search count rolls over month to month, this is a monthly number that resets each month. 
 

@@ -1,4 +1,4 @@
-# Summarize Document
+# Summarize Page
 
 Whenever you search you may find a single page that you want summarized, which you can do from the page options.
 

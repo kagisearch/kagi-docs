@@ -46,7 +46,6 @@
 	- [Pick The Plan](./plans/pick-the-plan.md)
 	- [Premium Plans](./plans/premium-plan.md)
 	- [Ultimate Plan](./plans/ultimate-plan.md)
-	- [Family Plan](./plans/family-plan.md)
 	- [Gift Kagi](./plans/gift-kagi.md)
 
 - [Features](./features/search-operators.md)
@@ -68,6 +67,11 @@
 	- [Redirects](./features/redirects.md)
 	- [Code Searches](./features/code.md)
 	- [Verbatim Search](./features/verbatim.md)
+
+- [AI](./ai/kagi-ai.md)
+  - [Summarizer](./ai/summarizer.md)
+  - [Summarize Page](./ai/summarize-page.md)
+  - [Discuss](./ai/discuss.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
