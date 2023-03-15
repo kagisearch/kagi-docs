@@ -1,4 +1,4 @@
-# Kagi Ai
+# Kagi AI
 
 Kagi has long heritage in AI, in fact we started as kagi.ai in 2018 and we've previously published products, research and even a sci-fi story about AI. While generative AI opens a new paradigm of search and a vast search space of queries that never previously existed we have taken special care to ensure a thoughtful user experience guided by this philosophy of AI integration. 
 
