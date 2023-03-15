@@ -1,6 +1,6 @@
 # Summarize Page
 
-Whenever you search you may find a single page that you want summarized, which you can do from the page options. 
+You may find individual pages that you would like to summarize and Kagi is the first engine to offer a Summarize Page option. Expand the page options next to a search results and select "Summarize Page" and Kagi will use it's proprietary Universal Summarizer technology in the back end to provide an easily digestable synthesis. 
 
 ![Summarize Page](media/summarize_page.PNG)
 
