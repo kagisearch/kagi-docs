@@ -1,4 +1,4 @@
-# Discuss
+# Ask Questions about Document
 
 Kagi AI allows you to discuss the result set with an AI model to answer further and more detailed questions pertaining to the results returned by search. This option is easily accessible by expanding the options next to a specific web page in the result set. 
 
