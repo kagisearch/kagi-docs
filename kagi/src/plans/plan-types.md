@@ -1,6 +1,6 @@
 # Plan Types
 
-Kagi offers several subscriptions models:
+Kagi offers several subscriptions plans:
 
 ![New Plans](media/new_plans.png)
 
