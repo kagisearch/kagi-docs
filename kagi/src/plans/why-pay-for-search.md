@@ -1,6 +1,10 @@
 # Why Pay for Search
 
-Kagi is a paid search engine with the goal of humanizing the web and giving users the ability to take control of their search experience with faster more relevant results backed by cutting edge AI. 
+Kagi is a premium search engine dedicated to humanizing the web and empowering users to take control of their search experience.
+
+While mainstream search engines generate approximately 5-10 cents per search through advertising revenue, Kagi offers an ad-free alternative that prioritizes users' best interests. By charging a nominal fee for searches, Kagi ensures that its search results are faster, more accurate, and completely respectful of your privacy.
+
+By aligning our incentives with those of our users, Kagi is committed to building a better, more ethical future for ourselves and our children on the web.
 
 ## Ad-Supported Search Engines & The Future of the Web
 We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe why it is imperative for search engines to be ad-free:
