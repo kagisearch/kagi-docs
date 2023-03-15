@@ -6,10 +6,10 @@ Once you have search results returned you can select "Summarize results" to quic
 
 ![Summarizer](media/summarize.PNG)
 
-Kagi AI Universal Summarizer will quickly produce a summary of the results below the search bar.
+The Kagi AI Summarize Results will quickly produce a summary of the results below the search bar.
 
 ![Summary Results](media/summarized_results.PNG)
 
-Kagi AI Universal Summarizer is a new tool and benefits from constant feedback, be sure to use the feedback option to help tune the model for your specific needs.
+Kagi AI Summarize Resultsis a new tool and benefits from constant feedback, be sure to use the feedback option to help tune the model for your specific needs.
 
 ![Summary Feedback](media/summarize_feedback.PNG)
