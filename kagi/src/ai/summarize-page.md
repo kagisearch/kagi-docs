@@ -1,6 +1,6 @@
 # Summarize Page
 
-Whenever you search you may find a single page that you want summarized, which you can do from the page options.
+Whenever you search you may find a single page that you want summarized, which you can do from the page options. 
 
 ![Summarize Page](media/summarize_page.PNG)
 

@@ -69,9 +69,9 @@
 	- [Verbatim Search](./features/verbatim.md)
 
 - [AI](./ai/kagi-ai.md)
-  - [Summarizer](./ai/summarizer.md)
+  - [Summarize Results](./ai/summarize-results.md)
   - [Summarize Page](./ai/summarize-page.md)
-  - [Discuss](./ai/discuss.md)
+  - [Discuss](./ai/ask-questions.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
