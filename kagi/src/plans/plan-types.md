@@ -21,7 +21,8 @@ In addition to the individual plans we also offer multi-user plans:
 Note that no search count rolls over month to month, this is a monthly number that resets each month. 
 
 ## Pay Per Use Enhancement 
-The **Standard** and **Professional** plans both feature a [**Pay Per Use**](https://kagi.com/settings?p=billing) option within the Billing Settings. Searches beyond the monthy included searches, are priced at 1.5 cents per search. There are two limts that you can set:
+The **Standard** and **Professional** plans both feature Pay Per Use options within the Billing Settings. Searches beyond the monthy included searches, are priced at 1.5 cents per search. There are two limts that you can set to control your cost:
+
 * The soft limit triggers a notification regarding pay-per-use cost
 * The hard limit prevents further searches so you do not incur additional costs. 
 
