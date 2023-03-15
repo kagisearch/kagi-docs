@@ -12,7 +12,7 @@ Kagi offers several subscriptions plans:
 <!--- 
 In addition to the individual plans we also offer multi-user plans:
 
-![Bundled Plans](media/bundled_plans.png)
+![Group Plans](media/group_plans.png)
 
 * The **Duo** plan offers 1,000 searchs at USD $14 per month making it ideal for couples.
 * The **Family Plan** offers 1,500 searches at USD $20 per month and features kid focused features and protections making it ideal for entire families to enjoy Kagi. -->
