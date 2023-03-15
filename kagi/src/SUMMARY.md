@@ -72,6 +72,7 @@
   - [Summarize Results](./ai/summarize-results.md)
   - [Summarize Page](./ai/summarize-page.md)
   - [Discuss](./ai/ask-questions.md)
+  - [AI Usage Pricing](./ai/ai-usage-pricing.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
