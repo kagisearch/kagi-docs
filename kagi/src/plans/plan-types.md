@@ -21,17 +21,15 @@ In addition to the individual plans we also offer multi-user plans:
 Note that no search count rolls over month to month, this is a monthly number that resets each month. 
 
 ## Pay Per Use Enhancement 
-The **Standard** and **Professional** plans both feature a [**Pay Per Use**](https://kagi.com/settings?p=billing) option within the Billing Settings. Searches beyond the monthy allotment are priced at 1.5 cents per search. There are two limts that you can set:
+The **Standard** and **Professional** plans both feature a [**Pay Per Use**](https://kagi.com/settings?p=billing) option within the Billing Settings. Searches beyond the monthy included searches, are priced at 1.5 cents per search. There are two limts that you can set:
 * The soft limit triggers a notification regarding pay-per-use cost
 * The hard limit prevents further searches so you do not incur additional costs. 
 
 ![Pay Per Use](media/pay_per_use.png)
 
-## Payment Methods
-We will be adding new payment methods, including Bancontact, iDEAL, Sofort as well as SEPA and direct bank debits, which should make Kagi more accessible to customers without credit cards.
 
 ## Legacy Subscribers and Early Adopters 
-For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Updated to Kagi Search pricing](https://blog.kagi.com/update-kagi-search-pricing).
+For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Updated to Kagi Search pricing](https://blog.kagi.com/update-kagi-search-pricing#existing).
 
 ## Why Tiered Pricing
 This tiered pricing system is easy to understand and ensures Kagi’s financial sustainability for the future so that we can continue to provide you with the tools to own your search expeirence as we puruse our mission to humanize the web. 
