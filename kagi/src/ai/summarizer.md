@@ -1,4 +1,4 @@
-# Universal Summarizer
+# Summarize Results
 
 Whenever you search you can ask Kagi to summarize the collective results for you into a single easily digestable paragraph with references to the individual sites. 
 
