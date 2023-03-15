@@ -24,4 +24,4 @@ Kagi is thrilled to introduce next-generation AI into our product offering:
 2. [Summarize page](./summarize-page.md)
 3. [Ask Question about Document](./ask-questions.md)
 
- for a longer discussion about our AI journey please read our blog ["Kagi's appraoch to AI in search"](https://blog.kagi.com/kagi-ai-search) by our founder Vlad. 
+For a longer discussion about our AI journey please read our blog ["Kagi's appraoch to AI in search"](https://blog.kagi.com/kagi-ai-search) by our founder Vlad. 
