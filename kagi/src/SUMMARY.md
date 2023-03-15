@@ -42,10 +42,11 @@
 
 - [Plans & Payment](./plans/plan-types.md)
 	- [Plan Types](./plans/plan-types.md)
-	- [Premium Plan](./plans/premium-plan.md)
-	- [Team Plan](./plans/team-plan.md)
+	- [Why Pay for Search](./plans/why-pay-for-search.md)
+	- [Pick The Plan](./plans/pick-the-plan.md)
+	- [Premium Plans](./plans/premium-plan.md)
+	- [Ultimate Plan](./plans/ultimate-plan.md)
 	- [Gift Kagi](./plans/gift-kagi.md)
-
 
 - [Features](./features/search-operators.md)
 	- [Search Operators](./features/search-operators.md)
@@ -64,9 +65,14 @@
 		- [Hide Group Search Results](./features/themes/hide-group-search.md)
 	- [Turning Off Animations](./features/turning-off-animations.md)
 	- [Redirects](./features/redirects.md)
-	- [Team Plan Features](./features/team-plan-features.md)
 	- [Code Searches](./features/code.md)
 	- [Verbatim Search](./features/verbatim.md)
+
+- [AI](./ai/kagi-ai.md)
+  - [Summarize Results](./ai/summarize-results.md)
+  - [Summarize Page](./ai/summarize-page.md)
+  - [Discuss](./ai/ask-questions.md)
+  - [AI Usage Pricing](./ai/ai-usage-pricing.md)
 
 - [Results](./search-details/search-sources.md)
 	- [Sources](./search-details/search-sources.md)
@@ -90,9 +96,8 @@
   - [Account](./settings/account.md)
   - [Deleting Your Account](./plans/delete-account.md)	
 
-- [F.A.Q.](./why-kagi/why-pay.md)
-	- [Why Pay for Search](./why-kagi/why-pay.md)
-	- [Kagi vs. The Competition](./why-kagi/kagi-vs-competition.md)
+- [Compare Kagi](./why-kagi/why-pay.md)
+	- [Kagi vs. Competition](./why-kagi/kagi-vs-competition.md)
 	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
 	- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
 	- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
