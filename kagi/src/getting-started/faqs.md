@@ -6,6 +6,15 @@ Kagi Search is a lightning-fast, user-centric, 100% privacy-respecting search en
 
 We are confident that Kagi will help you amplify your search abilities, become more creative in finding information, and accelerate your productivity.
 
+## How do I get help with Kagi?
+
+Beyond using this knowledge base, you have several options:
+
+- We have a [feedback forum](https://kagifeedback.org) for bug reports and feature requests.
+- We have a [Discord server](https://kagi.com/discord) where you can provide general feedback and directly communicate with our community.
+- You can email [support@kagi.com](mailto:support@kagi.com) for help. Before emailing, please see if your issue has been addressed on this knowledge base or the [feedback forum](https://kagifeedback.org).
+
+
 ## How do I set Kagi as my default search engine?
 
 You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](setting-default.md) for details.
@@ -42,16 +51,6 @@ We are...ahem...[fast](../search-details/search-speed.md).
 ## How do Kagi's features compare to other search engines?
 
 Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in other search engines.
-
-## How do I get help with Kagi?
-
-Beyond using this knowledge base, you have several options:
-
-- We have a [feedback forum](https://kagifeedback.org) for bug reports and feature requests.
-- We have a [Discord server](https://kagi.com/discord) where you can provide general feedback and directly communicate with our community.
-- You can email [support@kagi.com](mailto:support@kagi.com) for help. Before emailing, please see if your issue has been addressed on this knowledge base or the [feedback forum](https://kagifeedback.org).
-
-
 
 
 
