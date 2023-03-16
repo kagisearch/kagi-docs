@@ -16,7 +16,6 @@ We have documentation that covers how to:
 If you are an active subscriber, you will have some additional options:
 
 - **Usage** — This area shows how many searches you've made over time and how that usage relates to any payments you've made.
-- **Tip Kagi** — If you find that your Kagi experience surpasses your expectations, or you simply find Kagi a great value, you are welcome to send a tip in an amount of your choosing. Tips are not tax-deductible.
 
 ## Need to Retry Billing
 If your billing gets declined you will need to retry the billing attempt for the invoice by selecting the Manage Billing option.
