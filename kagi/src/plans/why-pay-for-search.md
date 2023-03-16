@@ -6,6 +6,8 @@ While mainstream search engines generate approximately 5-10 cents per search thr
 
 By aligning our incentives with those of our users, Kagi is committed to building a better, more ethical future for ourselves and our children on the web.
 
+You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pagerank-over) post on our blog.
+
 ## Ad-Supported Search Engines & The Future of the Web
 We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe why it is imperative for search engines to be ad-free:
 
