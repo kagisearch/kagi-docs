@@ -7,9 +7,9 @@ web:
 - [European Center for Digital Rights (NOYB)](https://noyb.eu/en)
 - [Electronic Privacy Information Center (EPIC)](https://epic.org)
 - [Fight for the Future](https://www.fightforthefuture.org)
-- [The Markup](https://themarkup.org)
 
-Until we reach profitability, we are making a small monthly donation to the following projects:
+
+Until we reach profitability, we are making a monthly donation to the following projects:
 
 - [Crystal language](https://opencollective.com/crystal-lang)
 - [Python language](https://www.python.org/sponsors/application/)
