@@ -7,8 +7,8 @@
 Help create the best search engine in the world.
 
 - Full-time or part-time (hourly rate) possible.
-- Flexible work conditions, remote work OK. 
-- Early startup equity is available. 
+- Flexible work conditions, remote work OK.
+- Early startup equity is available.
 
 If so, send your CV to [vlad@kagi.com](mailto:vlad@kagi.com).
 

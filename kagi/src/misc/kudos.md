@@ -1,9 +1,11 @@
 # Kudos
-The Kagi community is  vibrant groups of passionate users who make us stronger. 
+
+The Kagi community is  vibrant groups of passionate users who make us stronger.
 
 We would like to thank the following individuals for their contributions.
 
 ## Localazy Translations
+
 Thank you to all our translators, our leaderboard is hosted below.
 
 <iframe

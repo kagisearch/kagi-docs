@@ -65,6 +65,3 @@ You can tweak how the website for a result is treated in future Kagi searches us
 <img src="media/personalized_results.gif" width="675" alt="Personalized Results Example"><br />
 
 You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
-
-
-

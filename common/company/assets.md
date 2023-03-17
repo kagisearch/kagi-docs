@@ -12,7 +12,6 @@ They include:
 * Brand Colors
 * Variants of [Doggo the Kagi Mascot](../about-kagi/kagi-mascot.md)
 
-
 ## Orion Browser
 
 Orion browser has a [press kit](https://browser.kagi.com/press-kit/) page with additional assets such as the logo and screenshots.

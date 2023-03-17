@@ -10,7 +10,7 @@ Filter options:
 
 - **Region** (examples: International, United States, Turkey)
 - **Order By**
-  - Default, Recency, Website, or Ad/Trackers Count 
+  - Default, Recency, Website, or Ad/Trackers Count
   - Ascending or Descending
 - **Time**
   - All, Past 24 Hours, Past Week, or Past Year

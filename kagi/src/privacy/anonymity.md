@@ -12,4 +12,3 @@ Implementing crypto payments remains a challenge as accounting/financial infrast
 However we believe Kagi is already anonymous in practice. Kagi requires no personal information to create an account (you can use any email to register including anonymous solutions like
 [SimpleLogin](https://simplelogin.io)). To hide their payment information, one can use a virtual debit card (such as
 [PrivacyHQ](https://privacyhq.com)). And even if you do not jump through these hoops, Kagi has you covered. We do not log searches or associate them with an account, by design - we have no use for it and it would just be a liability for us. There is no simple switch one can flip to enable this in case of a court order.
-

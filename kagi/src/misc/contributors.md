@@ -12,7 +12,7 @@ Thank you!
 - Zac
 - Seth
 - Alex Aidun
-- Liam 
+- Liam
 - Vladimir Prelovac ([vprelovac](https://github.com/vprelovac))
 - Lukas Winkler ([Findus23](https://github.com/Findus23))
 - Daniel Martín ([danielmartin](https://github.com/danielmartin))

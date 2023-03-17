@@ -4,7 +4,6 @@ Kagi Inc. is currently a maker of two user-centric, privacy-respecting, common-s
 
 ## Kagi Search
 
-
 [Kagi Search](https://kagi.com) is a fast, user-centric and private web search engine with great results.
 
 Visit [Kagi Search documentation](https://help.kagi.com/kagi/).

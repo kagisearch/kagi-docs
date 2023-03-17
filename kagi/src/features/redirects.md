@@ -5,7 +5,7 @@ Redirects are a powerful feature that allow you to make modifications to search 
 Some use cases of redirects include:
 
 - Change domains to a preferred domain (`reddit.com` to `old.reddit.com`)
-- Fixing links to outdated documentation with bad SEO 
+- Fixing links to outdated documentation with bad SEO
 - Rewriting proxied pages (like Google AMP) to their source URL
 - Changing any `http` link to `https`
 
@@ -33,7 +33,7 @@ You can delete a Redirect by pressing the red <span style="color:red"><b>X</b></
 
 ![Redirect Result Example](media/redirect-result.png)
 
-Results that have been modified by a redirect will have a 
+Results that have been modified by a redirect will have a
 <svg width="16" height="16" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M2.32308 7.69082C1.99365 8.02024 1.5857 8.75208 1.22088 9.49619C0.834202 10.2849 1.6146 11.0653 2.40332 10.6786C3.14743 10.3138 3.87927 9.90586 4.2087 9.57644L10.0139 3.77125L8.12826 1.88563L2.32308 7.69082ZM11.578 2.20712C11.7559 2.02928 11.7411 1.72724 11.545 1.53114L10.3684 0.35451C10.1723 0.158406 9.87024 0.143658 9.69239 0.321504L8.59967 1.41423L10.4853 3.29984L11.578 2.20712Z" fill="currentColor"/>
 </svg>
@@ -235,7 +235,7 @@ When possible:
 
 1. If your rewrite pattern does not alter the path of the URL, the original path will be retained.
 
-2. If your rewrite pattern does not include a scheme (`http`, `https`), it will use the orignial URL's scheme.
+2. If your rewrite pattern does not include a scheme (`http`, `https`), it will use the original URL's scheme.
 
 3. If your rewrite generates a URL without a host or a path (i.e., empty), it will not be replaced.
 

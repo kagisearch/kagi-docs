@@ -10,11 +10,11 @@ Check out our [roadmap](https://kagifeedback.org/roadmap).
 HTML version of release notes is available at:
 [kagi.com/changelog](https://kagi.com/changelog)
 
-
 RSS feed for release notes is available at:
 [kagifeedback.org/atom/t/release-notes](https://kagifeedback.org/atom/t/release-notes)
 
 ## Forum
+
 You can join [KagiFeedback.org](https://kagifeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address
 and to the discussion.
 

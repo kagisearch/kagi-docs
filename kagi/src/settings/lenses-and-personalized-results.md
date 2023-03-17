@@ -1,4 +1,4 @@
-# Lenses 
+# Lenses
 
 Lenses are a novel Kagi feature for doing focused searches on particular topics or domains.
 

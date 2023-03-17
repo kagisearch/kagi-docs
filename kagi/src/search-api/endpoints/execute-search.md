@@ -8,7 +8,6 @@ Runs a search.
 
 Returns an array of [Search Objects](../objects.md#search-object).
 
-
 ## Query Parameters
 
 Field     | Type                        | Description
@@ -420,4 +419,5 @@ curl -v -H "Authorization: Bot $TOKEN" https://kagi.com/api/v0/search\?q=steve+j
   ]
 }
 ```
+
 </details>

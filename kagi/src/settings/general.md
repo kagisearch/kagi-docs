@@ -4,7 +4,7 @@ These are settings that control your search experience across the whole product.
 
 ![General Settings](media/general_settings.png)
 
-### Overview
+## Overview
 
 - **Country/Region** — You can constrain search results to come from a specific country/region or choose to see International results.
 - **Keyboard Shortcuts** — You can enable or disable [keyboard shortcuts](search-operators.md#keyboard_shortcuts) in Kagi Search. (If you press **?** on your keyboard (**shift + /**) while in search results, Kagi will open a scrollable window showing the keyboard shortcuts. You can also click or tap **Help** at the bottom of any Kagi webpage to see the shortcuts.)

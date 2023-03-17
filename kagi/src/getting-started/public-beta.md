@@ -7,4 +7,3 @@ During this time, we plan to fix bugs, introduce more core features, and improve
 You can read more about this in our public beta [announcement post](https://blog.kagi.com/kagi-orion-public-beta).
 
 Kagi Search is driven by the needs of its users and we want to hear from you. Join our [feedback forum](https://kagifeedback.org/) and our [Discord server](https://kagi.com/discord). Help us make Kagi Search even better for you.
-

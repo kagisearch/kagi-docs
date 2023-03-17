@@ -10,5 +10,4 @@ There are at least three things you can do
 - Contribute to [translations](./contribute_translations.md)
 - Contribute to this documentation (click the Edit icon on any page)
 
-
-If you are going to support, please join the [Kagi Search Discord server](https://kagi.com/discord) so we can collaborate. 
+If you are going to support, please join the [Kagi Search Discord server](https://kagi.com/discord) so we can collaborate.

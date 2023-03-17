@@ -4,7 +4,7 @@ These settings control various visual options.
 
 ![Appearance Settings](media/appearance_settings.png)
 
-### Overview
+## Overview
 
 - **Theme** — Change your theme between System Default, Light, or Dark. This setting is stored for mobile and desktop separately.
 - **Font Size** — Change your font size between Small, Medium, Normal, Large, or Larger. This setting is stored for mobile and desktop separately.
@@ -14,7 +14,8 @@ These settings control various visual options.
 - **Show URL Favicons** — Choose whether to display a favicon next to the result title, the result title, or not at all.
 - **Custom CSS** — Access settings to [customize the CSS](custom-css.md) of Kagi search and landing pages.
 
-### Customizing Display
+## Customizing Display
+
 In some cases you may want to apply custom CSS, a common example is removing the summary boxes at the top of search results.
 
 ![The Three Boxes](media/threeboxes.PNG)
@@ -26,4 +27,4 @@ In the editor add following contents:
   display: none;
 }</code>
 
-Once entered click "Apply Custom CSS" and refresh search results. 
+Once entered click "Apply Custom CSS" and refresh search results.

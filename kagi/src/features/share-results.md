@@ -10,6 +10,6 @@ Expand the More menu and select the option from the bottom of the list.
 
 ## Share from Results Page
 
-Scroll to the bottom of the page and select the option below the search results. 
+Scroll to the bottom of the page and select the option below the search results.
 
 ![Share From Results](media/share_results_search.png)

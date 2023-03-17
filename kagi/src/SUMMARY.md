@@ -1,6 +1,7 @@
 [Welcome](welcome.md)
 
 ---
+
 # About
 
 - [Company](./company/index.md)
@@ -21,7 +22,7 @@
 
 - [Support and Community](./support-and-community/index.md)
 	- [Roadmap & Feedback Forum](./support-and-community/roadmap_feedback.md)
-	- [Public Beta](./getting-started/public-beta.md)	
+	- [Public Beta](./getting-started/public-beta.md)
 	- [Reporting a Bug](./support-and-community/bug-reporting.md)
 	- [Email Support](./support-and-community/email-support.md)
 	- [Discord Server](./support-and-community/discord-server.md)
@@ -94,7 +95,7 @@
   - [Billing](./settings/billing.md)
   - [Advanced](./settings/advanced.md)
   - [Account](./settings/account.md)
-  - [Deleting Your Account](./plans/delete-account.md)	
+  - [Deleting Your Account](./plans/delete-account.md)
 
 - [Compare Kagi](./why-kagi/why-pay.md)
 	- [Kagi vs. Competition](./why-kagi/kagi-vs-competition.md)
@@ -115,7 +116,6 @@
   - [Objects](./search-api/objects.md)
   - [Endpoints](./search-api/endpoints/index.md)
     - [Execute Search](./search-api/endpoints/execute-search.md)
-
 
 # Credits
 

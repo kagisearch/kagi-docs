@@ -16,21 +16,25 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 ## Timeline
 
 2018 (The Age of AI)
+
 - Work begins on [Kagi.ai](https://kagi.ai)
 - Team size: ~3
 
 2019 (First products)
+
 - First prototype of Kagi Search
 - [Donna.gg](https://donna.gg) is launched using Kagi's early technology
 - Work begins on Orion Browser
 - Team size: ~5
   
 2020-2021 (COVID years)  
+
 - All blurred out. We worked a lot. The private beta of Kagi Search and Orion Browser launched
 - Team size: ~10
 
 2022 (Public beta and paid customers)
-- Kagi Inc. incorporated 
+
+- Kagi Inc. incorporated
 - [Kagi search and Orion browser enter the public beta](https://blog.kagi.com/kagi-orion-public-beta)
 - [Three months later](https://blog.kagi.com/status-update-first-three-months), thousands of people are paying for Kagi and Orion
 - The team is now ~15

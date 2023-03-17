@@ -1,6 +1,6 @@
 # Code Searching
 
-Kagi supports developers with code samples in response to search results. 
+Kagi supports developers with code samples in response to search results.
 
 For example, consider searching for <i>write!<i>
 
@@ -18,4 +18,4 @@ With Kagi Code Search you can find the code samples you are looking for, even in
 
 <img src="media/write_code_examples.PNG" alt="Write Search Code Examples">
 
-Remember to apply the correct lens, or create your own, to help refine your code searches. 
+Remember to apply the correct lens, or create your own, to help refine your code searches.

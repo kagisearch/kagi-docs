@@ -1,8 +1,8 @@
 # Customizing Kagi CSS
 
-[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. You can fully customize Kagi's search and landing pages with your own CSS. 
+[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. You can fully customize Kagi's search and landing pages with your own CSS.
 
-You can use up to 10,000 characters to customize your Kagi Search CSS. Custom CSS does not apply on Settings pages. 
+You can use up to 10,000 characters to customize your Kagi Search CSS. Custom CSS does not apply on Settings pages.
 
 Customization is done in your [Appearance settings](https://kagi.com/settings?p=custom_css).
 

@@ -4,13 +4,14 @@ Bangs are shortcuts starting with exclamation points (!) that quickly take you t
 
 ![Bang Example](media/bang.gif)
 
-To take advantage of Bangs make sure you have enabled Bangs in your [Search](https://kagi.com/settings?p=search) settings. You can also set up Quick Bangs and Custom Bangs, continue reading to learn more. 
+To take advantage of Bangs make sure you have enabled Bangs in your [Search](https://kagi.com/settings?p=search) settings. You can also set up Quick Bangs and Custom Bangs, continue reading to learn more.
 
 ![Enable Bangs](media/enable_bangs.PNG)
 
-Note that Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang). 
+Note that Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang).
 
 ## Bang Examples
+
 Bangs can also be used regionally. For example, you can search with  **!de [query]** or **!nl [query]** to switch your region to Germany or Netherlands on the fly.
 
 Some of the more popular search bangs include:
@@ -37,13 +38,14 @@ Here is the full list of patterns that we support:
 
 ## Quick Bangs
 
-For convenience, Kagi allows you to customize Quick Bangs which do not require an exclamation (!). 
+For convenience, Kagi allows you to customize Quick Bangs which do not require an exclamation (!).
 
 Configure Quick Bangs under [Search](https://kagi.com/settings?p=search) in the Kagi Settings.
 
 <img src="media/quick_bangs.PNG" alt="Quick Bangs">
 
 ## Custom Bangs
+
 You can create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings?p=advanced).
 
 <img src="media/custom_bang_settings.PNG" alt="Custom Bangs">
@@ -59,6 +61,7 @@ From here you can "Add Bang" to define new custom bangs.
 You can create your own Custom Bangs in Kagi using the [Search Shortcuts menu](search-shortcuts.md).
 
 ## Watch a Demo
+
 You can see a full demo of using bangs - default, new and custom - by watching the video below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Cy8PHrVs5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

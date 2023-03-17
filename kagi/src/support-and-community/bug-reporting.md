@@ -36,7 +36,7 @@ Sometimes there are a few things you can do to help us narrow down certain issue
 - Logging out & logging back in
 - Waiting for some time, then trying again
 
-## Common Questions
+## Common Questions and Issues
 
 ### How do I find my search region and "Kagi node"?
 
@@ -50,11 +50,11 @@ Sometimes there are a few things you can do to help us narrow down certain issue
 
 3. At the bottom, you will see "Connected to: US-EAST". Here, "US-EAST" is the current Kagi node.
 
-### I have an issue with my subscription or billing!
+### I have an issue with my subscription or billing
 
 Please email us at [support@kagi.com](mailto:support@kagi.com). When emailing, please include the email address associated with your Kagi account so that we can help you more quickly.
 
-### I found a potential security problem!
+### I found a potential security problem
 
 Please email [our security contact](mailto:vlad@kagi.com).
 
@@ -68,6 +68,6 @@ Please don't post explicit images, videos, or text directly on the site.
 
 If you can, please censor the images. Otherwise, you can leave them out. If we need them, we will ask you to provide them another way.
 
-### I just have a question or want to chat with other Kagi users!
+### I just have a question or want to chat with other Kagi users
 
 If you are just looking to chat or need some help, you are welcome to join our [Discord server](https://kagi.com/discord).

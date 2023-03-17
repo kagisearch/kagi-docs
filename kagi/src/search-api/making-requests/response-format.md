@@ -47,6 +47,7 @@ From the [Execute Search](../endpoints/making_requests.md) endpoint:
   ]
 }
 ```
+
 </details>
 
 <details>
@@ -71,4 +72,5 @@ From the [Execute Search](../endpoints/making_requests.md) endpoint:
   ]
 }
 ```
+
 </details>

@@ -14,23 +14,24 @@ Beyond using this knowledge base, you have several options:
 - We have a [Discord server](https://kagi.com/discord) where you can provide general feedback and directly communicate with our community.
 - You can email [support@kagi.com](mailto:support@kagi.com) for help. Before emailing, please see if your issue has been addressed on this knowledge base or the [feedback forum](https://kagifeedback.org).
 
-
 ## How do I set Kagi as my default search engine?
 
 You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](setting-default.md) for details.
 
 ## Why does Kagi Search require an account?
-Kagi Search requires an account only because it is a paid service which requires an account for the transaction. 
+
+Kagi Search requires an account only because it is a paid service which requires an account for the transaction.
 
 Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as PrivacyHQ if you want to.
 
 ## Why does Kagi Search require an email address?
+
 We require an email address to be able to verify the account really belongs to you in the following cases:
 
 - To handle the account recovery (in case you lose your password)
 - In case you contact us via email with an account related questions (in particular requests to delete your account or change your subscription)
 
-Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search. 
+Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search.
 
 Kagi does need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription business.
 
@@ -52,9 +53,8 @@ We are...ahem...[fast](../search-details/search-speed.md).
 
 Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in other search engines.
 
+## How are searches counted?
 
-
-
-
-
-
+- [Bangs](../features/bangs.md) and search suggestions (while typing) are never counted as searches.
+- Reloading the same search within a short time (~2 minutes) does not count as an additional search.
+- Each [lense](../features/lenses.md) and content type (e.g. images, news) is considered a separate search.

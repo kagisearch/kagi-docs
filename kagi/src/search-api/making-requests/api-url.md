@@ -16,6 +16,5 @@ https://kagi.com/api/v0/search
 ```
 
 > Note: Currently the Search API is in beta. During this period, the only
-> active version is "v0", and breaking changes may occur any time as we 
+> active version is "v0", and breaking changes may occur any time as we
 > continue developing the API.
-

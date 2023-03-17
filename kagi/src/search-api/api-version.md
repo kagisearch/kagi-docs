@@ -1,4 +1,4 @@
-# API Versions 
+# API Versions
 
 ## Available versions
 

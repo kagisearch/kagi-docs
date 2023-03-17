@@ -7,10 +7,7 @@ web:
 - [European Center for Digital Rights (NOYB)](https://noyb.eu/en)
 - [Electronic Privacy Information Center (EPIC)](https://epic.org)
 
-
 Until we reach profitability, we are making a monthly donation to the following projects:
 
 - [Crystal language](https://opencollective.com/crystal-lang)
 - [Python language](https://www.python.org/sponsors/application/)
-
-

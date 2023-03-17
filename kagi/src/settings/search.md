@@ -4,7 +4,7 @@ These are settings that primarily affect Web search results.
 
 ![Search Settings 1](media/search_settings_1.png)
 
-### Overview
+## Overview
 
 - **Search Suggestions** — Choose whether to see search suggestions as you type in the search box.
 - **Search Suggestion Details** — Choose whether to see images and a description with the search suggestions as you type in the search box.
