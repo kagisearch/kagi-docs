@@ -20,6 +20,9 @@ In addition to the individual plans we also offer multi-user plans:
 
 Note that no search count rolls over month to month, this is a monthly number that resets each month. 
 
+## Legacy Subscribers and Early Adopters 
+For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Updates to Kagi Search pricing](https://blog.kagi.com/update-kagi-search-pricing#existing).
+
 ## Pay Per Use Enhancement 
 The **Standard** and **Professional** plans both feature Pay Per Use options within the Billing Settings. Searches beyond the monthy included searches, are priced at 1.5 cents per search. There are two limts that you can set to control your cost:
 
@@ -28,9 +31,6 @@ The **Standard** and **Professional** plans both feature Pay Per Use options wit
 
 ![Pay Per Use](media/pay_per_use.png)
 
-
-## Legacy Subscribers and Early Adopters 
-For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Updated to Kagi Search pricing](https://blog.kagi.com/update-kagi-search-pricing#existing).
 
 ## Why Tiered Pricing
 This tiered pricing system is easy to understand and ensures Kagi’s financial sustainability for the future so that we can continue to provide you with the tools to own your search expeirence as we puruse our mission to humanize the web. 
