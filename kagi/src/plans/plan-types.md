@@ -21,7 +21,7 @@ In addition to the individual plans we also offer multi-user plans:
 
 * [Bangs](../features/bangs.md) and search suggestions (while typing) are never counted as searches.
 * Reloading the same search within a short time (~2 minutes) does not count as an additional search.
-* Each [lense](../features/lenses.md) and content type (e.g. images, news) is considered a separate search.
+* Each [lens](../features/lenses.md) and content type (e.g. images, news) is considered a separate search.
 
 Note that searches do not roll over to the next month; the number of available searches resets each month. Months are counted starting from the date of subscription, and are not necessarily aligned with the months of the year.
 
