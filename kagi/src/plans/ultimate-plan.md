@@ -1,6 +1,6 @@
 # Ultimate Plan
 
-The Kagi Ultimate Plan providers the premier Kagi experience. The plan costs $25/month
+The Kagi Ultimate Plan provides the premier Kagi experience. The plan costs $25/month.
 
 ## Un-metered searches
 
