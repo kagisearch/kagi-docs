@@ -1,6 +1,6 @@
 # Welcome to Kagi Search Help!
 
-Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](./getting-started/quick-start.md) and [FAQs](./getting-started/faqs.md) are great places to begin. If you can’t find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at **suport@kagi.com**.
+Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](./getting-started/quick-start.md) and [FAQs](./getting-started/faqs.md) are great places to begin. If you can’t find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at **support@kagi.com**.
 
 You can access our documentation in several ways:
 
