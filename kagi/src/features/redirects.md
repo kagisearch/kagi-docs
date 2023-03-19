@@ -48,15 +48,15 @@ By hovering on this icon, a tooltip will appear showing you the original URL.
 A redirect looks like this:
 
 <div class="rewrite-example">
-  <span>^https://reddit.com/|https://old.reddit.com/</span>
+  <span>^https://reddit.com|https://old.reddit.com</span>
 </div>
 
 It is composed of the following parts:
 
 <div class="rewrite-example">
-  <span style="color:#3183ff;">^https://reddit.com/</span>
+  <span style="color:#3183ff;">^https://reddit.com</span>
   <span>|</span>
-  <span style="color:green;">https://old.reddit.com/</span>
+  <span style="color:green;">https://old.reddit.com</span>
 </div>
 
 - The <span style="color:#3183ff;">regex match pattern</span>
@@ -92,9 +92,9 @@ We can make all `https://reddit.com` links change to `https://old.reddit.com` us
 
 <div class="rewrite-example">
   <span style="color:#3183ff;">^</span>
-  <span>https://reddit.com/</span>
+  <span>https://reddit.com</span>
   <span>|</span>
-  <span style="color:green;">https://old.reddit.com/</span>
+  <span style="color:green;">https://old.reddit.com</span>
 </div>
 
 - <span style="color:#3183ff;">^</span> matches the start of the URL.
@@ -102,7 +102,7 @@ We can make all `https://reddit.com` links change to `https://old.reddit.com` us
 
 - `http://reddit.com` matches exactly this text.
 
-- <span style="color:green;">https://old.reddit.com/</span> is the replacement.
+- <span style="color:green;">https://old.reddit.com</span> is the replacement.
 
 > In this example, because our replacement pattern did not alter the original URL's path, Kagi will keep the original path for you.
 >
@@ -243,7 +243,7 @@ For example, this means the [reddit example](#changing-a-domain) can also be sim
 
 <div class="rewrite-example">
   <span style="color:#3183ff;">^</span>
-  <span>https://reddit.com/</span>
+  <span>https://reddit.com</span>
   <span>|</span>
   <span style="color:green;">old.reddit.com</span>
 </div>
