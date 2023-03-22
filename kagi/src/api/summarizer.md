@@ -6,7 +6,7 @@ content on the web, or your own documents.
 ## Pricing
 
 **$0.030 per 1,000** tokens processed\
-**$0.025 per 1,000** tokens processed (if signed up on the Kagi Ultimate [plan](https://kagi.com/pricing))
+**$0.025 per 1,000** tokens processed (if you are on the Kagi Ultimate [plan](https://kagi.com/pricing))
 
 Notes:
 - Tokens include all tokens processed in + out. 100 tokens is roughly equal to 75 words.
@@ -15,7 +15,7 @@ Notes:
 
 ## API Key
 
-Get an API key [here](https://kagi.com/settings?p=api).
+You can get an API key [here](https://kagi.com/settings?p=api) (requires a Kagi Search account).
 
 You can reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
 
