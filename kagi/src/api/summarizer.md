@@ -5,8 +5,8 @@ content on the web, or your own documents.
 
 ## Pricing
 
-$0.030 per 1,000 tokens processed
-$0.025 per 1,000 tokens processed (if signed up on the Kagi Ultimate [plan](https://kagi.com/pricing))
+**$0.030 per 1,000** tokens processed\
+**$0.025 per 1,000** tokens processed (if signed up on the Kagi Ultimate [plan](https://kagi.com/pricing))
 
 Notes:
 - Tokens include all tokens processed in + out. 100 tokens is roughly equal to 75 words.\
