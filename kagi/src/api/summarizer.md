@@ -9,9 +9,9 @@ content on the web, or your own documents.
 **$0.025 per 1,000** tokens processed (if signed up on the Kagi Ultimate [plan](https://kagi.com/pricing))
 
 Notes:
-- Tokens include all tokens processed in + out. 100 tokens is roughly equal to 75 words.\
-- Any request over 10,000 tokens, is billed as 10,000 tokens, regardless of the length of the document.\
-- Accessing cached summaries of the same URL is free.\
+- Tokens include all tokens processed in + out. 100 tokens is roughly equal to 75 words.
+- Any request over 10,000 tokens, is billed as 10,000 tokens, regardless of the length of the document.
+- Accessing cached summaries of the same URL is always free.
 
 
 ## Contact
