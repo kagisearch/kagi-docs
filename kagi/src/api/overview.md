@@ -3,6 +3,11 @@
 The search API provides programmatic access to data that powers our search
 results & more.
 
+## Kagi APIs
+
+- [Search API](search.md)
+- [Universal Summarizer API](summarizer.md)
+
 ## Beta Status
 
 **The API is currently in a "v0" beta status.** Changes will be ongoing,
@@ -21,6 +26,6 @@ This is the preferred venue for bug reports and feature requests.
 - [Q&A Forum](https://github.com/kagisearch/kagi-docs/discussions/categories/q-a?discussions_q=category%3AQ%26A+label%3Aproduct%3Akagi_search_api)
 - [API Feature Requests](https://github.com/kagisearch/kagi-docs/discussions/categories/kagi-search-api-feature-requests-ideas)
 
-### [Discord](https://kagi.com/discord)
+### Discord
 
-Good for quick questions, chatting about thing you've made with our APIs!
+Join our [Discord](https://kagi.com/discord)! Good for quick questions, chatting about thing you've made with our APIs!
