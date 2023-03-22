@@ -2,7 +2,7 @@
 
 ## Getting a Token
 
-You can obtain a token from the [Search API Settings](https://kagi.com/settings?p=user_api) page.
+You can obtain a token from the [Search API Settings](https://kagi.com/settings?p=api) page.
 
 Tokens do not expire, but note that:
 
@@ -32,4 +32,4 @@ set up an IP address limit, which will cause our API to reject any requests
 made with your API token that do not originate from the listed IP address.
 
 You can configure this on the
-[Search API Settings](https://kagi.com/settings?p=user_api) page.
+[Search API Settings](https://kagi.com/settings?p=api) page.

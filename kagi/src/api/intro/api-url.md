@@ -6,9 +6,9 @@ Unless otherwise noted, the base URL for all requests is:
 https://kagi.com/api/$VERSION
 ```
 
-Where `$VERSION` is a [listed active API version](../api-version.md).
+Where `$VERSION` is a [listed active API version](api-version.md).
 
-For example, the full URL for the [Execute Search](../endpoints/execute-search.md)
+For example, the full URL for the [Execute Search](../search.md#execute-search)
 endpoint is:
 
 ```
