@@ -5,15 +5,30 @@ content on the web, or your own documents.
 
 ## Pricing
 
-TODO
+$0.030 per 1,000 tokens processed
+$0.025 per 1,000 tokens processed (if signed up on the Kagi Ultimate [plan](https://kagi.com/pricing))
+
+Notes:
+- Tokens include all tokens processed in + out. 100 tokens is roughly equal to 75 words.\
+- Any request over 10,000 tokens, is billed as 10,000 tokens, regardless of the length of the document.\
+- Accessing cached summaries of the same URL is free.\
+
+
+## Contact
+
+Get in touch at support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
 
 ## Types of Content that can be Summarized
 
 You can summarize many types of web content, including:
 
-- Text web pages, articles, and forums
+- Text web pages, articles, and forum threads
 - YouTube videos
-- ...
+- Audio files (for example podcasts) in mp3/wav format
+- PDF documents
+- Twitter Threads
+
+See [demo](https://kagi.com/summarizer) for examples.
 
 ## Endpoints
 
