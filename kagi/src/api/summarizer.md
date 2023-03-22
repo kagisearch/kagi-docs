@@ -13,10 +13,11 @@ Notes:
 - Any request over 10,000 tokens, is billed as 10,000 tokens, regardless of the length of the document.
 - Accessing cached summaries of the same URL is always free.
 
+## API Key
 
-## Contact
+Get an API key [here](https://kagi.com/settings?p=api).
 
-Get in touch at support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
+You can reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
 
 ## Types of Content that can be Summarized
 
@@ -28,7 +29,7 @@ You can summarize many types of web content, including:
 - PDF documents
 - Twitter Threads
 
-See [demo](https://kagi.com/summarizer) for examples.
+See [demo](https://kagi.com/summarizer) for examples or [blog post](https://blog.kagi.com/universal-summarizer) for more examples.
 
 ## Endpoints
 
@@ -50,7 +51,7 @@ $ curl -v \
   "https://kagi.com/api/v0/summarize?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZSRHeXYDLko"
 ```
 
-<details>
+
 <summary>Response</summary>
 
 ```json
@@ -76,7 +77,6 @@ how to simplify.",
 }
 ```
 
-</details>
 
 **POST request with JSON body, song lyrics, Daphne engine**
 
@@ -88,7 +88,7 @@ $ curl -v \
   -d '{"url":"https://genius.com/Brothertiger-mainsail-lyrics", "engine": "daphne"}'
 ```
 
-<details>
+
 <summary>Response</summary>
 
 ```json
@@ -108,7 +108,6 @@ $ curl -v \
   }
 }
 ```
-</details>
 
 #### Parameters
 
