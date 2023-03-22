@@ -105,17 +105,15 @@
 
 # Developers
 
-- [Kagi API](./search-api/overview.md)
-  - [Overview](./search-api/overview.md)
-  - [API Version](./search-api/api-version.md)
-  - [Making Requests](./search-api/making-requests/index.md)
-    - [Authentication](./search-api/making-requests/auth.md)
-    - [Base API URL](./search-api/making-requests/api-url.md)
-    - [Response Format](./search-api/making-requests/response-format.md)
-    - [Image Proxy URLs](./search-api/making-requests/image-proxy-urls.md)
-  - [Objects](./search-api/objects.md)
-  - [Endpoints](./search-api/endpoints/index.md)
-    - [Execute Search](./search-api/endpoints/execute-search.md)
+- [API](api/overview.md)
+  - [Introduction](api/overview.md)
+    - [API Version](./api/intro/api-version.md)
+    - [Authentication](./api/intro/auth.md)
+    - [Base API URL](./api/intro/api-url.md)
+    - [Response Format](./api/intro/response-format.md)
+    - [Image Proxy URLs](./api/intro/image-proxy-urls.md)
+  - [Universal Summarizer API](api/summarizer.md)
+  - [Search API](api/search.md)
 
 # Credits
 
