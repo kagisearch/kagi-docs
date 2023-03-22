@@ -6,7 +6,7 @@ AI tools are powerful and are more expensive to run than standard search, theref
 
 * Summarize results will typically use 700-800 tokens, or less than 1 search
 * Ask Questions about Document will typically use 500-1000 tokens per question (depending on document size)
-* Summarize Page uses twice the tokens. A typical blog post or an article will have 500 - 2500 tokens resulting in 1-5 searches when summarized. We set a cap on maximum charged tokens to 10,000 even if the document has more than that. For example, if you are summarizing an entire book with 100,000 words, it will cost you ~10 searches. Furthermore, if the summary was cached (somebody requested it previously), it will be free.
+* Summarize Page uses twice the tokens (it more expesnive to do). A typical blog post or an article will have 500 - 2500 tokens resulting in 1-5 searches when summarized. We set a cap on maximum charged tokens to 10,000 even if the document has more than that. For example, if you are summarizing an entire book with 100,000 words, it will cost you ~10 searches. Furthermore, if the summary was cached (somebody requested it previously), it will be free.
 
 
 ## Review AI Usage
