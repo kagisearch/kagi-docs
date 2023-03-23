@@ -156,7 +156,7 @@ output.
 Type | Description
 -----|------------
 summary (default) | Paragraph(s) of summary prose
-takeaways | Bulleted list of key points
+takeaway | Bulleted list of key points
 
 ### Summarization Engines
 
