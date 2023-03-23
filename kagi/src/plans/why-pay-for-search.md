@@ -1,6 +1,6 @@
 # Why Pay for Search
 
-We'll let Google's own AI explain this (click to enlarge).
+We'll let Google explain this (click to enlarge). This is the actual output from Google Bard AI tool.
 
 [![Google ad for Kagi](media/ad.png)](media/ad.png)
 
