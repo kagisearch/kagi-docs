@@ -29,7 +29,7 @@ You can summarize many types of web content, including:
 - PDF documents
 - Twitter Threads
 
-See [demo](https://kagi.com/summarizer) for examples or [blog post](https://blog.kagi.com/universal-summarizer) for more examples.
+See [demo](https://kagi.com/summarizer) for examples or [blog post](https://blog.kagi.com/universal-summarizer) to learn more.
 
 ## Endpoints
 
