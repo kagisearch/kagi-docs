@@ -2,7 +2,7 @@
 
 ## Getting a Token
 
-You can obtain a token from the [Search API Settings](https://kagi.com/settings?p=api) page.
+You can obtain a token from the [Kagi API Settings](https://kagi.com/settings?p=api) page.
 
 Tokens do not expire, but note that:
 
