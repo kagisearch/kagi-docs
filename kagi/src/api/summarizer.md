@@ -3,7 +3,7 @@
 The Universal Summarizer is an API using powerful LLMs to summarize
 content on the web, or your own documents.
 
-## Billing 
+## API credits 
 
 This API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings. 
 
