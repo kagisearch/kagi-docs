@@ -13,8 +13,7 @@ Using API with insufficent credits will produce "Insufficient credit to perform 
 
 Universal Summarizer uses token based pricing. 1000 tokens are roughly equal to 750 words.
 
-**$0.030** per **1,000** tokens processed\
-**$0.025** per **1,000** tokens processed (if you are on the Kagi Ultimate [plan](https://kagi.com/pricing))
+Price is **$0.030** per **1,000** tokens processed or **$0.025** per **1,000** tokens processed if you are on the Kagi Ultimate [plan](https://kagi.com/pricing).
 
 Notes:
 - Tokens include all tokens processed in + out. 
