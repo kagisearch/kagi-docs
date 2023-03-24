@@ -7,7 +7,7 @@ We understand picking the right plan can be challenging and while we have expter
 If you find that you are consistently paying an additional fee at the end of each month because you have the Standard plan and are exceeding 200 searches it is time to consider the Professional plan. This plan is priced at USD $10/month and you get 700 searches! To exceed this amount of searches in a single month you are likely a developer, researcher or some other professional who relies on the internet for your livelihood and are searching dozens if not hundreds of times per day. 
 
 ## Consider the Ultimate Plan for Advanced Features 
-If you find yourself going over $25 per month due to increased pay-per-use search and you are interested in taking advantage of all the advanced features that Kagi is buidling then it is time to upgrade to the Ultimate plan.
+If you find yourself going over $25 per month due to increased pay-per-use search and you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan.
 
 # Optionally, Consider the Numbers
 Some people like to see the numbers, and we have them prepared for you, however we recommend following the advice stated above if you are unsure how to get started, or simply don't like looking at math! 
