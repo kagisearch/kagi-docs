@@ -9,12 +9,14 @@ This API uses pre-paid API credits. You can manage API credits in the [API billi
 
 ## Pricing
 
+Universal Summarizer uses token based pricing. 100 tokens is roughly equal to 75 words.
+
 **$0.030** per **1,000** tokens processed\
 **$0.025** per **1,000** tokens processed (if you are on the Kagi Ultimate [plan](https://kagi.com/pricing))
 
 Notes:
-- Tokens include all tokens processed in + out. 100 tokens is roughly equal to 75 words.
-- Any request over 10,000 tokens, is billed as 10,000 tokens, regardless of the length of the document.
+- Tokens include all tokens processed in + out. 
+- Any request over 10,000 tokens is billed as 10,000 tokens, regardless of the length of the document.
 - Accessing cached summaries of the same URL is always free.
 
 ## API Key
