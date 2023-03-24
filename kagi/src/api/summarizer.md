@@ -7,6 +7,8 @@ content on the web, or your own documents.
 
 This API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings. 
 
+Using API with insufficent credits will produce "Insufficient credit to perform this request." response message.
+
 ## Pricing
 
 Universal Summarizer uses token based pricing. 100 tokens is roughly equal to 75 words.
