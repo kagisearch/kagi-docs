@@ -3,10 +3,10 @@
 Kagi pledges to contribute 5% of our profits to the following organizations that align with our mission of humanizing the
 web:
 
+- [Center for Humane Technology](https://www.humanetech.com)
 - [Children beyond brands (Fairplay)](https://fairplayforkids.org)
 - [European Center for Digital Rights (NOYB)](https://noyb.eu/en)
 - [Electronic Privacy Information Center (EPIC)](https://epic.org)
-- [Center for Humane Technology](https://www.humanetech.com)
 
 Until we reach profitability, we are making a monthly donation to the following projects:
 
