@@ -115,4 +115,10 @@ If you are just getting started with Orion RC and would like to copy over your s
 cp -r ~/Library/Application\ Support/Orion ~/Library/Application\ Support/Orion\ RC
 ```
 
+### Change start page wallpaper to custom image Orion RC (Release Candidate)
+To change to a custom wallpaper go to the preferences plist for the indivdiual profiles located in
+```
+~/Library/Application\ Support/Orion/[Your profiles] 
+```
+there is a string under <key>backgroundImageOnStartPage</key> in the string it starts with file:///. Just insert the location of the file that you want. 
 
