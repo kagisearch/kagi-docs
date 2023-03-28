@@ -71,7 +71,7 @@ $ curl -v \
   "data": {
     "output": "In this Youtube video, Jonathan Blow discusses the decline of software
 technology and the potential collapse of civilization. He argues that technology
-does not automatically improve and that great achievements in technology can be 
+does not automatically improve and that great achievements in technology can be
 lost due to the fall of civilizations. Blow believes that software technology has
 not improved in quite a while and that the industry is adding too much complication
 to everything. He suggests that simplifying software systems is the right short-term
@@ -179,6 +179,14 @@ daphne | Informal, creative, friendly summary
 
 The summarizer can translate the output into a desired language, using the table
 of supported language codes below.
+
+If no language is specified, the document's original language is allowed to
+influence the summarizer's output. Specifying a language will add a an explicit
+translation step, to translate the summary to the desired language.
+
+For example, if a document is mostly written in Spanish, the summary output may
+itself be in Spanish or contain Spanish passages. Specifying "EN" will ensure
+all passages are translated as English.
 
 Code | Language
 -----|---------
