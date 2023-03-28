@@ -187,6 +187,7 @@ CS | Czech
 DA | Danish
 DE | German
 EL | Greek
+EN | English
 ES | Spanish
 ET | Estonian
 FI | Finnish
