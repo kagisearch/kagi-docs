@@ -15,10 +15,16 @@ Universal Summarizer uses token based pricing. 1000 tokens are roughly equal to 
 
 Price is **$0.030** per **1,000** tokens processed or **$0.025** per **1,000** tokens processed if you are on the Kagi Ultimate [plan](https://kagi.com/pricing).
 
+For the Muriel summarization engine, requests are billed at a flat rate of $1 per summary.
+
 Notes:
 - Tokens include all tokens processed in + out. 
 - Any request over 10,000 tokens is billed as 10,000 tokens, regardless of the length of the document.
 - Accessing cached summaries of the same URL is always free.
+
+> Currently, cached results are regional, stored on whichever Kagi node your request hits.
+> This is indicated by `meta.node` in the API response.
+> The cache can by bypassed by passing `false` to the `cache` parameter.
 
 ## API Key
 
@@ -131,8 +137,12 @@ text  | string  | Yes | Text to summarize. Exclusive with `url`.
 engine | string | No | [Summarization engine](#summarization-engines)
 summary_type  | string  | No  | [Type of summary](#summary-types)
 target_language  | string  | No  | [Desired output language](#target-language-codes)
+cache   | bool  | No  | Whether to allow cached requests & responses. (default is true)
 
 **Notes**
+
+> The `cache` param is not yet in service. This notice will be removed when it
+> is live.
 
 > Parameters `url` and `text` are exclusive. You must pass one or the other.
 
@@ -174,6 +184,7 @@ Engine | Description
 -------|-----------
 agnes (default) | Formal, technical, analytical summary
 daphne | Informal, creative, friendly summary
+muriel | Deep summary using cutting edge language models
 
 ### Target Language Codes
 
@@ -220,4 +231,3 @@ SV | Swedish
 TR | Turkish
 UK | Ukrainian
 ZH | Chinese (simplified)
-
