@@ -198,6 +198,7 @@ For example, if a document is mostly written in Spanish, the summary output may
 itself be in Spanish or contain Spanish passages. Specifying "EN" will ensure
 all passages are translated as English.
 
+
 Code | Language
 -----|---------
 BG | Bulgarian
@@ -227,12 +228,11 @@ RU | Russian
 SK | Slovak
 SL | Slovenian
 SV | Swedish
-
-## Privacy
-
-
-Read how is summarization data handled in our [privacy policy](https://kagi.com/privacy#Summarizer).
-
 TR | Turkish
 UK | Ukrainian
 ZH | Chinese (simplified)
+
+## Privacy
+
+Read how is summarization data handled in our [privacy policy](https://kagi.com/privacy#Summarizer).
+
