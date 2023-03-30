@@ -13,9 +13,9 @@ Using API with insufficent credits will produce "Insufficient credit to perform 
 
 Universal Summarizer uses token based pricing. 1000 tokens are roughly equal to 750 words.
 
-Price is **$0.030** per **1,000** tokens processed or **$0.025** per **1,000** tokens processed if you are on the Kagi Ultimate [plan](https://kagi.com/pricing).
+Price for our consumer grade models (Agnes/Daphne) is **$0.030** per **1,000** tokens processed or **$0.025** per **1,000** tokens processed if you are on the Kagi Ultimate [plan](https://kagi.com/pricing).
 
-For the Muriel summarization engine, requests are billed at a flat rate of $1 per summary.
+For our enterprise-grade Muriel summarization engine, requests are billed at a flat rate of $1 per summary, regardles of the length of the document.
 
 Notes:
 - Tokens include all tokens processed in + out. 
@@ -184,7 +184,7 @@ Engine | Description
 -------|-----------
 agnes (default) | Formal, technical, analytical summary
 daphne | Informal, creative, friendly summary
-muriel | Deep summary using cutting edge language models
+muriel | Best-in-class summary using our enterprise-grade model
 
 ### Target Language Codes
 
