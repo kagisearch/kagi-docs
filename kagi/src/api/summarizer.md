@@ -140,9 +140,6 @@ cache   | bool  | No  | Whether to allow cached requests & responses. (default i
 
 **Notes**
 
-> The `cache` param is not yet in service. This notice will be removed when it
-> is live.
-
 > Parameters `url` and `text` are exclusive. You must pass one or the other.
 
 > Users of the `text` parameter are recommended to use the `POST` method instead,
