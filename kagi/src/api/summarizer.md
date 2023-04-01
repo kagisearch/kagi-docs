@@ -36,9 +36,10 @@ You can reach out through support@kagi.com, our [Discord server](https://kagi.co
 You can summarize many types of web content, including:
 
 - Text web pages, articles, and forum threads
-- YouTube videos
-- Audio files (for example podcasts) in mp3/wav format
 - PDF documents
+- PowerPoint documents (.pptx)
+- Audio files (mp3/wav)
+- YouTube URLs
 - Twitter Threads
 
 See [demo](https://kagi.com/summarizer) for examples or [blog post](https://blog.kagi.com/universal-summarizer) to learn more.
