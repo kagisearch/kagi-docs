@@ -67,9 +67,7 @@ Kagi has zero marketing budget and spends zero on marketing, we see Orion and AI
 ## How do you balance development of AI features and Search?
 Kagi is in the business of search, not in the business of selling AI, our philosophy is that AI is there to enhance the experience, not create it. We are excited by the possibilities that AI will bring - the initial demonstration shows the expansion of search backed by AI, for example the ability to chat with any document on the web. And currently only 10% of searches that can be made are actually being made, which is because current engines cannot cover the remaining 90%. 
 
-## Will you expose a Search API?
+## Will you expose the Search API?
 Now that we have billing infrastructure in place we can expose the API to personal accounts so that they can access the API. We are still working out how to charge for the API however this will be solved quickly given that we have metered abilities in place. 
-
-
-## Does Kagi Need Funding? 
-Our goal is to maintain as is, however we may do a family, friends and users financing round so that our users can invest in Kagi. This will be done in the April / May timeframe - there is a link to the form in our latest blog post. 
+# How do I check my ussage?
+You can check your usage [here](https://kagi.com/settings?p=consumption). This can also be accessed by clicking Check Usage from the Settings -> Billing page. 
