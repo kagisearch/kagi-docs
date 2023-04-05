@@ -59,7 +59,7 @@ Returns a [Summarization Object](#summarization-object).
 **GET request, Youtube Video, Agnes engine**
 
 ```shell
-$ curl -v \
+curl -v \
   -H "Authorization: Bot $TOKEN" \
   "https://kagi.com/api/v0/summarize?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZSRHeXYDLko"
 ```
