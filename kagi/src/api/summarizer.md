@@ -64,6 +64,23 @@ $ curl -v \
   "https://kagi.com/api/v0/summarize?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZSRHeXYDLko"
 ```
 
+Alternatively in python:
+
+```python
+import requests
+
+base_url = 'https://kagi.com/api/v0/summarize'
+params = {
+    "url": "https://www.youtube.com/watch?v=ZSRHeXYDLko",
+    "summary_type": "summary",
+    "engine": "agnes"
+}
+headers = {'Authorization': f'Bot {TOKEN}'}
+
+response = requests.post(base_url, headers=headers, params=params)
+print(response.json())
+```
+
 
 <summary>Response</summary>
 
