@@ -1,7 +1,6 @@
 # Universal Summarizer
 
-The Universal Summarizer is an API using powerful LLMs to summarize
-content on the web, or your own documents.
+The Universal Summarizer is an API using powerful LLMs to summarize content on the web, or your own documents, of any length.
 
 ## API credits 
 
@@ -18,12 +17,14 @@ Notes:
 - Any request over 10,000 tokens is billed as 10,000 tokens, regardless of the length of the document.
 - Accessing cached summaries of the same URL is always free.
 
-> Currently, cached results are regional, stored on whichever Kagi node your request hits.
-> This is indicated by `meta.node` in the API response.
-> The cache can by bypassed by passing `false` to the `cache` parameter.
 
-For our enterprise-grade Muriel summarization engine, requests are billed at a **flat rate of $1 per summary**, regardles of the length of the document.
+Our enterprise-grade Muriel summarization engine costs a **flat rate of $1 per summary**, regardles of the length of the document. Muriel produces higher quality summaries, especially for longer document. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
 
+To use Muriel just enter "muriel" as the engine paramater in the API call.
+
+## Privacy
+
+Read how is summarization data handled in our [privacy policy](https://kagi.com/privacy#Summarizer).
 
 ## API Key
 
@@ -41,6 +42,8 @@ You can summarize many types of web content, including:
 - Audio files (mp3/wav)
 - YouTube URLs
 - Twitter Threads
+
+Unlike other summarization products, Universal Summarizer can **summarize content of any length**.
 
 See [demo](https://kagi.com/summarizer) for examples or [blog post](https://blog.kagi.com/universal-summarizer) to learn more.
 
@@ -246,8 +249,3 @@ SV | Swedish
 TR | Turkish
 UK | Ukrainian
 ZH | Chinese (simplified)
-
-## Privacy
-
-Read how is summarization data handled in our [privacy policy](https://kagi.com/privacy#Summarizer).
-
