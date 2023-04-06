@@ -18,9 +18,9 @@ Notes:
 - Accessing cached summaries of the same URL is always free.
 
 
-Our enterprise-grade Muriel summarization engine costs a **flat rate of $1 per summary**, regardles of the length of the document. Muriel produces higher quality summaries, especially for longer document. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
+Our enterprise-grade Muriel summarization engine costs a **flat rate of $1 per summary**, regardles of the length of the document. Muriel produces higher quality summaries, especially for long documents. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
 
-To use Muriel just enter "muriel" as the engine paramater in the API call.
+To use Muriel just enter "muriel" as the "engine" paramater in the API call.
 
 ## Privacy
 
