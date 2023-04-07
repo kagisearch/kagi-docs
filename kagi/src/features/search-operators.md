@@ -1,6 +1,7 @@
 # Search Operators
 
 ## Table of Contents
+
 - [Viewing Search Operators](#viewing-search-operators)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Search Operators](#search-operators-1)

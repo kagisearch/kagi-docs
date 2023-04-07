@@ -9,7 +9,7 @@ not.
 They will be returned as a bare path like:
 
 ```
-/proxy/filename.jpg?c=CRYPTOGRAPHC_HASH
+/proxy/filename.jpg?c=CRYPTOGRAPHIC_HASH
 ```
 
 The base URL for these endpoints is currently `https://kagi.com`.

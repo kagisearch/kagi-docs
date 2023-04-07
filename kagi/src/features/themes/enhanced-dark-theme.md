@@ -1,6 +1,6 @@
 # Enhanced Dark Theme by El Dude
 
-User El_Dude shared an Enhanced Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. 
+User El_Dude shared an Enhanced Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel.
 
 ![Enhanced Dark Applied](media/enhanced_dark_applied.png)
 

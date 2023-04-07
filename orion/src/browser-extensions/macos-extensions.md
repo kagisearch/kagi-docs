@@ -57,7 +57,7 @@ Orion highlights some popular Web Extensions for you to try first:
 <a name="compatibility_mode"></a>
 ### Managing Extensions Permissions and Compatibility Mode
 
-In Orion, you can manage extension permissisions on a per-website basis. 
+In Orion, you can manage extension permissions on a per-website basis. 
 
 Click the Gear icon in the toolbar to bring up website settings and look for "Extensions permissions" section. You can also manage extension permissions globally through Settings -> Websites menu (scroll down).
 

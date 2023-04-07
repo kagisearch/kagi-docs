@@ -1,4 +1,4 @@
- # Slimmed Down Theme
+# Slimmed Down Theme
 
  User rasti shared a Slimmed Down Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. This theme removes some of the visual components that are present in Kagi Search, compare
 
@@ -12,7 +12,7 @@ with the following slimmed down page:
 
 ![Slimmed Down Not Applied](media/slimmed-down-not-applied-two.png)
 
-as cmpared with the following slimmed down page:
+as compared with the following slimmed down page:
 
 ![Slimmed Down  Applied](media/slimmed-down-applied-two.png)
 

@@ -1,6 +1,6 @@
 # Familiar Dark Theme
 
-User 🅻uci shared a Familiar Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel. 
+User 🅻uci shared a Familiar Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel.
 
 ![Familiar Dark Theme Applied](media/familiar_dark_theme_applied.PNG)
 

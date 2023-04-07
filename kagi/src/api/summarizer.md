@@ -2,25 +2,25 @@
 
 The Universal Summarizer is an API using powerful LLMs to summarize content on the web, or your own documents, of any length.
 
-## API credits 
+## API credits
 
-This API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings. 
+This API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
 
-Using API with insufficent credits will produce "Insufficient credit to perform this request." response message.
+Using API with insufficient credits will produce "Insufficient credit to perform this request." response message.
 
 ## Pricing
 
 Price for our consumer grade models (Agnes/Daphne) is **$0.030** per **1,000** tokens processed. If you are subscribed to the Kagi Ultimate [plan](https://kagi.com/pricing), discounted pricing at **$0.025** per **1,000** tokens processed is automatically applied.
 
 Notes:
-- Tokens include all tokens processed in + out. 
+
+- Tokens include all tokens processed in + out.
 - Any request over 10,000 tokens is billed as 10,000 tokens, regardless of the length of the document.
 - Accessing cached summaries of the same URL is always free.
 
+Our enterprise-grade Muriel summarization engine costs a **flat rate of $1 per summary**, regardless of the length of the document. Muriel produces higher quality summaries, especially for long documents. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
 
-Our enterprise-grade Muriel summarization engine costs a **flat rate of $1 per summary**, regardles of the length of the document. Muriel produces higher quality summaries, especially for long documents. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
-
-To use Muriel just enter "muriel" as the "engine" paramater in the API call.
+To use Muriel just enter "muriel" as the "engine" parameter in the API call.
 
 ## Privacy
 
@@ -84,7 +84,6 @@ response = requests.post(base_url, headers=headers, params=params)
 print(response.json())
 ```
 
-
 <summary>Response</summary>
 
 ```json
@@ -110,7 +109,6 @@ how to simplify.",
 }
 ```
 
-
 **POST request with JSON body, song lyrics, Daphne engine**
 
 ```shell
@@ -120,7 +118,6 @@ $ curl -v \
   -H "Authorization: Bot $TOKEN" \
   -d '{"url":"https://genius.com/Brothertiger-mainsail-lyrics", "engine": "daphne"}'
 ```
-
 
 <summary>Response</summary>
 

@@ -59,15 +59,18 @@ Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in ot
 - Reloading the same search within a short time (~2 minutes) does not count as an additional search.
 - Each [lense](../features/lenses.md) and content type (e.g. images, news) is considered a separate search.
 
+## Why is Kagi focusing on AI and Orion Browser as well?
 
-### Why is Kagi focusing on AI and Orion Browser as well? 
 Kagi has zero marketing budget and spends zero on marketing, we see Orion and AI as customer acquisition channels for Kagi. Orion is already providing about 20% of our customers, people find Orion first and then find out about Kagi. Instead of spending money on marketing we are spending money on the products because we want to holistically solve the problem of consuming information on the web, not just search. There is a wonderful synergy between Orion and Kagi as well as the Universal Summarizer technology that we are investing in.
 
-
 ## How do you balance development of AI features and Search?
-Kagi is in the business of search, not in the business of selling AI, our philosophy is that AI is there to enhance the experience, not create it. We are excited by the possibilities that AI will bring - the initial demonstration shows the expansion of search backed by AI, for example the ability to chat with any document on the web. And currently only 10% of searches that can be made are actually being made, which is because current engines cannot cover the remaining 90%. 
+
+Kagi is in the business of search, not in the business of selling AI, our philosophy is that AI is there to enhance the experience, not create it. We are excited by the possibilities that AI will bring - the initial demonstration shows the expansion of search backed by AI, for example the ability to chat with any document on the web. And currently only 10% of searches that can be made are actually being made, which is because current engines cannot cover the remaining 90%.
 
 ## Will you expose the Search API?
-Now that we have billing infrastructure in place we can expose the API to personal accounts so that they can access the API. We are still working out how to charge for the API however this will be solved quickly given that we have metered abilities in place. 
-# How do I check my ussage?
-You can check your usage [here](https://kagi.com/settings?p=consumption). This can also be accessed by clicking Check Usage from the Settings -> Billing page. 
+
+Now that we have billing infrastructure in place we can expose the API to personal accounts so that they can access the API. We are still working out how to charge for the API however this will be solved quickly given that we have metered abilities in place.
+
+## How do I check my usage?
+
+You can check your usage [here](https://kagi.com/settings?p=consumption). This can also be accessed by clicking Check Usage from the Settings -> Billing page.

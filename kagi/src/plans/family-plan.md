@@ -16,8 +16,7 @@ The Kagi Family Plan is perfect for families wanting to search smarter, emphasiz
   - [New Illustrations](#illustrations)
 - [Story behind the Poop Avatar](#poopavatar)
 
-
-### <a name="using"></a> How to Use the Kagi Family Plan
+## <a name="using"></a> How to Use the Kagi Family Plan
 
 To sign up for the Family Plan, select the plan that fits your family's size and needs at Kagi [account creation](https://kagi.com/onboarding?p=choose_plan&plan=family).
 
@@ -29,7 +28,7 @@ Adding family members is easy, you can invite them via email through Kagi. For k
 <img src="https://staticmedia.kagi.com/family/add_member.png" >
 <center><em>Invite family members to the plan</em></center>
 
-The Family Plan dashboard gives you a complete picture of your family's members. 
+The Family Plan dashboard gives you a complete picture of your family's members.
 
 <img src="https://staticmedia.kagi.com/family/dashboard.png" >
 <center><em>Manage family members</em></center>
@@ -39,8 +38,7 @@ The Billing screen has the overview of the plan and allows you to update payment
 <img src="https://staticmedia.kagi.com/family/billing.png" >
 <center><em>Billing screen</em></center>
 
-
-### <a name="features"></a> Unique Features
+## <a name="features"></a> Unique Features
 
 The Kagi Family Plan has unique features that make it perfect for families.
 
@@ -50,7 +48,7 @@ The Kagi Family Plan also includes a kid-friendly search experience that uses st
 
 <a name="parental"></a> **Parental Controls**
 
-The Kagi Family Plan comes with parental controls that let parents manage their children's search experience. 
+The Kagi Family Plan comes with parental controls that let parents manage their children's search experience.
 
 <img src="https://staticmedia.kagi.com/family/parental.png" >
 <center><em>Restrict content</em></center>
@@ -80,14 +78,12 @@ Parents can create lenses for children to ensure they have access to the resourc
 <img src="https://staticmedia.kagi.com/family/lens_create.png" >
 <center><em>Create a lens</em></center>
 
-
 <a name="pr"></a> **Personalized Results**
 
 In addition to lenses, we include the ability for parents to completely block (ban) websites from showing in the results, or to promote useful sites. Up to 1,000 websites can be curated in this way.
 
 <img src="https://staticmedia.kagi.com/family/pr.png" >
 <center><em>Granular control over what appears in the search results</em></center>
-
 
 <a name="illustrations"></a> **New Illustrations**
 
@@ -96,7 +92,7 @@ Our mascot Doggo now has a lady friend, and we introduced several new and deligh
 <img src="https://staticmedia.kagi.com/family/lady_doggo.png" >
 <center><em>Lady Doggo</em></center>
 
-### <a name="poopavatar"></a> Story behind the Poop Avatar
+## <a name="poopavatar"></a> Story behind the Poop Avatar
 
 Our selection of avatars for kids includes a poop avatar (which most kids find really funny), and there's a reason why we made this choice that goes deeper than what meets the eye.
 
@@ -108,7 +104,7 @@ In the day and age of smartphones, social media, and instant gratification, it's
 It is an opportunity to teach kids that they are not their online avatar and help them develop a healthy sense of identity and self-esteem. Online avatars  are often designed to be cute, funny, or attention-grabbing, but they don't necessarily reflect who the child is as a person.
 
 When kids start using online identities at a young age, it's important to help them understand that their avatar is just a representation of themselves online, and that it doesn't define who they are in real life. This can help prevent them from feeling too attached to their online persona and from feeling hurt or embarrassed if they receive negative feedback or criticism online.
- 
-Teaching kids that they are not their online avatar can also help them understand the importance of privacy and security online. Kids need to learn how to protect their personal information and avoid sharing too much about themselves online, and understanding that their avatar is not a true reflection of who they are can help them understand why it's important to be cautious about what they share. 
+
+Teaching kids that they are not their online avatar can also help them understand the importance of privacy and security online. Kids need to learn how to protect their personal information and avoid sharing too much about themselves online, and understanding that their avatar is not a true reflection of who they are can help them understand why it's important to be cautious about what they share.
 
 At Kagi, we believe that it's important to provide kids with a fun and engaging online experience while also teaching them important lessons about humanity, identity, privacy, and online safety. Our poop avatar is just one example of how we try to make online searching and learning more fun for kids, while also encouraging them to be thoughtful and responsible digital citizens.

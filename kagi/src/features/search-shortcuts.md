@@ -32,7 +32,7 @@ Clicking an existing shortcut will allow you to edit it exactly the same manner.
 
 ![Add new shortcut](media/more-menu-add-edit.png)
 
-#### Search Engine Name
+### Search Engine Name
 
 This field is the name of the shortcut that will be shown in the menu.
 
@@ -45,7 +45,7 @@ You can then make any changes you'd like.
 
 If you have copied a shortcut, it can also be pasted in this field, and the form will be filled out automatically.
 
-#### URL
+### URL
 
 This field is the URL that your search will be sent to.
 
@@ -59,7 +59,7 @@ Then searching for "Steve Jobs" with this shortcut will send you to:
 
 <a href="https://wikipedia.org/w/index.php?search=Steve+Jobs">https://wikipedia.org/w/index.php?search=Steve+Jobs</a>
 
-#### Bang Shortcut
+### Bang Shortcut
 
 This field assigns a custom [Bang](bangs.md) to your shortcut, so you can invoke the shortcut from anywhere you search.
 
@@ -67,11 +67,11 @@ For example, if this field is set to "cool", you can invoke this shortcut by typ
 
 ![Bang Shortcut](media/more-menu-cool.png)
 
-#### Sharing Custom Shortcuts
+### Sharing Custom Shortcuts
 
 To share a shortcut, start by opening the Edit dialog for your shortcut.
 
-You can copy a shortcut's settings to your clipboard by pressing the copy button. 
+You can copy a shortcut's settings to your clipboard by pressing the copy button.
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="8" y="6" width="12" height="16" rx="1" stroke="currentColor" stroke-width="2"></rect>
 <path d="M4 20V4C4 2.89543 4.89543 2 6 2H18" stroke="currentColor" stroke-width="2"></path>
