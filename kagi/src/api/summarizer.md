@@ -236,8 +236,7 @@ LV | Latvian
 NB | Norwegian
 NL | Dutch
 PL | Polish
-PT-BR | Portuguese (Brazilian)
-PT-PT | Portuguese (European)
+PT | Portuguese
 RO | Romanian
 RU | Russian
 SK | Slovak
