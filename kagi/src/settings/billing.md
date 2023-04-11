@@ -31,7 +31,7 @@ We have documentation that covers how to:
 
 ## <a name="switch_plan"></a>Switching a Plan
 
-to switch your plan:
+To switch your plan:
 
 1. Cancel your existing plan by clicking Manage Billing -> Cancel Plan 
 2. Click "Upgrade to Premium" to select the new plan. 
