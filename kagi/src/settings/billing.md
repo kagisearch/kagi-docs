@@ -4,7 +4,7 @@
 
 These settings control your billing options and status with Kagi, there are two tabs you will use:
 
-* [Billing settings](https://kagi.com/settings?p=billing)
+* [Billing Settings](https://kagi.com/settings?p=billing)
 * [Billing Usage](https://kagi.com/settings?p=consumption)
 
 ## Billing Settings
@@ -29,7 +29,7 @@ We have documentation that covers how to:
 * [Cancel your Subscription](../plans/premium-plan.md#cancel_premium)
 * [Switch your Plan](#switch_plan)
 
-## <a name="switch_plan"></a>Switching a plan
+## <a name="switch_plan"></a>Switching a Plan
 
 to switch your plan:
 
