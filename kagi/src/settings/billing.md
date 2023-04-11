@@ -21,15 +21,22 @@ You will also see options to:
 
 * Manage your Billing
 * Download an invoice
-* [Switch Your Plan](./plan/plan-types.md)
-
-![Billing Settings](media/billing_settings.png)
 
 We have documentation that covers how to:
 
 * [Sign up for the Premium Plan](../plans/premium-plan.md#signing_up)
 * [Manage your billing](../plans/premium-plan.md#managing_billing)
-* [Cancel the Premium Plan](../plans/premium-plan.md#cancel_premium)
+* [Cancel your Subscription](../plans/premium-plan.md#cancel_premium)
+* [Switch your Plan](#switch_plan)
+
+## <a name="switch_plan"></a>Switching a plan
+
+to switch your plan:
+
+1. Cancel your existing plan by clicking Manage Billing -> Cancel Plan 
+2. Click "Upgrade to Premium" to select the new plan. 
+
+Any credit you have left over will be pro-rated.
 
 ## Billing Settings: Pay Per Use
 
