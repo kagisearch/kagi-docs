@@ -33,10 +33,11 @@ We have documentation that covers how to:
 
 To switch your plan:
 
-1. Cancel your existing plan by clicking Manage Billing -> Cancel Plan 
-2. Click "Upgrade to Premium" to select the new plan. 
+1. Navigate to Settings -> Billing
+2. Click "Switch Plan"
+3. Select a Plan you want to switch to
+4. Follow the prompts
 
-Any credit you have left over will be pro-rated.
 
 ## Billing Settings: Pay Per Use
 
