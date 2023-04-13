@@ -1,6 +1,6 @@
 # Plan Types
 
-Kagi offers several subscriptions plans:
+Kagi offers several indidividual subscriptions plans. Also check [Family plans](./family-plan.md).
 
 ![New Plans](media/new_plans.png)
 
