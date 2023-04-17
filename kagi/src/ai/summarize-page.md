@@ -8,4 +8,6 @@ Once complete you will see the individual page summary appear below the result.
 
 ![Summarized Page](media/summarized_page.PNG)
 
-After reading the summary you can even choose to proceed to [Discuss this document](./ai/discuss.md)
+After reading the summary you can even choose to proceed to [Discuss this document](./ai/discuss.md).
+
+Quickly summarize any page using the [bang `!sum`](../features/bangs.md#universal-summarizer).

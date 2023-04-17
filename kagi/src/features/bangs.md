@@ -23,7 +23,7 @@ Some of the more popular search bangs include:
 - **!m** for Kagi Maps
 - **!n** for Kagi News
 - **!v** for Kagi Videos
-- **!help**  to search this knowledge base for information about Kagi Search
+- **!help** to search this knowledge base for information about Kagi Search
 
 ## Supported Bang Syntaxes
 
@@ -80,3 +80,7 @@ Here is the full list of "feeling lucky" patterns that we support:
 - `! query`
 - `query !`
 - `\query`
+
+## Universal Summarizer
+
+Use the [universal summarizer](../ai/summarize-page.md) with `!sum <url>` or `!summarize <url>`. Summarize key moments with `!sumk <url>` or `!summarizekey <url>`.
