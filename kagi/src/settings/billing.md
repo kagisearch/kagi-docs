@@ -38,7 +38,6 @@ To switch your plan:
 3. Select a Plan you want to switch to
 4. Follow the prompts
 
-
 ## Billing Settings: Pay Per Use
 
 The **Standard** and **Professional** plans both feature Pay Per Use options within the Billing Settings. Searches beyond the monthly included searches, are priced at 1.5 cents per search. There are two limits that you can set to control your cost:
