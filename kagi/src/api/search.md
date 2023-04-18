@@ -153,7 +153,7 @@ curl -v \
 Field     | Type                        | Description
 ----------|-----------------------------|-----------
 q         | string                      | query
-limit     | int                         | limit number of [Search Result](../objects.md#search-result) items
+limit     | int                         | limit number of [Search Result](#search-result) items
 
 
 ## Objects
