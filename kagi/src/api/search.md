@@ -10,6 +10,10 @@ The Search API gives programmable access to Kagi's premium search results.
 Searching using the API is billed by attributing the searches to your
 personal account, as if you were searching on kagi.com directly.
 
+## SDK
+
+Python SDK is available through [kagiapi](https://github.com/kagisearch/kagiapi) package.
+
 ## Endpoints
 
 ### Execute Search
