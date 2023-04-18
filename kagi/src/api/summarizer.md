@@ -48,7 +48,7 @@ To use Muriel just use "muriel" as the "engine" parameter in the API call. See e
 
 Read how is summarization data handled in our [privacy policy](https://kagi.com/privacy#Summarizer).
 
-For handling sensitive information and documents, we recommend setting the 'cache' API parameter to False. In this way, the document will just flow through our infrastructure and will not be retained anywhere.
+For handling sensitive information and documents, we recommend setting the 'cache' API parameter to False. In this way, the document will "flow through" our infrastructure and will not be retained anywhere after processing.
 
 ## Support
 
