@@ -2,7 +2,7 @@
 
 The Universal Summarizer is an API using powerful LLMs to summarize content on the web, or your own documents, of any length.
 
-## API Key
+## API key
 
 You can obtain an API key [here](https://kagi.com/settings?p=api) (requires a Kagi Search account).
 
