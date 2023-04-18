@@ -20,8 +20,15 @@ orion://search?q=query to perform search
 
 Location of Open Tabs
 ```
-~/Library/Application\ Support/Orion/Defaults/browser_state.plist 
+~/Library/Application\ Support/Orion/Defaults/named_windows.plist (Seems to contain only the tabs of the named window with lowest ID integer)
+~/Library/Application\ Support/Orion/Defaults/.local_named_windows.plist (Contains tabs from all named windows)
 ```
+
+Location of additional tab metadata
+```
+~/Library/Application\ Support/Orion/Defaults/.LocalTabsCache.plist
+```
+Above contains metadata and cached content from iCloud synchronized tabs 
 
 Location of Bookmarks
 ```
