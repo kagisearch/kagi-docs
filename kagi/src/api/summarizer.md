@@ -2,19 +2,33 @@
 
 The Universal Summarizer is an API using powerful LLMs to summarize content on the web, or your own documents, of any length.
 
+## Quick start
+
+
+1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account)
+2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
+3. Call the API. See [example usage](#examples).
+
 ## API key
 
-You can obtain an API key [here](https://kagi.com/settings?p=api) (requires a Kagi Search account).
+To obtain an API key you will first need to [create a Kagi account](https://kagi.com/signup?plan_id=trial). 
+
+Then, navigate to Settings -> Advanced -> API portal, or click [here](https://kagi.com/settings?p=api) to go directly.
+
+Click "Generate API Token".
 
 ## API credits
 
-This API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
+Universal Sumamrizer API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
 
 Using API with insufficient credits will produce "Insufficient credit to perform this request." response message.
 
 ## Pricing
 
-Price for our consumer grade models (Agnes/Daphne) is **$0.030** per **1,000** tokens processed. If you are subscribed to the Kagi Ultimate [plan](https://kagi.com/pricing), discounted pricing at **$0.025** per **1,000** tokens processed is automatically applied.
+
+### Consumer models
+
+Price for our consumer grade model (Agnes) is **$0.030** per **1,000** tokens processed. If you are subscribed to the Kagi Ultimate [plan](https://kagi.com/pricing), discounted pricing at **$0.025** per **1,000** tokens processed is automatically applied.
 
 Notes:
 
@@ -22,13 +36,19 @@ Notes:
 - Any request over 10,000 tokens is billed as 10,000 tokens, regardless of the length of the document.
 - Accessing cached summaries of the same URL is always free.
 
-Our enterprise-grade Muriel summarization engine costs a **flat rate of $1 per summary**, regardless of the length of the document. Muriel produces higher quality summaries, especially for long documents. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
+### Enterprise models
 
-To use Muriel just enter "muriel" as the "engine" parameter in the API call.
+Our enterprise-grade Muriel summarization engine produces even higher quality summaries, especially for long documents. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
+
+Murial usage is a **flat rate of $1 per summary**, regardless of the length or type of the document. 
+
+To use Muriel just use "muriel" as the "engine" parameter in the API call. See examples below.
 
 ## Privacy
 
 Read how is summarization data handled in our [privacy policy](https://kagi.com/privacy#Summarizer).
+
+For handling sensitive information and documents, we recommend setting the 'cache' API parameter to False. In this way, the document will just flow through our infrastructure and will not be retained anywhere.
 
 ## Support
 
@@ -59,9 +79,9 @@ Summarizes a document, by URL or using passed text.
 
 Returns a [Summarization Object](#summarization-object).
 
-#### Examples
+#### <a name="examples"></a>Examples
 
-**GET request, Youtube Video, Agnes engine**
+**GET request, Youtube Video, Muriel engine**
 
 ```shell
 curl -v \
@@ -78,7 +98,7 @@ base_url = 'https://kagi.com/api/v0/summarize'
 params = {
     "url": "https://www.youtube.com/watch?v=ZSRHeXYDLko",
     "summary_type": "summary",
-    "engine": "agnes"
+    "engine": "muriel"
 }
 headers = {'Authorization': f'Bot {TOKEN}'}
 
@@ -111,14 +131,14 @@ how to simplify.",
 }
 ```
 
-**POST request with JSON body, song lyrics, Daphne engine**
+**POST request with JSON body, song lyrics, Agnes engine**
 
 ```shell
 $ curl -v \
   -XPOST https://kagi.com/api/v0/summarize \
   -H "Content-Type: application/json" \
   -H "Authorization: Bot $TOKEN" \
-  -d '{"url":"https://genius.com/Brothertiger-mainsail-lyrics", "engine": "daphne"}'
+  -d '{"url":"https://genius.com/Brothertiger-mainsail-lyrics", "engine": "agnes"}'
 ```
 
 <summary>Response</summary>
