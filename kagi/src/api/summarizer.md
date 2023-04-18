@@ -2,6 +2,10 @@
 
 The Universal Summarizer is an API using powerful LLMs to summarize content on the web, or your own documents, of any length.
 
+## API Key
+
+You can obtain an API key [here](https://kagi.com/settings?p=api) (requires a Kagi Search account).
+
 ## API credits
 
 This API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
@@ -26,9 +30,7 @@ To use Muriel just enter "muriel" as the "engine" parameter in the API call.
 
 Read how is summarization data handled in our [privacy policy](https://kagi.com/privacy#Summarizer).
 
-## API Key
-
-You can get an API key [here](https://kagi.com/settings?p=api) (requires a Kagi Search account).
+## Support
 
 You can reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
 
