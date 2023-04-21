@@ -3,12 +3,11 @@
 The Search API gives programmable access to Kagi's premium search results.
 
 > **NOTE:** The Search API is currently only available to customers of the
-> Kagi Teams plan.
+> Kagi Teams plan. Please reach out to vlad@kagi.com for invite.
 
 ## Pricing
 
-Searching using the API is billed by attributing the searches to your
-personal account, as if you were searching on kagi.com directly.
+Kagi search API is priced at $25 for 1000 queries. 
 
 ## SDK
 
@@ -154,6 +153,14 @@ Field     | Type                        | Description
 ----------|-----------------------------|-----------
 q         | string                      | query
 limit     | int                         | limit number of [Search Result](#search-result) items
+
+
+#### Additional settings
+
+Search API will inherit the setting in your account. For example you can:
+
+- Block or promote websites ([results personalization](https://help.kagi.com/kagi/getting-started/index.html)).
+- Select to receive longer or shorter search snippets (under [Settings -> Search](https://help.kagi.com/kagi/settings/search.html))
 
 
 ## Objects
