@@ -30,10 +30,11 @@ We require an email address to be able to verify the account really belongs to y
 
 - To handle the account recovery (in case you lose your password)
 - In case you contact us via email with an account related questions (in particular requests to delete your account or change your subscription)
+- To occasionaly send product updates, which you can disable in your Kagi settings or unubscribe directly from the email
 
-Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search.
+Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search and it is up to you what email address you want to use.
 
-Kagi does need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription business.
+Kagi does need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription product business.
 
 ## I have privacy concerns over linking my search queries with my credit card. Why should I trust you?
 
