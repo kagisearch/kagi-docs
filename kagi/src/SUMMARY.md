@@ -98,8 +98,7 @@
   - [Account](./settings/account.md)
   - [Deleting Your Account](./plans/delete-account.md)
 
-- [Compare Kagi](./why-kagi/why-pay.md)
-	- [Kagi vs. Competition](./why-kagi/kagi-vs-competition.md)
+- [Compare Kagi](./why-kagi/kagi-vs-competition.md)
 	- [Kagi vs. Google](./why-kagi/kagi-vs-google.md)
 	- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
 	- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
