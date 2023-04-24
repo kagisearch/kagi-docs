@@ -30,7 +30,7 @@ We require an email address to be able to verify the account really belongs to y
 
 - To handle the account recovery (in case you lose your password)
 - In case you contact us via email with an account related questions (in particular requests to delete your account or change your subscription)
-- To occasionaly send product updates, which you can disable in your Kagi settings or unubscribe directly from the email
+- To occasionaly send product updates, which you can disable in your Kagi settings or unsubscribe directly from the email
 
 Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search and it is up to you what email address you want to use.
 
