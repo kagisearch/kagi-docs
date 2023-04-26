@@ -12,7 +12,7 @@ You will also need to make sure the Default Dark Theme is set to "Royal Blue".
 
 ![Default_Dark_Theme](media/default_dark_theme.png)
 
-To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css) - this code is also available on [Snap Code](https://snapcode.vercel.app/snippet/bP4eAdE4ODm4XFkLaVMpZ).
+To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
