@@ -12,7 +12,7 @@ These settings control various visual options.
 - **Default Dark Theme** — Choose between Royal Blue and Moon Dark for the Default Light Theme.
 - **Show Results** — Choose between showing results aligned to the left or center of your screen.
 - **Show URL Favicons** — Choose whether to display a favicon next to the result title, the result title, or not at all.
-- **Custom CSS** — Access settings to [customize the CSS](custom-css.md) of Kagi search and landing pages.
+- **Custom CSS** — Access settings to [customize the CSS](../features/custom-css.md) of Kagi search and landing pages.
 
 ## Customizing Display
 
