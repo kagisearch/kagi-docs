@@ -1,6 +1,6 @@
 # Billing
 
-> **Important Notice:** Our pricing changed on March 15th, please review our [Plan Types](./plan/plan-types.md) for more information and refer to our [blog post for a longer discussion.](https://blog.kagi.com/update-kagi-search-pricing)
+> **Important Notice:** Our pricing changed on March 15th, please review our [Plan Types](../plans/plan-types.md) for more information and refer to our [blog post for a longer discussion.](https://blog.kagi.com/update-kagi-search-pricing)
 
 These settings control your billing options and status with Kagi, there are two tabs you will use:
 
