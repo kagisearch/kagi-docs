@@ -129,3 +129,7 @@ To change to a custom wallpaper go to the preferences plist for the indivdiual p
 ```
 there is a string under <key>backgroundImageOnStartPage</key> in the string it starts with file:///. Just insert the location of the file that you want. 
 
+### I prefer the original WebKit PDF viewer!
+
+Sure, toggle Develop -> Experimental Features -> Enable PDF.js Viewer.
+
