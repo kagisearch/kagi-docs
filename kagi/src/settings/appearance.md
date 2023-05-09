@@ -18,7 +18,7 @@ These settings control various visual options.
 
 In some cases you may want to apply custom CSS, a common example is removing the summary boxes at the top of search results.
 
-![The Three Boxes](media/threeboxes.PNG)
+![The Three Boxes](media/threeboxes.png)
 
 This can be accomplished from within the [Custom CSS](https://kagi.com/settings?p=custom_css) editor.
 
