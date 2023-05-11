@@ -122,6 +122,14 @@ To set up a private session link in Firefox, use [this extension](https://addons
     - In the **Search string to use** field, enter **https://kagi.com/search?q=%s**
     - Tap the confirmation button in the top right corner of the screen.
 
+
+Using Private Session Link With Android Chromium Based Browsers
+
+- Paste your session link into the address bar and open it.
+- Open a new tab and navigate to https://kagi.com and submit a search
+- Open your browser’s settings. Choose Search engine.
+- Select Kagi from the Recently Visited section.
+
 <a name="firefox_ios"></a>
 
 #### iOS
