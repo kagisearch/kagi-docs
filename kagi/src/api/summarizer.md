@@ -218,7 +218,8 @@ Different summarization engines are provided that will give you choices over the
 
 Engine | Description
 -------|-----------
-agnes (default) | Formal, technical, analytical summary
+cecil (default) | Friendly, descriptive, fast summary
+agnes  | Formal, technical, analytical summary
 daphne | Informal, creative, friendly summary
 muriel | Best-in-class summary using our enterprise-grade model
 
