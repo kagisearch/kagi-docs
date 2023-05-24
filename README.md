@@ -18,7 +18,6 @@ This repository contains open-source documentation for products made by Kagi Inc
 
 This repo serves documentation for multiple products developed by Kagi.
 
-
 Product | Documentation         | Repo Directory
 --------|-----------------------|----------------
 [Kagi Search](https://kagi.com) | https://help.kagi.com/kagi | [kagi](https://github.com/kagisearch/kagi-docs/tree/main/kagi)
@@ -112,7 +111,6 @@ details we need to help accept your changes.
 All documentation is written to be hosted with the open-source
 [mdBook](https://rust-lang.github.io/mdBook/) documentation utility.
 
-
 Each directory in the [Knowledgebase Map](#knowledgebase-map) is built as its
 own book, configured for that products own criteria, look, and feel.
 
@@ -121,10 +119,20 @@ To get started:
 1. Install [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html)
 2. Navigate to the book you wish to build in the [Knowledgebase Map](#knowledgebase-map)
 3. Run `mdbook build` in that directory to compile the book to a `book/`
-   directory with the rendered contents
+   directory with the rendered contents. You can open `book/index.html` to start browsing.
 
 You can also run `mdbook serve` and open [http://localhost:3000](http://localhost:3000)
 to view the documentation in your browser. mdBook will watch your files and automatically
 rebuild & refresh the page when the book's files are updated.
 
 See each book's `book.toml` for configuration options we have applied.
+
+### With Docker
+
+If you don't have and don't want to install Rust on your local machine, you can use Docker instead. The command examples assume you're in the root of the Git repository.
+
+1. Build the image `docker build -t kagi-docs .`
+2. Run the container to build or serve:
+   - Build example: `docker run --rm -v /path/to/kagi-docs:/kagi-docs --workdir /kagi-docs/kagi kagi-docs build`.
+   - Serve example: `docker run -it --rm -v /path/to/kagi-docs:/kagi-docs --workdir /kagi-docs/kagi -p 127.0.0.1:3000:3000 kagi-docs`.
+     - If mdBooks doesn't stop on Ctrl+C, you can detach with Ctrl+P Ctrl+Q and then run `docker stop <container_name>`
