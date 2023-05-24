@@ -2,6 +2,8 @@
 
 Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](./getting-started/quick-start.md) and [FAQs](./getting-started/faqs.md) are great places to begin. If you can’t find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at **support@kagi.com**.
 
+To send a bug report or a feature suggestion, you can use [KagiFeedback.org](https://kagifeedback.org).
+
 You can access our documentation in several ways:
 
 - Click or tap an article link from the list.
