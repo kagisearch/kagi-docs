@@ -65,8 +65,9 @@ You can reach out through support@kagi.com, our [Discord server](https://kagi.co
 You can summarize many types of web content, including:
 
 - Text web pages, articles, and forum threads
-- PDF documents
+- PDF documents (.pdf)
 - PowerPoint documents (.pptx)
+- Word documents (.docx)
 - Audio files (mp3/wav)
 - YouTube URLs
 - Twitter Threads
@@ -137,14 +138,14 @@ how to simplify.",
 }
 ```
 
-**POST request with JSON body, song lyrics, Agnes engine**
+**POST request with JSON body, song lyrics, Cecil engine**
 
 ```shell
 $ curl -v \
   -XPOST https://kagi.com/api/v0/summarize \
   -H "Content-Type: application/json" \
   -H "Authorization: Bot $TOKEN" \
-  -d '{"url":"https://genius.com/Brothertiger-mainsail-lyrics", "engine": "agnes"}'
+  -d '{"url":"https://genius.com/Brothertiger-mainsail-lyrics", "engine": "cecil"}'
 ```
 
 <summary>Response</summary>
@@ -225,7 +226,7 @@ Different summarization engines are provided that will give you choices over the
 Engine | Description
 -------|-----------
 cecil (default) | Friendly, descriptive, fast summary
-agnes  | Formal, technical, analytical summary
+agnes  | Formal, technical, analytical summary 
 daphne | Informal, creative, friendly summary
 muriel | Best-in-class summary using our enterprise-grade model
 
