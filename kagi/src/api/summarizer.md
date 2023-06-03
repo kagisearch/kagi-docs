@@ -50,6 +50,12 @@ Read how is summarization data handled in our [privacy policy](https://kagi.com/
 
 For handling sensitive information and documents, we recommend setting the 'cache' API parameter to False. In this way, the document will "flow through" our infrastructure and will not be retained anywhere after processing.
 
+## Integrations
+
+Universal Summarizer is available as a Zapier integration allowing you to quickly integrate summarization into your programmatic workflows.
+
+Check out [Universal Summarizer Zapier integration](https://zapier.com/apps/universal-summarizer-by-kagi-ca1/integrations).
+
 ## Support
 
 You can reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
