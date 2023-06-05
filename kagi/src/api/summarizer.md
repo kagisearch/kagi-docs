@@ -109,7 +109,7 @@ params = {
 }
 headers = {'Authorization': f'Bot {TOKEN}'}
 
-response = requests.post(base_url, headers=headers, params=params)
+response = requests.get(base_url, headers=headers, params=params)
 print(response.json())
 ```
 
