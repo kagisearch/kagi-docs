@@ -142,7 +142,7 @@ how to simplify.",
 
 ```shell
 $ curl -v \
-  -XPOST https://kagi.com/api/v0/summarize \
+  -X POST https://kagi.com/api/v0/summarize \
   -H "Content-Type: application/json" \
   -H "Authorization: Bot $TOKEN" \
   -d '{"url":"https://genius.com/Brothertiger-mainsail-lyrics", "engine": "cecil"}'
