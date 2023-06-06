@@ -1,6 +1,6 @@
 # FastGPT
 
-The FastGPT is an API using powerful LLMs to answer query that runs a full search engine underneath.
+[FastGPT](https://labs.kagi.com/fastgpt) is a Kagi service using powerful LLMs to answer user queries running a full search engine underneath. Think ChatGPT, but on steroids and faster! You can try the web app [here](https://labs.kagi.com/fastgpt).
 
 ## Quick start
 
