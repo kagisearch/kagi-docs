@@ -27,8 +27,8 @@ Using API with insufficient credits will produce "Insufficient credit to perform
 
 Pricing for FastGPT is a flat rate  per-query:
 
-- 1.5¢ when `web_search` is enabled
-- 0.15¢ when `web_search` is disabled
+- 1.5¢ per query ($15 USD per 1000 queries) when `web_search` is enabled
+- 0.15¢ per query ($1.5 USD per 1000 queries) when `web_search` is disabled
 
 ## Support
 
