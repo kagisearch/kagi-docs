@@ -108,6 +108,7 @@
     - [Response Format](./api/intro/response-format.md)
     - [Image Proxy URLs](./api/intro/image-proxy-urls.md)
   - [Universal Summarizer API](api/summarizer.md)
+  - [FastGPT API](api/fastgpt.md)
   - [Search API](api/search.md)
 
 # Credits
