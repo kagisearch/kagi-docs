@@ -8,6 +8,10 @@ results & more.
 - [Search API](search.md)
 - [Universal Summarizer API](summarizer.md)
 
+## Client Libraries
+
+- [kagigo for Go](https://github.com/httpjamesm/kagigo)
+
 ## Beta Status
 
 **The API is currently in a "v0" beta status.** Changes will be ongoing,
