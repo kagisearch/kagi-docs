@@ -89,8 +89,8 @@ print(response.json())
     - Type hint improvements: Type hints were made more powerful.[3]",
     "tokens": 757,
     "references": [
-      {"title": "What's New In Python 3.11 — Python 3.11.3 documentation", "snippet": "...", "link": "https://docs.python.org/3/whatsnew/3.11.html"}, 
-      {"title": "Introducing the New Features in Python 3.11 -", "snippet": "...", "link": "https://earthly.dev/blog/python-3.11-new-features/"}
+      {"title": "What's New In Python 3.11 — Python 3.11.3 documentation", "snippet": "...", "url": "https://docs.python.org/3/whatsnew/3.11.html"}, 
+      {"title": "Introducing the New Features in Python 3.11 -", "snippet": "...", "url": "https://earthly.dev/blog/python-3.11-new-features/"}
     ]
   }
 }
