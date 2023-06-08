@@ -7,10 +7,13 @@ results & more.
 
 - [Search API](search.md)
 - [Universal Summarizer API](summarizer.md)
+- [FastGPT](fastgpt.md)
 
-## Client Libraries
+## Unofficial Client Libraries
 
-- [kagigo for Go](https://github.com/httpjamesm/kagigo)
+Libraries created by Kagi users and third parties.
+
+- [kagigo for Go - FastGPT](https://github.com/httpjamesm/kagigo)
 
 ## Beta Status
 
