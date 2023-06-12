@@ -13,7 +13,8 @@ results & more.
 
 Libraries created by Kagi users and third parties.
 
-- [kagigo for Go - FastGPT](https://github.com/httpjamesm/kagigo)
+- [kagigo for Go - FastGPT & Universal Summarizer](https://github.com/httpjamesm/kagigo)
+- [FastGPT for Raycast](https://www.raycast.com/http.james/kagi-fastgpt)
 
 ## Beta Status
 
