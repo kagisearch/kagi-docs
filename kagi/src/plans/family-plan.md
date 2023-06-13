@@ -20,7 +20,7 @@ The Kagi Family Plan is perfect for families wanting to search smarter, emphasiz
 
 To sign up for the Family Plan, select the plan that fits your family's size and needs at Kagi [account creation](https://kagi.com/onboarding?p=choose_plan&plan=family).
 
-<img src="https://staticmedia.kagi.com/family/family_plan.png" >
+![Family Plans](media/family_plans.png)
 <center><em>Select Family Plan at account creation</em></center>
 
 Adding family members is easy, you can invite them via email through Kagi. For kids, you can use a username, and an adult will help them log in by getting a verification email.
