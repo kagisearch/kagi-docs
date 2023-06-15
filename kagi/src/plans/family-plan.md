@@ -28,7 +28,7 @@ Adding family members is easy, you can invite them via email through Kagi. For k
 <img src="https://staticmedia.kagi.com/family/add_member.png" >
 <center><em>Invite family members to the plan</em></center>
 
-The Family Plan dashboard gives you a complete picture of your family's members.
+The Family Plan dashboard gives you a complete picture of your family's members
 
 <img src="https://staticmedia.kagi.com/family/dashboard.png" >
 <center><em>Manage family members</em></center>
@@ -37,6 +37,13 @@ The Billing screen has the overview of the plan and allows you to update payment
 
 <img src="https://staticmedia.kagi.com/family/billing.png" >
 <center><em>Billing screen</em></center>
+
+
+## Logging in for Kids
+
+To log-in kid accounts, just proceed to normal login on their device. Kids enter just their username and password is not needed.
+
+A verification email will be sent to the account owner. They can just click the link in the email to automatically log in the kid account, or enter the provided numerical code.
 
 ## <a name="features"></a> Unique Features
 
