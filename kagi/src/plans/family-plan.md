@@ -7,6 +7,7 @@ The Kagi Family Plan is perfect for families wanting to search smarter, emphasiz
 **Table of Contents**
 
 - [How to Use the Kagi Family Plan](#using)
+- [Logging if for Kids](#kidslogin)
 - [Unique Features](#features)
   - [Kid-Friendly Search Experience](#kidfriendly)
   - [Parental Controls](#parental)
@@ -39,7 +40,7 @@ The Billing screen has the overview of the plan and allows you to update payment
 <center><em>Billing screen</em></center>
 
 
-## Logging in for Kids
+## <a name="kidslogin"></a> Logging in for Kids
 
 To log-in kid accounts, just proceed to normal login on their device. Kids enter just their username and password is not needed.
 
