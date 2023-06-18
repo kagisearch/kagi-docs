@@ -93,7 +93,7 @@ Returns a [Summarization Object](#summarization-object).
 ```shell
 curl -v \
   -H "Authorization: Bot $TOKEN" \
-  "https://kagi.com/api/v0/summarize?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZSRHeXYDLko"
+  "https://kagi.com/api/v0/summarize?engine=muriel&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZSRHeXYDLko"
 ```
 
 Alternatively in python:
