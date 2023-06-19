@@ -122,7 +122,7 @@ If you are just getting started with Orion RC and would like to copy over your s
 cp -r ~/Library/Application\ Support/Orion ~/Library/Application\ Support/Orion\ RC
 ```
 
-### Change start page wallpaper to custom image Orion RC (Release Candidate)
+### Change start page wallpaper to custom image
 To change to a custom wallpaper go to the preferences plist for the indivdiual profiles located in
 ```
 ~/Library/Application\ Support/Orion/[Your profiles] 
