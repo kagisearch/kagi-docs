@@ -76,3 +76,9 @@ Now that we have billing infrastructure in place we can expose the API to person
 ## How do I check my usage?
 
 You can check your usage [here](https://kagi.com/settings?p=consumption). This can also be accessed by clicking Check Usage from the Settings -> Billing page.
+
+## How can I change the name or other billing details that my subscription is being billed to?
+
+Go to Kagi Settings -> Billing (or click [here](https://kagi.com/settings?p=billing)) and then click "Manage Billing".
+
+This will bring you to the billing portal where you are able to update your billing information.
