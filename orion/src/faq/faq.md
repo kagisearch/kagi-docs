@@ -18,6 +18,7 @@
 - [How do I enable Debug menu?](#debugmenu)
 - [How do I access my Favorites via shortcuts (CMD + #)?](#favorites_shortcuts)
 - [Orion is displaying wrong icons for Favorites and Frequently Visited pages — how can I fix that?](#wrongicons)
+- [How do I change the app icon?](#changeicon)
 
 <a name="what_is_orion"></a>
 ## What is Orion?
@@ -162,3 +163,15 @@ Settings -> Data Management -> Clear History and Websites Data -> Toggle on *Web
 
 **On macOS**\
 Develop -> Empty Cache.
+
+<a name="changeicon"></a>
+## How do I change the app icon?
+
+There are two possible ways. For a quick and easy solution using Finder:
+1. Find and select Orion in Finder
+2. From Finder's app menu, select File -> Get Info
+3. From the icon that appears at the top next to Orion's name, either drag & drop your new icon, or select it and paste your new icon from the clipboard
+
+To revert back to the original icon, select and press delete on the icon.
+
+This works best for previewing the icon change, but will not work across updates, as the icon will be reset. For that, you can use an app like [Pictogram](https://pictogramapp.com).
