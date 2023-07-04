@@ -2,7 +2,7 @@
 
 When playing a video in Orion for macOS, you can view it in Picture-in-Picture mode.
 
-Click the icon in the right of the address bar to toggle Picture-in-Picture mode.  
+Click the icon located on the right side of the address bar to toggle Picture-in-Picture mode.  
 
 <img src="media/macos_pip_toggle.png"  alt="macOS Picture-in-Picture toggle"><br/>
 
