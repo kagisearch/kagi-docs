@@ -98,6 +98,8 @@
 	- [Kagi vs. DuckDuckGo](./why-kagi/kagi-vs-duckduckgo.md)
 	- [Kagi vs. Brave Search](./why-kagi/kagi-vs-brave.md)
 
+- [Community Addons](./community-addons/index.md)
+
 # Developers
 
 - [API](api/overview.md)
