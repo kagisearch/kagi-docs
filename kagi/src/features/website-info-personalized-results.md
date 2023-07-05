@@ -31,6 +31,13 @@ Your options are to:
 
 You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
 
+## Personalization Leaderboard
+
+Wonder what domains are the most popular among Kagi users to modify the rankings of? Check the [Personalization Leaderboard](https://kagi.com/settings?p=rule_leaderboard). We aggregrate the rankings of domains that have been tagged by other Kagi users. 
+
+
+<img src="https://kagifeedback.org/assets/files/2023-07-01/1688193924-891326-image.png" width="675" alt="Personalization leaderboard"><br />
+
 ## Website Information
 
 At the bottom of the information window for the search result is useful data about the website for the result.
