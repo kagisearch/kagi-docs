@@ -15,6 +15,7 @@ Libraries created by Kagi users and third parties.
 
 - [kagigo for Go - FastGPT & Universal Summarizer](https://github.com/httpjamesm/kagigo)
 - [FastGPT for Raycast](https://www.raycast.com/http.james/kagi-fastgpt)
+- [Kagi Alfred Workflow](https://github.com/david-ros/kagi-alfred-workflow)
 
 ## Beta Status
 
