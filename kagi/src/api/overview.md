@@ -5,9 +5,18 @@ results & more.
 
 ## Kagi APIs
 
-- [Search API](search.md)
-- [Universal Summarizer API](summarizer.md)
-- [FastGPT](fastgpt.md)
+We have the following APIs available. 
+
+- [Universal Summarizer API](summarizer.md) (public)
+- [FastGPT API](fastgpt.md) (public)
+- [Search API](search.md) (invite only at the moment)
+
+Quick start for all APIs:
+
+1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account).
+2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
+3. Call the API. 
+
 
 ## Unofficial Client Libraries
 
