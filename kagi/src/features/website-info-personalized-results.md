@@ -1,6 +1,6 @@
 # Website Info & Personalized Results
 
-To the right of each Kagi search result is a Crystal Ball icon. Hovering over the icon or tapping it will access additional features related to the webpage for that result.
+To the right of each Kagi search result is a shield icon. Hovering over the icon or tapping it will access additional features related to the webpage for that result.
 
 <img src="media/crystal_ball.png" width="675" alt="Crystal Ball Icon">
 
