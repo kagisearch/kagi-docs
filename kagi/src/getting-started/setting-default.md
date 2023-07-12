@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Option 0: Use Orion browser by Kagi (currently for macOS/iOS only)](#orion)
 - [Option 1: Using the Kagi Browser Extension](#browser_extension)
   - [Access to Safari Browsing History](#safari_extension)
   - [Note for Brave Browser Users](#brave_extension)
@@ -19,8 +20,15 @@
   - [Custom Use](#custom_use)
   - [Private Session](#private_session)
 
-<a name="browser_extension"></a>
 
+<a name="orion"></a>
+## Option 0: Use Orion browser by Kagi (currently for macOS/iOS only)
+
+If you use Apple devices with macOS/iOS/iPadOS you can use Orion browser by Kagi. It has Kagi built-in and is the easiest option to start using Kagi.
+
+[Download Orion](https://browser.kagi.com).
+
+<a name="browser_extension"></a>
 ## Option 1: Using the Kagi Browser Extension
 
 Kagi is available as an extension for all major browsers. The extension sets Kagi as the default search engine and allows you to search with Kagi even in a private window.
