@@ -10,7 +10,7 @@ If you want a search experience tailored to you and your needs, one that could a
 
 ## Ad-Supported Search Engines Don't Work for the Future of the Web
 
-We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe why it is imperative for search engines to be ad-free:
+We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe how ad-supported search engines are not in a user's best interest:
 
 > "Currently, the predominant business model for commercial search engines is advertising. The goals of the advertising business model do not always correspond to providing quality search to users. For example, in our prototype search engine one of the top results for cellular phone is "The Effect of Cellular Phone Use Upon Driver Attention", a study which explains in great detail the distractions and risk associated with conversing on a cell phone while driving. This search result came up first because of its high importance as judged by the PageRank algorithm, an approximation of citation importance on the web [Page, 98].\*
 >
@@ -18,7 +18,7 @@ We will let no other than the founders of Google explain this. The year is 1998,
 >
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
-They were right in recognizing early on that ad-supported search engines will be biased towards the advertisers. They probably could not foresee how much damage to the web adopting the model they originally criticized would ultimately cause.
+They recognized early on that ad-supported search engines will be biased towards the advertisers. They probably could not foresee how much damage to the web adopting the model they originally criticized would ultimately cause.
 
 ## Costs to Deliver a Superior Ad-Free Search Product
 
