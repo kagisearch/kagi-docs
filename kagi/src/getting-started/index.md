@@ -1,67 +1,51 @@
+
 # Quick Start
+
+Kagi helps you find exactly what you're looking for online. It has a few more capabilities than the search engine you're used to so let's explore how to get the most out of them.
 
 ## Table of Contents
 
-- [Signing Up](#signing-up)
-- [Basic Searches](#basic-searches)
-- [Filter Search Results](#filter-search-results)
-- [Using Search Operators](#using-search-operators)
-- [Bang Searches](#bang-searches)
-- [Lens Searches](#lens-searches)
-- [Personalized Results](#personalized-results)
+- [Personalize Results](#personalized-results)
+- [Summarize Search](#summarize-search)
+- [Summarize Page](#summarize-page)
+- [Refining Search Results](#refining-search-results)
+- [Sharing Search Results](#sharing-search-results)
 
-## Signing Up
 
-Before you can use Kagi, you need to visit [https://kagi.com](https://kagi.com) and sign up for a [**Free Basic** or **Premium**](../plans/plan-types.md) plan.
+## Personalize Results
 
-## Basic Searches
+Kagi's personalization options lets you customize your results including eliminating websites that you find low quality or distracting or boosting those that you find more useful. Clicking the shield icon to the right of a search result reveals additional information and [personalization options](https://help.kagi.com/kagi/features/website-info-personalized-results.html) for that result. From here you can raise or lower the weighting for that website including blocking websites that you'd like eliminated from your search results. You can see some of the more popular modifications on the [Kagi Personalization Leaderboard](https://kagi.com/settings?p=rule_leaderboard).
 
-To do a basic search, simply visit [https://kagi.com](https://kagi.com) and search for something.
+<img src="media/personalize_results.png" alt="Personalize Results"><br />
 
-<img src="media/basic_search.gif" width="675" alt="Basic Search"><br />
 
-Or, if you've [set Kagi as your default search engine](setting-default.md), you can do a search from your browser's address bar.
+## Summarize Search (Quick Answer)<a id='summarize-search'></a>
 
-## Filter Search Results
 
-You can [filter](../features/filtering-results.md) your search results to focus on the results you most care about.
 
-<img src="media/options.gif" width="675" alt="Filter Options Button"><br />
+Quick Answer (aka [Summarize Results](https://help.kagi.com/kagi/ai/summarize-results.html)) extracts and summarizes the important content from the search results including links to the source material.
 
-<img src="media/filters.gif" width="675" alt="Filtering Results"><br />
+<img src="media/search_summary.png" alt="Search Summary"><br />
 
-## Using Search Operators
+## Summarize Page
 
-If you press **?** on your keyboard (**shift + /**) while in search results, Kagi will open a scrollable window showing keyboard shortcuts, search operators, query shortcuts, and widgets. You can also click or tap **Help** at the bottom of any Kagi webpage to see the same information.
+Clicking the three dot icon next to a search result brings up page options. [Summarize Page](https://help.kagi.com/kagi/ai/summarize-page.html) provides a synopsis of the page.
 
-<img src="media/search_operators.jpeg" width="675" alt="Search Operators"><br />
+<img src="media/summarize_page.png" alt="Summarize Page"><br />
 
-For example, searching for [outfit movie !](https://kagi.com/search?q=outfit%20movie%20!) will take you straight to the first result for that query.
 
-<img src="media/search_operator.gif" width="675" alt="Search Operator Example"><br />
+## Refining Search Results
 
-You can read [documentation](../features/search-operators.md) that covers the search operators in detail.
+Just below the search box you can quickly filter for the types of results such as Images or Podcasts or you can use [Kagi Lenses.](https://help.kagi.com/kagi/features/lenses.html) Lenses are search filters and rules applied to search results. Built-in Lenses include Forums (results from the thousands of specialized online communities as well as Reddit), Academic (results from academic institutions), and Programming (coding forums and websites) and more. Custom Lenses can be created as well.
 
-## Bang Searches
+<img src="media/kagi_lenses.png" alt="Kagi Lenses"><br />
 
-Kagi supports all DuckDuckGo-style [bangs](../features/bangs.md). Bangs are shortcuts starting with exclamation points (!) that quickly take you to search results on other sites.
+You can also use [Search operators ](https://help.kagi.com/kagi/features/search-operators.html) to tune your results.  For instance the filetype: operator can limit results to specific filetypes.  E.g. adding “filetype:xlsx” to your query will limit your results to only Microsoft Excel files.  A quick reference of search operators is available from anywhere on kagi.com by typing “?” [Note: make sure you’re not typing into a form or text box when entering “?” to bring up the reference window.]
 
-For example, searching Kagi for **!w Monty Python** will search Wikipedia directly for "Monty Python" and take you to that Wikipedia search result.
+<img src="media/search_operators.png" alt="Search operators reference"><br />
 
-<img src="media/bang.gif" width="675" alt="Bang Example"><br />
+## Sharing Search Results
 
-## Lens Searches
+You can [share your search results](https://help.kagi.com/kagi/features/share-results.html) with friends who may not be Kagi subscribers by using the “Share This Search” button at the bottom of a search result page or by selecting More > Share This Search.  This will copy a link to your clipboard which you can pass on to others.
 
-Kagi [Lenses](../features/lenses.md) allow you to customize your searches by specifying which websites (and other parameters) you see in your results. We provide a few Lenses to get you started, such as one to search only online discussions and forums. You can also create your own!
-
-Here's an example using the built-in EDU lens:
-
-<img src="media/lens.gif" width="675" alt="Lens Example"><br />
-
-## Personalized Results
-
-You can tweak how the website for a result is treated in future Kagi searches using [Personalized Results](../features/website-info-personalized-results.md#personalized_results).
-
-<img src="media/personalized_results.gif" width="675" alt="Personalized Results Example"><br />
-
-You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
+<img src="media/share_this_search.png" alt="Sharing Search Results"><br />
