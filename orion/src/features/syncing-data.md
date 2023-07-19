@@ -57,7 +57,7 @@ Make sure that iCloud Drive sync is enabled on all of your devices. See [this Ap
 
 ### Toggle Orion in iCloud Settings
 
-On iOS open Settings/Apple ID/iCloud/Apps Using iCloud/Show All  and and uncheck and check the button beside Orion       
+On iOS open Settings/Apple ID/iCloud/Apps Using iCloud/Show All  and toggle off and on the button beside Orion       
 
 or
 
