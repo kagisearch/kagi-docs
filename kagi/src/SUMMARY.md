@@ -112,6 +112,7 @@
   - [Universal Summarizer API](api/summarizer.md)
   - [FastGPT API](api/fastgpt.md)
   - [Search API](api/search.md)
+  - [Enrichment API](api/enrich.md)
 
 # Credits
 
