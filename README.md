@@ -20,8 +20,8 @@ This repo serves documentation for multiple products developed by Kagi.
 
 Product | Documentation         | Repo Directory
 --------|-----------------------|----------------
-[Kagi Search](https://kagi.com) | https://help.kagi.com/kagi | [kagi](https://github.com/kagisearch/kagi-docs/tree/main/kagi)
-[Orion Browser](https://browser.kagi.com) | https://help.kagi.com/orion | [orion](https://github.com/kagisearch/kagi-docs/tree/main/orion)
+[Kagi Search](https://kagi.com) | https://help.kagi.com/kagi | [kagi](https://github.com/kagisearch/kagi-docs/tree/main/docs/kagi)
+[Orion Browser](https://browser.kagi.com) | https://help.kagi.com/orion | [orion](https://github.com/kagisearch/kagi-docs/tree/main/docs/orion)
 
 Our documentation efforts are ongoing! We welcome your feedback and
 contributions - read on for details!
