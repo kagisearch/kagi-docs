@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "@docsearch/js": "^3.5.1",
+    "vitepress-plugin-pagefind": "^0.2.4"
+  },
+  "devDependencies": {
+    "sass": "^1.63.6"
+  }
+}

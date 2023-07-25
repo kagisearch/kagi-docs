@@ -1,0 +1,24 @@
+html:not(.dark) {
+	--vp-c-text-code: #d63384;
+	--primary: #191919;
+	--secondary: #e5e5e5;
+}
+
+html.dark {
+	--primary: #e5e5e5;
+	--secondary: #191919;
+}
+
+:root {
+	--vp-c-brand: #ffb319;
+	--vp-home-hero-name-color: #ffb319;
+	--vp-c-brand-light: #ffb319;
+	--vp-button-brand-border: #ffb319;
+	--vp-button-brand-bg: #ffb319;
+	--vp-button-brand-text: #191919;
+	--vp-button-brand-hover-border: #e5e5e5;
+	--vp-button-brand-hover-bg: #191919;
+	--vp-button-brand-hover-text: #e5e5e5;
+	--vp-local-search-highlight-bg: #ffb319;
+	--docsearch-hit-active-color: #191919;
+}
