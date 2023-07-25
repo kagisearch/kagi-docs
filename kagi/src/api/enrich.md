@@ -4,7 +4,8 @@ The enrichment APIs are a collection of indexes that can be used to supplement o
 
 They are best used for finding non-commerical websites and "small web" discussions surrounding a particular topic. The news enrichment API offers interesting discussions and news worth reading from typically non-mainstream sources.
 
-They are not "general" search indexes that can answer any type of query.
+They are not "general" search indexes that can answer any type of query but rather these results are our 'secret sauce' and what makes Kagi results unique and interesting. 
+
 
 ## Pricing
 
