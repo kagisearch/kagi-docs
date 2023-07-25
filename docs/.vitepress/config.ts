@@ -19,7 +19,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kagisearch/kagi-docs-vitepress' }
+      { icon: 'github', link: 'https://github.com/kagisearch/kagi-docs' }
     ],
     search: {
       // provider: 'local'
@@ -49,7 +49,7 @@ export default defineConfig({
       }
     },
     editLink: {
-      pattern: 'https://github.com/kagisearch/kagi-docs-vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/kagisearch/kagi-docs/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     }
   },
