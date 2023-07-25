@@ -16,3 +16,4 @@ If you created or found a Kagi integration with other products or tools, we woul
 [Alfred](https://www.alfredapp.com/) is a MacOS utility for adding custom hotkeys, actions, and more.
 
 - [Kagi Alfred Workflow](https://github.com/david-ros/kagi-alfred-workflow): Collection of custom keywords to instantly open Kagi
+- [FastGPT Alfred Workflow](https://github.com/david-ros/fastgpt-alfred-workflow): Access our [FastGPT API](../api/fastgpt.md) from your desktop using Alfred.
