@@ -7,7 +7,7 @@ They are not "general" search indexes that can answer any type of query.
 
 ## Pricing
 
-All `/enrich` APIs are currently billed at $1/1000 searches ($0.001 USD per search).
+All `/enrich` APIs are currently billed at $2/1000 searches ($0.002 USD per search).
 
 ## Endpoints
 
