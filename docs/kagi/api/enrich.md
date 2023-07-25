@@ -4,11 +4,14 @@ The enrichment APIs are a collection of indexes that can be used to supplement o
 
 They are best used for finding non-commerical websites and "small web" discussions surrounding a particular topic. The news enrichment API offers interesting discussions and news worth reading from typically non-mainstream sources.
 
-They are not "general" search indexes that can answer any type of query.
+They are not "general" search indexes that can answer any type of query but rather these results are our 'secret sauce' and what makes Kagi results unique and interesting. 
+
 
 ## Pricing
 
 All `/enrich` APIs are currently billed at $2/1000 searches ($0.002 USD per search). Volume discounts are available (contact support@kagi.com for more information).
+
+Since results are niche, we bill only when non-zero results are returned.
 
 ## Endpoints
 
