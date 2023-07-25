@@ -10,6 +10,8 @@ They are not "general" search indexes that can answer any type of query.
 
 All `/enrich` APIs are currently billed at $2/1000 searches ($0.002 USD per search). Volume discounts are available (contact support@kagi.com for more information).
 
+Since results are niche, we bill only when non-zero results are returned.
+
 ## Endpoints
 
 ### `GET /enrich/web`
