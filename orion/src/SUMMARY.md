@@ -64,6 +64,7 @@
 	- [Float on Top](./features/float-on-top.md)
 	- [Show Console Errors](./features/show-errors.md)
 	- [Block Auto-Play](./features/block-auto-play.md)
+	- [Notes](./features/notes.md)
 
 - [Browser Extensions](./browser-extensions/macos-extensions.md)
 	- [macOS Extensions](./browser-extensions/macos-extensions.md)
