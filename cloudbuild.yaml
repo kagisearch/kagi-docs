@@ -26,7 +26,7 @@ steps:
       - '--path'
       - '/*'
       - '--host'
-      - 'docs.kagi.com'
+      - 'help.kagi.com'
       - '--project'
       - 'kagi-global'
   - name: 'gcr.io/cloud-builders/docker'

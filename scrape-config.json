@@ -1,8 +1,8 @@
 {
   "index_name": "kagi-docs",
   "start_urls": [
-    "https://docs.kagi.com/kagi",
-    "https://docs.kagi.com/orion"
+    "https://help.kagi.com/kagi",
+    "https://help.kagi.com/orion"
   ],
   "rateLimit": 8,
   "maxDepth": 10,
