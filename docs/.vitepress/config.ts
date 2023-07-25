@@ -137,7 +137,7 @@ function sidebarKagi() {
                     { text: 'Plan Types', link: '/kagi/plans/plan-types' },
                     { text: 'Why Pay for Search', link: '/kagi/plans/why-pay-for-search' },
                     { text: 'Pick The Plan', link: '/kagi/plans/pick-the-plan' },
-                    { text: 'Prenium Plans', link: '/kagi/plans/premium-plan' },
+                    { text: 'Premium Plans', link: '/kagi/plans/premium-plan' },
                     { text: 'Ultimate Plan', link: '/kagi/plans/ultimate-plan' },
                     { text: 'Family Plan', link: '/kagi/plans/family-plan' },
                     { text: 'Gift Kagi', link: '/kagi/plans/gift-kagi' },
