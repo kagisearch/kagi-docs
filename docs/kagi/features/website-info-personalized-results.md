@@ -1,6 +1,6 @@
 # Website Info & Personalized Results
 
-To the right of each Kagi search result is a Crystal Ball icon. Hovering over the icon or tapping it will access additional features related to the webpage for that result.
+To the right of each Kagi search result is a shield icon. Hovering over the icon or tapping it will access additional features related to the webpage for that result.
 
 <img src="./media/crystal_ball.png" width="675" alt="Crystal Ball Icon">
 
@@ -30,6 +30,14 @@ Your options are to:
 <img src="./media/ranking.png" width="675" alt="Web Archive and More Results Links"><br />
 
 You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
+
+## Personalization Leaderboard
+
+Wonder what domains are the most popular among Kagi users to modify the rankings of? Check the [Personalization Leaderboard](https://kagi.com/settings?p=rule_leaderboard). We aggregrate the rankings of domains that have been tagged by othe
+r Kagi users.
+
+
+<img src="https://kagifeedback.org/assets/files/2023-07-01/1688193924-891326-image.png" width="675" alt="Personalization leaderboard"><br />
 
 ## Website Information
 

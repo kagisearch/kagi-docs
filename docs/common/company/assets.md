@@ -10,7 +10,7 @@ They include:
 * Variants of our "g" logo
 * Typography
 * Brand Colors
-* Variants of [Doggo the Kagi Mascot](mascot.md)
+* Variants of [Doggo the Kagi Mascot](../about-kagi/kagi-mascot.md)
 
 ## Orion Browser
 
