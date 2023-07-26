@@ -23,11 +23,11 @@
 <a name="what_is_orion"></a>
 ## What is Orion?
 
-Orion is a native, lightning-fast, and privacy-protecting browser for Apple users, open to the web and all its standards and protocols. It's based on the [WebKit](https://en.wikipedia.org/wiki/WebKit) open-source browser engine that also powers Apple's Safari web browser. One day, we hope everyone will say Orion is the best browser for all Apple devices. 
+Orion is a native, lightning-fast, and privacy-protecting browser for Apple users, open to the web and all its standards and protocols. It's based on the [WebKit](https://en.wikipedia.org/wiki/WebKit) open-source browser engine that also powers Apple's Safari web browser. One day, we hope everyone will say Orion is the best browser for all Apple devices.
 
 Orion was built for professionals by professionals, but anyone can benefit from it. Installing Orion with its default settings on any Apple device will cut down on annoying ads and speed up page loads. We want everyone to enjoy the web.
 
-<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/689121874?h=ddbd074d5a" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/689121874?h=ddbd074d5a" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <a name="intro_vide"></a>
 ## How do I replay the intro video?
@@ -45,15 +45,15 @@ Lets define what native means first: Native macOS app is an app that is specific
 
 The main benefits of native apps include:
 
-- Ensuring that the app feels familiar to users. HIG provides guidance on how to design an intuitive UI that follows platform conventions and therefore provides a consistent experience across apps for new and veteran users. 
+- Ensuring that the app feels familiar to users. HIG provides guidance on how to design an intuitive UI that follows platform conventions and therefore provides a consistent experience across apps for new and veteran users.
 
-- It is generally accepted that Apple knows what it is doing when design is question. It is probably a good idea to follow its lead and probably one of the reasons you own a Mac or an iPhone. Following the extensive Human Interface Guidelines (HIG) makes any designer's job easier, not harder. 
+- It is generally accepted that Apple knows what it is doing when design is question. It is probably a good idea to follow its lead and probably one of the reasons you own a Mac or an iPhone. Following the extensive Human Interface Guidelines (HIG) makes any designer's job easier, not harder.
 
 - Any long time Mac user can easily see how Chrome or Firefox look and feel out of place on a Mac. These browsers were originally designed for Windows, but they work and look the same even on macOS or Linux, when those are clearly different operating systems with different conventions, design rules and aesthetics.
 
 - Native integrations allow apps to use powerful components provided by the OS. For example Orion utilizes Keychain to store passwords or gets the benefit of Live Text recognition of text in images. This make apps more powerful while being leaner and easier to build and maintain at the same time.
 
-- Finally, and maybe most importantly, using native components and frameworks generally makes apps faster, better for battery life and overall snappier. 
+- Finally, and maybe most importantly, using native components and frameworks generally makes apps faster, better for battery life and overall snappier.
 
 <a name="orion_over_safari"></a>
 ## Why use Orion instead of Safari?
@@ -79,7 +79,7 @@ Orion is lightweight, with [advanced memory-use technology](../why-orion/memory-
 <a name="respectprivacy"></a>
 ## How does Orion respect my online privacy?
 
-Orion has no built-in telemetry, so it can never "phone home" and risk exposing your data. Orion is truly and verifiably a [privacy-respecting browser](../privacy-and-security/respecting-privacy.md) — unlike those that only offer the illusion of privacy. 
+Orion has no built-in telemetry, so it can never "phone home" and risk exposing your data. Orion is truly and verifiably a [privacy-respecting browser](../privacy-and-security/respecting-privacy.md) — unlike those that only offer the illusion of privacy.
 
 <a name="protectprivacy"></a>
 ## How does Orion protect my online privacy?
@@ -120,7 +120,7 @@ Orion's debug menu contains a number of commands that can be of interest to "adv
 
 > defaults write com.kagi.kagimacOS DebugMenu 1
 
-If you use Orion RC (release candidate) replace with com.kagi.kagimacOS.RC. 
+If you use Orion RC (release candidate) replace with com.kagi.kagimacOS.RC.
 
 When you relaunch Orion, you’ll find a new Debug menu, located to the right of the Help menu.
 

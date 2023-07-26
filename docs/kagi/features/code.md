@@ -2,7 +2,7 @@
 
 Kagi supports developers with code samples in response to search results.
 
-For example, consider searching for *write!*
+For example, consider searching for <i>write!</i>
 
 <img src="./media/initial_write_search.png" alt="Write Search No Filter">
 
