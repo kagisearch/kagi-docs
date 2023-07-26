@@ -105,7 +105,6 @@ print(response.json())
 Field | Type | Required | Description
 ------|------|----------|-----------
 query   | string  | Yes  | A query to be answered.
-web_search  | bool  | No | Whether to use web search results in answering the query. (default is true)
 cache   | bool  | No  | Whether to allow cached requests & responses. (default is true)
 
 ## Objects
