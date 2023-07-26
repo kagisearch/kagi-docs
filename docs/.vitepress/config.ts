@@ -331,7 +331,7 @@ function sidebarOrion() {
                 link: '/orion/getting-started/quick-start',
                 items: [
                     { text: 'Quick Start', link: '/orion/getting-started/quick-start' },
-                    { text: 'Installing Orion', link: '/orion/getting-started/install-orion' },
+                    { text: 'Installing Orion', link: '/orion/getting-started/installing-orion' },
                     { text: 'Importing Data From Other Browsers', link: '/orion/getting-started/importing' },
                     { text: 'Default Search Engine', link: '/orion/support-and-community/troubleshooting-webpage-issues' },
                     { text: 'Troubleshooting Extension Issues', link: '/orion/support-and-community/troubleshooting-extension-issues' },
