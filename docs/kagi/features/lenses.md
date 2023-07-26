@@ -4,7 +4,8 @@ Kagi [Lenses](https://kagi.com/settings?p=lenses) allow you to customize your se
 
 Here's an example using the built-in Academic lens:
 
-<img src="./media/lens.gif" width="675" alt="Lens Example"><br />
+<img src="./media/academic_lens.gif" width="675" alt="Lens Example"><br />
+
 
 You can create your own Lenses where you specify parameters such as:
 
