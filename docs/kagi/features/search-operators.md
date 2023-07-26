@@ -5,7 +5,7 @@
 - [Viewing Search Operators](#viewing-search-operators)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Search Operators](#search-operators-1)
-- [Query Shortcuts & Widgets](#query-shortcuts--widgets)
+- [Query Shortcuts & Widgets](#query-shortcuts-widgets)
 
 ## Viewing Search Operators
 
