@@ -2,16 +2,16 @@
 
 ## Table of Contents
 
-- [Installing Orion](#install)
-- [Website Settings](#website_settings)
-- [Vertical Tabs](#vertical_tabs)
-- [Reader Mode](#reader_mode)
-- [Quick Searches](#quick_searches)
-- [Web Archives](#web_archives)
-- [Video Picture-in-Picture](#pip)
-- [Focus Mode](#focus_mode)
-- [Edit Text on a Page](#edit_text)
-- [Show Console Errors](#show_errors)
+- [Installing Orion](#installing-orion)
+- [Website Settings](#website-settings)
+- [Vertical Tabs](#vertical-tabs)
+- [Reader Mode](#reader-mode)
+- [Quick Searches](#quick-searches)
+- [Web Archives](#web-archives)
+- [Video Picture-in-Picture](#video-picture-in-picture)
+- [Focus Mode](#focus-mode)
+- [Edit Text on a Page](#edit-text-on-a-page)
+- [Show Console Errors](#show-console-errors)
 
 <a name="install"></a>
 ## Installing Orion
