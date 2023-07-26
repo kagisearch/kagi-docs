@@ -2,7 +2,7 @@
 
 Kagi [Lenses](https://kagi.com/settings?p=lenses) allow you to customize your searches by specifying which websites (and other parameters) you see in your results. We provide a few Lenses to get you started, such as one to search only online discussions and forums.
 
-Here's an example using the built-in EDU lens:
+Here's an example using the built-in Academic lens:
 
 <img src="./media/lens.gif" width="675" alt="Lens Example"><br />
 
@@ -26,12 +26,12 @@ Kagi offers several prebuilt lenses. The following are available by default:
 - **Forums**: search forums from around the Web.
 - **Programming**: official programming language websites and forums.
 - **World News**: recent information from a selection of global news outlets across the globe.
-- **EDU**: searches academic domains.
+- **Academic**: searches academic domains.
 - **PDF**: search for PDF files.
 
 The following lenses need to be activated from the [Lenses](https://kagi.com/settings?p=lenses) settings.
 
-- **Ad-free**: results that favor noncommercial domains and topics.
+- **Non-commercial**: results that favor noncommercial domains and topics.
 - **Recipes**: common sense recipes from sites with no ads.
 
 ## Lens Example
