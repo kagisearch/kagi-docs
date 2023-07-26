@@ -209,7 +209,7 @@ function sidebarKagi() {
                     { text: 'Billing', link: '/kagi/settings/billing' },
                     { text: 'Advanced', link: '/kagi/settings/advanced' },
                     { text: 'Account', link: '/kagi/settings/account' },
-                    { text: 'Delete Your Account', link: '/kagi/settings/delete-account' },
+                    { text: 'Delete Your Account', link: '/kagi/plans/delete-account' },
                 ]
             },
             {
