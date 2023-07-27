@@ -11,7 +11,7 @@ If you love to have your browser tabs on the side, Orion has you covered with na
 - [iPadOS Vertical Tabs](#ipados_tab_styles)
 
 <a name="macos_vertical_tabs"></a>
-## macOS Vertical Tabs
+## macOS Vertical Tabs {#macos_vertical_tabs}
 
 You can enable vertical tabs by clicking the **View** menu and choosing **Show Vertical Tabs Sidebar**.
 
@@ -20,7 +20,7 @@ You can enable vertical tabs by clicking the **View** menu and choosing **Show V
 You can disable vertical tabs by going under the same **View** menu and choosing **Hide Vertical Tabs Sidebar**.
 
 <a name="ios_tab_styles"></a>
-## iOS Tab Styles
+## iOS Tab Styles {#ios_tab_styles}
 
 You can switch between **Sidebar** or **Grid** tab styles in Orion's settings.
 
@@ -38,7 +38,7 @@ Then, choose between **Sidebar** or **Grid**.
 <img src="./media/ios_tabs_settings_detail.png" width="300" alt="iOS Tabs Settings Detail"><br />
 
 <a name="ipados_tab_styles"></a>
-## iPadOS Tab Styles
+## iPadOS Tab Styles {#ipados_tab_styles}
 
 You can switch between **Sidebar** or **Grid** tab styles in Orion's settings.
 
