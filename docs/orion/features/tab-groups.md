@@ -11,7 +11,7 @@ In Orion, Tab Groups are also called Named Windows. You can [sync](syncing-data.
 - [iPadOS Tab Groups](#ipados_tab_groups)
 
 <a name="macos_tab_groups"></a>
-## macOS Tab Groups
+## macOS Tab Groups {#macos_tab_groups}
 
 Simply use the **Rename** command in the windows menu to give the current window a name, such as "Work".
 
@@ -22,7 +22,7 @@ Simply use the **Rename** command in the windows menu to give the current window
 The Tab Group will now sync in Orion across all of your devices where [syncing](syncing-data.md) is enabled.
 
 <a name="ios_tab_groups"></a>
-## iOS Tab Groups
+## iOS Tab Groups {#ios_tab_groups}
 
 1. Tap the icon that looks like two squares at the bottom on the screen.
 
@@ -45,7 +45,7 @@ The Tab Group will now sync in Orion across all of your devices where [syncing](
 The Tab Group will now sync in Orion across all of your devices where [syncing](syncing-data.md) is enabled.
 
 <a name="ipados_tab_groups"></a>
-## iPadOS Tab Groups
+## iPadOS Tab Groups {#ipados_tab_groups}
 
 1. Tap the icon that looks like two squares at the top right of the screen.
 
