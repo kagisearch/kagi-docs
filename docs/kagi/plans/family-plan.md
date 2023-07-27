@@ -6,18 +6,19 @@ The Kagi Family Plan is perfect for families wanting to search smarter, emphasiz
 
 **Table of Contents**
 
-- [How to Use the Kagi Family Plan](#how-to-use-the-kagi-family-plan)
-- [Logging if for Kids](#logging-in-for-kids)
-- [Unique Features](#unique-features)
-  - [Kid-Friendly Search Experience](#kid-friendly-search-experience)
-  - [Parental Controls](#parental-controls)
-  - [AI Question Answering](#ai-question-answering)
+- [How to Use the Kagi Family Plan](#using)
+- [Logging if for Kids](#kidslogin)
+- [Unique Features](#features)
+  - [Kid-Friendly Search Experience](#kidfriendly)
+  - [Parental Controls](#parental)
+  - [AI Question Answering](#ai)
   - [Lenses](#lenses)
-  - [Personalized Results](#personalized-results)
-  - [New Illustrations](#new-illustrations)
-- [Story behind the Poop Avatar](#story-behind-the-poop-avatar)
+  - [Personalized Results](#pr)
+  - [New Illustrations](#illustrations)
+- [Story behind the Poop Avatar](#poopavatar)
 
-## How to Use the Kagi Family Plan
+<a name="using"></a>
+## How to Use the Kagi Family Plan {#using}
 
 To sign up for the Family Plan, select the plan that fits your family's size and needs at Kagi [account creation](https://kagi.com/onboarding?p=choose_plan&plan=family).
 
@@ -42,21 +43,25 @@ The Billing screen has the overview of the plan and allows you to update payment
 <center><em>Billing screen</em></center>
 
 
-## Logging in for Kids
+<a name="kidslogin"></a>
+## Logging in for Kids {#kidslogin}
 
 To log-in kid accounts, just proceed to normal login on their device. Kids enter just their username and password is not needed.
 
 A verification email will be sent to the account owner. They can just click the link in the email to automatically log in the kid account, or enter the provided numerical code.
 
-## Unique Features
+<a name="features"></a>
+## Unique Features {#features}
 
 The Kagi Family Plan has unique features that make it perfect for families.
 
-### Kid-Friendly Search Experience
+<a name="kidfriendly"></a>
+### Kid-Friendly Search Experience {#kidfriendly}
 
 The Kagi Family Plan also includes a kid-friendly search experience that uses strict content filters to ensure children are not exposed to harmful content. Kid’s profile simplifies the search experience with larger text, icons, and content adjusted for kids.
 
-### Parental Controls
+<a name="parental"></a>
+### Parental Controls {#parental}
 
 The Kagi Family Plan comes with parental controls that let parents manage their children's search experience.
 
@@ -67,7 +72,8 @@ Kagi allows parents to toggle whether kids will have access to the search result
 
 Safe search filters exclude adult material from the search results.
 
-### AI Question Answering
+<a name="ai"></a>
+### AI Question Answering {#ai}
 
 AI tools can be beneficial for getting quick answers to common questions, but it's important to remember that they're not always accurate. As part of the Kagi Family Plan, we encourage families to talk to their kids about the potential risks and benefits of AI question-answering tools. It's important for kids to understand how these tools work and how to use them safely and responsibly in a way to nurture curiosity.
 
@@ -76,7 +82,8 @@ We added appropriate warnings for AI tools around the interface and a particular
 <img src="https://staticmedia.kagi.com/family/quick_answer.png" >
 <center><em>Instant answers for kids powered by AI</em></center>
 
-### Lenses
+<a name="lenses"></a>
+### Lenses {#lenses}
 
 Lenses are a subset of search results that are restricted to a subset of whitelisted sites (up to 10 per lens). You can create and share multiple lenses, such as having a lens for Education, School work, or Entertainment and assign the default one to be used for searches. We allow you to export and import lenses to share with other community parents.
 
@@ -88,21 +95,24 @@ Parents can create lenses for children to ensure they have access to the resourc
 <img src="https://staticmedia.kagi.com/family/lens_create.png" >
 <center><em>Create a lens</em></center>
 
-### Personalized Results
+<a name="pr"></a>
+### Personalized Results {#pr}
 
 In addition to lenses, we include the ability for parents to completely block (ban) websites from showing in the results, or to promote useful sites. Up to 1,000 websites can be curated in this way.
 
 <img src="https://staticmedia.kagi.com/family/pr.png" >
 <center><em>Granular control over what appears in the search results</em></center>
 
-### New Illustrations
+<a name="illustrations"></a>
+### New Illustrations {#illustrations}
 
 Our mascot Doggo now has a lady friend, and we introduced several new and delightful illustrations throughout the interface.
 
 <img src="https://staticmedia.kagi.com/family/lady_doggo.png" >
 <center><em>Lady Doggo</em></center>
 
-## Story behind the Poop Avatar
+<a name="poopavatar"></a>
+## Story behind the Poop Avatar {#poopavatar}
 
 Our selection of avatars for kids includes a poop avatar (which most kids find really funny), and there's a reason why we made this choice that goes deeper than what meets the eye.
 
