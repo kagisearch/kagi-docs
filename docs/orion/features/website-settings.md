@@ -7,7 +7,7 @@
 - [iPadOS Website Settings](#iPadOS)
 
 <a name="macOS"></a>
-## macOS Website Settings
+## macOS Website Settings {#macOS}
 
 You can click the gear icon at the top of an Orion window to access the Website Settings for the current webpage.
 
@@ -31,7 +31,7 @@ You can control a number of settings related to the current website:
  - Control whether the website is set to **Allow** access, **Deny** access, or **Ask** for access to your **Camera**, **Microphone**, **Screen Sharing**, **Location**, and **Notifications**
 
 <a name="iOS"></a>
-## iOS Website Settings
+## iOS Website Settings {#iOS}
 
 You can tap the icon for a website in Orion's address bar to access the Website Settings for the current web page.
 
@@ -47,7 +47,7 @@ You can control several settings related to the current website:
 <img src="./media/ios_website_settings_detail.png" width="300" alt="iOS Website Settings Detail"><br />
 
 <a name="iPadOS"></a>
-## iPadOS Website Settings
+## iPadOS Website Settings {#iPadOS}
 
 You can tap the icon for a website in Orion's address bar to access the Website Settings for the current web page.
 
