@@ -11,7 +11,7 @@ Sometimes you just want to read the article on a website, not wade through ads, 
 - [iPadOS Reader Mode](#ipados_reader_mode)
 
 <a name="macos_reader_mode"></a>
-## macOS Reader Mode
+## macOS Reader Mode {#macos_reader_mode}
 
 You can enable Reader Mode in three different ways while viewing a webpage.
 
@@ -45,7 +45,7 @@ You can view and manage the Reader Mode settings for all websites in Orion's Pre
   <img src="./media/macos_reader_mode_preferences.png" width="500" alt="macOS Reader Mode Preferences"><br />
 
 <a name="ios_reader_mode"></a>
-## iOS Reader Mode
+## iOS Reader Mode {#ios_reader_mode}
 
 You can enable Reader Mode by tapping on the icon for the current website in the address bar and then tapping Reader Mode.
 
@@ -73,7 +73,7 @@ You can view and manage the Reader Mode settings for all websites in Orion's Set
  <img src="./media/ios_reader_mode_settings_detail.png" width="300" alt="iOS Reader Mode Settings Detail"><br />
 
 <a name="ipados_reader_mode"></a>
-## iPadOS Reader Mode
+## iPadOS Reader Mode {#ipados_reader_mode}
 
 You can enable Reader Mode by tapping on the icon for the current website in the address bar and then tapping Reader Mode.
 

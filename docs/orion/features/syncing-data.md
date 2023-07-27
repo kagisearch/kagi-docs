@@ -9,9 +9,10 @@ To sync Orion tabs, bookmarks, and reading lists across devices, perform these s
 - [macOS](#syncing_macos)
 - [iOS](#syncing_ios)
 - [iPadOS](#syncing_ipados)
+- [Troubleshooting](#troubleshooting)
 
 <a name="syncing_macos"></a>
-## macOS
+## macOS  {#syncing_macos}
 
 1. In Orion, use the **Orion** menu to open Preferences.
 
@@ -22,7 +23,7 @@ To sync Orion tabs, bookmarks, and reading lists across devices, perform these s
 <img src="./media/macos_orion_sync_tab.png" width="500" alt="Orion Sync Tab"><br />
 
 <a name="syncing_ios"></a>
-## iOS
+## iOS  {#syncing_ios}
 
 1. Open the Orion app.
 2. Tap the three-dot menu (•••) in the lower-right corner of the screen.
@@ -35,7 +36,7 @@ To sync Orion tabs, bookmarks, and reading lists across devices, perform these s
 <img src="./media/ios_sync_settings.png" width="300" alt="iOS iCloud Settings"><br />
 
 <a name="syncing_ipados"></a>
-## iPadOS
+## iPadOS {#syncing_ipados}
 
 1. Open the Orion app.
 2. Tap the three-dot menu (•••) in the upper-right corner of the screen.
@@ -47,7 +48,8 @@ To sync Orion tabs, bookmarks, and reading lists across devices, perform these s
 
 <img src="./media/ipados_sync_settings.png" width="500" alt="iPadOS Orion Sync Settings"><br />
 
-## Troubleshooting
+<a name="troubleshooting"></a>
+## Troubleshooting {#troubleshooting}
 
 If you have problems syncing between devices try the following in order:
 

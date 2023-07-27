@@ -7,7 +7,7 @@
 - [iPadOS Quick Searches](#iPadOS)
 
 <a name="macOS"></a>
-## macOS Quick Searches
+## macOS Quick Searches {#macOS}
 
 You can search specific websites directly in Orion with Quick Search bookmarks that use invocation keywords.
 
@@ -42,7 +42,7 @@ You can repeat this process with the search results page for any website to add 
 You can also edit any existing search results bookmark to make it into a Quick Search bookmark.
 
 <a name="iOS"></a>
-## iOS Quick Searches
+## iOS Quick Searches {#iOS}
 
 **Quick Searches will be coming to iOS soon and these instructions explain how they will work.**
 
@@ -74,7 +74,7 @@ You can repeat this process with the search results page for any website to add 
 You can also edit any existing search results bookmark to make it into a Quick Search bookmark.
 
 <a name="iPadOS"></a>
-## iPadOS Quick Searches
+## iPadOS Quick Searches {#iPadOS}
 
 **Quick Searches will be coming to iPadOS soon and these instructions explain how they will work.**
 
