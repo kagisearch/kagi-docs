@@ -60,7 +60,7 @@ Check out [Universal Summarizer Zapier integration](https://zapier.com/apps/univ
 
 You can reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
 
-## Types of Content that can be Summarized
+## Supported file typees
 
 You can summarize many types of web content, including:
 
@@ -70,9 +70,9 @@ You can summarize many types of web content, including:
 - Word documents (.docx)
 - Audio files (mp3/wav)
 - YouTube URLs
-- Twitter Threads
+- Scanned PDFs and images (OCR)
 
-Unlike other summarization products, Universal Summarizer can **summarize content of any length**.
+Universal Summarizer can **summarize content of any length**.
 
 See [demo](https://kagi.com/summarizer) for examples or [blog post](https://blog.kagi.com/universal-summarizer) to learn more.
 
