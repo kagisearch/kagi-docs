@@ -68,6 +68,8 @@ In addition to installing the Kagi Browser Extension, Brave users must also make
 
 You can configure your web browser manually to use Kagi as its default search engine.
 
+If you are interested in using Kagi in private (incognito) browser windows, be sure to check our section on [private session tokens​](https://help.kagi.com/kagi/getting-started/setting-default.html#private_session).
+
 
 <a name="chromium_browsers"></a>
 ### Chromium-Based Browsers (Chrome, Edge, Brave, Opera, Vivaldi...) {#chromium_browsers}
