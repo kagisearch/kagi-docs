@@ -361,6 +361,7 @@ function sidebarOrion() {
                     { text: 'Show Console Errors', link: '/orion/features/show-errors'},
                     { text: 'Block Auto-Play', link: '/orion/features/block-auto-play'},
                     { text: 'Notes', link: '/orion/features/notes'},
+                    { text: 'Reading List', link: '/orion/features/reading-list'},
                 ]
             },
             {
