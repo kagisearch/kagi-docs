@@ -349,6 +349,7 @@ function sidebarOrion() {
                     { text: 'Reader Mode', link: '/orion/features/reader-mode'},
                     { text: 'Vertical Tabs', link: '/orion/features/vertical-tabs'},
                     { text: 'Tab Groups', link: '/orion/features/tab-groups'},
+                    { text: 'Press and Hold Shortcuts', link: '/orion/features/press-and-hold-shortcuts'},
                     { text: 'Profiles', link: '/orion/features/profiles'},
                     { text: 'Quick Searches', link: '/orion/features/quick-searches'},
                     { text: 'Viewing Web Archives', link: '/orion/features/web-archives'},
