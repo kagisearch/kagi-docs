@@ -363,6 +363,7 @@ function sidebarOrion() {
                     { text: 'Block Auto-Play', link: '/orion/features/block-auto-play'},
                     { text: 'Notes', link: '/orion/features/notes'},
                     { text: 'Reading List', link: '/orion/features/reading-list'},
+                    { text: 'Privacy Report', link: '/orion/features/privacy-report'},
                 ]
             },
             {
