@@ -4,15 +4,15 @@
 
 The table below shows how Kagi stacks up to some of the most popular search engines around in terms of key features.
 
-|  | Kagi | Google/Bing | DDG/StartPage | Brave | Neeva |
-| --- | --- | --- | --- | --- | --- |
-| Has own search results | Yes | Yes | No | Yes | Yes |
-| Builds own Maps | Yes | Yes | No | Yes | No |
-| User can block sites | Yes | No | No | No | No |
-| Question answering | Yes | Yes | No | Yes | No |
-| Ad-free business model | Yes | No | No | No | Yes |
-| Anonymises user data | Yes | No | Yes | Yes | No |
-| Zero search telemetry | Yes | No | No | No | No |
+|  | Kagi | Google | Bing | DuckDuckGo/Ecosia/StartPage | Brave | 
+| --- | --- | --- | --- | --- | --- | 
+| Ad-free business model | **Yes** | No | No | No | No | 
+| Has own search results | **Yes** | Yes | Yes | No | Yes | 
+| User can block sites | **Yes** | No | No | No | No | 
+| Zero search telemetry | **Yes** | No | No | No | No | 
+| Anonymises user data | **Yes** | No | No | Yes | Yes | 
+
+Learn more about [Kagi's search sources](https://help.kagi.com/kagi/search-details/search-sources.html).
 
 ## Speed
 
