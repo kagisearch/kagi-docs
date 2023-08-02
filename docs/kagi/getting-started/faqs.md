@@ -46,6 +46,10 @@ You can also check our [privacy policy](https://kagi.com/privacy) for more infor
 
 Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy/privacy-protection.md) for more information.
 
+## Where does Kagi gets its results from?
+
+Check [Kagi search sources](../search-details/sources.md).
+
 ## How fast is Kagi Search?
 
 We are...ahem...[fast](../search-details/search-speed.md).
