@@ -83,9 +83,9 @@ Here is the full list of "feeling lucky" patterns that we support:
 
 ## AI related bangs
 
-- !sum <url> ; Summarize page in [Universal Summarizer](../ai/summarize-page.md)
-- !sumk <url> ; Key moments in Universal Summarizer
+- **!sum** <url> ; Summarize page in [Universal Summarizer](../ai/summarize-page.md)
+- **!sumk** <url> ; Key moments in Universal Summarizer
 
-- !discuss <url>; Discuss Document chat
-- !answer <search terms>; Search & open "Quick Answer"
+- **!discuss** <url>; Discuss Document chat
+- **!answer** <search terms>; Search & open "Quick Answer"
 
