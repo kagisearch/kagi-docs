@@ -28,10 +28,10 @@ You can use for example **!de [query]** or **!nl [query]** to switch your region
 
 ### AI related bangs
 
-- **!sum** <url> ; Summarize page in [Universal Summarizer](../ai/summarize-page.md)
-- **!sumk** <url> ; Key moments in Universal Summarizer
-- **!discuss** <url>; Discuss Document chat
-- **!answer** <search terms>; Search & open "Quick Answer"
+- **!sum** <url> - Summarize page in [Universal Summarizer](../ai/summarize-page.md)
+- **!sumk** <url> -  Key moments in Universal Summarizer
+- **!discuss** <url> - Discuss Document chat
+- **!answer** <search terms> - Search & open "Quick Answer"
 
 
 
