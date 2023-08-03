@@ -120,10 +120,10 @@ function sidebarKagi() {
           items: [
             {
                 text: 'Getting Started',
-                link: '/kagi/getting-started/',
+                link: '/kagi/getting-started/index',
                 collapsed: true,
                 items: [
-                    { text: 'Quick Start', link: '/kagi/getting-started' },
+                    { text: 'Quick Start', link: '/kagi/getting-started/index' },
                     { text: 'Frequently Asked Questions', link: '/kagi/getting-started/faqs' },
                     { text: 'Set Kagi as Your Default Search Engine', link: '/kagi/getting-started/setting-default' },
                     { text: 'Application Integrations', link: '/kagi/getting-started/application-integrations' },
