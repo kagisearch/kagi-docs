@@ -1,10 +1,35 @@
 # Frequently Asked Questions (FAQs)
 
+## What is Kagi
+
+Kagi is a company created with the mission to humanize the web. Our goal is amplify the web of human knowledge, creativity and self-expression and provide the user tools to fight against the web of greed, ad-tech and user tracking. Read more in [About](../kagi/company/index.md) section.
+
+Kagi is currently [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com), a fast, zero-telemetry browser. We also have a growing number of services like the [Universal Summarizer](https://kagi.com/summarizer), free and commercial [APIs](../api/overview.md) and [open source software](https://github.com/kagisearch) available.
+
+## How do you pronounce Kagi?
+
+Kagi is pronounced as Kah-gee. You can also listen to it [here](https://www.youtube.com/watch?v=ig4VTr0rt4Q).
+
+## What is the name of Kagi mascot?
+
+We simply call him ”doggo” for now. We have [media assets](https://kagi.com/assets) of him available. 
+
+## The logo is a "g" which is in the Google ballpark. Why not "k"??
+
+The designer insisted that Kagi logo is "anchored" in the letter "g" and we had to agree. Besides, can't let Google own letter "g" too, can we? ;)
+
 ## What is Kagi Search?
 
-Kagi Search is a lightning-fast, user-centric, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches. Kagi features a clean, high-performance user interface with only the most relevant results and no telemetry, ads, or collection of private information. You can learn more about its unique features, including the use of [Lenses](../features/lenses.md) and  [Personalized Results](../features/website-info-personalized-results.md#personalized_results).
+Kagi Search is a highly accurate, lightning-fast, user-centric, 100% privacy-respecting search engine with results augmented by non-commercial indexes and personalized searches. Kagi features a clean, high-performance user interface with only the most relevant results and no telemetry, ads, or collection of private information. You can learn more about its unique features, including the use of [Lenses](../features/lenses.md) and  [Personalized Results](../features/website-info-personalized-results.md#personalized_results).
 
 We are confident that Kagi will help you amplify your search abilities, become more creative in finding information, and accelerate your productivity.
+
+## Why should I pay for search?
+
+Search has a cost. For most search engines in the world, cost of user searches are paid by advertisers and this business model is what turned the web into an [ad-infested, privacy-invading place](https://blog.kagi.com/age-pagerank-over). We attempt to change this, as a part of our mission to humanize the web. With Kagi, users pay for and own their searches.
+
+See our detailed article on [why pay for search](../plans/why-pay-for-search.md).
+
 
 ## How do I get help with Kagi?
 
@@ -95,3 +120,61 @@ You can check your usage [here](https://kagi.com/settings?p=consumption). This c
 Go to Kagi Settings -> Billing (or click [here](https://kagi.com/settings?p=billing)) and then click "Manage Billing".
 
 This will bring you to the billing portal where you are able to update your billing information.
+
+## What is your policy on biases in search?
+
+We are very careful not to introduce a precedent with any type of non search quality related bias (including moral, political on any other type of bias). 
+
+Some results from traditional sources we use may reflect inherent biases beyond our control.
+
+What we maintain is a strict search-quality bias. We downrank web pages that contain ads and trackers, as this has emperically proven to improve search result quality for our members. 
+
+We also empower our members with powerful tools like [domain preferences](../features/website-info-personalized-results.md) and [lenses](../features/lenses.md) to help them shape their search results in any way they prefer.
+
+## How does Kagi help protect my privacy?
+”Free” search engines have two ways to make money – get more users or sell more ads per user. The easiest, fastest way is to mine more data to sell ads more effectively. Many search-engine companies have buckled under investor pressure, leading us to the online privacy issues we have today.
+
+Paid models like Kagi only make money when users pay us, and users only pay when they receive great value. We offer superior result quality, features, speed and of course privacy. If we compromise on any of these points, we lose users. Therefore we have to offer a better product that includes the best possible privacy.
+
+We designed our product to give you a good answer and get you on your way instead of forcing you to wade through a swamp of results that have leeches lurking under the surface.
+
+## What data does Kagi collect?
+Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) for more information.
+
+## I am still worried about my private information and searches being linked together. Why should I trust you?
+
+Let us reiterate that we do not log searches or in any way tie them to an account. Our business model is to sell subscriptions, not user data.
+
+While it is virtually impossible for us to prove that, nor it is impossible to charge for the service without people having an account, we simply have no incentive to do it.
+
+Kagi’s business model is unlike any other search engine. This means we don’t need or want your personal information (it would just be an unwelcome liability). In fact the only data we take is the email address, which can be any email address really, as long as you can use it to recover your account. There is no other personal information shared with Kagi. By choosing this business model we know that we are going to have far less users than mainstream search engine for example, but we have also removed any incentive to misuse any information you have shared with us.
+
+
+
+## Are you affiliated with the legendary Kagi shareware platform?
+
+No. That Kagi went bankrupt in an unfortunate turn of events. We liked the name and acquired it when we got the chance.
+
+## Are you hiring?
+
+Yes, [see here](../company/hiring-kagi.md).
+
+
+## What if I find a security issue?
+
+If you discover potential security issues on our platform, please notify our [security contact](mailto:vlad@kagi.com).
+
+## How do I join Kagi’s Discord server?
+
+The Kagi beta Discord server is a great way to provide feedback and have direct communication with our team.
+
+You can join this server at [kagi.com/discord](https://kagi.com/discord).
+
+For feature requests and bug reports, please visit [kagifeedback.org](https://kagifeedback.org) instead.
+
+## Where can I find examples of Custom CSS created by other users?
+
+Check [Custom CSS](../features/custom-css.md). Also check [Kagi Discord](https://kagi.com/discord) server which has an #appearance channel where people are sharing custom CSS examples.
+
+
+
