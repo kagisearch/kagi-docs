@@ -18,6 +18,15 @@ Beyond using this knowledge base, you have several options:
 
 You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](setting-default.md) for details.
 
+<a name="using-login-token"></a>
+## Can I use Kagi in private browser sessions?
+
+Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Account settings](https://kagi.com/settings?p=user_details) to get your login token.
+
+This token is attached to the session it was copied from. You can log out of that session if you need to invalidate it for any reason.
+
+You can use private session token manually, or through [Kagi browser extensions](setting-default.md).
+
 ## Why does Kagi Search require an account?
 
 Kagi Search requires an account only because it is a paid service which requires an account for the transaction.
@@ -75,7 +84,7 @@ Kagi is in the business of search, not in the business of selling AI, our philos
 
 ## Will you expose the Search API?
 
-Now that we have billing infrastructure in place we can expose the API to personal accounts so that they can access the API. We are still working out how to charge for the API however this will be solved quickly given that we have metered abilities in place.
+Check our currently available [APIs](../api/overview.md).
 
 ## How do I check my usage?
 
