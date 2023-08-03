@@ -81,6 +81,11 @@ Here is the full list of "feeling lucky" patterns that we support:
 - `query !`
 - `\query`
 
-## Universal Summarizer
+## AI related bangs
 
-Use the [universal summarizer](../ai/summarize-page.md) with `!sum <url>` or `!summarize <url>`. Summarize key moments with `!sumk <url>` or `!summarizekey <url>`.
+- !sum <url> ; Summarize page in [Universal Summarizer](../ai/summarize-page.md)
+- !sumk <url> ; Key moments in Universal Summarizer
+
+- !discuss <url>; Discuss Document chat
+- !answer <search terms>; Search & open "Quick Answer"
+
