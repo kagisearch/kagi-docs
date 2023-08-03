@@ -1,7 +1,5 @@
 # Search Sources
 
-We use heuristics and deep learning to understand query intent, select the best information sources, query them directly using APIs, and rank the results.
-
 You can think of Kagi as a "search client," working like an email client that connects to various indexes and sources, including ours, to find relevant results and package them into a superior, secure, and privacy-respecting search experience, all happening automatically and in a split-second for you.
 
 Our data includes anonymized API calls to traditional search indexes like Google and [Mojeek](https://mojeek.com), niche search engines like [Marginalia](https://search.marginalia.nu), and vertical information sources like Apple, Wikipedia, Open Meteo, and other APIs. Typically every search query will bring in about dozen of different sources. 
