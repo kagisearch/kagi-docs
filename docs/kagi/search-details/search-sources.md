@@ -4,7 +4,7 @@ You can think of Kagi as a "search client," working like an email client that co
 
 Our data includes anonymized API calls to traditional search indexes like Google and [Mojeek](https://mojeek.com), niche search engines like [Marginalia](https://search.marginalia.nu), and vertical information sources like Apple, Wikipedia, Open Meteo, and other APIs. Typically every search query will bring in about dozen of different sources. 
 
-For example, when you search for images in Kagi, we use 7 different sources of information, trying to surface the very best image results for your query. Using all avaialble sources on the web is also true for Kagi's Video/News/Podcasts results. 
+For example, when you search for images in Kagi, we use 7 different sources of information, trying to surface the very best image results for your query. The same is also the case for Kagi's Video/News/Podcasts results. 
 
 But most importantly, we are known for our unique results, coming from our web index (internal name - Teclis) and news index (internal name - TinyGem). Kagi's indexes provide unique results that help you discover non-commercial websites and "small web" discussions surrounding a particular topic. Access to Teclis and TinyGem is available as an [API](https://help.kagi.com/kagi/api/enrich.html) too.
 
