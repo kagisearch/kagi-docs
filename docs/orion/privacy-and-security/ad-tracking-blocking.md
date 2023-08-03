@@ -20,7 +20,7 @@ If you wish, you can disable blocking either for a specific website or globally.
 
 You can disable the content blocking or tracker prevention for a specific site using the gear icon on Orion's toolbar:
 
-<img src="./media/blocking_mac_website.png" width="300" alt="Settings for a Specific Website"><br />￼
+<img src="./media/blocking_mac_website.png" width="300" alt="Settings for a Specific Website"><br />
 
 To disable Orion's content blocking or tracking prevention globally:
 
