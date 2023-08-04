@@ -65,9 +65,9 @@ function sidebarKagi() {
             {
               text: 'Company',
               collapsed: true,
-              link: '/kagi/company/index',
+              link: '/kagi/company/',
               items: [
-                { text: 'About', link: '/kagi/company/index' },
+                { text: 'About', link: '/kagi/company/' },
                 { text: 'Say no to Ads', link: '/kagi/company/noads' },
                 { text: 'Product', link: '/kagi/company/products' },
                 { text: 'History', link: '/kagi/company/history' },
@@ -93,7 +93,7 @@ function sidebarKagi() {
             {
                 text: 'Support and Community',
                 collapsed: true,
-                link: '/kagi/support-and-community/index',
+                link: '/kagi/support-and-community/',
                 items: [
                     { text: 'Roadmap & Feedback Forum', link: '/kagi/support-and-community/roadmap_feedback' },
                     { text: 'Public Beta', link: '/kagi/getting-started/public-beta' },
@@ -120,10 +120,10 @@ function sidebarKagi() {
           items: [
             {
                 text: 'Getting Started',
-                link: '/kagi/getting-started/index',
+                link: '/kagi/getting-started/',
                 collapsed: true,
                 items: [
-                    { text: 'Quick Start', link: '/kagi/getting-started/index' },
+                    { text: 'Quick Start', link: '/kagi/getting-started/' },
                     { text: 'Frequently Asked Questions', link: '/kagi/getting-started/faqs' },
                     { text: 'Set Kagi as Your Default Search Engine', link: '/kagi/getting-started/setting-default' },
                     { text: 'Application Integrations', link: '/kagi/getting-started/application-integrations' },
@@ -223,7 +223,7 @@ function sidebarKagi() {
 
             },
             {
-                text: 'Community Addons', link: '/kagi/community-addons/index',
+                text: 'Community Addons', link: '/kagi/community-addons/',
             }
           ]
       },
@@ -272,9 +272,9 @@ function sidebarOrion() {
             {
               text: 'Company',
               collapsed: true,
-              link: '/orion/company/index',
+              link: '/orion/company/',
               items: [
-                { text: 'About', link: '/orion/company/index' },
+                { text: 'About', link: '/orion/company/' },
                 { text: 'Products', link: '/orion/company/products' },
                 { text: 'History', link: '/orion/company/history' },
                 { text: 'Name', link: '/orion/company/meaning' },
