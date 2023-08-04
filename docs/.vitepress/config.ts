@@ -281,13 +281,9 @@ function sidebarOrion() {
                 { text: 'Mascot', link: '/orion/company/mascot' },
                 { text: 'Logo', link: '/orion/company/logo' },
                 { text: 'Assets', link: '/orion/company/assets' },
-                { text: 'Jobs', link: '/orion/company/hiring-kagi',
-                    collapsed: true,
-                    items: [
-                        { text: 'Work on Kagi Search', link: '/orion/company/hiring-kagi' },
-                        { text: 'Work on Orion Browser', link: '/orion/company/hiring-orion' },
-                    ]
-                },
+                { text: 'Jobs', link: '/orion/company/hiring-kagi' },
+                { text: 'Work on Kagi Search', link: '/orion/company/hiring-kagi' },
+                { text: 'Work on Orion Browser', link: '/orion/company/hiring-orion' },
                 { text: 'Donations', link: '/orion/company/donations' },
                 { text: 'Contact us', link: '/orion/company/contact' },
               ]
@@ -299,12 +295,8 @@ function sidebarOrion() {
                     { text: 'Getting help and contributing', link: '/orion/support-and-community/' },
                     { text: 'Orion is in Public Beta', link: '/orion/getting-started/public-beta' },
                     { text: 'Supported OS Versions', link: '/orion/support-and-community/os-versions' },
-                    { text: 'Product Roadmap & Feedback Forum', link: '/orion/support-and-community/roadmap-feedback-forum',
-                        collapsed: true,
-                        items: [
-                            { text: 'Reporting a bug', link: '/orion/support-and-community/bug-reporting' },
-                        ]
-                    },
+                    { text: 'Product Roadmap & Feedback Forum', link: '/orion/support-and-community/roadmap-feedback-forum' },
+                    { text: 'Reporting a bug', link: '/orion/support-and-community/bug-reporting' },
                     { text: 'Discord Server', link: '/orion/support-and-community/discord-server' },
                     { text: 'Email Support', link: '/orion/support-and-community/email-support' },
                     { text: 'macOS Keyboard Shortcuts', link: '/orion/support-and-community/keyboard-shortcuts' },
