@@ -2,7 +2,7 @@
 
 ## What is Kagi
 
-Kagi is a company created with the mission to humanize the web. Our goal is amplify the web of human knowledge, creativity and self-expression and provide the user tools to fight against the web of greed, ad-tech and user tracking. Read more in [About](../kagi/company/index.md) section.
+Kagi is a company created with the mission to humanize the web. Our goal is amplify the web of human knowledge, creativity and self-expression and provide the user tools to fight against the web of greed, ad-tech and user tracking. Read more in [About](../company/index.md) section.
 
 Kagi is currently [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com), a fast, zero-telemetry browser. We also have a growing number of services like the [Universal Summarizer](https://kagi.com/summarizer), free and commercial [APIs](../api/overview.md) and [open source software](https://github.com/kagisearch) available.
 
@@ -14,9 +14,9 @@ Kagi is pronounced as Kah-gee. You can also listen to it [here](https://www.yout
 
 We simply call him ”doggo” for now. We have [media assets](https://kagi.com/assets) of him available. 
 
-## The logo is a "g" which is in the Google ballpark. Why not "k"??
+## The logo is a "g" which is in the Google ballpark. Why not "k"?
 
-The designer insisted that Kagi logo is "anchored" in the letter "g" and we had to agree. Besides, can't let Google own letter "g" too, can we? ;)
+Our designer insisted that Kagi logo is "anchored" in the letter "g" and we had to agree. Besides, can't let Google own letter "g" too, can we? ;)
 
 ## What is Kagi Search?
 
@@ -82,7 +82,7 @@ Only bare necessities to run the service. Please see our [privacy policy](https
 
 ## Where are your results coming from?
 
-Please refer to [Kagi search sources](../search-details/sources.md).
+Please refer to [Kagi search sources](../search-details/search-sources.md).
 
 ## How fast is Kagi Search?
 
