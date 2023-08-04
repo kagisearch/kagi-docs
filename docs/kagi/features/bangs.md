@@ -15,11 +15,11 @@ Note that Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang
 
 Some of the more popular search bangs include:
 
-- **!help** <query> to search this knowledge base for information about Kagi Search. Try "!help search operators" in Kagi.
-- **!i** <query> for Kagi Images
-- **!m** <query> for Kagi Maps
-- **!n** <query> for Kagi News
-- **!v** <query> for Kagi Videos
+- **!help** \<query> to search this knowledge base for information about Kagi Search. Try "!help search operators" in Kagi.
+- **!i** \<query> for Kagi Images
+- **!m** \<query> for Kagi Maps
+- **!n** \<query> for Kagi News
+- **!v** \<query> for Kagi Videos
 
 
 ### Regional bangs
@@ -28,20 +28,20 @@ You can use for example **!de [query]** or **!nl [query]** to switch your region
 
 ### AI related bangs
 
-- **!sum** <url> - Summarize page in [Universal Summarizer](../ai/summarize-page.md)
-- **!sumk** <url> -  Key moments in Universal Summarizer
-- **!discuss** <url> - Discuss Document chat
-- **!answer** <search terms> - Search & open "Quick Answer"
+- **!sum** \<url> - Summarize page in [Universal Summarizer](../ai/summarize-page.md)
+- **!sumk** \<url> -  Key moments in Universal Summarizer
+- **!discuss** \<url> - Discuss Document chat
+- **!answer** \<search terms> - Search & open "Quick Answer"
 
 
 
 ### Search on external websites
 
  
-- **!yt** <query> for [YouTube] (https://youtube.com)
-- **!r** <query> for [Reddit](https://www.reddit.com)
-- **!u** <query> for [Urban Dictionary](https://www.urbandictionary.com)
-- **!imd** <query> for the [Internet Movie Database](https://www.imdb.com/)
+- **!yt** \<query> for [YouTube] (https://youtube.com)
+- **!r** \<query> for [Reddit](https://www.reddit.com)
+- **!u** \<query> for [Urban Dictionary](https://www.urbandictionary.com)
+- **!imd** \<query> for the [Internet Movie Database](https://www.imdb.com/)
 
 And many more! (Kagi supports all [DuckDuckGo bangs](https://duckduckgo.com/bang))
 
