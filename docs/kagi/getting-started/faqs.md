@@ -26,9 +26,9 @@ We are confident that Kagi will help you amplify your search abilities, become m
 
 ## Why should I pay for search?
 
-Search has a cost. For most search engines in the world, cost of user searches are paid by advertisers and this business model is what turned the web into an [ad-infested, privacy-invading place](https://blog.kagi.com/age-pagerank-over). We attempt to change this, as a part of our mission to humanize the web. With Kagi, users pay for and own their searches.
+The [age of ads is over](https://blog.kagi.com/age-pagerank-over). With Kagi, users pay for searches and get a superior product compared to the "free", ad-supported, search engines.
 
-See our detailed article on [why pay for search](../plans/why-pay-for-search.md).
+Read our full article on [why pay for search](../plans/why-pay-for-search.md).
 
 
 ## How do I get help with Kagi?
