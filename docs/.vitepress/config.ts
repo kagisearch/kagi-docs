@@ -71,21 +71,13 @@ function sidebarKagi() {
                 { text: 'Say no to Ads', link: '/kagi/company/noads' },
                 { text: 'Product', link: '/kagi/company/products' },
                 { text: 'History', link: '/kagi/company/history' },
-                { text: 'Name', link: '/kagi/company/meaning',
-                    collapsed: true,
-                    items: [
-                        { text: 'Mascot', link: '/kagi/company/mascot' },
-                        { text: 'Logo', link: '/kagi/company/logo' },
-                    ]
-                },
+                { text: 'Name', link: '/kagi/company/meaning' },
+                { text: 'Mascot', link: '/kagi/company/mascot' },
+                { text: 'Logo', link: '/kagi/company/logo' },
                 { text: 'Assets', link: '/kagi/company/assets' },
-                { text: 'Jobs', link: '/kagi/company/hiring-kagi',
-                    collapsed: true,
-                    items: [
-                        { text: 'Work on Kagi Search', link: '/kagi/company/hiring-kagi' },
-                        { text: 'Work on Orion Browser', link: '/kagi/company/hiring-orion' },
-                    ]
-                },
+                { text: 'Jobs', link: '/kagi/company/hiring-kagi' },
+                { text: 'Work on Kagi Search', link: '/kagi/company/hiring-kagi' },
+                { text: 'Work on Orion Browser', link: '/kagi/company/hiring-orion' },
                 { text: 'Donations', link: '/kagi/company/donations' },
                 { text: 'Contact Us', link: '/kagi/company/contact' },
               ]
@@ -151,12 +143,8 @@ function sidebarKagi() {
                     { text: 'Search Operators', link: '/kagi/features/search-operators' },
                     { text: 'Bangs', link: '/kagi/features/bangs' },
                     { text: 'Sharing Results', link: '/kagi/features/share-results' },
-                    { text: 'Shopping Searches', link: '/kagi/features/shopping',
-                        collapsed: true,
-                        items: [
-                            { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
-                        ]
-                    },
+                    { text: 'Shopping Searches', link: '/kagi/features/shopping' },
+                    { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
                     { text: 'Lenses', link: '/kagi/features/lenses'},
                     { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
                     { text: 'Filtering Results', link: '/kagi/features/filtering-results' },
