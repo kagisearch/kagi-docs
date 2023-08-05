@@ -1,3 +1,4 @@
+
 # Quick Start
 
 Kagi helps you find exactly what you're looking for online. It has a few more capabilities than the search engine you're used to so let's explore how to get the most out of them.
@@ -26,11 +27,23 @@ Quick Answer (aka [Summarize Results](https://help.kagi.com/kagi/ai/summarize-re
 <br />
 <br />
 
+Example:
+
+<img src="./media/summarize_results_example.png" width="675" alt="Summarize Results Example"><br />
+<br />
+<br />
+
 ## Summarize Page
 
 Clicking the three dot icon next to a search result brings up page options. [Summarize Page](https://help.kagi.com/kagi/ai/summarize-page.html) provides a synopsis of the page.
 
 <img src="./media/summarize_page.png" width="675" alt="Summarize Page"><br />
+<br />
+<br />
+
+Example:
+
+<img src="./media/summarize_page_example.png" width="675" alt="Summarize Page Example"><br />
 <br />
 <br />
 
