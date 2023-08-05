@@ -1,4 +1,4 @@
-# Private Browser Sessions Login Token
+# Private Browser Session Link
 
 The simplest way to use Kagi in a private browser session is to install one of our [browser extensions](../getting-started/setting-default.md#browser_extension) and then add your Session Link to the extension.
 
