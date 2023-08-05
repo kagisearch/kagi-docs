@@ -32,7 +32,9 @@ Why do Kagi's search results stand out even though other search engines have acc
 
 **Kagi focuses on users, not advertisers**: This user-centric approach significantly enhances our ability to highlight high-quality search results. For instance, we effectively mitigate SEO spam by downranking websites reliant on ads or trackers. Since these spam websites predominantly monetize through ads, they become easily detectable. 
 
-Our consistent strategy of combating ads in all forms prioritizes high-quality web results. Features such as [promoting and blocking domains](https://help.kagi.com/kagi/features/website-info-personalized-results.html#viewport) and [search lenses](https://help.kagi.com/kagi/features/lenses.html) enable users to tailor their search results. 
+Our consistent strategy of combating ads in all forms prioritizes high-quality web results. 
+
+On top of that, product features such as [promoting and blocking domains](https://help.kagi.com/kagi/features/website-info-personalized-results.html#viewport) and [search lenses](https://help.kagi.com/kagi/features/lenses.html) enable users to tailor their search results. 
 
 The most promoted and blocked domains among Kagi users can be seen [here](https://kagi.com/stats).
 
