@@ -1,5 +1,5 @@
 # Summarize Page
-Summarize Page (or Universal Summarizer as it's also called) is a way to summarize any page, video og podcast (given a transcript).
+Summarize Page (or Universal Summarizer as it's also called) is a way to summarize any page, video or podcast (given a transcript).
 
 There are currently four ways to summarize a page:
 
