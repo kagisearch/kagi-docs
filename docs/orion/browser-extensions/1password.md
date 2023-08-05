@@ -22,13 +22,13 @@ To use 1Password with Orion, you need to have the 1Password app installed (build
 
 To add Orion as a whitelisted app in 1Password, first choose **1Password** > **‌Settings** > **Browser** > **Add Browser**, then select **Orion** in your Applications folder and click **Open**, you will be presented with a modal to provide Orion with access to 1Password. To continue, press **Authorize**.
 
-<img src="./media/macos_1password_whitelisting_settings_menu.png" width="500" alt="1Password Settings Menu"><br />
+<img src="./media/macos_1password_1p_whitelisting_settings_menu.png" width="500" alt="1Password Settings Menu"><br />
 
-<img src="./media/macos_1password_whitelisting_trusted_browsers.png" width="500" alt="1Password Settings - Trusted Browsers"><br />
+<img src="./media/macos_1password_1p_whitelisting_trusted_browsers.png" width="500" alt="1Password Settings - Trusted Browsers"><br />
 
-<img src="./media/macos_1password_whitelisting_open_modal.png" width="500" alt="1Password Settings - Select Orion in the Open Modal"><br />
+<img src="./media/macos_1password_1p_whitelisting_open_modal.png" width="500" alt="1Password Settings - Select Orion in the Open Modal"><br />
 
-<img src="./media/macos_1password_whitelisting_authorize_orion.png" width="500" alt="1Password Settings - Authorize Orion"><br />
+<img src="./media/macos_1password_1p_whitelisting_authorize_orion.png" width="500" alt="1Password Settings - Authorize Orion"><br />
 
 ## 1Password Global Autofill
 
