@@ -2,7 +2,7 @@
 
 You can think of Kagi as a "search client," working like an email client that connects to various indexes and sources, including ours, to find relevant results and package them into a superior, secure, and privacy-respecting search experience, all happening automatically and in a split-second for you.
 
-Our data includes anonymized API calls to traditional search indexes like Google and[Mojeek, specialised search engines like [Marginalia](https://search.marginalia.nu), and sourced of vertical information like Apple, Wikipedia, Open Meteo, and other APIs. Typically every search query on Kagi will in background call a number of different sources at the same time, all with the purpose of bringing the best possible search results to the user. 
+Our data includes anonymized API calls to traditional search indexes like Google, Mojeek and Yandex, specialised search engines like [Marginalia](https://search.marginalia.nu), and sources of vertical information like Apple, Wikipedia, Open Meteo, and other APIs. Typically every search query on Kagi will call a number of different sources at the same time, all with the purpose of bringing the best possible search results to the user. 
 
 For example, when you search for images in Kagi, we use 7 different sources of information (including non-typical sources such as Flickr and Wikipedia Commons), trying to surface the very best image results for your query. The same is also the case for Kagi's Video/News/Podcasts results. 
 
