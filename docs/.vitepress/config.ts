@@ -299,12 +299,7 @@ function sidebarOrion() {
                     { text: 'Getting help and contributing', link: '/orion/support-and-community/' },
                     { text: 'Orion is in Public Beta', link: '/orion/getting-started/public-beta' },
                     { text: 'Supported OS Versions', link: '/orion/support-and-community/os-versions' },
-                    { text: 'Product Roadmap & Feedback Forum', link: '/orion/support-and-community/roadmap-feedback-forum',
-                        collapsed: true,
-                        items: [
-                            { text: 'Reporting a bug', link: '/orion/support-and-community/bug-reporting' },
-                        ]
-                    },
+                        { text: 'Product Roadmap & Feedback Forum', link: '/orion/support-and-community/roadmap-feedback-forum' },
                     { text: 'Discord Server', link: '/orion/support-and-community/discord-server' },
                     { text: 'Email Support', link: '/orion/support-and-community/email-support' },
                     { text: 'macOS Keyboard Shortcuts', link: '/orion/support-and-community/keyboard-shortcuts' },
@@ -334,10 +329,21 @@ function sidebarOrion() {
                     { text: 'Installing Orion', link: '/orion/getting-started/installing-orion' },
                     { text: 'Importing Data From Other Browsers', link: '/orion/getting-started/importing' },
                         { text: 'Default Search Engine', link: '/orion/getting-started/search-engine' },
-                        { text: 'Troubleshooting Extension Issues', link: '/orion/support-and-community/troubleshooting-extension-issues' },
                 ]
             },
-            { text: 'Orion+', link: '/orion/orion-plus/orion-plus'},
+                {
+                    text: 'Troubleshooting Issues',
+                    collapsed: true,
+                    link: '/orion/support-and-community/troubleshooting/troubleshooting-extension-issues',
+                    items: [
+                        { text: 'Troubleshooting Extension Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-extension-issues' },
+                        { text: 'Troubleshooting Webpage Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-webpage-issues' },
+                        { text: 'Troubleshooting Syncing Data Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-syncing-data-issues' },
+                        { text: 'Troubleshooting FastMail Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-fastmail-issues' },
+                        { text: 'Reporting a bug', link: '/orion/support-and-community/troubleshooting/bug-reporting' },
+                    ]
+                },
+                { text: 'Orion+', link: '/orion/orion-plus/orion-plus' },
             {
                 text: 'Features',
                 collapsed: true,

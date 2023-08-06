@@ -23,7 +23,7 @@ RSS feed for (joint) release notes is available at:
 You can join [OrionFeedback.org](https://orionfeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address
 and to the discussion.
 
-- Please see our [Bug Reporting Guide](bug-reporting.md) for instructions on reporting issues.
+- Please see our [Bug Reporting Guide](./troubleshooting/bug-reporting.md) for instructions on reporting issues.
 - All bugs and feature requests are encouraged to be posted on the forum.
 
 ### Discord

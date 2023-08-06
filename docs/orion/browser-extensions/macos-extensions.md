@@ -61,7 +61,7 @@ In Orion, you can manage extension permissions on a per-website basis.
 
 Click the Gear icon in the toolbar to bring up website settings and look for "Extensions permissions" section. You can also manage extension permissions globally through Settings -> Websites menu (scroll down).
 
-In addition, Orion features a simple to use [Compatibility mode](../support-and-community/troubleshooting-webpage-issues.md) option, which applies 'safe' settings for the current website, including disabling all extensions.
+In addition, Orion features a simple to use [Compatibility mode](../support-and-community/troubleshooting/troubleshooting-webpage-issues.md) option, which applies 'safe' settings for the current website, including disabling all extensions.
  
  
 <a name="enable_installation"></a>
@@ -71,7 +71,7 @@ To enable installation of 3rd party extension, go to **Settings -> Advanced** an
 
 Note that the extension support is still in beta. Extension may not be fully supported yet and if you encounter problems, website issues or performance issues, you can easily uninstall it by right-clicking the extension icon and selecting 'Uninstall' or through the [manage extensions](#managing_extensions) window.
 
-If you are a developer, we have some tips for [troubleshooting extension issues](../support-and-community/troubleshooting-extension-issues.md).
+If you are a developer, we have some tips for [troubleshooting extension issues](../support-and-community/troubleshooting/troubleshooting-extension-issues.md).
 
 
 <a name="chrome_vs_firefox"></a>
@@ -99,7 +99,7 @@ The most popular extensions can be installed from [Popular extensions](#popular_
 
 Sometimes Web Extensions will not work properly. Also Web Extensions are the most likely cause of performance or resource issues in Orion. If such issues occur, the safest is to uninstall the extension causing the issue. 
 
-You can also submit a bug report to [Orion feedback forum](https://orionfeedback.org) and before that, check out our [troubleshooting web extensions guide](../support-and-community/troubleshooting-extension-issues.md) for more information.
+You can also submit a bug report to [Orion feedback forum](https://orionfeedback.org) and before that, check out our [troubleshooting web extensions guide](../support-and-community/troubleshooting/troubleshooting-extension-issues.md) for more information.
 
 <a name="supported_apis"></a>
 ## Supported WebExtensions APIs

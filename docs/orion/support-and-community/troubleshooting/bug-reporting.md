@@ -15,8 +15,7 @@ for any bug report. lease include a clear list of instructions to reproduce the 
 If we can not reproduce the problem, we are not able to fix it.
 
 **Important note**: Most likely cause of problems on web pages is Content blocking
-and Web extension. You can rule out both quickly by enabling [Compatibilty
-mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode).
+and Web extension. You can rule out both quickly by enabling [Compatibilty mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode).
 
 The second most likely cause of issues is WebKit, Orion's rendering engine.
 This is why we will ask you to check if the same problems exists in Safari
@@ -24,9 +23,9 @@ browser. If it does it is most likely caused be WebKit and this can be more
 difficult for us to fix. In this case, you are encouraged to [submit a bug
 report to WebKit](https://webkit.org/reporting-bugs/).
 
-**Important note**: You can also check if the issue is present using 
-[Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) 
-if this available and applicable to you. 
+**Important note**: You can also check if the issue is present using
+[Safari Technology Preview](https://developer.apple.com/safari/technology-preview/)
+if this available and applicable to you.
 
 2. **Expected behavior** - What did you expect will happen? Indicating how
 other browsers behave may be useful. Use a screenshot/video to make your
@@ -42,8 +41,7 @@ About menu if unsure. There is a lot of debug information available in Help
 -> Copy Debug Info to Clipboard that can be useful to us.
 
 
-2. **Image/Video**. It is always helpful to upload images/videos. Our site
-will aloow dragging and dropping files as you write.
+2. **Image/Video**. It is always helpful to upload images/videos. Our site will allow dragging and dropping files as you write.
 
 
 ## Things to Try

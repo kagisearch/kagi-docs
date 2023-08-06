@@ -6,7 +6,7 @@ We’re still working on our official documentation, but here are a few points o
 
 Orion support for Web Extensions API is still experimental. You can find a list of currently supported APIs [here](https://browser.kagi.com/WebExtensions-API-Support.html).
 
-To debug extension issues, follow the [troubleshooting guide](../support-and-community/troubleshooting-extension-issues.md).
+To debug extension issues, follow the [troubleshooting guide](../support-and-community/troubleshooting/troubleshooting-extension-issues.md).
 
 ## Orion iOS/iPadOS
 
