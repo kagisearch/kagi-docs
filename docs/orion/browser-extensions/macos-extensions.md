@@ -3,16 +3,16 @@
 
 You will find here: 
 
-- [Chrome and Firefox Extensions Support](#chrome_and_firefox)
-- [Installing Popular Extensions](#installing_extensions)
-- [Managing Extensions](#managing_extensions)
-  - [Compatibility Mode](#compatibility_mode)
-- [Enabling 3rd party extensions installation](#enable_installation)
-   - [Choosing a Chrome Extension or a Firefox Extension](#chrome_vs_firefox)
-- [Troubleshooting Extension issues](#troubleshooting)
-- [Supported WebExtensions APIs](#supported_apis)
-- [Manifest v2 vs. v3](#manifest)
-- [Safari Extensions Support](#safari)
+- [Chrome and Firefox Extensions Support](#chrome-and-firefox-extensions-support)
+- [Installing Popular Extensions](#installing-popular-extensions)
+- [Managing Extensions](#managing-extensions)
+  - [Compatibility Mode](#managing-extensions-permissions-and-compatibility-mode)
+- [Enabling 3rd party extensions installation](#enabling-3rd-party-extensions-installation)
+   - [Choosing a Chrome Extension or a Firefox Extension](#choosing-a-chrome-extension-or-a-firefox-extension)
+- [Troubleshooting Extension issues](#troubleshooting-web-extensions-issues)
+- [Supported WebExtensions APIs](#supported-webextensions-apis)
+- [Manifest v2 vs. v3](#manifest-v2-vs-v3)
+- [Safari Extensions Support](#safari-extensions-support)
 
 <a name="chrome_and_firefox"></a>
 ## Chrome and Firefox Extensions Support
