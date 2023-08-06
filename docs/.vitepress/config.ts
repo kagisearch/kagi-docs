@@ -333,8 +333,8 @@ function sidebarOrion() {
                     { text: 'Quick Start', link: '/orion/getting-started/quick-start' },
                     { text: 'Installing Orion', link: '/orion/getting-started/installing-orion' },
                     { text: 'Importing Data From Other Browsers', link: '/orion/getting-started/importing' },
-                    { text: 'Default Search Engine', link: '/orion/support-and-community/troubleshooting-webpage-issues' },
-                    { text: 'Troubleshooting Extension Issues', link: '/orion/support-and-community/troubleshooting-extension-issues' },
+                        { text: 'Default Search Engine', link: '/orion/getting-started/search-engine' },
+                        { text: 'Troubleshooting Extension Issues', link: '/orion/support-and-community/troubleshooting-extension-issues' },
                 ]
             },
             { text: 'Orion+', link: '/orion/orion-plus/orion-plus'},
