@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [No Preset Default Search Engine](#no_preset_default_search)
-- [Setting or Changing the Default Search Engine](#change_default_search)
-  - [macOS](#macos_default_search)
-  - [iOS](#ios_default_search)
-  - [iPadOS](#iPadOS_default_search)
+- [No Preset Default Search Engine](#no-preset-default-search-engine)
+- [Setting or Changing the Default Search Engine](#setting-or-changing-the-default-search-engine)
+  - [macOS](#macos)
+  - [iOS](#ios)
+  - [iPadOS](#ipados)
 
 <a name="o_preset_default_search"></a>
 ## No Preset Default Search Engine
