@@ -176,5 +176,19 @@ For feature requests and bug reports, please visit [kagifeedback.org](https://ka
 
 Check [Custom CSS](../features/custom-css.md). Also check [Kagi Discord](https://kagi.com/discord) server which has an #appearance channel where people are sharing custom CSS examples.
 
+## Does Kagi support crypto / anonymous payments ?
+
+We are having a discussion about this in our community right now.
+
+See here https://kagifeedback.org/d/493-enable-anonymous-payments-ala-bitcoinmonero/
+
+Feel free to chime in with your thoughts.
+
+## Does Kagi have any student discounts?
+
+We do not have any discounts because Kagi is not yet profitable and there is nothing to discount from. 
+
+We are working towards unlimited searches for $10 which should be available in the fall of 2023.
+
 
 
