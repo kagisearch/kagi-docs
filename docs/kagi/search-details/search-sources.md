@@ -10,7 +10,7 @@ But most importantly, we are known for our unique results, coming from our web i
 
 We do not stop there and we are always trying new things to surface relevant, high-quality results. For example, we now [crawl blog posts of HN users and developers](https://twitter.com/KagiHQ/status/1685376538852687873) and surface them in our results. Getting connected to other humans, often experts in their work areas, makes Kagi feel more humane to use than other search engines. 
 
-Finally, a modern search engine is much more than just 'links'. Other components in Kagi include:
+Finally, a modern search engine is much more than just 'links'. Other sources in Kagi include:
 - Direct Answers (Kagi AI)
 - Answer Summaries (aka. Quick Answer - Using state of the art LLMs)
 - Maps (Apple based map and Kagi Maps - Mapbox/OSM based)
@@ -27,7 +27,6 @@ Finally, a modern search engine is much more than just 'links'. Other components
 
 ### Sources are not everything, incentives matter too
 
-
 Why do Kagi's search results stand out even though other search engines have access to the same sources? The main reasons are:
 
 **Kagi focuses on users, not advertisers**: This user-centric approach significantly enhances our ability to highlight high-quality search results. For instance, we effectively mitigate SEO spam by downranking websites reliant on ads or trackers. Since these spam websites predominantly monetize through ads, they become easily detectable. 
@@ -40,7 +39,7 @@ The most promoted and blocked domains among Kagi users can be seen [here](https:
 
 **Superior default algorithmic results**: Many users find Kagi's default search results to be unparalleled in quality. This stems from our unrelenting pursuit of the finest results, regardless of the cost. We call upon multiple, diverse, information sources for each search. We know that our members care about always getting the best search results possible, and they are ready to pay for that.
 
-**Unique results from our own indexes (Teclis and TinyGem)**: Our in-house indexes help us uncover high-quality content from blogs and "small web" discussions both past and present. This specific approach lends Kagi a more human, relatable flavor, distinguishing us from other search engines. 
+**Unique results from our own indexes (Teclis and TinyGem)**: Our in-house indexes help us uncover high-quality content from blogs and "small web" discussions, typically without ads and tracking. This specific approach lends Kagi results a more human, relatable flavor, distinguishing us from other search engines. 
 
 We also offering these results as an [API](https://help.kagi.com/kagi/api/enrich.html).
 
