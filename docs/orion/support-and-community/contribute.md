@@ -17,3 +17,11 @@ and to the discussion.
 
 In addition, you can also [join our Discord!](discord-server.md) for real-time discussion about
 the product and chat with other Orion users.
+
+## Documentation
+
+You can help make our [documentation](contribute_documentation) better.
+
+## Translations
+
+You can help [translate](controbite_translations.md) Orion.
