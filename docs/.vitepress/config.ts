@@ -54,7 +54,10 @@ export default defineConfig({
         }
     },
     rewrites: {},
-    ignoreDeadLinks: true
+    ignoreDeadLinks: true,
+    sitemap: {
+        hostname: 'https://help.kagi.com'
+    }
 })
 
 function sidebarKagi() {
