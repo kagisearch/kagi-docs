@@ -8,7 +8,7 @@ results & more.
 We have the following APIs available.
 
 - [Kagi Search API](search.md) (invite only at the moment)
-- [Web and News Enrhicment API](enrhich.md) (public, exposes Kagi's own indexes Teclis and TinyGem)
+- [Web and News Enrhicment API](enrich.md) (public, exposes Kagi's own indexes Teclis and TinyGem)
 - [Universal Summarizer API](summarizer.md) (public)
 - [FastGPT API](fastgpt.md) (public)
 
