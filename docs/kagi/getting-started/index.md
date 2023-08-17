@@ -10,6 +10,8 @@ Kagi helps you find exactly what you're looking for online. It has a few more ca
 - [Summarize Page](#summarize-page)
 - [Refining Search Results](#refining-search-results)
 - [Sharing Search Results](#sharing-search-results)
+- [Set Kagi as your default search engine](#set-kagi-as-your-default-search-engine)
+- [Kagi member communities](#kagi-member-communities)
 
 ## Personalize Results
 
