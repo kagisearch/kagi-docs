@@ -18,7 +18,7 @@
     - [Desktop](#safari_desktop)
     - [iOS & iPadOS](#safari_ios_ipados)
   - [Custom Use](#custom_use)
-  - [Private Session](#private_session)
+- [**Private Session link** (use Kagi in private windows without logging in)](#private_session)
 
 
 <a name="orion"></a>
@@ -185,7 +185,7 @@ and for autosuggestions use:
 
 
 <a name="private_session"></a>
-### Private Session Link {#private_session}
+## Private Session Link {#private_session}
 
 To use Kagi Search inside a private browser session, you can use the Session Link found in your [Account Settings](https://kagi.com/settings?p=user_details).
 
