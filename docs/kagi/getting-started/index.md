@@ -66,3 +66,11 @@ You can also use [Search operators ](https://help.kagi.com/kagi/features/search-
 You can [share your search results](https://help.kagi.com/kagi/features/share-results.html) with friends who may not be Kagi subscribers by using the “Share This Search” button at the bottom of a search result page or by selecting More > Share This Search.  This will copy a link to your clipboard which you can pass on to others.
 
 <img src="./media/share_this_search.png" width="675" alt="Sharing Search Results"><br />
+
+## Set Kagi as your default search engine
+
+Learn how to set Kagi as [default search engine in your browser](./setting-default.md), including using private session link to have it work in private browser windows without logging in.
+
+## Kagi member communities
+
+Kagi has a [vivid member community](../support-and-community/roadmap_feedback.md) that shares tips, advice and suggests new features. 
