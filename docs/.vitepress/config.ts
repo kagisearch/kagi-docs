@@ -151,21 +151,16 @@ function sidebarKagi() {
                 {
                     text: 'Features',
                     collapsed: true,
-                    link: '/kagi/features/search-operators',
+                    link: '/kagi/features/website-info-personalized-results',
                     items: [
+                        { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
+                        { text: 'Lenses', link: '/kagi/features/lenses' },
                         { text: 'Search Operators', link: '/kagi/features/search-operators' },
                         { text: 'Bangs', link: '/kagi/features/bangs' },
                         { text: 'Sharing Results', link: '/kagi/features/share-results' },
-                        {
-                            text: 'Shopping Searches', link: '/kagi/features/shopping',
-                            collapsed: true,
-                            items: [
-                                { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
-                            ]
-                        },
-                        { text: 'Lenses', link: '/kagi/features/lenses' },
-                        { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
+                        { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
                         { text: 'Filtering Results', link: '/kagi/features/filtering-results' },
+                        { text: 'Shopping Searches', link: '/kagi/features/shopping'} ,  
                         { text: 'Customizing Kagi CSS', link: '/kagi/features/custom-css' },
                         { text: 'Turning Off Animations', link: '/kagi/features/turning-off-animations' },
                         { text: 'Redirects', link: '/kagi/features/redirects' },
