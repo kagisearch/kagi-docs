@@ -24,4 +24,4 @@ You can help make our [documentation](contribute_documentation) better.
 
 ## Translations
 
-You can help [translate](controbite_translations.md) Orion.
+You can help [translate](contribute_translations.md) Orion.
