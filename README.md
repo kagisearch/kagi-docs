@@ -98,7 +98,7 @@ first, and we will help guide you along!
 2. Create a branch: `git checkout -b username/my-cool-change`
 3. Follow the [Building](#building) instructions to compile the book you would
    like to change
-4. Make your changes - ensure everything looks good when compiled with mdBook!
+4. Make your changes
 5. Commit your changes: `git -am 'Update documentation'`
 6. Push the branch to your fork: `git push origin username/my-cool-change`
 7. Create a new Pull Request
