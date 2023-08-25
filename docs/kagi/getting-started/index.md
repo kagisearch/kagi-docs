@@ -15,7 +15,7 @@ Kagi helps you find exactly what you're looking for online. It has a few more ca
 
 ## Personalize Results
 
-Kagi's personalization options lets you customize your results including eliminating websites that you find low quality or distracting or boosting those that you find more useful. Clicking the shield icon to the right of a search result reveals additional information and [personalization options](https://help.kagi.com/kagi/features/website-info-personalized-results.html) for that result. From here you can raise or lower the weighting for that website including blocking websites that you'd like eliminated from your search results. You can see some of the more popular modifications on the [Kagi Personalization Leaderboard](https://kagi.com/settings?p=rule_leaderboard).
+Kagi's personalization options lets you customize your results including eliminating websites that you find low quality or distracting or boosting those that you find more useful. Clicking the shield icon to the right of a search result reveals additional information and [personalization options](https://help.kagi.com/kagi/features/website-info-personalized-results.html) for that result. From here you can raise or lower the weighting for that website including blocking websites that you'd like eliminated from your search results. You can see some of the more popular modifications on the [Kagi Personalization Leaderboard](https://kagi.com/stats?stat=leaderboard).
 
 <img src="./media/personalize_results.png" width="675" alt="Personalize Results"><br />
 <br />
