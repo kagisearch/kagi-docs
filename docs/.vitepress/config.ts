@@ -121,6 +121,7 @@ function sidebarKagi() {
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
                     ]
                 },
+                { text: 'Frequently Asked Questions', link: '/kagi/company/faqs' },
                 {
                     text: 'Contribute',
                     collapsed: true,
@@ -139,10 +140,7 @@ function sidebarKagi() {
             items: [
                 { text: 'Why Pay for Search', link: '/kagi/why-kagi/why-pay-for-search' },
                 { text: 'Say no to Ads', link: '/kagi/why-kagi/noads' },
-                { text: 'Kagi Comparison', link: '/kagi/why-kagi/kagi-vs-competition'},
-                { text: 'Kagi vs. Google', link: '/kagi/why-kagi/kagi-vs-google' },
-                { text: 'Kagi vs. DuckDuckGo', link: '/kagi/why-kagi/kagi-vs-duckduckgo' },
-                { text: 'Kagi vs. Brave Search', link: '/kagi/why-kagi/kagi-vs-brave' },                
+                { text: 'Kagi vs. Others', link: '/kagi/why-kagi/kagi-vs-competition'},           
                 {
                     text: 'Privacy & Security', link: '/kagi/privacy/privacy-protection',
                     collapsed: true,
@@ -173,7 +171,6 @@ function sidebarKagi() {
                     collapsed: true,
                     items: [
                         { text: 'Quick Start', link: '/kagi/getting-started/' },
-                        { text: 'Frequently Asked Questions', link: '/kagi/getting-started/faqs' },
                         { text: 'Set Kagi as Your Default Search Engine', link: '/kagi/getting-started/setting-default' },
                         { text: 'Application Integrations', link: '/kagi/getting-started/application-integrations' },
                     ]
