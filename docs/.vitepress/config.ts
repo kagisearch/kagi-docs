@@ -71,7 +71,6 @@ function sidebarKagi() {
                     link: '/kagi/company/',
                     items: [
                         { text: 'About', link: '/kagi/company/' },
-                        { text: 'Say no to Ads', link: '/kagi/company/noads' },
                         { text: 'Product', link: '/kagi/company/products' },
                         { text: 'History', link: '/kagi/company/history' },
                         {
@@ -96,6 +95,19 @@ function sidebarKagi() {
                     ]
                 },
                 {
+                    text: 'Plans & Payment',
+                    link: '/kagi/plans/plan-types',
+                    collapsed: true,
+                    items: [
+                        { text: 'Plan Types', link: '/kagi/plans/plan-types' },
+                        { text: 'Pick The Plan', link: '/kagi/plans/pick-the-plan' },
+                        { text: 'Premium Plans', link: '/kagi/plans/premium-plan' },
+                        { text: 'Ultimate Plan', link: '/kagi/plans/ultimate-plan' },
+                        { text: 'Family Plan', link: '/kagi/plans/family-plan' },
+                        { text: 'Gift Kagi', link: '/kagi/plans/gift-kagi' },
+                    ]
+                },
+                {
                     text: 'Support and Community',
                     collapsed: true,
                     link: '/kagi/support-and-community/',
@@ -109,6 +121,7 @@ function sidebarKagi() {
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
                     ]
                 },
+                { text: 'Frequently Asked Questions', link: '/kagi/company/faqs' },
                 {
                     text: 'Contribute',
                     collapsed: true,
@@ -116,9 +129,38 @@ function sidebarKagi() {
                     items: [
                         { text: 'Translations', link: '/kagi/support-and-community/contribute_translations' },
                         { text: 'Open Source', link: '/kagi/support-and-community/open-source' },
+                        { text: 'Contributors', link: '/kagi/support-and-community/contributors' },
+                        { text: 'Kudos', link: '/kagi/support-and-community/kudos' },
                     ]
                 }
             ]
+        },
+        {
+            text: 'Why Kagi',
+            items: [
+                { text: 'Why Pay for Search', link: '/kagi/why-kagi/why-pay-for-search' },
+                { text: 'Say no to Ads', link: '/kagi/why-kagi/noads' },
+                { text: 'Kagi vs. Others', link: '/kagi/why-kagi/kagi-vs-competition'},           
+                {
+                    text: 'Privacy & Security', link: '/kagi/privacy/privacy-protection',
+                    collapsed: true,
+                    items: [
+                        { text: 'Privacy Protection', link: '/kagi/privacy/privacy-protection' },
+                        { text: 'Private Browser Sessions', link: '/kagi/privacy/private-browser-sessions' },
+                        { text: 'Security', link: '/kagi/privacy/security' },
+                    ]
+                },
+                {
+                    text: 'Results', link: '/kagi/search-details/search-sources',
+                    collapsed: true,
+                    items: [
+                        { text: 'Sources', link: '/kagi/search-details/search-sources' },
+                        { text: 'Quality', link: '/kagi/search-details/search-quality' },
+                        { text: 'Speed', link: '/kagi/search-details/search-speed' },
+                    ]
+                },
+            ]
+
         },
         {
             text: 'User Guide',
@@ -129,27 +171,12 @@ function sidebarKagi() {
                     collapsed: true,
                     items: [
                         { text: 'Quick Start', link: '/kagi/getting-started/' },
-                        { text: 'Frequently Asked Questions', link: '/kagi/getting-started/faqs' },
                         { text: 'Set Kagi as Your Default Search Engine', link: '/kagi/getting-started/setting-default' },
                         { text: 'Application Integrations', link: '/kagi/getting-started/application-integrations' },
                     ]
                 },
                 {
-                    text: 'Plans & Payment',
-                    link: '/kagi/plans/plan-types',
-                    collapsed: true,
-                    items: [
-                        { text: 'Plan Types', link: '/kagi/plans/plan-types' },
-                        { text: 'Why Pay for Search', link: '/kagi/plans/why-pay-for-search' },
-                        { text: 'Pick The Plan', link: '/kagi/plans/pick-the-plan' },
-                        { text: 'Premium Plans', link: '/kagi/plans/premium-plan' },
-                        { text: 'Ultimate Plan', link: '/kagi/plans/ultimate-plan' },
-                        { text: 'Family Plan', link: '/kagi/plans/family-plan' },
-                        { text: 'Gift Kagi', link: '/kagi/plans/gift-kagi' },
-                    ]
-                },
-                {
-                    text: 'Features',
+                    text: 'Search Features',
                     collapsed: true,
                     link: '/kagi/features/website-info-personalized-results',
                     items: [
@@ -169,31 +196,13 @@ function sidebarKagi() {
                     ]
                 },
                 {
-                    text: 'AI', link: '/kagi/ai/kagi-ai',
+                    text: 'AI Features', link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
                         { text: 'Summarize Results', link: '/kagi/ai/summarize-results' },
                         { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
                         { text: 'Discuss', link: '/kagi/ai/ask-questions' },
                         { text: 'AI Usage Pricing', link: '/kagi/ai/ai-usage-pricing' },
-                    ]
-                },
-                {
-                    text: 'Results', link: '/kagi/search-details/search-sources',
-                    collapsed: true,
-                    items: [
-                        { text: 'Sources', link: '/kagi/search-details/search-sources' },
-                        { text: 'Quality', link: '/kagi/search-details/search-quality' },
-                        { text: 'Speed', link: '/kagi/search-details/search-speed' },
-                    ]
-                },
-                {
-                    text: 'Privacy & Security', link: '/kagi/privacy/privacy-protection',
-                    collapsed: true,
-                    items: [
-                        { text: 'Privacy Protection', link: '/kagi/privacy/privacy-protection' },
-                        { text: 'Private Browser Sessions', link: '/kagi/privacy/private-browser-sessions' },
-                        { text: 'Security', link: '/kagi/privacy/security' },
                     ]
                 },
                 {
@@ -213,16 +222,7 @@ function sidebarKagi() {
                         { text: 'Delete Your Account', link: '/kagi/plans/delete-account' },
                     ]
                 },
-                {
-                    text: 'Compare Kagi', link: '/kagi/why-kagi/kagi-vs-competition',
-                    collapsed: true,
-                    items: [
-                        { text: 'Kagi vs. Google', link: '/kagi/why-kagi/kagi-vs-google' },
-                        { text: 'Kagi vs. DuckDuckGo', link: '/kagi/why-kagi/kagi-vs-duckduckgo' },
-                        { text: 'Kagi vs. Brave Search', link: '/kagi/why-kagi/kagi-vs-brave' },
-                    ]
 
-                },
                 {
                     text: 'Community Addons', link: '/kagi/community-addons/',
                 }
@@ -253,13 +253,6 @@ function sidebarKagi() {
                     ]
                 }
 
-            ]
-        },
-        {
-            text: 'Credit',
-            items: [
-                { text: 'Contributors', link: '/kagi/misc/contributors' },
-                { text: 'Kudos', link: '/kagi/misc/kudos' },
             ]
         }
     ]
