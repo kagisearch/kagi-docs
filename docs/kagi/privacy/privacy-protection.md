@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Private Browser Session Link'
+  link: '/kagi/privacy/private-browser-sessions'
+---
+
 # Privacy Protection
 
 "Free" search engines have two ways to make money—get more users or sell more ads per user. The easiest, fastest way is to mine more data to sell ads more effectively. Many search-engine companies have buckled under investor pressure, leading us to the online privacy issues we have today.
