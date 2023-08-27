@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Orion vs. Chrome, Firefox, & Others'
+  link: '/orion/why-orion/kagi-vs-others'
+---
+
 # Orion vs. Safari
 
 Safari is truly one of the best browsers you can use on macOS, and we’re grateful to Apple for creating such a solid foundation. By basing Orion on Safari’s tech stack, then adding productivity enhancements such as built-in ad-blocking, Orion can provide users with exactly what they need.
