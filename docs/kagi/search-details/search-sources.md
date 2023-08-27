@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Search Quality'
+  link: '/kagi/search-details/search-quality'
+---
+
 # Search Sources
 
 You can think of Kagi as a "search client," working like an email client that connects to various indexes and sources, including ours, to find relevant results and package them into a superior, secure, and privacy-respecting search experience, all happening automatically and in a split-second for you.
