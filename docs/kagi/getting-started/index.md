@@ -1,3 +1,8 @@
+---
+next:
+  text: 'Setting Kagi as Your Default Search Engine'
+  link: '/kagi/getting-started/setting-default'
+---
 
 # Quick Start
 

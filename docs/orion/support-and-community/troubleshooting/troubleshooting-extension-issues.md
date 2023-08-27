@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Troubleshooting Webpage Issues'
+  link: '/orion/support-and-community/troubleshooting/troubleshooting-webpage-issues'
+---
+
 # Troubleshooting Extension Issues
 
 Orion supports both Chrome and Firefox extensions natively. Note that this support is still experimental

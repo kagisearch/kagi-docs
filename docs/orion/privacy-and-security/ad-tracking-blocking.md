@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Respecting Privacy'
+  link: '/orion/privacy-and-security/respecting-privacy'
+---
+
 # Configure Ad & Tracking Blocking
 
 ## Table of Contents

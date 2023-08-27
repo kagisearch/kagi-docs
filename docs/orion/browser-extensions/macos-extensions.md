@@ -1,3 +1,9 @@
+---
+next:
+  text: 'uBlock Origin on macOS'
+  link: '/orion/browser-extensions/ublock-origin'
+---
+
 # Orion macOS Web Extensions Support
 
 

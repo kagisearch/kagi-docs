@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Lenses'
+  link: '/kagi/features/lenses'
+---
+
 # Website Info & Personalized Results
 
 To the right of each Kagi search result is a shield icon. Hovering over the icon or tapping it will access additional features related to the webpage for that result.

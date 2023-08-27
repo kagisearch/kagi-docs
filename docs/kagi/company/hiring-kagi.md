@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Work on Orion Browser'
+  link: '/kagi/company/hiring-orion'
+---
+
 # Work on Kagi Search
 
 - Do you have advanced Crystal language knowledge?

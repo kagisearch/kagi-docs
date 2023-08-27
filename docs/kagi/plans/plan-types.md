@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Pick The Right Plan'
+  link: '/kagi/plans/pick-the-plan'
+---
+
 # Plan Types
 
 Kagi offers several individual subscriptions plans.
