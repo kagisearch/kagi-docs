@@ -1,7 +1,7 @@
 ---
 next:
-	text: 'Products'
-	link: '/kagi/company/products'
+  text: 'Products'
+  link: '/kagi/company/products'
 ---
 
 # About
