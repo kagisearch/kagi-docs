@@ -1,3 +1,9 @@
+---
+next:
+  text: 'API Versions'
+  link: '/kagi/api/intro/api-version'
+---
+
 # Overview
 
 The search API provides programmatic access to data that powers our search
