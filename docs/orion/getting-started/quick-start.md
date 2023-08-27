@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Installing Orion'
+  link: '/orion/getting-started/installing-orion'
+---
+
 # Quick Start
 
 ## Table of Contents
