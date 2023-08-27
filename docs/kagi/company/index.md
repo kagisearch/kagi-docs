@@ -1,3 +1,9 @@
+---
+next:
+	text: 'Products'
+	link: '/kagi/company/products'
+---
+
 # About
 
 Kagi Inc. is a company created with the mission to humanize the web. Our goal is to amplify the web of human knowledge, creativity, and self-expression.
