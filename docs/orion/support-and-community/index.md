@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Orion is in Public Beta'
+  link: '/orion/getting-started/public-beta'
+---
+
 # Support & Community
 
 Get assistance, help shape the future of Orion and maybe even [contribute!](./contribute.md)
