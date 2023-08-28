@@ -113,7 +113,6 @@ function sidebarKagi() {
                     link: '/kagi/support-and-community/',
                     items: [
                         { text: 'Roadmap & Feedback Forum', link: '/kagi/support-and-community/roadmap_feedback' },
-                        { text: 'Public Beta', link: '/kagi/getting-started/public-beta' },
                         { text: 'Reporting a Bug', link: '/kagi/support-and-community/bug-reporting' },
                         { text: 'Email Support', link: '/kagi/support-and-community/email-support' },
                         { text: 'Discord Server', link: '/kagi/support-and-community/discord-server' },
