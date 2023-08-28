@@ -1,4 +1,4 @@
-# Resources & Brand Assets
+# Kagi Search and Orion Press Kits
 
 You can go to the [Kagi Press Kit](https://kagi.com/assets) webpage to access our resources and brand assets.
 

@@ -73,7 +73,7 @@ function sidebarKagi() {
                         { text: 'About', link: '/kagi/company/' },
                         { text: 'Products', link: '/kagi/company/products' },
                         { text: 'History', link: '/kagi/company/history' },
-                         { text: 'Assets', link: '/kagi/company/assets' },
+                         { text: 'Press Kit', link: '/kagi/company/assets' },
                         {
                             text: 'Jobs', link: '/kagi/company/hiring-kagi',
                             collapsed: true,
