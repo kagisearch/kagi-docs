@@ -28,3 +28,32 @@ We hope that our work impacts people's lives in some small way for the better. T
 > "With Kagi and Orion, we’re striving to build better ways to experience the web, ways that are safe yet fun for everyone, including my own kids."
 >
 > —Vladimir Prelovac
+
+## What Does "Kagi" Mean?
+
+The word "kagi" means "key" in Japanese.
+
+Kagi is pronounced as kah-gee. You can [listen to the pronunciation](https://www.youtube.com/watch?v=ig4VTr0rt4Q).
+
+## Kagi Search Logo
+
+<img src="./media/kagi-logo.png" width="100" alt="Kagi Logo">
+
+More Kagi assets are available on the [Kagi Assets](https://kagi.com/assets) page.
+
+People sometimes ask why does Kagi have a "g" logo in the Google ballpark rather than a "k"?
+
+Our designer insisted the Kagi logo is "anchored" in the letter "g," and we had to agree. Besides, we can't let Google own the letter "g" too, can we? ;)
+
+## Orion Browser Logo
+
+<img src="./media/orion-logo.png" width="100" alt="Orion Logo">
+
+More Orion assets are available on the [Orion Press Kit](https://browser.kagi.com/press-kit/) page.
+
+
+## Who is Kagi's Mascot?
+
+We simply call him ”Doggo” for now. He's adorable!
+
+<img src="./media/doggo_1.png" width="350" alt="Doggo Kagi Mascot">
