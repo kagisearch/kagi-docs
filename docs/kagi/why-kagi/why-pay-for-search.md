@@ -1,6 +1,6 @@
 # Why Pay for Search
 
-We'll let Google explain this (click to enlarge). This is the actual output from Google Bard AI tool (and it gets [better](https://twitter.com/MIBElashri/status/1640947867949973504)).
+We'll let Google explain this (click to enlarge). This is the actual output from Google Bard AI tool.
 
 [![Google ad for Kagi](media/ad.png)](https://help.kagi.com/assets/ad.554fa2a5.png)
 
