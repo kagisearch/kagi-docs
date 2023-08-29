@@ -404,7 +404,6 @@ function sidebarOrion() {
 
                 { text: 'Frequently Asked Questions', link: '/orion/faq/faq' },
                 { text: 'Web Extensions API support', link: '/orion/misc/webextensionsapi' },
-                { text: 'Technical Information', link: '/orion/misc/technical' },
                 { text: 'Live stats', link: '/orion/misc/stats' },
             ]
         },
