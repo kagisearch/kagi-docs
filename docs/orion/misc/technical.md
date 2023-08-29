@@ -12,15 +12,17 @@ Our goal is to eventually support 100% of APIs on Desktop and all APIs that are 
 
 To debug extension issues, follow the [troubleshooting guide](../support-and-community/troubleshooting/troubleshooting-extension-issues.md).
 
-## Orion iOS/iPadOS
+## Orion iOS/iPadOS technical information
 
-How do I open Orion iOS from my app?
+How do I add support for opening Orion from my app?
+
 ```
 orion://open-url?url=url to open an URL
 orion://search?q=query to perform search
 ```
 
-## Orion macOS
+## Orion macOS technical information
+
 
 Location of Open Tabs
 ```
