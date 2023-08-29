@@ -314,6 +314,17 @@ function sidebarOrion() {
         {
             text: 'User Guide',
             items: [
+                 {
+                    text: 'Why Orion?',
+                    collapsed: true,
+                    link: '/orion/why-orion/orion-vs-safari',
+                    items: [
+                        { text: 'Orion vs. Safari', link: '/orion/why-orion/orion-vs-safari' },
+                        { text: 'Orion vs. Chrome, Firefox, & Others', link: '/orion/why-orion/kagi-vs-others' },
+                        { text: 'Speed', link: '/orion/why-orion/orion-speed' },
+                        { text: 'Memory Usage', link: '/orion/why-orion/memory-usage' },
+                    ]
+                },
                 {
                     text: 'Getting Started',
                     collapsed: true,
@@ -389,19 +400,10 @@ function sidebarOrion() {
                         { text: 'Preventing Fingerprinting', link: '/orion/privacy-and-security/preventing-fingerprinting' },
                     ]
                 },
-                {
-                    text: 'Why Orion?',
-                    collapsed: true,
-                    link: '/orion/why-orion/orion-vs-safari',
-                    items: [
-                        { text: 'Orion vs. Safari', link: '/orion/why-orion/orion-vs-safari' },
-                        { text: 'Orion vs. Chrome, Firefox, & Others', link: '/orion/why-orion/kagi-vs-others' },
-                        { text: 'Speed', link: '/orion/why-orion/orion-speed' },
-                        { text: 'Memory Usage', link: '/orion/why-orion/memory-usage' },
-                    ]
-                },
+               
 
                 { text: 'Frequently Asked Questions', link: '/orion/faq/faq' },
+                { text: 'Web Extensions API support', link: '/orion/misc/webextensionsapi' },
                 { text: 'Technical Information', link: '/orion/misc/technical' },
                 { text: 'Live stats', link: '/orion/misc/stats' },
             ]
