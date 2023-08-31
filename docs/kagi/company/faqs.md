@@ -41,7 +41,7 @@ Beyond using this knowledge base, you have several options:
 
 ## How do I set Kagi as my default search engine?
 
-You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](setting-default.md) for details.
+You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](../getting-started/setting-default.md) for details.
 
 <a name="using-login-token"></a>
 ## Can I use Kagi in private browser sessions? {#using-login-token}
@@ -50,7 +50,7 @@ Yes, Kagi features a 'login token' which is simply a URL parameter that you can 
 
 This token is attached to the session it was copied from. You can log out of that session if you need to invalidate it for any reason.
 
-You can use private session token manually, or through [Kagi browser extensions](setting-default.md).
+You can use private session token manually, or through [Kagi browser extensions](../getting-started/setting-default.md).
 
 ## Why does Kagi Search require an account?
 
