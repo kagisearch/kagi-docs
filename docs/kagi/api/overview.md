@@ -29,6 +29,7 @@ Quick start for all APIs:
 Libraries created by Kagi users and third parties.
 
 - [kagigo for Go - FastGPT & Universal Summarizer](https://github.com/httpjamesm/kagigo)
+- [kagi-api](https://crates.io/crates/kagi-api) for Rust
 
 ## Beta Status
 
