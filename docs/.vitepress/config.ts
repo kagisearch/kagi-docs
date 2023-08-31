@@ -71,17 +71,9 @@ function sidebarKagi() {
                     link: '/kagi/company/',
                     items: [
                         { text: 'About', link: '/kagi/company/' },
-                        { text: 'Product', link: '/kagi/company/products' },
+                        { text: 'Products', link: '/kagi/company/products' },
                         { text: 'History', link: '/kagi/company/history' },
-                        {
-                            text: 'Name', link: '/kagi/company/meaning',
-                            collapsed: true,
-                            items: [
-                                { text: 'Mascot', link: '/kagi/company/mascot' },
-                                { text: 'Logo', link: '/kagi/company/logo' },
-                            ]
-                        },
-                        { text: 'Assets', link: '/kagi/company/assets' },
+                         { text: 'Assets', link: '/kagi/company/assets' },
                         {
                             text: 'Jobs', link: '/kagi/company/hiring-kagi',
                             collapsed: true,
@@ -90,7 +82,7 @@ function sidebarKagi() {
                                 { text: 'Work on Orion Browser', link: '/kagi/company/hiring-orion' },
                             ]
                         },
-                        { text: 'Donations', link: '/kagi/company/donations' },
+                        { text: 'Open Source Support', link: '/kagi/company/donations' },
                         { text: 'Contact Us', link: '/kagi/company/contact' },
                     ]
                 },
@@ -112,11 +104,8 @@ function sidebarKagi() {
                     collapsed: true,
                     link: '/kagi/support-and-community/',
                     items: [
-                        { text: 'Roadmap & Feedback Forum', link: '/kagi/support-and-community/roadmap_feedback' },
+                        { text: 'Get Connected', link: '/kagi/support-and-community/roadmap_feedback' },
                         { text: 'Reporting a Bug', link: '/kagi/support-and-community/bug-reporting' },
-                        { text: 'Email Support', link: '/kagi/support-and-community/email-support' },
-                        { text: 'Discord Server', link: '/kagi/support-and-community/discord-server' },
-                        { text: 'Blog', link: '/kagi/support-and-community/blog' },
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
                     ]
                 },
