@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Viewing Search Operators](#viewing-search-operators)
-- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Keyboard Shortcuts](#keyboard_shortcuts)
 - [Search Operators](#search-operators-1)
 - [Query Shortcuts & Widgets](#query-shortcuts-widgets)
 
@@ -14,8 +14,8 @@ If you press **?** on your keyboard (**shift + /**) while in search results, Kag
 
 <img src="./media/search_operators.jpeg" width="675" alt="Search Operators">
 
-<a name="keyboard-shortcuts"></a>
-## Keyboard Shortcuts {#keyboard-shortcuts}
+<a name="keyboard_shortcuts"></a>
+## Keyboard Shortcuts {#keyboard_shortcuts}
 
 **?** — Toggle open/close the keyboard shortcut help screen
 

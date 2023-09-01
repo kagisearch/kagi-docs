@@ -24,7 +24,7 @@ Once complete you will see the individual page summary appear below the result.
 
 ![Summarized Page](media/summarized_page.png)
 
-After reading the summary you can even choose to proceed to [Discuss this document](./ai/discuss.md).
+After reading the summary you can even choose to proceed to [Discuss this document](./ask-questions.md).
 
 ## Via bang
 

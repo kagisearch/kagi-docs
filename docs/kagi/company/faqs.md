@@ -28,7 +28,7 @@ We are confident that Kagi will help you amplify your search abilities, become m
 
 The [age of ads is over](https://blog.kagi.com/age-pagerank-over). With Kagi, users pay for searches and get a superior product compared to the "free", ad-supported, search engines.
 
-Read our full article on [why pay for search](../plans/why-pay-for-search.md).
+Read our full article on [why pay for search](../why-kagi/why-pay.md).
 
 
 ## How do I get help with Kagi?
