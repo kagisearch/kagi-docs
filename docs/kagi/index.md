@@ -1,6 +1,6 @@
 # Welcome to Kagi Search Help!
 
-Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](./getting-started/index.md) and [FAQs](./getting-started/faqs.md) are great places to begin. If you can’t find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at **support@kagi.com**.
+Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](./getting-started/index.md) and [FAQs](./company/faqs.md) are great places to begin. If you can’t find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at **support@kagi.com**.
 
 To send a bug report or a feature suggestion, you can use [KagiFeedback.org](https://kagifeedback.org).
 
@@ -27,4 +27,4 @@ This documentation is open source at our [Kagi Docs](https://github.com/kagisear
 We gladly welcome any fixes & improvements! Please see our [contribution guide](https://github.com/kagisearch/kagi-docs#contributing)
 before making a Pull Request.
 
-Once your contributions are accepted, make sure to add yourself to the list of [Contributors](./misc/contributors.md). Thank you!
+Once your contributions are accepted, make sure to add yourself to the list of [Contributors](./support-and-community/contributors.md). Thank you!
