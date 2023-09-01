@@ -22,7 +22,7 @@ Here's what that looks like disabled:
 
 - **Fewer Results per Page** — Choose whether to break search results into smaller pages.
 - **Result Snippet Length** — Influence how snippets are chosen from our indexes, whether to prefer short and punctual snippets, or longer detailed ones.
-- **Search Bangs** — Choose whether to allow the use of [search bangs](bangs.md). For example, [!r merge lane etiquette](https://kagi.com/search?q=!r%20merge%20lane%20etiquette) will search Reddit for you.
+- **Search Bangs** — Choose whether to allow the use of [search bangs](../features/bangs.md). For example, [!r merge lane etiquette](https://kagi.com/search?q=!r%20merge%20lane%20etiquette) will search Reddit for you.
   - **Allowed Quick Bangs** — Choose whether to use up to 20 bangs without the '!' character. For example, 'r' followed by a 'space' would activate a search on Reddit.
 
 ![Search Settings 2](media/search_settings_2.png)
