@@ -10,4 +10,4 @@ Remember it is a marathon and not a sprint, steady translation progress helps us
 
 As a token of appreciation for helping us make Kagi more international we will be awarding Kagi Premium to select contributors.
 
-We would like to say a big [thank you](../misc/kudos.md) to everyone who has contributed so far!
+We would like to say a big [thank you](./kudos.md) to everyone who has contributed so far!
