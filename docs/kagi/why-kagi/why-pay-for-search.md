@@ -38,4 +38,4 @@ In 2022 Google generated USD $224.47 Billion dollars from advertisement revenue 
 
 ## Learn how to Pick a Plan
 
-We make it easy to pick the plan that is right for you, take a look at our [Plan Types](./plans/plan-types.md) and review our [Pick The Right Plan](./plans/pick-the-plan.md).
+We make it easy to pick the plan that is right for you, take a look at our [Plan Types](../plans/plan-types.md) and review our [Pick The Right Plan](../plans/pick-the-plan.md).
