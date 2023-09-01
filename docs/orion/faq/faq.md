@@ -204,6 +204,8 @@ Yes! Modern browsers have so many untapped opportunities for innovation that we 
 - Low Power Mode extends your battery life by reducing Orion's power consumption up to 90%.
 - Orion also features native vertical/tree-style tabs, if you prefer this alignment.
 
+Read more about [Orion features](https://blog.kagi.com/orion-features).
+
 <a name="featuresupport"></a>
 ## Will Orion have feature xyz? {#featuresupport}
 In short, the answer to this (and other similar questions) is:
