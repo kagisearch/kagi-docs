@@ -43,7 +43,9 @@ On top of that, product features such as [promoting and blocking domains](https:
 
 The most promoted and blocked domains among Kagi users can be seen [here](https://kagi.com/stats).
 
-**Superior default algorithmic results**: Many users find Kagi's default search results to be unparalleled in quality. This stems from our unrelenting pursuit of the finest results, regardless of the cost. We call upon multiple, diverse, information sources for each search. We know that our members care about always getting the best search results possible, and they are ready to pay for that.
+**Superior default algorithmic results**: Many users find Kagi's default search results to be unparalleled in quality. This stems from our unrelenting pursuit of the finest results, from all available sources, regardless of the cost. We call upon multiple, diverse, information sources for each search. We know that our members care about always getting the best search results possible, and they are ready to pay for that. 
+
+If you can not find something on Kagi, you likely can not find it anywhere.
 
 **Unique results from our own indexes (Teclis and TinyGem)**: Our in-house indexes help us uncover high-quality content from blogs and "small web" discussions, typically without ads and tracking. This specific approach lends Kagi results a more human, relatable flavor, distinguishing us from other search engines. 
 
