@@ -188,7 +188,7 @@ Feel free to chime in with your thoughts.
 
 We do not have any discounts because Kagi is not yet profitable and there is nothing to discount from. 
 
-We are working towards unlimited searches for $10 which should be available in the fall of 2023.
+We do offer unlimited searches for $25 per month.
 
 
 
