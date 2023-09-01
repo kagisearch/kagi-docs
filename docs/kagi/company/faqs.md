@@ -127,7 +127,7 @@ We are very careful not to introduce a precedent with any type of non search qua
 
 Some results from traditional sources we use may reflect inherent biases beyond our control.
 
-What we maintain is a strict search-quality bias. We downrank web pages that contain ads and trackers, as this has emperically proven to improve search result quality for our members. 
+What we maintain is a strict search-quality bias. We downrank web pages that contain ads and trackers, as this has empirically proven to improve search result quality for our members. 
 
 We also empower our members with powerful tools like [domain preferences](../features/website-info-personalized-results.md) and [lenses](../features/lenses.md) to help them shape their search results in any way they prefer.
 
