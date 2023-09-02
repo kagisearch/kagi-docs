@@ -19,7 +19,7 @@ HTML version of release notes is available for Orion macOS at:
 [browser.kagi.com/updates/orion-release-notes.html](https://browser.kagi.com/updates/orion-release-notes.html)
 
 For Orion iOS/iPadOS at:
-[browser.kagi.com/updates/orion-iOS-release-notes.html](https://browser.kagi.com/updates/orion-iOSrelease-notes.html)
+[browser.kagi.com/updates/orion-iOS-release-notes.html](https://browser.kagi.com/updates/orion-iOS-release-notes.html)
 
 RSS feed for (joint) release notes is available at:
 [orionfeedback.org/atom/t/release-notes](https://orionfeedback.org/atom/t/release-notes)

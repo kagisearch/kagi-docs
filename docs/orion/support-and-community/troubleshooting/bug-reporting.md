@@ -62,5 +62,4 @@ If you can, please censor the images. Otherwise, you can leave them out. If we n
 
 ### I just have a question or want to chat with other Orion users!
 
-If you are just looking to chat or need some help, you are welcome to join our [Discord
-server](./discord-server.md)).
+If you are just looking to chat or need some help, you are welcome to join our [Discord server](../discord-server.md).
