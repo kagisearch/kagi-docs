@@ -8,7 +8,7 @@ Orion for macOS can import data from several web browsers and source files:
 - Bookmarks HTML File
 - Passwords CSV File
 
-Orion for iOS and iPadOS cannot import data. But, it can [sync data](./features/syncing-data.md) with Orion for macOS. So, you can do your data importing using Orion on a Mac and then sync your imported data to Orion on a iPhone or iPad.
+Orion for iOS and iPadOS cannot import data. But, it can [sync data](../features/syncing-data.md) with Orion for macOS. So, you can do your data importing using Orion on a Mac and then sync your imported data to Orion on a iPhone or iPad.
 
 <a name="import_macos"></a>
 ## Importing Data on macOS

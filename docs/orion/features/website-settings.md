@@ -21,7 +21,7 @@ You can click the gear icon at the top of an Orion window to access the Website 
 
 You can control a number of settings related to the current website:
 
-- Enable or disable [Compatibility Mode](../macos-features/compatibility-mode.md)
+- Enable or disable [Compatibility Mode](../troubleshooting/troubleshooting-webpage-issues.md#orion-compatibility-mode)
 - Enable or disable [Content Blockers](../privacy-and-security/protecting-privacy.md)
 - Block or unblock [Web Fonts](https://www.howtogeek.com/730585/what-is-a-web-font/)
 - Enable or disable [Cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
