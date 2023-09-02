@@ -10,7 +10,7 @@ You can access our documentation in several ways:
 
 - Click or tap an article link from the list.
 - Click or tap the magnifying glass icon at the top of the screen and do a search.
-- Use the **!orion** [bang](../../kagi/features/bangs.md) in [Kagi Search](https://kagi.com). For example, searching in Kagi for [!orion setting default search engine](https://kagi.com/search?q=!orion%20setting%20default%20search%20engine) will show you results containing our documentation on how to set Orion's default search engine.
+- Use the **!orion** [bang](../kagi/features/bangs.md) in [Kagi Search](https://kagi.com). For example, searching in Kagi for [!orion setting default search engine](https://kagi.com/search?q=!orion%20setting%20default%20search%20engine) will show you results containing our documentation on how to set Orion's default search engine.
  
 Feedback about this Orion documentation can be shared on our [Discord Server](https://discord.com/invite/gKh5E6ys6D) in the **\#documentation** channel. We would love to hear your thoughts on anything we can fix or improve.
 
