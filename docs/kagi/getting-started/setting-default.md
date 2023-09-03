@@ -17,6 +17,9 @@
   - [Safari](#safari)
     - [Desktop](#safari_desktop)
     - [iOS & iPadOS](#safari_ios_ipados)
+  - [Firefox Focus](#firefox_focus)
+    - [Android Mobile](#firefox_focus_android_mobile)
+    - [iOS](#firefox_focus_ios)
   - [Custom Use](#custom_use)
 - [**Private Session link** (use Kagi in private windows without logging in)](#private_session)
 
@@ -140,11 +143,10 @@ To set up a private session link in Firefox, use [this extension](https://addons
     - Tap the confirmation button in the top right corner of the screen.
 
 
-
 <a name="firefox_ios"></a>
 #### iOS {#firefox_ios}
 
-1. Tap the menu button, then **Settings** → **Search** → **Add Search Engine**.
+1. Tap the menu button, then **Settings** > **Search** > **Add Search Engine**.
 1. Enter the following:
     - **Title**: `Kagi`
     - **URL**: `https://kagi.com/search?q=%s`
@@ -160,7 +162,7 @@ To set up a private session link in Firefox, use [this extension](https://addons
 #### Desktop {#safari_desktop}
 
 1. Install the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1622835804).
-2. Activate the extension in **Safari -> Preferences -> Extensions**.
+2. Activate the extension in **Safari** > **Preferences** > **Extensions**.
 3. Enjoy Kagi search from your Safari address bar!
 
 If you are a macOS, iOS, or iPadOS user, we strongly recommend using Kagi with the free [Orion](https://browser.kagi.com/) web browser, produced by the same team that built Kagi.
@@ -172,6 +174,30 @@ If you are a macOS, iOS, or iPadOS user, we strongly recommend using Kagi with t
 Use the [Orion iOS/iPadOS web browser](https://browser.kagi.com), which has native support for Kagi Search.
 
 If you prefer to use Safari, you can use the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1607766153).
+
+
+<a name="firefox_focus"></a>
+### Firefox Focus {#firefox_focus}
+
+
+<a name="firefox_focus_android_mobile"></a>
+#### Android Mobile {#firefox_focus_android_mobile}
+
+1. Tap the menu button, then **Settings** > **Search** > **Search Engine** > **Add another search engine**.
+1. Enter the following:
+    - **Search engine name**: `Kagi`
+    - **Search string to use**: (use your [session link](https://kagi.com/settings?p=user_details) and append `&q=%s` at the end)
+1. Tap **Save**.
+
+
+<a name="firefox_focus_ios"></a>
+#### iOS {#firefox_focus_ios}
+
+1. Tap the menu button, then **Settings** > **Search Engine** > **Add Another Search Engine**.
+1. Enter the following:
+    - **Name to display**: `Kagi`
+    - **Search string to use**: (use your [session link](https://kagi.com/settings?p=user_details) and append `&q=%s` at the end)
+1. Tap **Save**.
 
 
 <a name="custom_use"></a>
