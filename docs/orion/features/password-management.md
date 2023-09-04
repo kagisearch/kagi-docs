@@ -16,27 +16,27 @@ Orion includes a built-in Password Manager that makes it easy to store and autom
 
 To use Orion's Password Manager, simply fill your login credentials in your favorite website and you will be prompted to save them when you submit the form.
 
-<img src="media/macos_passwords_1_save_password.png" width="300" alt="macOS Save Password"><br />
+<img src="media/macos_passwords_1_save_password.png" width="500" alt="macOS Save Password"><br />
 
 The next time you visit that website, Orion will show you the list of saved passwords so you can select the one you need, Orion will then fill the login information automatically.
 
-<img src="media/macos_passwords_2_fill_password.png" width="300" alt="macOS Fill Password"><br />
+<img src="media/macos_passwords_2_fill_password.png" width="500" alt="macOS Fill Password"><br />
 
 Orion also allows you to manage your saved passwords. To access the Passwords window, go to the **Window** menu and click on **Passwords**.
 
-<img src="media/macos_passwords_3_passwords_menu.png" width="300" alt="macOS Passwords Menu"><br />
+<img src="media/macos_passwords_3_passwords_menu.png" width="500" alt="macOS Passwords Menu"><br />
 
 This will open the Passwords window which will be locked to protect your privacy. Use your macOS password to unlock it.
 
-<img src="media/macos_passwords_4_passwords_window_locked.png" width="300" alt="macOS Passwords Window - Locked"><br />
+<img src="media/macos_passwords_4_passwords_window_locked.png" width="500" alt="macOS Passwords Window - Locked"><br />
 
 Once you have entered your password, Orion will show you the list of all your saved passwords, you can click on any of them to reveal them. 
 
-<img src="media/macos_passwords_5_passwords_window_list.png" width="300" alt="macOS Passwords Window - List"><br />
+<img src="media/macos_passwords_5_passwords_window_list.png" width="500" alt="macOS Passwords Window - List"><br />
 
 You can also right click on a password to show additional options such as **Copy Website**, **Copy Username**, **Copy Password** and **Edit**. You can also use the **Add Password** and **Remove Password** buttons when needed.
 
-<img src="media/macos_passwords_6_passwords_window_options.png" width="300" alt="macOS Passwords Window - Options"><br />
+<img src="media/macos_passwords_6_passwords_window_options.png" width="500" alt="macOS Passwords Window - Options"><br />
 
 <a name="password_storage_sync"></a>
 ## Password Storage & Sync {#password_storage_sync}
