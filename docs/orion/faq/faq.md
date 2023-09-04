@@ -2,32 +2,46 @@
 
 ## Table of Contents
 
-- [What is Orion?](#what_is_orion)
-- [How do I replay the intro video](#intro_video)
-- [Why is it important for an app to be native?](#native)
-- [Why use Orion instead of Safari?](#orion_over_safari)
-- [Why use Orion instead of Chrome, Firefox or other browsers based on Chromium/Firefox?](#orion_over_chrome)
-- [How fast is Orion?](#howfast)
-- [How much memory does Orion use?](#memory)
-- [How does Orion respect my online privacy?](#respectprivacy)
-- [How does Orion protect my online privacy?](#protectprivacy)
-- [How do I clear Cookies?](#cookies)
-- [How does Orion support extensions?](#extensions)
-- [Does Orion have an iPhone or iPad app?](#iOS)
-- [Is there any way to get a previous build of Orion?](#oldbuilds)
-- [How do I enable Debug menu?](#debugmenu)
-- [How do I access my Favorites via shortcuts (CMD + #)?](#favorites_shortcuts)
-- [Orion is displaying wrong icons for Favorites and Frequently Visited pages — how can I fix that?](#wrongicons)
-- [How do I change the app icon?](#changeicon)
+- [What is Orion?](#what-is-orion)
+- [How do I replay the intro video](#how-do-i-replay-the-intro-video)
+- [Why is it important for an app to be native?](#why-is-it-important-for-an-app-to-be-native)
+- [Why use Orion instead of Safari?](#why-use-orion-instead-of-safari)
+- [Why use Orion instead of Chrome, Firefox or other browsers based on Chromium/Firefox?](#why-use-orion-instead-of-chrome-firefox-or-other-browsers-based-on-chromium-firefox)
+- [How fast is Orion?](#how-fast-is-orion)
+- [How much memory does Orion use?](#how-much-memory-does-orion-use)
+- [How does Orion respect my online privacy?](#how-does-orion-respect-my-online-privacy)
+- [How does Orion protect my online privacy?](#how-does-orion-protect-my-online-privacy)
+- [How do I clear Cookies?](#how-do-i-clear-cookies)
+- [How does Orion support extensions?](#how-does-orion-support-extensions)
+- [Does Orion have an iPhone or iPad app?](#does-orion-have-an-iphone-or-ipad-app)
+- [Is there any way to get a previous build of Orion?](#is-there-any-way-to-get-a-previous-build-of-orion)
+- [How do I enable Debug menu?](#how-to-use-debug-menu)
+- [How do I access my Favorites via shortcuts (CMD + #)?](#how-do-i-access-my-favorites-via-shortcuts-cmd)
+- [Orion is displaying wrong icons for Favorites and Frequently Visited pages — how can I fix that?](#orion-is-displaying-wrong-icons-for-favorites-and-frequently-visited-pages-—-how-can-i-fix-that)
+- [How do I change the app icon?](#how-do-i-change-the-app-icon)
+- [Should I use the Chrome or Firefox version of an extension in Orion?](#whichext)
+- [Does Orion have unique features?](#features)
+- [Will Orion have feature xyz?](#featuresupport)
+- [Why is the ad-blocker turned on by default in Orion?](#noads)
+- [Is Orion open-source?](#oss)
+- [Is Orion truly safe if it’s not open-source?](#ossprivacy)
+- [How will Orion make money?](#business)
+- [Why does Orion look very similar to Safari (and not Chrome or Firefox)?](#based)
+- [Any "pro tips" for Orion users?](#tips)
+- [Why are some of the sites added to content blocker settings as OFF by default?](#contentblocker)
+- [Help! A site isn’t working!](#compatibility)
+- [Is there a public issue tracker?](#issuetracker)
+- [What is Orion based on?](#tech)
+- [How to reset Orion to factory settings?](#reset)
 
 <a name="what_is_orion"></a>
 ## What is Orion?
 
-Orion is a native, lightning-fast, and privacy-protecting browser for Apple users, open to the web and all its standards and protocols. It's based on the [WebKit](https://en.wikipedia.org/wiki/WebKit) open-source browser engine that also powers Apple's Safari web browser. One day, we hope everyone will say Orion is the best browser for all Apple devices. 
+Orion is a native, lightning-fast, and privacy-protecting browser for Apple users, open to the web and all its standards and protocols. It's based on the [WebKit](https://en.wikipedia.org/wiki/WebKit) open-source browser engine that also powers Apple's Safari web browser. One day, we hope everyone will say Orion is the best browser for all Apple devices.
 
 Orion was built for professionals by professionals, but anyone can benefit from it. Installing Orion with its default settings on any Apple device will cut down on annoying ads and speed up page loads. We want everyone to enjoy the web.
 
-<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/689121874?h=ddbd074d5a" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<div style="padding:62.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/689121874?h=ddbd074d5a" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <a name="intro_vide"></a>
 ## How do I replay the intro video?
@@ -45,15 +59,15 @@ Lets define what native means first: Native macOS app is an app that is specific
 
 The main benefits of native apps include:
 
-- Ensuring that the app feels familiar to users. HIG provides guidance on how to design an intuitive UI that follows platform conventions and therefore provides a consistent experience across apps for new and veteran users. 
+- Ensuring that the app feels familiar to users. HIG provides guidance on how to design an intuitive UI that follows platform conventions and therefore provides a consistent experience across apps for new and veteran users.
 
-- It is generally accepted that Apple knows what it is doing when design is question. It is probably a good idea to follow its lead and probably one of the reasons you own a Mac or an iPhone. Following the extensive Human Interface Guidelines (HIG) makes any designer's job easier, not harder. 
+- It is generally accepted that Apple knows what it is doing when design is question. It is probably a good idea to follow its lead and probably one of the reasons you own a Mac or an iPhone. Following the extensive Human Interface Guidelines (HIG) makes any designer's job easier, not harder.
 
 - Any long time Mac user can easily see how Chrome or Firefox look and feel out of place on a Mac. These browsers were originally designed for Windows, but they work and look the same even on macOS or Linux, when those are clearly different operating systems with different conventions, design rules and aesthetics.
 
 - Native integrations allow apps to use powerful components provided by the OS. For example Orion utilizes Keychain to store passwords or gets the benefit of Live Text recognition of text in images. This make apps more powerful while being leaner and easier to build and maintain at the same time.
 
-- Finally, and maybe most importantly, using native components and frameworks generally makes apps faster, better for battery life and overall snappier. 
+- Finally, and maybe most importantly, using native components and frameworks generally makes apps faster, better for battery life and overall snappier.
 
 <a name="orion_over_safari"></a>
 ## Why use Orion instead of Safari?
@@ -79,7 +93,7 @@ Orion is lightweight, with [advanced memory-use technology](../why-orion/memory-
 <a name="respectprivacy"></a>
 ## How does Orion respect my online privacy?
 
-Orion has no built-in telemetry, so it can never "phone home" and risk exposing your data. Orion is truly and verifiably a [privacy-respecting browser](../privacy-and-security/respecting-privacy.md) — unlike those that only offer the illusion of privacy. 
+Orion has no built-in telemetry, so it can never "phone home" and risk exposing your data. Orion is truly and verifiably a [privacy-respecting browser](../privacy-and-security/respecting-privacy.md) — unlike those that only offer the illusion of privacy.
 
 <a name="protectprivacy"></a>
 ## How does Orion protect my online privacy?
@@ -120,7 +134,7 @@ Orion's debug menu contains a number of commands that can be of interest to "adv
 
 > defaults write com.kagi.kagimacOS DebugMenu 1
 
-If you use Orion RC (release candidate) replace with com.kagi.kagimacOS.RC. 
+If you use Orion RC (release candidate) replace with com.kagi.kagimacOS.RC.
 
 When you relaunch Orion, you’ll find a new Debug menu, located to the right of the Help menu.
 
@@ -175,3 +189,99 @@ There are two possible ways. For a quick and easy solution using Finder:
 To revert back to the original icon, select and press delete on the icon.
 
 This works best for previewing the icon change, but will not work across updates, as the icon will be reset. For that, you can use an app like [Pictogram](https://pictogramapp.com).
+
+<a name="whichext"></a>
+## Should I use the Chrome or Firefox version of an extension in Orion? {#whichext}
+Orion supports both Chrome and Firefox extensions. Usually they’re similar, but sometimes the extension developer puts extra effort in one version, maybe because they prefer that browser. 
+
+With Orion, you can try both and use the one that works best for you. Orion is the only browser in the world that makes this choice possible!
+
+<a name="features"></a>
+## Does Orion have unique features? {#features}
+Yes! Modern browsers have so many untapped opportunities for innovation that we had to dig in and explore. We’re excited with the results, so here are a few examples.
+
+- Focus Mode allows the user to completely remove toolbars. Browse the web distraction-free!
+- Low Power Mode extends your battery life by reducing Orion's power consumption up to 90%.
+- Orion also features native vertical/tree-style tabs, if you prefer this alignment.
+
+Read more about [Orion features](https://blog.kagi.com/orion-features).
+
+<a name="featuresupport"></a>
+## Will Orion have feature xyz? {#featuresupport}
+In short, the answer to this (and other similar questions) is:
+
+- If it is a native OS feature and it makes sense to have in a browser then yes, Orion as a native app will have it, sooner or later. An example is translation API which was introduced in Monterey and which we will happily integrate.
+- If it is not, then yes, Orion can still have it, if the feature request on [orionfeedback.org](https://orionfeedback.org/) garners enough support (upvotes).
+
+In principle, we are building an open browser. The sky is the limit and we will build features based on our available resources and perception of what best helps our users consume the web in a faster, more secure and more productive way.
+
+<a name="noads"></a>
+## Why is the ad-blocker turned on by default in Orion? {#noads}
+Over [700 million devices block online ads](https://www.statista.com/statistics/435252/adblock-users-worldwide/), creating the largest silent protest in human history. We too believe in a cleaner, more humane web. 
+
+Orion blocks both first-party and third-party ads, trackers and other annoyances by default to make your online adventures more enjoyable and more private. It also saves you time, battery and data. Yes, it may occasionally break a site, but in most cases the benefit outweighs the risk, and you can disable the blocker for that site in the settings menu (gear icon on the browser toolbar).
+
+<a name="oss"></a>
+## Is Orion open-source? {#oss} 
+We’re working on it! We’ve begun with some of [our components](https://github.com/OrionBrowser) and intend to open more in the future. 
+
+Forking WebKit, porting hundreds of APIs and writing a browser app from scratch has been challenging for our small team. Properly maintaining an open-source project takes time and resources we’re short on at the moment, so if you want to contribute at this time, please consider becoming active on [orionfeedback.org](https://orionfeedback.org/).
+
+<a name="ossprivacy"></a>
+## Is Orion truly safe if it’s not open-source? {#ossprivacy}
+The idea that "open-source = trustworthy" only goes so far. For example, the same tech company that offers a popular open-source browser also has the largest ad/tracking network in history, with that browser playing a significant role in it. Another company with a closed-source browser (using WebKit like Orion) is on the forefront of privacy awareness and technologies in its products. 
+
+To properly protect your data, you need good answers to two questions:
+
+Does this browser collect and send data anywhere?
+How does this browser make money?
+For the first question, what happens to your collected data is always closed-source, even on open-source browsers. Unlike Orion, most modern browsers send hundreds of data packets out, and each contains private information like your IP address and browser fingerprint, in addition to any other data they send. No open-source browser vendor has opened the code that processes this collected data.
+
+Find out whether your browser respects your privacy by launching a network proxy ([Proxyman](https://proxyman.io/), [mitmproxy](https://mitmproxy.org/) and [Charles](https://www.charlesproxy.com/) are good options on macOS). With Orion, you’ll see zero unexpected requests in your network traffic log by default. You’ll see something very different with nearly every other browser.
+
+For the second question, companies that produce popular, free, open-source browsers also generate a lot of revenue. How does that happen? Knowing where their browsers sit in that chain of revenue can tell you whether you can trust that browser with your private information.
+
+<a name="business"></a>
+## How will Orion make money? {#business} 
+[Orion+](https://browser.kagi.com/orionplus.html) version allows users to support Orion’s development. Will it generate revenue? That’s up to you. Regardless, all funding for Orion will come from its users rather than ads, tracking, data monetization or any other indirect way. 
+
+We want Orion to be the number one Mac browser because it uses engineering craftsmanship and attention to detail to provide a superior product experience and unmatched features that work for everyone, from power users to grandmas.
+
+We believe this project will deliver an experience that its users value enough to support. We believe that enough to promise that we’ll never resort to ads or other such funding methods. Orion makes it possible, and you make Orion possible. 
+
+<a name="based"></a>
+## Why does Orion look very similar to Safari (and not Chrome or Firefox)? {#based}
+We see Safari as the "reference" implementation from the OS manufacturer itself, Apple. So using Safari as our reference ensures that Orion follows best practices in design, engineering, interactions, and more. We respect the decisions that Apple made and abide by them at every point where they serve our users’ interests.
+
+<a name="tips"></a>
+## Any "pro tips" for Orion users? {#tips}
+Blocking web fonts can have a profound effect on news sites. On cnn.com, the average page size dropped from ~7MB to ~2MB, eliminating more than 70% of unnecessary data transfer. Those sites will load faster, use less bandwidth, and often look more readable too!
+
+Also, on any sites that don’t require logging in, disabling cookies is a great way to boost your speed and privacy.
+
+<a name="contentblocker"></a>
+## Why are some of the sites added to content blocker settings as OFF by default? {#contentblocker}
+Orion comes with a built in content blocker that in rare cases can affect proper functionality of some websites. We decided to maintain a whitelist of websites where content blocker will be turned off by default. This list currently consists of:
+
+browserbench.org - Content blocker in general interferes with javascript performance benchmarking. We decided it is best to have it off to measure the real speed of WebKit's javascript engine.
+wizzair.com - Interference with rendering of the website
+
+<a name="compatibility"></a>
+## Help! A site isn’t working! {#compatibility}
+Orion has a "Compatibility mode" in the settings menu. Turning it on will suspend your currently running extensions (the most common cause of problems) and record the setting for this website so it works when you visit it again. 
+
+If the site still fails, you may want to test it in Safari. If it works there, please report the problem to us via our [Orion beta Discord server](https://discord.com/invite/gKh5E6ys6D).
+
+<a name="issuetracker"></a>
+## Is there a public issue tracker? {#issuetracker}
+Yes. Please use [orionfeedback.org](https://orionfeedback.org/) (requires registration) to submit bug reports and feature requests as well as to upvote existing posts.
+
+<a name="tech"></a>
+## What is Orion based on? {#tech}
+Orion shares much of the same technology as Safari, such as the WebKit rendering engine. We’re grateful for all the performance and privacy features that Apple and its contributors built into this tech.
+
+<a name="reset"></a>
+## How to reset Orion to factory settings? {#reset}
+The easiest way is by navigating to **Orion** > **Settings** > **Privacy** > **Reset Orion**. Alternatively, you can enable the Debug menu and click Factory Reset.
+
+

@@ -9,7 +9,7 @@ Inspired by the same feature on iPhone, Low Power Mode reduces Orion's power con
 - [iPadOS Low Power Mode](#ipados)
 
 <a name="macos"></a>
-## macOS Low Power Mode
+## macOS Low Power Mode {#macos}
 
 You can enable Low Power Mode by clicking the **Tools** menu and then clicking **Low Power Mode...**.
 
@@ -22,7 +22,7 @@ You can then click the **Enable** button in the window that appears.
 You can disable Low Power Mode using the same menu option.
 
 <a name="ios"></a>
-## iOS Low Power Mode
+## iOS Low Power Mode {#ios}
 
 You can enable Low Power Mode in Orion's Settings.
 
@@ -38,7 +38,7 @@ You can enable Low Power Mode in Orion's Settings.
 You can disable Low Power Mode from the same place.
 
 <a name="ipados"></a>
-## iPadOS Low Power Mode
+## iPadOS Low Power Mode {#ipados}
 
 You can enable Low Power Mode in Orion's Settings.
 

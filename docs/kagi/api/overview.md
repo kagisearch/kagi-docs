@@ -1,3 +1,9 @@
+---
+next:
+  text: 'API Versions'
+  link: '/kagi/api/intro/api-version'
+---
+
 # Overview
 
 The search API provides programmatic access to data that powers our search
@@ -5,16 +11,25 @@ results & more.
 
 ## Kagi APIs
 
-- [Search API](search.md)
-- [Universal Summarizer API](summarizer.md)
-- [FastGPT](fastgpt.md)
+We have the following APIs available.
+
+- [Kagi Search API](search.md) (invite only at the moment)
+- [Web and News Enrichment API](enrich.md) (public, exposes Kagi's own indexes Teclis and TinyGem)
+- [Universal Summarizer API](summarizer.md) (public)
+- [FastGPT API](fastgpt.md) (public)
+
+Quick start for all APIs:
+
+1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account).
+2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
+3. Call the API.
 
 ## Unofficial Client Libraries
 
 Libraries created by Kagi users and third parties.
 
 - [kagigo for Go - FastGPT & Universal Summarizer](https://github.com/httpjamesm/kagigo)
-- [FastGPT for Raycast](https://www.raycast.com/http.james/kagi-fastgpt)
+- [kagi-api](https://crates.io/crates/kagi-api) for Rust
 
 ## Beta Status
 

@@ -28,7 +28,7 @@ Using API with insufficient credits will produce "Insufficient credit to perform
 
 ### Consumer models
 
-Price for our consumer grade model (Agnes) is **$0.030** per **1,000** tokens processed. If you are subscribed to the Kagi Ultimate [plan](https://kagi.com/pricing), discounted pricing at **$0.025** per **1,000** tokens processed is automatically applied.
+Price for our consumer grade model (Agnes) is **$0.030 USD** per **1,000** tokens processed. If you are subscribed to the Kagi Ultimate [plan](https://kagi.com/pricing), discounted pricing at **$0.025** per **1,000** tokens processed is automatically applied.
 
 Notes:
 
@@ -40,7 +40,7 @@ Notes:
 
 Our enterprise-grade Muriel summarization engine produces even higher quality summaries, especially for long documents. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
 
-Murial usage is a **flat rate of $1 per summary**, regardless of the length or type of the document. 
+Murial usage is a **flat rate of $1 USD per summary**, regardless of the length or type of the document. 
 
 To use Muriel just use "muriel" as the "engine" parameter in the API call. See examples below.
 
@@ -60,7 +60,7 @@ Check out [Universal Summarizer Zapier integration](https://zapier.com/apps/univ
 
 You can reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
 
-## Types of Content that can be Summarized
+## Supported file typees
 
 You can summarize many types of web content, including:
 
@@ -70,9 +70,9 @@ You can summarize many types of web content, including:
 - Word documents (.docx)
 - Audio files (mp3/wav)
 - YouTube URLs
-- Twitter Threads
+- Scanned PDFs and images (OCR)
 
-Unlike other summarization products, Universal Summarizer can **summarize content of any length**.
+Universal Summarizer can **summarize content of any length**.
 
 See [demo](https://kagi.com/summarizer) for examples or [blog post](https://blog.kagi.com/universal-summarizer) to learn more.
 

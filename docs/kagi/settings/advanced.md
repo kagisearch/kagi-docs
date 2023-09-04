@@ -18,6 +18,6 @@ Redirects are a powerful feature that allow you to make modifications to search 
 
 ## Search API
 
-Control panel for the [Search API](../search-api/overview.md), for developers looking to build something with Kagi Search results.
+Control panel for the [Search API](../api/overview.md), for developers looking to build something with Kagi Search results.
 
-[Read more about the Search API](../search-api/overview.md)
+[Read more about the Search API](../api/overview.md)

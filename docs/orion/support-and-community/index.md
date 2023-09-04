@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Orion is in Public Beta'
+  link: '/orion/getting-started/public-beta'
+---
+
 # Support & Community
 
 Get assistance, help shape the future of Orion and maybe even [contribute!](./contribute.md)
@@ -13,7 +19,7 @@ HTML version of release notes is available for Orion macOS at:
 [browser.kagi.com/updates/orion-release-notes.html](https://browser.kagi.com/updates/orion-release-notes.html)
 
 For Orion iOS/iPadOS at:
-[browser.kagi.com/updates/orion-iOS-release-notes.html](https://browser.kagi.com/updates/orion-iOSrelease-notes.html)
+[browser.kagi.com/updates/orion-iOS-release-notes.html](https://browser.kagi.com/updates/orion-iOS-release-notes.html)
 
 RSS feed for (joint) release notes is available at:
 [orionfeedback.org/atom/t/release-notes](https://orionfeedback.org/atom/t/release-notes)
@@ -23,7 +29,7 @@ RSS feed for (joint) release notes is available at:
 You can join [OrionFeedback.org](https://orionfeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address
 and to the discussion.
 
-- Please see our [Bug Reporting Guide](bug-reporting.md) for instructions on reporting issues.
+- Please see our [Bug Reporting Guide](./troubleshooting/bug-reporting.md) for instructions on reporting issues.
 - All bugs and feature requests are encouraged to be posted on the forum.
 
 ### Discord

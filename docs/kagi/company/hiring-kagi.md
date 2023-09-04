@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Work on Orion Browser'
+  link: '/kagi/company/hiring-orion'
+---
+
 # Work on Kagi Search
 
 - Do you have advanced Crystal language knowledge?
@@ -12,4 +18,4 @@ Help create the best search engine in the world.
 
 If so, send your CV to [vlad@kagi.com](mailto:vlad@kagi.com).
 
-Fun fact: All of Kagi Search works without JavaScript enabled in the browser. We see JavaScript as a way to enhance the product experience, not create it.
+Fun fact: We [obsess with speed](../search-details/search-speed.md). And all of Kagi Search (with the exception of Stripe checkout and Maps) works exactly the same without JavaScript enabled in the browser (we see JavaScript as a way to enhance the product experience, not create it).

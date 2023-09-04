@@ -1,3 +1,9 @@
+---
+next:
+  text: 'General'
+  link: '/kagi/settings/general'
+---
+
 # Accessing Settings
 
 You can configure the Settings for Kagi Search from the [Control Center](../getting-started/control-center.md). You access the Control Center using the icon in the upper-right corner of any kagi.com webpage:

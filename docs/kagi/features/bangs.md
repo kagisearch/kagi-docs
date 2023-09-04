@@ -1,6 +1,6 @@
 # Bangs
 
-Bangs are shortcuts starting with exclamation points (!) that quickly take you to search results on other sites. For example, searching Kagi for **!w Monty Python** will search Wikipedia directly for "Monty Python" and take you to that Wikipedia search result.
+Bangs are shortcuts starting with exclamation points (!) that quickly take you to search results on other sites. For example, searching Kagi for **!w Monty Python** will search Wikipedia directly for "Monty Python" and take you to that Wikipedia search result. Bangs are [never counted as searches](../plans/plan-types.md#how-searches-are-counted) for the purpose of billing/usage.
 
 ![Bang Example](media/bang.gif)
 
@@ -12,18 +12,38 @@ Note that Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang
 
 ## Bang Examples
 
-Bangs can also be used regionally. For example, you can search with  **!de [query]** or **!nl [query]** to switch your region to Germany or Netherlands on the fly.
 
 Some of the more popular search bangs include:
 
-- **!r** for [Reddit](https://www.reddit.com)
-- **!u** for [Urban Dictionary](https://www.urbandictionary.com)
-- **!imd** for the [Internet Movie Database](https://www.imdb.com/)
-- **!i** for Kagi Images
-- **!m** for Kagi Maps
-- **!n** for Kagi News
-- **!v** for Kagi Videos
-- **!help** to search this knowledge base for information about Kagi Search
+- **!help** \<query> to search this knowledge base for information about Kagi Search. Try "!help search operators" in Kagi.
+- **!i** \<query> for Kagi Images
+- **!m** \<query> for Kagi Maps
+- **!n** \<query> for Kagi News
+- **!v** \<query> for Kagi Videos
+
+
+### Regional bangs
+
+You can use for example **!de [query]** or **!nl [query]** to switch your region to Germany or Netherlands on the fly.
+
+### AI related bangs
+
+- **!sum** \<url> - Summarize page in [Universal Summarizer](../ai/summarize-page.md)
+- **!sumk** \<url> -  Key moments in Universal Summarizer
+- **!discuss** \<url> - Discuss Document chat
+- **!answer** \<search terms> - Search & open "Quick Answer"
+
+
+
+### Search on external websites
+
+ 
+- **!yt** \<query> for [YouTube] (https://youtube.com)
+- **!r** \<query> for [Reddit](https://www.reddit.com)
+- **!u** \<query> for [Urban Dictionary](https://www.urbandictionary.com)
+- **!imd** \<query> for the [Internet Movie Database](https://www.imdb.com/)
+
+And many more! (Kagi supports all [DuckDuckGo bangs](https://duckduckgo.com/bang))
 
 ## Supported Bang Syntaxes
 
@@ -46,7 +66,7 @@ Configure Quick Bangs under [Search](https://kagi.com/settings?p=search) in the 
 
 ## Custom Bangs
 
-You can create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings?p=advanced).
+You can also create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings?p=advanced).
 
 <img src="./media/custom_bang_settings.png" alt="Custom Bangs">
 
@@ -81,6 +101,3 @@ Here is the full list of "feeling lucky" patterns that we support:
 - `query !`
 - `\query`
 
-## Universal Summarizer
-
-Use the [universal summarizer](../ai/summarize-page.md) with `!sum <url>` or `!summarize <url>`. Summarize key moments with `!sumk <url>` or `!summarizekey <url>`.

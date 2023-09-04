@@ -28,9 +28,12 @@ Using API with insufficient credits will produce "Insufficient credit to perform
 Pricing for FastGPT is a flat rate  per-query:
 
 - 1.5¢ per query ($15 USD per 1000 queries) when `web_search` is enabled.
-- 0.15¢ per query ($1.5 USD per 1000 queries) when `web_search` is disabled.
+- (Out of service) 0.15¢ per query ($1.5 USD per 1000 queries) when `web_search` is disabled.
 
 Cached responses, as with all [other Kagi APIs](./overview.md), are free.
+
+> NOTE: Currently, the `web_search` parameter is out of service, and may be removed.
+> Trying to pass any value other than `true` will result in error.
 
 ## Support
 
@@ -45,6 +48,17 @@ You can reach out through support@kagi.com, our [Discord server](https://kagi.co
 Answer a query.
 
 Returns a [FastGPT Answer](#fastgpt-answer).
+
+#### Parameters
+
+Field | Type | Required | Description
+------|------|----------|-----------
+query   | string  | Yes  | A query to be answered.
+cache   | bool  | No  | Whether to allow cached requests & responses. (default true)
+web_search   | bool  | No  | Whether to perform web searches to enrich answers (default true)
+
+> NOTE: Currently, the `web_search` parameter is out of service, and may be removed.
+> Trying to pass any value other than `true` will result in error.
 
 #### Examples
 
@@ -99,14 +113,6 @@ print(response.json())
 ```
 
 </details>
-
-#### Parameters
-
-Field | Type | Required | Description
-------|------|----------|-----------
-query   | string  | Yes  | A query to be answered.
-web_search  | bool  | No | Whether to use web search results in answering the query. (default is true)
-cache   | bool  | No  | Whether to allow cached requests & responses. (default is true)
 
 ## Objects
 

@@ -4,7 +4,7 @@ You can view our [Orion Product Roadmap](https://orionfeedback.org/roadmap) to s
 
 The Roadmap is part of our [Orion feedback forum](https://orionfeedback.org), where you are welcome to submit bug reports and feature requests of your own. Our community drives the future product direction of Orion and we hope you will become a part of it.
 
-When reporting a bug, please give us as much detail as possible. This will help us understand the problem. Include information such as:
+When reporting a bug, please see our [Bug Reporting Guide](./troubleshooting/bug-reporting.md) for instructions on reporting issues. This will help us understand the problem. Include information such as:
 
 - Steps to reproduce the problem
 - Screenshots of what you are seeing
