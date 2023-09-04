@@ -1,6 +1,7 @@
 # Password Management
 
 ## Table of Contents
+- [Orion's Password Manager](#orions_password_manager)
 - [Password Storage & Sync](#password_storage_sync)
 - [Importing Safari Passwords into Orion on macOS](#import_safari_passwords)
 - [Syncing Passwords in Orion](#syncing_passwords)
@@ -8,6 +9,34 @@
   - [iOS](#syncing_passwords_ios)
   - [iPadOS](#syncing_passwords_ipados)
 - [1Password & Orion](#1password)
+
+<a name="orions_password_manager"></a>
+## Orion's Password Manager {#orions_password_manager}
+Orion includes a built-in Password Manager that makes it easy to store and automatically fill your usernames and passwords.
+
+To use Orion's Password Manager, simply fill your login credentials in your favorite website and you will be prompted to save them when you submit the form.
+
+<img src="media/macos_1_save_password.png" width="300" alt="macOS Save Password"><br />
+
+The next time you visit that website, Orion will show you the list of saved passwords so you can select the one you need, Orion will then fill the login information automatically.
+
+<img src="media/macos_2_fill_password.png" width="300" alt="macOS Fill Password"><br />
+
+Orion also allows you to manage your saved passwords. To access the Passwords window, go to the **Window** menu and click on **Passwords**.
+
+<img src="media/macos_3_passwords_menu.png" width="300" alt="macOS Passwords Menu"><br />
+
+This will open the Passwords window which will be locked to protect your privacy. Use your macOS password to unlock it.
+
+<img src="media/macos_4_passwords_window_locked.png" width="300" alt="macOS Passwords Window - Locked"><br />
+
+Once you have entered your password, Orion will show you the list of all your saved passwords, you can click on any of them to reveal them. 
+
+<img src="media/macos_5_passwords_window_list.png" width="300" alt="macOS Passwords Window - List"><br />
+
+You can also right click on a password to show additional options such as **Copy Website**, **Copy Username**, **Copy Password** and **Edit**. You can also use the **Add Password** and **Remove Password** buttons when needed.
+
+<img src="media/macos_6_passwords_window_options.png" width="300" alt="macOS Passwords Window - Options"><br />
 
 <a name="password_storage_sync"></a>
 ## Password Storage & Sync {#password_storage_sync}
@@ -82,8 +111,4 @@ To sync Orion passwords across devices, perform these steps <u>on each device</u
 <a name="1password"></a>
 ## 1Password & Orion {#1password}
 
-1Password has not yet added support for Orion. Because of this, the 1Password browser extension does not function properly in Orion.
-
-We have been told by 1Password that their development team is working on a new feature to allow users to choose their trusted browser. This will hopefully allow 1Password's browser extension to then work with Orion. 1Password has not given us any time estimate for when this new feature will be released.
-
-In the meantime, 1Password 8 for macOS has a global autofill feature that does not require using any browser extension. Click inside a login field and press the **command** and <b>\\</b> keys at the same time.
+1Password is now compatible with Orion thanks to the joint effort between 1Password and Orion teams. To use 1Password in Orion please follow [these instructions](../browser-extensions/1password.md).
