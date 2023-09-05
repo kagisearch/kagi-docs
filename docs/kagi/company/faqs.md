@@ -188,5 +188,10 @@ We do not have any discounts because Kagi is not yet profitable and there is not
 
 We are working towards unlimited searches for $10 which should be available in the fall of 2023.
 
+## Can I expense Kagi and Orion at work?
+
+The circumstances may vary (check with your workplace manager) but in general both Kagi and Orion subscriptions can be expensed when you are using these products for work. 
+
+Upon purchasing the product subscriptions you will receive a standard invoice that you cna use to expense these items.
 
 

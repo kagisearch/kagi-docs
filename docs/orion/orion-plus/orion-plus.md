@@ -11,5 +11,3 @@
 We are still working on some of these features and they will be released shortly.
 
 Your financial contribution will help us to stay independent and to deliver on our promise of becoming the best browser for Apple users. You can also help us by spreading the word about Orion everywhere you go, from social media to the dinner table.
-
-Please note that Orion+ fees are not tax deductible.

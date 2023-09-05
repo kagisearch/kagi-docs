@@ -25,7 +25,7 @@ Next, customize the Programmable Button:
 
 ## Open-Source Programmable Buttons
 
-The Orion community has created several [open-source Programmable Buttons](https://github.com/OrionBrowser/ProgrammableButtons) that you can import to Orion easily. To import a Programmable Button right-click and copy the link to the button. Then, right-click on an empty section of the Orion toolbar and select **Import Button from URL**.
+The Orion community has created several [open-source Programmable Buttons](https://github.com/OrionBrowser/ProgrammableButtons) that you can import to Orion easily. To import a Programmable Button, right-click and copy the link to the button. Then, right-click on an empty section of the Orion toolbar and select **Import Button from URL**.
 
 <img src="./media/macos_programmable_button_5_import_button_menu.png" width="500" alt="Programmable Button - Import Button Menu"><br />
 
