@@ -13,6 +13,7 @@ Our users have built and shared the following themes:
 - [Brave Theme](https://gist.github.com/httpjamesm/a9c6b3b115cb09c483e53ad5f5ec9b99) by [http.james](https://httpjames.space/)
 - [Cozy Theme](https://gist.github.com/jamesjlyons/26682982319ca84b7bee991eb158ce49) by [James Lyons](https://jameslyons.design)
 - [Minimal Fav Color](https://github.com/MattRangel/kagi-search-custom-css) by [Matt Rangel](https://github.com/MattRangel)
+- [Startpage Theme](https://github.com/httpjamesm/kagi-startpage-theme) by [http.james](https://httpjames.space/)
 - <details><summary>Familiar Dark Theme by 🅻uci</summary>
 
     User 🅻uci shared a Familiar Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel.
