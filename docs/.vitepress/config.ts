@@ -365,6 +365,7 @@ function sidebarOrion() {
                         { text: 'Reading List', link: '/orion/features/reading-list' },
                         { text: 'Privacy Report', link: '/orion/features/privacy-report' },
                         { text: 'Web Apps', link: '/orion/features/web-apps' },
+                        { text: 'Programmable Buttons', link: '/orion/features/programmable-buttons' },
                     ]
                 },
                 {
