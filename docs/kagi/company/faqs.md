@@ -178,11 +178,9 @@ Check [Custom CSS](../features/custom-css.md). Also check [Kagi Discord](https:/
 
 ## Does Kagi support crypto / anonymous payments ?
 
-We are having a discussion about this in our community right now.
+We officially support OpenNode as a cryptocurrency payment option.
 
-See here https://kagifeedback.org/d/493-enable-anonymous-payments-ala-bitcoinmonero/
-
-Feel free to chime in with your thoughts.
+For more information, please read this [blog post](https://blog.kagi.com/accepting-paypal-bitcoin).
 
 ## Does Kagi have any student discounts?
 
