@@ -38,3 +38,7 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 - [Kagi search and Orion browser enter the public beta](https://blog.kagi.com/kagi-orion-public-beta)
 - [Three months later](https://blog.kagi.com/status-update-first-three-months), thousands of people are paying for Kagi and Orion
 - The team is now ~15
+
+2023
+
+- [Kagi raises $670K](https://blog.kagi.com/safe-round) in first external fundraise.
