@@ -17,10 +17,11 @@ Thank you!
 - Lukas Winkler ([Findus23](https://github.com/Findus23))
 - Daniel Martín ([danielmartin](https://github.com/danielmartin))
 - Philipp Gillé ([philippgille](https://github.com/philippgille))
+- David Rosales ([david-ros](https://github.com/david-ros))
 
 If you feel you're missing from this list, feel free to add yourself in a pull request.
 
 ---
 
-Special thanks to [mdBook](https://github.com/rust-lang/mdBook) for a
+Special thanks to [VitePress](https://vitepress.dev) for a
 wonderful markdown doc generator.
