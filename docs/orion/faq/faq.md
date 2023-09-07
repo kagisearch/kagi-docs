@@ -282,6 +282,6 @@ Orion shares much of the same technology as Safari, such as the WebKit rendering
 
 <a name="reset"></a>
 ## How to reset Orion to factory settings? {#reset}
-The easiest way is by navigating to **Orion** > **Settings** > **Privacy** > **Reset Orion**. Alternatively, you can enable the Debug menu and click Factory Reset.
+The easiest way is by navigating to **Orion** > **Reset Orion**. Alternatively, you can enable the Debug menu and click Factory Reset.
 
 
