@@ -105,7 +105,7 @@ Kagi has zero marketing budget and spends zero on marketing, we see Orion and AI
 
 ## How do you balance development of AI features and Search?
 
-Kagi is in the business of search, not in the business of selling AI, our philosophy is that AI is there to enhance the experience, not create it. We are excited by the possibilities that AI will bring - the initial demonstration shows the expansion of search backed by AI, for example the ability to chat with any document on the web. And currently only 10% of searches that can be made are actually being made, which is because current engines cannot cover the remaining 90%.
+Kagi is in the business of search, not in the business of selling AI; our philosophy is that AI is there to enhance the experience, not create it. We are excited by the possibilities that AI will bring - the initial demonstration shows the expansion of search backed by AI, for example the ability to chat with any document on the web. And currently only 10% of searches that can be made are actually being made, which is because current engines cannot cover the remaining 90%.
 
 ## Will you expose the Search API?
 
@@ -192,6 +192,6 @@ We are working towards unlimited searches for $10 which should be available in t
 
 The circumstances may vary (check with your workplace manager) but in general both Kagi and Orion subscriptions can be expensed when you are using these products for work. 
 
-Upon purchasing the product subscriptions you will receive a standard invoice that you cna use to expense these items.
+Upon purchasing the product subscriptions you will receive a standard invoice that you can use to expense these items.
 
 

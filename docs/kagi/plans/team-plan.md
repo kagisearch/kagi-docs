@@ -18,12 +18,12 @@ You can also limit the domains used to sign up to your team to your company’s 
 
 ## Removing Team Members
 
-From the [Members tab](https://kagi.com/settings?p=members) you can remove team members by selecting the ellipses (...) next to the user and selecting "Remove from the team".
+From the [Members tab](https://kagi.com/settings?p=members) you can remove team members by selecting the ellipsis (...) next to the user and selecting "Remove from the team".
 <img src="./media/member_management.png"  width="675" alt="Remove Members">
 
 ## Upgrade Team Members
 
-From the [Members tab](https://kagi.com/settings?p=members) you can upgrade team members by selecting the ellipses (...) next to the user and selecting "Upgrade to Team Member".
+From the [Members tab](https://kagi.com/settings?p=members) you can upgrade team members by selecting the ellipsis (...) next to the user and selecting "Upgrade to Team Member".
 <img src="./media/member_management.png"  width="675" alt="Upgrade Members">
 
 ## Managing Usage
