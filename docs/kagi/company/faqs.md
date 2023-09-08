@@ -56,7 +56,7 @@ You can use private session token manually, or through [Kagi browser extensions]
 
 Kagi Search requires an account only because it is a paid service which requires an account for the transaction.
 
-Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as PrivacyHQ if you want to.
+Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as [Privacy](https://privacy.com/) if you want to.
 
 ## Why does Kagi Search require an email address?
 
@@ -66,7 +66,7 @@ We require an email address to be able to verify the account really belongs to y
 - In case you contact us via email with an account related questions (in particular requests to delete your account or change your subscription)
 - To occasionaly send product updates, which you can disable in your Kagi settings or unsubscribe directly from the email
 
-Note that you can use an anonymous email provider such as SimpleLogin with Kagi Search and it is up to you what email address you want to use.
+Note that you can use an anonymous email provider such as [SimpleLogin](https://simplelogin.io) with Kagi Search and it is up to you what email address you want to use.
 
 Kagi does need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription product business.
 
