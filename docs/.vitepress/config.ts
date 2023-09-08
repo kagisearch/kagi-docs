@@ -96,7 +96,9 @@ function sidebarKagi() {
                         { text: 'Premium Plans', link: '/kagi/plans/premium-plan' },
                         { text: 'Ultimate Plan', link: '/kagi/plans/ultimate-plan' },
                         { text: 'Family Plan', link: '/kagi/plans/family-plan' },
+                        { text: 'Team Plan', link: '/kagi/plans/team-plan' },
                         { text: 'Gift Kagi', link: '/kagi/plans/gift-kagi' },
+                        { text: 'Payment Methods', link: '/kagi/plans/payment-methods' },
                     ]
                 },
                 {
