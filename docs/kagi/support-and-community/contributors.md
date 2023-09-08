@@ -18,6 +18,7 @@ Thank you!
 - Daniel Martín ([danielmartin](https://github.com/danielmartin))
 - Philipp Gillé ([philippgille](https://github.com/philippgille))
 - David Rosales ([david-ros](https://github.com/david-ros))
+- Vlad-Stefan Harbuz ([vladh](https://github.com/vladh))
 
 If you feel you're missing from this list, feel free to add yourself in a pull request.
 
