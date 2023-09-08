@@ -1,6 +1,6 @@
 # Share with Friends and Family
 
-Kagi relies 100% on its users for revenue. We do not have ads or VC money to pay for our costs. And many people around the world still have not heard about Kagi.
+Kagi relies 100% on its users for revenue. We do not have ads to pay for our costs. And many people around the world still have not heard about Kagi.
 
 ## What can you do
 
