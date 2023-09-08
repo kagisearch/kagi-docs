@@ -289,7 +289,7 @@ The easiest way is by navigating to **Orion** > **Reset Orion**. Alternatively, 
 ## Are there plans for a Windows/Linux/Android version of Orion? {#other_os_support}
 We currently do not have the resources to hire a new team to do any of these platforms yet.
 
-Since Orion is funded by it's users only, it is entirely up to the number of subscribers and Orion+ sales we have that will enable funding a new team to make Orion for any new platform. And building a browser is not cheap, especially one on top of WebKit.
+Since Orion is funded by its users only, it is entirely up to the number of subscribers and Orion+ sales we have that will enable funding a new team to make Orion for any new platform. And building a browser is not cheap, especially one on top of WebKit.
 
 Ways you can help accelerate this is:
 
