@@ -10,7 +10,7 @@ Kagi Inc. is a company created with the mission to humanize the web. Our goal is
 
 Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi) and [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky). Our team is a fully remote team operating on all continents.
 
-[Kagi has raised $670K](https://blog.kagi.com/safe-round) from Kagi members in our first external fundraise.
+Kagi has been bootstrapped by the founder from 2018 to 2023 and [raised $670K](https://blog.kagi.com/safe-round) from Kagi members in its first external fundraise.
 
 Kagi Inc. currently has two products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser.
 
