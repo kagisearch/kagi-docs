@@ -33,6 +33,7 @@
 - [Is there a public issue tracker?](#issuetracker)
 - [What is Orion based on?](#tech)
 - [How to reset Orion to factory settings?](#reset)
+- [Are there plans for a Windows/Linux/Android version of Orion?](#other_os_support)
 
 <a name="what_is_orion"></a>
 ## What is Orion?
@@ -284,4 +285,14 @@ Orion shares much of the same technology as Safari, such as the WebKit rendering
 ## How to reset Orion to factory settings? {#reset}
 The easiest way is by navigating to **Orion** > **Reset Orion**. Alternatively, you can enable the Debug menu and click Factory Reset.
 
+<a name="other_os_support"></a>
+## Are there plans for a Windows/Linux/Android version of Orion? {#other_os_support}
+We currently do not have the resources to hire a new team to do any of these platforms yet.
 
+Since Orion is funded by it's users only, it is entirely up to the number of subscribers and Orion+ sales we have that will enable funding a new team to make Orion for any new platform. And building a browser is not cheap, especially one on top of WebKit.
+
+Ways you can help accelerate this is:
+
+- [Contribute](../support-and-community/contribute.md) to Orion development with your time
+- Help spread the word about Orion to attract more users
+- Get [Orion+](https://browser.kagi.com/orionplus.html) and financially support development
