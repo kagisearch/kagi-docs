@@ -2,12 +2,13 @@
 
 ## Table of Contents
 
-- [Option 0: Use Orion browser by Kagi (currently for macOS/iOS only)](#orion)
-- [Option 1: Using the Kagi Browser Extension](#browser_extension)
+- [Option 1: Use Orion browser by Kagi (currently for macOS/iOS only)](#orion)
+- [Option 2: Using the Kagi Browser Extension](#browser_extension)
   - [Access to Safari Browsing History](#safari_extension)
   - [Note for Brave Browser Users](#brave_extension)
-- [Option 2: Manual Configuration](#manual_configuration)
-  - [Chromium-Based Browsers (Chrome, Edge, Brave, Opera, Vivaldi...)](#chromium_browsers)
+  - [Note for Opera Browser Users](#opera_extension)
+- [Option 3: Manual Configuration](#manual_configuration)
+  - [Chromium-Based Browsers (Chrome, Edge, Brave, Vivaldi, Arc...)](#chromium_browsers)
     - [Desktop](#chromium_desktop)
     - [Mobile](#chromium_mobile)
   - [Firefox-Based Browsers](#firefox_browsers)
@@ -25,20 +26,20 @@
 
 
 <a name="orion"></a>
-## Option 0: Use Orion browser by Kagi (currently for macOS/iOS only) {#orion}
+## Option 1: Use Orion browser by Kagi (currently for macOS/iOS only) {#orion}
 
 If you use Apple devices with macOS/iOS/iPadOS you can use Orion browser by Kagi. It has Kagi built-in and is the easiest option to start using Kagi.
 
 [Download Orion](https://browser.kagi.com).
 
 <a name="browser_extension"></a>
-## Option 1: Using the Kagi Browser Extension {#browser_extension}
+## Option 2: Using the Kagi Browser Extension {#browser_extension}
 
 Kagi is available as an extension for all major browsers. The extension sets Kagi as the default search engine and allows you to **search with Kagi even in a private window without logging in** (this can be also set manually with the use of a [private session link](https://help.kagi.com/kagi/getting-started/setting-default.html#private_session).
 
 Extension download links:
 
-- [Chromium-based browsers](https://chrome.google.com/webstore/detail/cdglnehniifkbagbbombnjghhcihifij) (Chrome, Edge, Brave, Opera, Vivaldi...)
+- [Chromium-based browsers](https://chrome.google.com/webstore/detail/cdglnehniifkbagbbombnjghhcihifij) (Chrome, Edge, Brave, Vivaldi, Arc...)
 - [Firefox-based browsers](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)
   - If you use Firefox on Android, check out [this guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/). Android doesn't set Kagi as the default search engine, but it allows search in private mode to work normally.
   - After installing the extension, go to the extension settings (click the puzzle piece in the top right corner of the browser window) for Kagi and enter your [private session token URL](#private_session) to be logged in automatically even when cookies have been deleted.
@@ -66,8 +67,13 @@ In addition to installing the Kagi Browser Extension, Brave users must also make
 2. Turn on the "Index other search engines" option.
 
 
+<a name="opera_extension"></a>
+### Note for Opera Users: No Longer Compatible {#opera_extension}
+
+Opera is no longer compatible as it is restricting users from using alternative search engines. If you are an Opera user you can [reach out to Opera](https://opera.atlassian.net/servicedesk/customer/portal/9) and request them to add Kagi to their list of search engines.
+
 <a name="manual_configuration"></a>
-## Option 2: Manual Configuration {#manual_configuration}
+## Option 3: Manual Configuration {#manual_configuration}
 
 You can configure your web browser manually to use Kagi as its default search engine.
 
@@ -75,7 +81,7 @@ If you are interested in using Kagi in private (incognito) browser windows, be s
 
 
 <a name="chromium_browsers"></a>
-### Chromium-Based Browsers (Chrome, Edge, Brave, Opera, Vivaldi...) {#chromium_browsers}
+### Chromium-Based Browsers (Chrome, Edge, Brave, Vivaldi, Arc...) {#chromium_browsers}
 
 
 <a name="chromium_desktop"></a>
@@ -88,6 +94,8 @@ If you are interested in using Kagi in private (incognito) browser windows, be s
     - **Query URL:** https://kagi.com/search?q=%s
 3. Click the three dots.
 4. Click **Make default**.
+
+Note: Opera is no longer compatible as it is restricting users from using alternative search engines. If you are an Opera user you can [reach out to Opera](https://opera.atlassian.net/servicedesk/customer/portal/9) and request them to add Kagi to their list of search engines.
 
 <img src="./media/kagi_default_chrome.jpg" width="675" alt="Setting Kagi as Default Search Engine in Chrome"><br />
 
