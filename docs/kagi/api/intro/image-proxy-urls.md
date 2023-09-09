@@ -1,7 +1,7 @@
 # Image Proxy URLs
 
 Some API results will contain links to images using our proxy infrastructure,
-for protecting user privacy from the source image's webserver.
+for protecting user privacy from the source image's web server.
 
 It will be noted in the object documentation if the URL will be proxied or
 not.

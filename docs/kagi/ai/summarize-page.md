@@ -11,7 +11,7 @@ There are currently four ways to summarize a page:
 All, apart from the API, are free for every paid Kagi user.
 
 Summarize Page is made using Kagi's own, in-house models. There are currently two models in use:
-1. Agnes (accessable via either the web or the API)
+1. Agnes (accessible via either the web or the API)
 2. Muriel (currently API only)
 
 ## In search results
