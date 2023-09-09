@@ -35,7 +35,7 @@ If you use Apple devices with macOS/iOS/iPadOS you can use Orion browser by Kagi
 <a name="browser_extension"></a>
 ## Option 2: Using the Kagi Browser Extension {#browser_extension}
 
-Kagi is available as an extension for all major browsers. The extension sets Kagi as the default search engine and allows you to **search with Kagi even in a private window without logging in** (this can be also set manually with the use of a [private session link](https://help.kagi.com/kagi/getting-started/setting-default.html#private_session).
+Kagi is available as an extension for all major browsers. The extension sets Kagi as the default search engine and allows you to **search with Kagi even in a private window without logging in** (this can be also set manually with the use of a [private session link](https://help.kagi.com/kagi/getting-started/setting-default.html#private_session)).
 
 Extension download links:
 

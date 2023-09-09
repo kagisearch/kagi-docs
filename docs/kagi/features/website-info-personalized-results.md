@@ -39,7 +39,7 @@ You can see your Personalized Results for all websites in [Settings](https://kag
 
 ## Personalization Leaderboard
 
-Wonder what domains are the most popular among Kagi users to modify the rankings of? Check the [Personalization Leaderboard](https://kagi.com/settings?p=rule_leaderboard). We aggregrate the rankings of domains that have been tagged by other Kagi users.
+Wonder what domains are the most popular among Kagi users to modify the rankings of? Check the [Personalization Leaderboard](https://kagi.com/settings?p=rule_leaderboard). We aggregate the rankings of domains that have been tagged by other Kagi users.
 
 
 <img src="https://kagifeedback.org/assets/files/2023-07-01/1688193924-891326-image.png" width="675" alt="Personalization leaderboard"><br />
