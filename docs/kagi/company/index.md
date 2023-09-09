@@ -10,7 +10,7 @@ Kagi Inc. is a company created with the mission to humanize the web. Our goal is
 
 Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi) and [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky). Our team is a fully remote team operating on all continents.
 
-[Kagi has raised $670K](https://blog.kagi.com/safe-round) in our first external fundraise, thanks to 42 accredited investors who are also Kagi users.
+Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023 [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi members in its first external fundraise.
 
 Kagi Inc. currently has two products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser.
 
@@ -41,7 +41,7 @@ Kagi is pronounced as kah-gee. You can [listen to the pronunciation](https://ww
 
 More Kagi assets are available on the [Kagi Assets](https://kagi.com/assets) page.
 
-People sometimes ask why does Kagi have a "g" logo in the Google ballpark rather than a "k"?
+People sometimes ask: why does Kagi have a "g" logo in the Google ballpark rather than a "k"?
 
 Our designer insisted the Kagi logo is "anchored" in the letter "g," and we had to agree. Besides, we can't let Google own the letter "g" too, can we? ;)
 
