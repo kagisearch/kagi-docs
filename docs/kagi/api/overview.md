@@ -13,6 +13,8 @@ results & more.
 
 We have the following APIs available.
 
+### Commercial
+
 - [Kagi Search API](search.md) (invite only at the moment)
 - [Web and News Enrichment API](enrich.md) (public, exposes Kagi's own indexes Teclis and TinyGem)
 - [Universal Summarizer API](summarizer.md) (public)
@@ -23,6 +25,11 @@ Quick start for all APIs:
 1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account).
 2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
 3. Call the API.
+
+### Free
+
+- [Kagi Small Web RSS feed](smallweb.md) (public)
+  
 
 ## Unofficial Client Libraries
 
