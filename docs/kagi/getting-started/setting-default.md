@@ -80,6 +80,16 @@ You can configure your web browser manually to use Kagi as its default search en
 If you are interested in using Kagi in private (incognito) browser windows, be sure to check our section on [private session tokens​](https://help.kagi.com/kagi/getting-started/setting-default.html#private_session).
 
 
+<a name="custom_use"></a>
+### Custom Use {#custom_use}
+
+For a search URL use:
+[https://kagi.com/search?q={searchTerms}](https://kagi.com/search?q={searchTerms})
+
+and for autosuggestions use:
+[https://kagi.com/api/autosuggest?q={searchTerms}](https://kagi.com/api/autosuggest?q={searchTerms})
+
+
 <a name="chromium_browsers"></a>
 ### Chromium-Based Browsers (Chrome, Edge, Brave, Vivaldi, Arc...) {#chromium_browsers}
 
@@ -208,15 +218,6 @@ If you prefer to use Safari, you can use the [Kagi Search for Safari extension](
     - **Search string to use**: (use your [session link](https://kagi.com/settings?p=user_details) and append `&q=%s` at the end)
 1. Tap **Save**.
 
-
-<a name="custom_use"></a>
-### Custom Use {#custom_use}
-
-For a search URL use:
-[https://kagi.com/search?q={searchTerms}](https://kagi.com/search?q={searchTerms})
-
-and for autosuggestions use:
-[https://kagi.com/api/autosuggest?q={searchTerms}](https://kagi.com/api/autosuggest?q={searchTerms})
 
 
 <a name="private_session"></a>
