@@ -14,7 +14,7 @@ Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi rais
 
 Kagi Inc. currently has two products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser.
 
-Want to learn more? Read about  [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" which basically functions as our manifesto.
+Want to learn more? Read about  [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) (interview with Kagi's founder Vladimir Prelovac) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which basically functions as our manifesto.
 
 Our company headquarters are in Palo Alto, CA.
 
