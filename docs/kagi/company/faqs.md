@@ -58,6 +58,24 @@ Kagi Search requires an account only because it is a paid service which requires
 
 Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as [Privacy](https://privacy.com/) if you want to.
 
+
+## What data does Kagi collect?
+
+Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy/privacy-protection.md) for more information.
+
+
+## I am still worried about my private information and searches being linked together. Why should I trust you?
+
+Queries you type are never associated with your account. The reasons are:
+
+- There is no motive, only liability. Not only do we not tie searches to your account to operate the service, but it would require extra infrastructure and cost to do it plus be a large liability and attack vector on our business. All that with zero benefit to us or our users.
+- You can create a Kagi account with any email address including a fake one (we do not care or verify it, it is just an id for logging it)
+- We have transparent and user-friendly [privacy policy](https://kagi.com/privacy)
+- If you are still skeptical, you can [pay anonymously using OpenNode](https://blog.kagi.com/accepting-paypal-bitcoin). In combination with a random email id, this guarantees anonymity from a technical perspective. 
+
+Kagi’s business model is unlike any other search engine in the world. This means we don’t need or want your personal information (it would just be an unwelcome liability). By choosing this business model we know that we are going to have far less users than mainstream search engine for example, but we have also removed any incentive to misuse any information you have shared with us.
+
+
 ## Why does Kagi Search require an email address?
 
 We require an email address to be able to verify the account really belongs to you in the following cases:
@@ -69,16 +87,6 @@ We require an email address to be able to verify the account really belongs to y
 Note that you can use an anonymous email provider such as [SimpleLogin](https://simplelogin.io) with Kagi Search and it is up to you what email address you want to use.
 
 Kagi does need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription product business.
-
-## I have privacy concerns over linking my search queries with my credit card. Why should I trust you?
-
-We do not log search queries. Queries you type are never associated with your account. The simple reason is we don't have any reason to do so, as it would only be a liability for us. We are in the business of selling search results, not user data.
-
-You can also check our [privacy policy](https://kagi.com/privacy) for more information.
-
-## What data does Kagi collect?
-
-Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy/privacy-protection.md) for more information.
 
 ## Where are your results coming from?
 
@@ -137,19 +145,6 @@ We also empower our members with powerful tools like [domain preferences](../fea
 Paid models like Kagi only make money when users pay us, and users only pay when they receive great value. We offer superior result quality, features, speed and of course privacy. If we compromise on any of these points, we lose users. Therefore we have to offer a better product that includes the best possible privacy.
 
 We designed our product to give you a good answer and get you on your way instead of forcing you to wade through a swamp of results that have leeches lurking under the surface.
-
-## What data does Kagi collect?
-Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) for more information.
-
-## I am still worried about my private information and searches being linked together. Why should I trust you?
-
-Let us reiterate that we do not log searches or in any way tie them to an account. Our business model is to sell subscriptions, not user data.
-
-While it is virtually impossible for us to prove that, nor it is impossible to charge for the service without people having an account, we simply have no incentive to do it.
-
-Kagi’s business model is unlike any other search engine. This means we don’t need or want your personal information (it would just be an unwelcome liability). In fact the only data we take is the email address, which can be any email address really, as long as you can use it to recover your account. There is no other personal information shared with Kagi. By choosing this business model we know that we are going to have far less users than mainstream search engine for example, but we have also removed any incentive to misuse any information you have shared with us.
-
-
 
 ## Are you affiliated with the legendary Kagi shareware platform?
 
