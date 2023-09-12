@@ -32,7 +32,7 @@ Kagi offers several prebuilt lenses. The following are available by default:
 
 The following lenses need to be activated from the [Lenses](https://kagi.com/settings?p=lenses) settings.
 
-- **Non-commercial**: results that favor noncommercial domains and topics.
+- **Small Web**: results that favor noncommercial domains and topics.
 - **Recipes**: common sense recipes from sites with no ads.
 
 ## Lens Example
