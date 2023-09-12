@@ -12,9 +12,9 @@ Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) 
 
 Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi members in its first external fundraise.
 
-Kagi Inc. currently has two products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser.
+Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser. We also have a number of other products such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt), [Kagi Small Web](https://blog.kagi.com/small-web), [open-source projects](https://github.com/kagisearch) and [APIs](https://help.kagi.com/kagi/api/overview.html).
 
-Want to learn more? Read about  [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) (interview with Kagi's founder Vladimir Prelovac) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which basically functions as our manifesto.
+Want to learn more? Read about  [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) (interview with Kagi's founder Vladimir Prelovac) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which serves as our manifesto.
 
 Our company headquarters are in Palo Alto, CA.
 
