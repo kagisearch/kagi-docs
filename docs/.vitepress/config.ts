@@ -248,6 +248,7 @@ function sidebarKagi() {
                         { text: 'FastGPT API', link: '/kagi/api/fastgpt' },
                         { text: 'Search API', link: '/kagi/api/search' },
                         { text: 'Enrichment API', link: '/kagi/api/enrich' },
+                        { text: 'Small Web RSS Feed', link: '/kagi/api/smallweb' },
                     ]
                 }
 
