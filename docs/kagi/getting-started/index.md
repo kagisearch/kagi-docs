@@ -26,6 +26,22 @@ Kagi's personalization options lets you customize your results including elimina
 <br />
 <br />
 
+
+## Refining Search Results
+
+Just below the search box you can quickly filter for the types of results such as Images or Podcasts or you can use [Kagi Lenses.](https://help.kagi.com/kagi/features/lenses.html) Lenses are search filters and rules applied to search results. Built-in Lenses include Forums (results from the thousands of specialized online communities as well as Reddit), Academic (results from academic institutions), and Programming (coding forums and websites) and more. Custom Lenses can be created as well.
+
+<img src="./media/kagi_lenses.png" width="675" alt="Kagi Lenses"><br />
+<br />
+<br />
+
+You can also use [Search operators ](https://help.kagi.com/kagi/features/search-operators.html) to tune your results.  For instance the filetype: operator can limit results to specific filetypes.  E.g. adding “filetype:xlsx” to your query will limit your results to only Microsoft Excel files.  A quick reference of search operators is available from anywhere on kagi.com by typing “?” [Note: make sure you’re not typing into a form or text box when entering “?” to bring up the reference window.]
+
+<img src="./media/search_operators.png" width="675" alt="Search operators reference"><br />
+<br />
+<br />
+
+
 ## Summarize Results (Quick Answer)<a id='summarize-results'></a>
 
 Quick Answer (aka [Summarize Results](https://help.kagi.com/kagi/ai/summarize-results.html)) extracts and summarizes the important content from the search results including links to the source material.
@@ -51,20 +67,6 @@ Clicking the three dot icon next to a search result brings up page options. [Sum
 Example:
 
 <img src="./media/summarize_page_example.png" width="675" alt="Summarize Page Example"><br />
-<br />
-<br />
-
-## Refining Search Results
-
-Just below the search box you can quickly filter for the types of results such as Images or Podcasts or you can use [Kagi Lenses.](https://help.kagi.com/kagi/features/lenses.html) Lenses are search filters and rules applied to search results. Built-in Lenses include Forums (results from the thousands of specialized online communities as well as Reddit), Academic (results from academic institutions), and Programming (coding forums and websites) and more. Custom Lenses can be created as well.
-
-<img src="./media/kagi_lenses.png" width="675" alt="Kagi Lenses"><br />
-<br />
-<br />
-
-You can also use [Search operators ](https://help.kagi.com/kagi/features/search-operators.html) to tune your results.  For instance the filetype: operator can limit results to specific filetypes.  E.g. adding “filetype:xlsx” to your query will limit your results to only Microsoft Excel files.  A quick reference of search operators is available from anywhere on kagi.com by typing “?” [Note: make sure you’re not typing into a form or text box when entering “?” to bring up the reference window.]
-
-<img src="./media/search_operators.png" width="675" alt="Search operators reference"><br />
 <br />
 <br />
 
