@@ -8,7 +8,7 @@ With the Ultimate Plan you have access to un-metered searches. AI tools interact
 
 ## Discounted access to Kagi API services
 
-Perks of the Ultimate plan include discounted access to Universal Summarizer API (TBD) and other API services we publish in the future.
+Perks of the Ultimate plan include discounted access to the [Universal Summarizer API](../api/summarizer.md) and other API services we publish in the future.
 
 ## Annual Pricing Discount
 
