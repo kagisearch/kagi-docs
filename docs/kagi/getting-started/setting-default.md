@@ -8,6 +8,8 @@
   - [Note for Brave Browser Users](#brave_extension)
   - [Note for Opera Browser Users](#opera_extension)
 - [Option 3: Manual Configuration](#manual_configuration)
+  - [Custom use](#custom_use)
+  - [Private Session link (use Kagi in private windows without logging in)](#private_session)
   - [Chromium-Based Browsers (Chrome, Edge, Brave, Vivaldi, Arc...)](#chromium_browsers)
     - [Desktop](#chromium_desktop)
     - [Mobile](#chromium_mobile)
@@ -22,7 +24,7 @@
     - [Android Mobile](#firefox_focus_android_mobile)
     - [iOS](#firefox_focus_ios)
   - [Custom Use](#custom_use)
-- [**Private Session link** (use Kagi in private windows without logging in)](#private_session)
+
 
 
 <a name="orion"></a>
@@ -83,11 +85,21 @@ If you are interested in using Kagi in private (incognito) browser windows, be s
 <a name="custom_use"></a>
 ### Custom Use {#custom_use}
 
-For a search URL use:
-[https://kagi.com/search?q={searchTerms}](https://kagi.com/search?q={searchTerms})
+If you want to manually set Kagi ase a default search engine, use these settings:
 
-and for autosuggestions use:
-[https://kagi.com/api/autosuggest?q={searchTerms}](https://kagi.com/api/autosuggest?q={searchTerms})
+- Kagi Search URL [https://kagi.com/search?q={searchTerms}](https://kagi.com/search?q={searchTerms})
+
+- Kagi auto suggestions URL [https://kagi.com/api/autosuggest?q={searchTerms}](https://kagi.com/api/autosuggest?q={searchTerms})
+
+
+<a name="private_session"></a>
+## Private Session Link {#private_session}
+
+To use Kagi Search inside a private browser window without logging in, you can use the Session Link feature found in your [Account Settings](https://kagi.com/settings?p=user_details).
+
+The session link will include a special token that will allow you to log into Kagi even in a private browsing window.
+
+Read more about [Session Link](../privacy/private-browser-sessions.md)
 
 
 <a name="chromium_browsers"></a>
@@ -220,17 +232,3 @@ If you prefer to use Safari, you can use the [Kagi Search for Safari extension](
 1. Tap **Save**.
 
 
-
-<a name="private_session"></a>
-## Private Session Link {#private_session}
-
-To use Kagi Search inside a private browser session, you can use the Session Link found in your [Account Settings](https://kagi.com/settings?p=user_details).
-
-The session link will include a special token that will allow you to log into Kagi even in a private browsing window.
-
-#### Using Private Session Link With Android Chromium Based Browsers:
-
-- Paste your session link into the address bar and open it.
-- Open a new tab and navigate to https://kagi.com and submit a search
-- Open your browser’s settings. Choose Search engine.
-- Select Kagi from the Recently Visited section.
