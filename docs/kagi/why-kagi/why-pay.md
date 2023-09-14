@@ -6,7 +6,7 @@ Think about it. Do you want the results you find in your search engine to give y
 
 Every "free" search engine out there comes with a hidden cost. Your private details pass through your searches, and search results influenced by advertising influence your thoughts. Businesses that monetize your data owe you more than just a "free" account! Our stand against ad-supported business models gives you a 100% ad-free search experience.
 
-If you want a search experience tailored to you and your needs, one that could also make the world a slightly better place, then you need to break free from the ruts that advertisers and corporations have guided us into. Investing in Kagi is investing in a more humane web and your online future. It also invests in your children's future so they won't be bombarded with ads from an early age.
+If you want a search experience tailored to [you and your needs](../getting-started/index.md#personalize-results), one that could also make the world a slightly better place, then you need to break free from the ruts that advertisers and corporations have guided us into. Investing in Kagi is investing in a more humane web and your online future. It also invests in your children's future so they won't be bombarded with ads from an early age.
 
 ## Ad-Supported Search Engines Don't Work for the Future of the Web
 
