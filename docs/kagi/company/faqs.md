@@ -52,6 +52,8 @@ This token is attached to the session it was copied from. You can log out of tha
 
 You can use private session token manually, or through [Kagi browser extensions](../getting-started/setting-default.md).
 
+Read more about [Session Link](../privacy/private-browser-sessions.md).
+
 ## Why does Kagi Search require an account?
 
 Kagi Search requires an account only because it is a paid service which requires an account for the transaction.
