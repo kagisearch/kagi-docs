@@ -11,9 +11,9 @@ Kagi helps you find exactly what you're looking for online. It has a few more ca
 ## Table of Contents
 
 - [Personalize Results](#personalize-results)
+- [Refining Search Results](#refining-search-results)
 - [Summarize Results](#summarize-results)
 - [Summarize Page](#summarize-page)
-- [Refining Search Results](#refining-search-results)
 - [Sharing Search Results](#sharing-search-results)
 - [Set Kagi as your default search engine](#set-kagi-as-your-default-search-engine)
 - [Kagi member communities](#kagi-member-communities)
