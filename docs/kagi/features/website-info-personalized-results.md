@@ -10,14 +10,6 @@ To the right of each Kagi search result is a shield icon. Hovering over the icon
 
 <img src="./media/crystal_ball.png" width="675" alt="Crystal Ball Icon">
 
-## Web Archive & More Results
-
-Near the top of the information window for the search result are two links you can use:
-
-- **Open result in Web Archive** will show you the history of the webpage at the [Wayback Machine](https://archive.org/).
-- **More results from this site** will perform the same Kagi search again, but with results limited to the website of your initial result.
-
-<img src="./media/links.png" width="675" alt="Web Archive and More Results Links">
 
 ## Personalized Results
 
@@ -56,3 +48,13 @@ The information may include:
 - How fast the website responds to requests
 
 <img src="./media/website_info.png" width="675" alt="Website Information">
+
+
+## Web Archive & More Results
+
+Near the top of the information window for the search result are two links you can use:
+
+- **Open result in Web Archive** will show you the history of the webpage at the [Wayback Machine](https://archive.org/).
+- **More results from this site** will perform the same Kagi search again, but with results limited to the website of your initial result.
+
+<img src="./media/links.png" width="675" alt="Web Archive and More Results Links">
