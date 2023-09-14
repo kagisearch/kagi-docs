@@ -34,6 +34,18 @@ If you use Apple devices with macOS/iOS/iPadOS you can use Orion browser by Kagi
 
 [Download Orion](https://browser.kagi.com).
 
+Tip: It is recommended you enter your private session link in Orion settings, as it will allow you to use Kagi in private windows and after clearing cookies. To do this, first go to **Orion** > **Settings**.
+
+<img src="./media/macos_setting_default_1_orion_settings_menu.png" width="500" alt="Orion - Settings Menu"><br />
+
+Next, go to the **Search** tab, select Kagi under **Search engine**, then click on **Kagi Settings**.
+
+<img src="./media/macos_setting_default_2_orion_kagi_settings.png" width="500" alt="Orion - Kagi Settings"><br />
+
+A modal will appear, click the **Get Your Session Link** button to get the link with your token and paste it in the text field, then click **OK**.
+
+<img src="./media/macos_setting_default_3_orion_session_link.png" width="500" alt="Orion - Session Link"><br />
+
 <a name="browser_extension"></a>
 ## Option 2: Using the Kagi Browser Extension {#browser_extension}
 
