@@ -1,16 +1,13 @@
 # Contribute
 
-The Kagi user community is a diverse and passionate group of people who help make Kagi better.
+The Kagi user community is a vibrant, diverse, and passionate group that plays a vital role in enhancing the Kagi platform. We value each contribution that helps make Kagi better. Here are several ways you can contribute:
 
-Here are a few ways you cna contribute:
+- **Spread the word**: The simplest yet most impactful way to contribute is by spreading the word about Kagi. Share your positive experiences with friends, family, and your social circle. Assist others in setting up Kagi, and consider gifting [Kagi gift cards](https://help.kagi.com/kagi/plans/gift-kagi.html) on special occasions.
+- **Report bugs and suggest features**: We appreciate your vigilance in reporting bugs and suggesting new features. Please share your observations and ideas at [KagiFeedback.org](https://kagifeedback.org).
+- **Join our Discord community**: Be a part of the [Kagi Discord](https://kagi.com/discord) community to assist others with their queries and to engage in enriching discussions.
+- **Contribute to Kagi documentation**: Help us in enhancing our documentation. Each page on our site is editable; feel free to add or amend content using the link at the bottom of each page. Contributions are typically merged on the same day.
+- **Translation**: Assist in [translating Kagi](./contribute_translations.md) into other languages, helping us reach a wider audience globally.
+- **Work on Kagi open-source projects**: If you are interested in open-source projects, we have a [range of projects](./open-source.md) you can contribute to.
+- **Develop add-ons**: Use your creativity and skills to develop [add-ons for Kagi](../community-addons/index.md), enhancing its functionality and user experience.
 
-- The easiest and most powerful way to contribute is to simply spread the word. Tell your friends, family and social circle about Kagi. Help set up Kagi for a few people in person. Send a [Kagi gift card](https://help.kagi.com/kagi/plans/gift-kagi.html) to a family member or friend for their birthday.
-- Report bugs and post feature suggestions on [KagiFeedback.org](https://kagifeedback.org).
-- Join or user community on [Kagi Discord](https://kagi.com/discord) and help others with questions.
-- Contribute to Kagi documentation. Every page on this site is editable, just click the link on the bottom of the page and start chaning/adding more content. This will usually get merged the same day.
-- Contribute to [translating Kagi](./contribute_translations.md) to other languages.
-- Contribute to [Kagi open source projects](./open-source.md). We have many to pick from!
-- Create [addons](https://help.kagi.com/kagi/community-addons/) for Kagi.
-
-
-We often give contributors special perks, like preview of new features or get them involved with important decisions. For these perks make sure to be a part of our [Discord](https://kagi.com/discord).
+We often reward our contributors with special perks, such as previews of new features and involving them in important decisions. To avail these perks, make sure to join our [Discord community](https://kagi.com/discord).
