@@ -105,7 +105,7 @@ If you want to manually set Kagi ase a default search engine, use these settings
 
 
 <a name="private_session"></a>
-## Private Session Link {#private_session}
+### Private Session Link {#private_session}
 
 To use Kagi Search inside a private browser window without logging in, you can use the Session Link feature found in your [Account Settings](https://kagi.com/settings?p=user_details).
 
