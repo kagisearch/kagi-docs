@@ -50,13 +50,14 @@ A modal will appear, click the **Get Your Session Link** button to get the link 
 <a name="browser_extension"></a>
 ## Option 2: Using the Kagi Browser Extension {#browser_extension}
 
-Kagi is available as an extension for all major browsers. The extension sets Kagi as the default search engine and allows you to **search with Kagi even in a private window without logging in** (this can be also set manually with the use of a [private session link](https://help.kagi.com/kagi/getting-started/setting-default.html#private_session)).
+Kagi is available as an extension for all major browsers. The extension sets Kagi as the default search engine and allows you to **search with Kagi even in a private window without logging in** (this can be also set manually with the use of a [private session link](#private_session)).
 
 Extension download links:
 
 - [Chromium-based browsers](https://chrome.google.com/webstore/detail/cdglnehniifkbagbbombnjghhcihifij) (Chrome, Edge, Brave, Vivaldi, Arc...)
+  - After installing the extension make sure to [set Kagi as your default search engine](#chromium_browsers).
 - [Firefox-based browsers](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)
-  - If you use Firefox on Android, check out [this guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/). Android doesn't set Kagi as the default search engine, but it allows search in private mode to work normally.
+  - If you use Firefox on Android, check out [this guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/). There are [many known limitations](https://github.com/kagisearch/browser_extensions/issues/3) with the extension here, though.
   - After installing the extension, go to the extension settings (click the puzzle piece in the top right corner of the browser window) for Kagi and enter your [private session token URL](#private_session) to be logged in automatically even when cookies have been deleted.
 - [Safari for macOS](https://apps.apple.com/app/kagi-search-for-safari/id1622835804)
 - [Safari for iOS and iPadOS](https://apps.apple.com/app/kagi-search-for-safari/id1607766153)
@@ -102,7 +103,7 @@ Opera is no longer compatible as it is restricting users from using alternative 
 
 You can configure your web browser manually to use Kagi as its default search engine.
 
-If you are interested in using Kagi in private (incognito) browser windows, be sure to check our section on [private session tokens​](https://help.kagi.com/kagi/getting-started/setting-default.html#private_session).
+If you are interested in using Kagi in private (incognito) browser windows, be sure to check our section on [private session tokens​](#private_session).
 
 
 <a name="custom_use"></a>
@@ -128,6 +129,7 @@ Read more about [Session Link](../privacy/private-browser-sessions.md)
 <a name="chromium_browsers"></a>
 ### Chromium-Based Browsers (Chrome, Edge, Brave, Vivaldi, Arc...) {#chromium_browsers}
 
+Unfortunately, as [this github issue](https://github.com/kagisearch/browser_extensions/issues/2) is tracking, there is a limitation with Chromium-based browsers, which don't allow extensions to set default search engines. As such, you need to do it manually.
 
 <a name="chromium_desktop"></a>
 #### Desktop {#chromium_desktop}
@@ -136,7 +138,7 @@ Read more about [Session Link](../privacy/private-browser-sessions.md)
 2. Click **Add** and fill in these details:
     - **Search engine:** Kagi Search
     - **Keyword:** kagi
-    - **Query URL:** https://kagi.com/search?q=%s
+    - **Query URL:** `https://kagi.com/search?q=%s` if you're not planning to use Kagi in private search. If you are, then use `https://kagi.com/search?token=TOKEN&q=%s` with the token found in your [private session tokens​](#private_session) replacing `TOKEN`.
 3. Click the three dots.
 4. Click **Make default**.
 
@@ -171,8 +173,7 @@ If you want to have Kagi Search easily available on Android after configuring Ch
 2. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
 3. Scroll to **Default Search Engine** and select **Kagi** from the dropdown.
 
-To set up a private session link in Firefox, use [this extension](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/) with:
-[https://kagi.com/search?token=TOKEN&q=%s](https://kagi.com/search?token=TOKEN&q=%s)
+To set up a private session link in Firefox, use [this extension](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/) with `https://kagi.com/search?token=TOKEN&q=%s` with the token found in your [private session tokens​](#private_session) replacing `TOKEN`. 
 
 <img src="./media/kagi_default_firefox1.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 1">
 
@@ -253,5 +254,3 @@ If you prefer to use Safari, you can use the [Kagi Search for Safari extension](
     - **Name to display**: `Kagi`
     - **Search string to use**: (use your [session link](https://kagi.com/settings?p=user_details) and append `&q=%s` at the end)
 1. Tap **Save**.
-
-
