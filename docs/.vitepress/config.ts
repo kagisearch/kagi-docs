@@ -222,7 +222,7 @@ function sidebarKagi() {
                 },
 
                 {
-                    text: 'Community Addons', link: '/kagi/community-addons/',
+                    text: 'Community Add-ons', link: '/kagi/community-addons/',
                 }
             ]
         },
