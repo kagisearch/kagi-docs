@@ -72,7 +72,7 @@ To set up the Kagi extension for Safari on macOS click on the extension icon in 
 - Use the **Get Your Session Link** button to get the link with your personal token.
 - Paste the Session Link in the text field. This will allow you to use Kagi Search in private windows.
 
-<img src="./media/macos_setting_default_4_safari_extension.png" width="500" alt="Using Orion Notes"><br />
+<img src="./media/macos_setting_default_4_safari_extension.png" width="500" alt="Kagi Extension for Safari"><br />
 
 
 <a name="safari_extension"></a>
