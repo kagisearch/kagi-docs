@@ -4,7 +4,8 @@
 
 - [Option 1: Use Orion browser by Kagi (currently for macOS/iOS only)](#orion)
 - [Option 2: Using the Kagi Browser Extension](#browser_extension)
-  - [Access to Safari Browsing History](#safari_extension)
+  - [Setting up the Extension](#setting_up_extension)
+  - [Note for Safari Users: Browsing History](#safari_extension)
   - [Note for Brave Browser Users](#brave_extension)
   - [Note for Opera Browser Users](#opera_extension)
 - [Option 3: Manual Configuration](#manual_configuration)
@@ -62,6 +63,16 @@ Extension download links:
 - The [xSearch](https://apps.apple.com/us/app/xsearch-for-safari/id1579902068) and [HyperWeb](https://apps.apple.com/us/app/hyperweb/id1581824571) extensions for Safari also support Kagi
 
 If you are a macOS, iOS, or iPadOS user, you can complement your Kagi experience with the free [Orion](https://browser.kagi.com) web browser, produced by the same team that built Kagi Search.
+
+<a name="setting_up_extension"></a>
+### Setting up the Extension {#setting_up_extension}
+
+To set up the Kagi extension for Safari on macOS click on the extension icon in Safari's toolbar and then:
+- Make sure the **Make Kagi Default Search Engine** checkbox is checked to search Kagi from the address bar.
+- Use the **Get Your Session Link** button to get the link with your personal token.
+- Paste the Session Link in the text field. This will allow you to use Kagi Search in private windows.
+
+<img src="./media/macos_setting_default_4_safari_extension.png" width="500" alt="Using Orion Notes"><br />
 
 
 <a name="safari_extension"></a>
