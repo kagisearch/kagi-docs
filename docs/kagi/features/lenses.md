@@ -29,6 +29,7 @@ Kagi offers several prebuilt lenses. The following are available by default:
 - **World News**: recent information from a selection of global news outlets across the globe.
 - **Academic**: searches academic domains.
 - **PDF**: search for PDF files.
+- **Kagi Help and Feedback**: search Kagi's documentation and feedback websites.
 
 The following lenses need to be activated from the [Lenses](https://kagi.com/settings?p=lenses) settings.
 
