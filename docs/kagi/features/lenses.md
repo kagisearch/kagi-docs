@@ -63,3 +63,34 @@ Let's say you love movie news and reviews. You can make a Lens that searches onl
 <img src="./media/lens_results.png" width="500" alt="Lens Results"><br />
 
 Lenses are a powerful tool for making searches more useful. If you think about the types of things you search for often, you can probably create Lenses to make those searches more efficient and effective.
+
+## Sharing Lenses
+
+You can share a copy of your lens with other Kagi users.
+
+To enable lens sharing, first find the lens you want to share in your [Active Lens list](https://kagi.com/settings?p=lenses), and click the pencil icon to edit the lens.
+
+![Navigating to the lens you want to share](./media/share_lens_copy_navigate.png)
+
+In the Edit Lens form, find the checkbox Share Lens Link.
+Enable it, then press save at the bottom of the page.
+
+![Toggle Share Lens Link in your lens settings](./media/share_lens_copy_toggle.png)
+
+When you return to your lens list, you will see a new sharing icon that you can click to copy a sharing URL to your clipboard.
+
+![Appearance of lens with sharing enabled](./media/share_lens_copy_enabled.png)
+
+You can send this link to anyone with a Kagi account.
+When they open the link, they will be brought to the Create Lens form with all the options from your lens pre-filled.
+They can make any edits they like before saving it to their account.
+
+### How Sharing URLs Work
+
+When users open your sharing URL, it will pull the latest settings from your lens at that moment.
+This means you can make improvements or fixes to your lens without having to share a new URL.
+
+*After* users have copied your lens, it will not receive updates from the original one.
+
+Disabling the Share Lens option will invalidate the previously shared link.
+Re-enabling the Share Lens option will generate a new link.
