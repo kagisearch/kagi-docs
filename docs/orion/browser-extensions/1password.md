@@ -12,15 +12,19 @@
 
 ## 1Password App
 
-To use 1Password with Orion, you need to have the 1Password app installed (build 81009030 +), and set the 1Password release channel to **Nightly** (you can set it in **1Password** > **‌Settings** > **Advanced** > **Release Channel** > **Nightly** and then check for updates) since it allows browser whitelisting (you will need to add Orion as a whitelisted app).
-
-<img src="./media/macos_1password_1p_app_settings_menu.png" width="500" alt="1Password Settings Menu"><br />
-
-<img src="./media/macos_1password_1p_app_release_channel.png" width="500" alt="1Password Settings - Release Channel"><br />
+To use 1Password with Orion, you need to have the 1Password app installed (version 8.10.16 +), since it allows browser whitelisting (you will need to add Orion as a whitelisted app).
 
 ## Whitelisting Orion in 1Password
 
-To add Orion as a whitelisted app in 1Password, first choose **1Password** > **‌Settings** > **Browser** > **Add Browser**, then select **Orion** in your Applications folder and click **Open**, you will be presented with a modal to provide Orion with access to 1Password. To continue, press **Authorize**.
+To add Orion as a whitelisted app in 1Password, you first need to enable custom browser support, you can find this option in **1Password** > **‌Settings** > **Labs** > **Enable custom browser support** > **Connect to browsers not explicitly vetted by 1Password**.
+
+<img src="./media/macos_1password_1p_whitelisting_settings_menu.png" width="500" alt="1Password Settings Menu"><br />
+
+<img src="./media/macos_1password_1p_whitelisting_custom_browser_support.png" width="500" alt="1Password - Custom Browser Support"><br />
+
+<img src="./media/macos_1password_1p_whitelisting_connect_to_browsers.png" width="500" alt="1Password - Connect to Browsers"><br />
+
+Next, you need to add Orion to the list of Trusted Browsers, to do this go to **1Password** > **‌Settings** > **Browser** > **Add Browser**, then select **Orion** in your Applications folder and click **Open**, you will be presented with a modal to provide Orion with access to 1Password. To continue, press **Authorize**.
 
 <img src="./media/macos_1password_1p_whitelisting_settings_menu.png" width="500" alt="1Password Settings Menu"><br />
 
