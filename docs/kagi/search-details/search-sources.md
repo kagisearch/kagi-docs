@@ -17,7 +17,7 @@ For example, when you search for images in Kagi, we use 7 different sources of i
 ## Internal
 But most importantly, we are known for our unique results, coming from our web index (internal name - **Teclis**) and news index (internal name - **TinyGem**). Kagi's indexes provide unique results that help you discover non-commercial websites and "small web" discussions surrounding a particular topic. Kagi's Teclis and TinyGem indexes are both available as an [API](https://help.kagi.com/kagi/api/enrich.html).
 
-We do not stop there and we are always trying new things to surface relevant, high-quality results. For exampe, we recently launched the [Kagi Small Web](https://blog.kagi.com/small-web) initiative which platforms content from personal blogs and discussions around the web. Discovering high quality content written without the motive of financial gain, gives Kagi's search results a unique flavor and makes it feel more humane to use.
+We do not stop there and we are always trying new things to surface relevant, high-quality results. For example, we recently launched the [Kagi Small Web](https://blog.kagi.com/small-web) initiative which platforms content from personal blogs and discussions around the web. Discovering high quality content written without the motive of financial gain, gives Kagi's search results a unique flavor and makes it feel more humane to use.
 
 ## Niche sources
 
