@@ -116,6 +116,7 @@ function sidebarKagi() {
                     items: [
                         { text: 'Get Connected', link: '/kagi/support-and-community/roadmap_feedback' },
                         { text: 'Reporting a Bug', link: '/kagi/support-and-community/bug-reporting' },
+                        { text: 'Email Support', link: '/kagi/support-and-community/email-support' },
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
                     ]
                 },
