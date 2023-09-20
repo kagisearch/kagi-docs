@@ -37,7 +37,7 @@ Send your CV to [vlad@kagi.com](mailto:vlad@kagi.com).  We’ll send a test proj
 
 # Part-time opportunities
 
-## Kagi R&D Team
+**Kagi R&D Team**
 
 We are deeply committed to fostering a culture of research and development (R&D) at Kagi. Many of our groundbreaking technologies such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt) or [Small Web](https://kagi.com/smallweb) have their origins in our R&D initiatives. At any time we have 4-5 individuals working on R&D projects, with some eventually transitioning to full-time roles.
 
