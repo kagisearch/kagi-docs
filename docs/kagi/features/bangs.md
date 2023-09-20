@@ -38,7 +38,7 @@ You can use for example **!de [query]** or **!nl [query]** to switch your region
 ### Search on external websites
 
  
-- **!yt** \<query> for [YouTube] (https://youtube.com)
+- **!yt** \<query> for [YouTube](https://youtube.com)
 - **!r** \<query> for [Reddit](https://www.reddit.com)
 - **!u** \<query> for [Urban Dictionary](https://www.urbandictionary.com)
 - **!imd** \<query> for the [Internet Movie Database](https://www.imdb.com/)
