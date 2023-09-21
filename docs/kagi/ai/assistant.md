@@ -1,0 +1,50 @@
+# Assistant
+
+Kagi Assistant is an AI feature backed by Kagi Search and large language models.
+
+> Kagi Assistant is currently in closed beta and will be available soon.
+
+## Modes
+
+### Research
+
+Research assistant uses Kagi search and external sources like Wolfram Alpha, together with an AI model to answer your queries.
+
+This mode is available in two variants:
+
+- Fast: Kagi search coupled with a fast AI model. Optimized for speed, while not sacrificing quality. Access directly with the `!fast` bang.
+- Expert: Multiple Kagi searches (and external services) together with the best available AI model for the highest accuracy and comprehensive responses. Access directly with the `!expert` bang.
+
+### Code
+
+Code assistant is tuned for programming tasks and uses a powerful AI model for programming.
+
+For Starter and Professional members this modes uses gpt-3.5-turbo, and for Ultimate members it uses gpt-4.
+
+Access directly with the `!code` bang.
+
+### Chat
+
+Chat assistant allows direct access to a variety of large language models for creative tasks.
+
+This mode supports the following models:
+
+- OpenAI
+  - gpt-3.5-turbo
+  - gpt-4 (for Ultimate members)
+- Anthropic
+  - claude-instant
+  - claude-2 (for Ultimate members)
+- Google
+  - chat-bison
+  - code-bison (Codey)
+
+Access directly with the `!chat` bang.
+
+### Custom
+
+Custom assistant allows you to further customize one of the existing modes.
+
+Select the base mode (and variant/model where applicable) and add your own custom instructions. Setup is detailed in the [Assistant settings help page](../settings/assistant.md#custom-assistant).
+
+Access directly with the `!custom` bang.
