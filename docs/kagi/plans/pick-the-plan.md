@@ -13,7 +13,7 @@ If you find that you are consistently running out of searches at the end of each
 ## Consider the Ultimate Plan for Advanced Features
 
 If you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan. This gives you access to exclusive and early access to Kagi features and services.
-  * Note: Starting 9/21/2023, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.
+  * Note: Starting September 21st, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.
 
 ## Understand Your Consumption
 
