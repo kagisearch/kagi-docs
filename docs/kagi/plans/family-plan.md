@@ -9,7 +9,7 @@ The Kagi Family Plan is perfect for families wanting to search smarter, emphasiz
 **Table of Contents**
 
 - [How to Use the Kagi Family Plan](#using)
-- [Logging if for Kids](#kidslogin)
+- [Logging in for Kids](#kidslogin)
 - [Unique Features](#features)
   - [Kid-Friendly Search Experience](#kidfriendly)
   - [Parental Controls](#parental)
