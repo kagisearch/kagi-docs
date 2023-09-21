@@ -4,7 +4,7 @@ The Kagi Ultimate Plan provides the premier Kagi experience. The plan costs $25/
 
 ## Discounts and Early Access
 
-Discounted and early access to Kagi features and services. (Starting 9/21/2023, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.)
+Discounted and early access to Kagi features and services. (Starting September 21st, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.)
 
 ## Discounted access to Kagi API services
 
