@@ -4,7 +4,7 @@ Orion for macOS uses OS-level keyboard shortcuts. You may wish to change certain
 
 ## Table of Contents
 
-- [macOS Ventura (version 13)](#macos_ventura)
+- [macOS Ventura or later (version 13 +)](#macos_ventura)
 - [macOS Monterey (version 12)](#macos_monterey)
 
 <a name="macos_ventura"></a>
