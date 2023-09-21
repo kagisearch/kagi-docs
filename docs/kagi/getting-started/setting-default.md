@@ -134,12 +134,13 @@ Unfortunately, as [this github issue](https://github.com/kagisearch/browser_exte
 <a name="chromium_desktop"></a>
 #### Desktop {#chromium_desktop}
 
-1. Open this URL in your search bar: [chrome://settings/searchEngines](chrome://settings/searchEngines).
-2. Click **Add** and fill in these details:
+1. Right-click the Chrome address bar and choose **Manage Search Engines and Site Search**
+2. In the **Site Search** section about halfway down, click the **Add** button at its upper right and fill in these details:
     - **Search engine:** Kagi Search
     - **Keyword:** kagi
     - **Query URL:** `https://kagi.com/search?q=%s` if you're not planning to use Kagi in private search. If you are, then use `https://kagi.com/search?token=TOKEN&q=%s` with the token found in your [private session tokens​](#private_session) replacing `TOKEN`.
-3. Click the three dots.
+3. Find Kagi again in the Site Search section. You may have to click **Additional sites** at the bottom if you don't see it right away.
+3. Click the three dots next to the Kagi entry in the list.
 4. Click **Make default**.
 
 Note: Opera is no longer compatible as it is restricting users from using alternative search engines. If you are an Opera user you can [reach out to Opera](https://opera.atlassian.net/servicedesk/customer/portal/9) and request them to add Kagi to their list of search engines.
