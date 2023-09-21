@@ -14,6 +14,7 @@ We currently support these versions of macOS:
 - 11 (Big Sur)
 - 12 (Monterey)
 - 13 (Ventura)
+- 14 (Sonoma)
 
 We plan to add support for 10.13 (High Sierra) in the future.
 
