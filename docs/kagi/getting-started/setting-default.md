@@ -134,7 +134,7 @@ Unfortunately, as [this github issue](https://github.com/kagisearch/browser_exte
 <a name="chromium_desktop"></a>
 #### Desktop {#chromium_desktop}
 
-1. Right-click the Chrome URL bar and search "Manage Search Engines and Site Search"
+1. Right-click the Chrome URL bar and choose "Manage Search Engines and Site Search"
 2. In the "Site Search" section about halfway down, click the **Add** button at its upper right and fill in these details:
     - **Search engine:** Kagi Search
     - **Keyword:** kagi
