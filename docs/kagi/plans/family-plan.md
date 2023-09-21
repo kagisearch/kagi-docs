@@ -24,8 +24,8 @@ The Kagi Family Plan is perfect for families wanting to search smarter, emphasiz
 
 To sign up for the Family Plan, select the plan that fits your family's size and needs at Kagi [account creation](https://kagi.com/onboarding?p=choose_plan&plan=family).
 
-<!--![Family Plans](media/family_plans.png)
-<center><em>Select Family Plan at account creation</em></center>-->
+![Family Plans](./media/family_plans.png)
+<center><em>Select Family Plan at account creation</em></center>
 
 If you have an existing Kagi account and want to upgrade to the Family plan, everything you need to do is cancel your existing plan, and then resubscribe to the Family plan (any credit left over will be pro-rated).
 
@@ -41,8 +41,8 @@ The Family Plan dashboard gives you a complete picture of your family's members
 
 The Billing screen has the overview of the plan and allows you to update payment info or cancel the subscription.
 
-<!--<img src="https://staticmedia.kagi.com/family/billing.png" >
-<center><em>Billing screen</em></center>-->
+<img src="https://staticmedia.kagi.com/family/billing.png" >
+<center><em>Billing screen</em></center>
 
 
 <a name="kidslogin"></a>
