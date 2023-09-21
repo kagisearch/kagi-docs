@@ -6,6 +6,8 @@ next:
 
 # Plan Types
 
+> **Important Notice:** Our pricing changed on September 21st, please refer to our [blog post for a longer discussion.](https://blog.kagi.com/unlimited-searches-for-10)
+
 Kagi offers several individual subscriptions plans.
 
 ![Individual Plans](media/individual_plans.png)
@@ -14,7 +16,7 @@ Kagi offers several individual subscriptions plans.
 * The **Starter** plan offers 300 searches for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
 * The **Professional** plan offers unlimited searches for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
 * The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches an discounted and early access to Kagi features and services for USD $25 per month and offers the most power to the user.
-  * Note: Starting 9/21/2023, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.
+  * Note: Starting September 21st, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.
 
 We also offer [Family plans](./family-plan.md) for two or more people.
 
@@ -34,3 +36,5 @@ For any existing subscribers and early adopters who are interested in how legacy
 ## Why Tiered Pricing
 
 This tiered pricing system is easy to understand and ensures Kagi’s financial sustainability for the future so that we can continue to provide you with the tools to own your search experience as we pursue our mission to humanize the web.
+
+## Frequently Asked Questions
