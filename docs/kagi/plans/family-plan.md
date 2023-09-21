@@ -11,7 +11,7 @@ The Kagi Family Plan is perfect for families wanting to search smarter, emphasiz
 - [Unique Features](#features)
   - [Kid-Friendly Search Experience](#kidfriendly)
   - [Parental Controls](#parental)
-  - [AI Question Answering](#ai)
+  - [Quick Answers](#ai)
   - [Lenses](#lenses)
   - [Personalized Results](#pr)
   - [New Illustrations](#illustrations)
@@ -73,9 +73,9 @@ Kagi allows parents to toggle whether kids will have access to the search result
 Safe search filters exclude adult material from the search results.
 
 <a name="ai"></a>
-### AI Question Answering {#ai}
+### Quick Answers {#ai}
 
-AI tools can be beneficial for getting quick answers to common questions, but it's important to remember that they're not always accurate. As part of the Kagi Family Plan, we encourage families to talk to their kids about the potential risks and benefits of AI question-answering tools. It's important for kids to understand how these tools work and how to use them safely and responsibly in a way to nurture curiosity.
+We are featuring state of the art AI tools that can improve the quality of consumed information for kids. AI tools can be beneficial for getting quick answers to common questions, but it's important to remember that they're not always accurate. We encourage you to talk with kids about the potential risks and benefits of AI question-answering tools. It's important for kids to understand how these tools work and how to use them safely and responsibly in a way to nurture curiosity.
 
 We added appropriate warnings for AI tools around the interface and a particular content-moderation filter to ensure AI output does not contain harmful content.
 
