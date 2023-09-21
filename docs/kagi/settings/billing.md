@@ -1,6 +1,6 @@
 # Billing
 
-> **Important Notice:** Our pricing changed on March 15th, please review our [Plan Types](../plans/plan-types.md) for more information and refer to our [blog post for a longer discussion.](https://blog.kagi.com/update-kagi-search-pricing)
+> **Important Notice:** Our pricing changed on September 21st, please review our [Plan Types](../plans/plan-types.md) for more information and refer to our [blog post for a longer discussion.](https://blog.kagi.com/unlimited-searches-for-10)
 
 These settings control your billing options and status with Kagi, there are two tabs you will use:
 
@@ -13,7 +13,6 @@ Your billing settings will show you your [Plan Type](../plans/plan-types.md) as 
 
 * Total searches this period
 * Searches used by AI
-* Pay-per-use cost
 * Amount of credit value
 * Date of next renewal
 
@@ -37,13 +36,6 @@ To switch your plan:
 2. Click "Switch Plan"
 3. Select a Plan you want to switch to
 4. Follow the prompts
-
-## Billing Settings: Pay Per Use
-
-The **Standard** and **Professional** plans both feature Pay Per Use options within the Billing Settings. Searches beyond the monthly included searches, are priced at 1.5 cents per search. There are two limits that you can set to control your cost:
-
-* The soft limit triggers a notification regarding pay-per-use cost
-* The hard limit prevents further searches so you do not incur additional costs.
 
 ![Billing Settings](media/pay_per_use.png)
 
