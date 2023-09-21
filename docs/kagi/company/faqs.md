@@ -183,7 +183,7 @@ For more information, please read this [blog post](https://blog.kagi.com/accepti
 
 We do not have any discounts because Kagi is not yet profitable and there is nothing to discount from. 
 
-We are working towards unlimited searches for $10 which should be available in the fall of 2023.
+We are recently [updated our plans](https://blog.kagi.com/update-kagi-search-pricing) with unlimited searches for $10.
 
 ## Can I expense Kagi and Orion at work?
 
