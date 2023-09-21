@@ -1,10 +1,11 @@
 ---
 next:
-  text: 'Work on Orion Browser'
+  text: 'Jobs at Orion Browser'
   link: '/kagi/company/hiring-orion'
 ---
+# Jobs at Kagi Search
 
-# Full-time positions
+## Full-time positions
 
 **Core Back-end Team**
 - Advanced knowledge of the Crystal language.
@@ -35,7 +36,7 @@ Fun fact: At Kagi, we [prioritize speed](../search-details/search-speed.md), to 
  
 Send your CV to [vlad@kagi.com](mailto:vlad@kagi.com).  We’ll send a test project.
 
-# Part-time opportunities
+## Part-time opportunities
 
 **Kagi R&D Team**
 
