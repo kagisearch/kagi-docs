@@ -192,3 +192,39 @@ The circumstances may vary (check with your workplace manager) but in general bo
 Upon purchasing the product subscriptions you will receive a standard invoice that you can use to expense these items.
 
 
+## How do I sign up?
+Click [here](https://kagi.com/onboarding?p=choose_plan) to become a member.
+
+## Do I need to do anything to get the benefits of the new plans?
+No, all changes will be automatic and applied to your account today.
+
+## I do not have a credit card. Can I also pay for Kagi with PayPal or crypto?
+Yes. We have recently added [new payment options](https://blog.kagi.com/accepting-paypal-bitcoin) to allow payment through credit card, PayPal and crypto through OpenNode.
+
+## Now that I don’t have to count my searches, how can I switch all my browsers and devices to Kagi?
+We have several options available, from easy to full manual. See [here](../getting-started/setting-default.md) for instructions.
+
+## I have an outstanding pay-per-use balance on my current Standard or Professional plan. What happens now?
+We are waiving all pending metered usage charges for you, effective today. Yahoo!
+
+## I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?
+Yes, as long as you do not cancel you will have the previous discount applied.
+
+## How can I get the new Ultimate plan level features in the Family plan?
+As of now, we haven’t established a mechanism to incorporate Ultimate plan features into the Family plan. However, we are open to suggestions and would appreciate any ideas you may have. Please share your thoughts at [KagiFeedback.org](https://kagifeedback.org/).
+
+## I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?
+What sets Kagi apart is our fundamentally different, user-centric approach, that prioritizes the interest of our members and alignment of incentives. It’s worth noting that all of Kagi’s growth has been organic, without any expenditure on marketing or customer acquisition, attesting to the inherent value and trust our user base places in us. We invite you to review our [live stats](https://kagi.com/stats) for a transparent view of our steady progress.
+
+## How can I deepen my involvement with Kagi’s journey?
+We are thrilled to hear of your interest. Kagi is always open to collaboration and we have a variety of ways to [get involved and contribute](../support-and-community/contribute.md).
+
+We are also open to [applications for positions](../company/hiring-kagi.md) at Kagi.
+
+If you’re already a user and have an interest in becoming a shareholder, we’re considering [another fundraise](https://blog.kagi.com/safe-round) in early 2024. Please [get in touch](https://forms.gle/1Try2v6JtXbKSjKx9) and we will email back with details once we are ready.
+
+
+
+
+
+For other inquiries or simply to connect, you can email vlad@kagi.com.
