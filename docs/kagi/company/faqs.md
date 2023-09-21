@@ -216,15 +216,5 @@ As of now, we haven’t established a mechanism to incorporate Ultimate plan fea
 ## I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?
 What sets Kagi apart is our fundamentally different, user-centric approach, that prioritizes the interest of our members and alignment of incentives. It’s worth noting that all of Kagi’s growth has been organic, without any expenditure on marketing or customer acquisition, attesting to the inherent value and trust our user base places in us. We invite you to review our [live stats](https://kagi.com/stats) for a transparent view of our steady progress.
 
-## How can I deepen my involvement with Kagi’s journey?
-We are thrilled to hear of your interest. Kagi is always open to collaboration and we have a variety of ways to [get involved and contribute](../support-and-community/contribute.md).
-
-We are also open to [applications for positions](../company/hiring-kagi.md) at Kagi.
-
-If you’re already a user and have an interest in becoming a shareholder, we’re considering [another fundraise](https://blog.kagi.com/safe-round) in early 2024. Please [get in touch](https://forms.gle/1Try2v6JtXbKSjKx9) and we will email back with details once we are ready.
-
-
-
-
 
 For other inquiries or simply to connect, you can email vlad@kagi.com.
