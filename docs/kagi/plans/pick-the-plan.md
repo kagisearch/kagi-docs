@@ -1,5 +1,7 @@
 # Pick The Right Plan
 
+> **Important Notice:** Our pricing changed on September 21st, please review our [Plan Types](./plan-types.md) for more information and refer to our [blog post for a longer discussion.](https://blog.kagi.com/unlimited-searches-for-10)
+
 ## Start Simple
 
 We understand picking the right plan can be challenging and while we have expertise in this area and are prepared to help we suggest starting with the simple Starter plan. It is very unlikely you will exceed the allotted searches for this plan unless you are in the top 1% of searching users. To be in the top 1% you would likely need to depend on search on a daily basis for your livelihood. As a reminder the Starter plan is USD $5/month with 300 searches included.
