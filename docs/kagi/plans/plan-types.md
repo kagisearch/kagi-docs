@@ -11,9 +11,9 @@ Kagi offers several individual subscriptions plans.
 ![Individual Plans](media/individual_plans.png)
 
 * The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and curious about paid search engines.  
-* The **Standard** plan offers 300 searches for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
-* The **Professional** plan offers 1,000 searches for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
-* The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches for USD $25 per month and offers the most flexibility and power to the user.
+* The **Starter** plan offers 300 searches for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
+* The **Professional** plan offers unlimited searches for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
+* The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches an discounted and early access to Kagi features and services for USD $25 per month and offers the most power to the user. (Starting 9/21/2023, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.)
 
 We also offer [Family plans](./family-plan.md) for two or more people.
 
@@ -29,15 +29,6 @@ Note that searches do not roll over to the next month; the number of available s
 ## Legacy Subscribers and Early Adopters
 
 For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Updates to Kagi Search pricing](https://blog.kagi.com/update-kagi-search-pricing#existing).
-
-## Pay Per Use Enhancement
-
-The **Standard** and **Professional** plans both feature Pay Per Use options within the Billing Settings. Searches beyond the monthly included searches, are priced at 1.5 cents per search. There are two limits that you can set to control your cost:
-
-* The soft limit triggers a notification regarding pay-per-use cost
-* The hard limit prevents further searches so you do not incur additional costs.
-
-![Pay Per Use](media/pay_per_use.png)
 
 ## Why Tiered Pricing
 
