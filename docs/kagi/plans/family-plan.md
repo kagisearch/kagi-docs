@@ -1,5 +1,7 @@
 # Family Plan
 
+> **Important Notice:** Our pricing changed on September 21st, please refer to our [blog post for a longer discussion.](https://blog.kagi.com/unlimited-searches-for-10)
+
 Since the inception, Kagi has been driven by the idea of humanizing the web, especially for families and kids. Our commitment to this cause was the inspiration behind the creation of Kagi. Many of our staff are parents are are working together to build a better search and web future for our children. We strive to provide a search engine that prioritizes the well-being of your loved ones, particularly the most vulnerable ones like children, by offering an ad-free and safe browsing experience. We offer two different group plans based on your specific needs.
 
 The Kagi Family Plan is perfect for families wanting to search smarter, emphasizing learning over consumption while respecting your family's privacy.  With a simple, affordable pricing model and powerful features, the Kagi Family Plan makes it easy to get the most out of Kagi Search as a family.
