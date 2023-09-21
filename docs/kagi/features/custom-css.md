@@ -30,7 +30,7 @@ Our users have built and shared the following themes:
 
     To use this theme apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
 
-    ```
+    ```css
     body, html, * {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     }
