@@ -86,8 +86,8 @@ function sidebarKagi() {
                             text: 'Jobs', link: '/kagi/company/hiring-kagi',
                             collapsed: true,
                             items: [
-                                { text: 'Work on Kagi Search', link: '/kagi/company/hiring-kagi' },
-                                { text: 'Work on Orion Browser', link: '/kagi/company/hiring-orion' },
+                                { text: 'Jobs at Kagi Search', link: '/kagi/company/hiring-kagi' },
+                                { text: 'Jobs at Orion Browser', link: '/kagi/company/hiring-orion' },
                             ]
                         },
                         { text: 'Open Source Support', link: '/kagi/company/donations' },
