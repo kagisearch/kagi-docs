@@ -1,10 +1,10 @@
 # Assistant
 
-Kagi Assistant is an AI feature backed by Kagi Search and large language models.
+Kagi Assistant is an product feature backed by Kagi Search and large language models.
 
 > Kagi Assistant is currently in closed beta and will be available soon.
 
-## Modes
+## Assistant Modes
 
 ### Research
 
