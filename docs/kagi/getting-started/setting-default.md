@@ -109,7 +109,7 @@ If you are interested in using Kagi in private (incognito) browser windows, be s
 <a name="custom_use"></a>
 ### Custom Use {#custom_use}
 
-If you want to manually set Kagi ase a default search engine, use these settings:
+If you want to manually set Kagi as a default search engine, use these settings:
 
 - Kagi Search URL [https://kagi.com/search?q={searchTerms}](https://kagi.com/search?q={searchTerms})
 
