@@ -1,6 +1,6 @@
 # History
 
-Kagi was founded by Vladimir Prelovac in May 2018 in Palo Alto, CA (USA). Kagi is completely self-funded since its inception.
+Kagi was founded by [Vladimir Prelovac](./index.md) in May 2018 in Palo Alto, CA (USA). Kagi has been completely bootstrapped by the founder for the first 4 years of operation.
 
 We are not affiliated with the legendary Kagi - the shareware payments platform. That Kagi went bankrupt in an unfortunate turn of events. We liked the name and acquired it when we got the chance.
   
@@ -23,22 +23,23 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 2019 (First products)
 
 - First prototype of Kagi Search
-- [Donna.gg](https://donna.gg) is launched using Kagi's early technology
-- Work begins on Orion Browser
+- [Donna.gg](https://donna.gg) is launched as the first attempt to create a premium search business. It failed but we didn't give up
+- Work begins on [Orion Browser](https://browser.kagi.com)
 - Team size: ~5
   
 2020-2021 (COVID years)  
 
-- All blurred out. We worked a lot. The private beta of Kagi Search and Orion Browser launched
+- It is all blurred out; we worked a lot. The private beta of Kagi Search and Orion Browser launched
 - Team size: ~10
 
 2022 (Public beta and paid customers)
 
-- Kagi Inc. incorporated
+- Kagi Inc. incorporated im March 2023
 - [Kagi search and Orion browser enter the public beta](https://blog.kagi.com/kagi-orion-public-beta)
 - [Three months later](https://blog.kagi.com/status-update-first-three-months), thousands of people are paying for Kagi and Orion
 - The team is now ~15
 
 2023
 
-- [Kagi raises $670K](https://blog.kagi.com/safe-round) in first external fundraise.
+- [Kagi raises $670K](https://blog.kagi.com/safe-round) in its first external fundraise
+- We publish our [live stats](https://kagi.com/stats)
