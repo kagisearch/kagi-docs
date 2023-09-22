@@ -1,6 +1,6 @@
 # History
 
-Kagi was founded by [Vladimir Prelovac](./index.md) in May 2018 in Palo Alto, CA (USA). Kagi has been completely bootstrapped by the founder for the first 4 years of operation.
+Kagi was founded by [Vladimir Prelovac](https://vladimir.prelovac.com) in May 2018 in Palo Alto, CA (USA). Kagi has been completely bootstrapped by the founder for the first 4 years of operation.
 
 We are not affiliated with the legendary Kagi - the shareware payments platform. That Kagi went bankrupt in an unfortunate turn of events. We liked the name and acquired it when we got the chance.
   
