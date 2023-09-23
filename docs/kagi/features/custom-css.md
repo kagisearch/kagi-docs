@@ -951,19 +951,19 @@ Our users have built and shared the following themes:
 
 You can collaborate on themes in the **\#appearance** channel on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
-## Hide Quick Search button
+## Customizations
 
-If you want to hide the floating Quick Search button from Kagi search results page apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+<details><summary>Hide Quick Search button</summary>
 
-  <details><summary>Hide Quick Search button</summary>
-  
+If you want to hide the floating Quick Search button from Kagi search results page, apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+      
 ```css
 .quick-search-btn {
   display: none;
 }
 ```
 
-  </details>
+</details>
 
 ## Learn
 
