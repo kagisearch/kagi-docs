@@ -216,5 +216,7 @@ As of now, we haven’t established a mechanism to incorporate Ultimate plan fea
 ## I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?
 What sets Kagi apart is our fundamentally different, user-centric approach, that prioritizes the interest of our members and alignment of incentives. It’s worth noting that all of Kagi’s growth has been organic, without any expenditure on marketing or customer acquisition, attesting to the inherent value and trust our user base places in us. We invite you to review our [live stats](https://kagi.com/stats) for a transparent view of our steady progress.
 
+## How can I use the credit I added to my account to purchase one of the plans?
+Please visit [Billing Settings](https://kagi.com/settings?p=billing) and choose one of the plans. You will be redirected to Stripe and your available credits will be used to cover the plan price.
 
 For other inquiries or simply to connect, you can email vlad@kagi.com.
