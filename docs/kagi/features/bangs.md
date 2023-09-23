@@ -33,7 +33,13 @@ You can use for example **!de [query]** or **!nl [query]** to switch your region
 - **!discuss** \<url> - Discuss Document chat
 - **!answer** \<search terms> - Search & open "Quick Answer"
 
+### Kagi Assistant bangs
 
+- **!fast** \<query> - Fast Assistant. Kagi search coupled with a fast AI model. Optimized for speed, while not sacrificing quality.
+- **!expert** \<query> - Expert Assistant. Multiple Kagi searches (and external services) together with the best available AI model for the highest accuracy and comprehensive responses.
+- **!code** \<query> - Code Assistant. Tuned for programming tasks and uses a powerful AI model for programming.
+- **!chat** \<query> - Chat Assistant. Allows direct access to a variety of large language models for creative tasks.
+- **!custom** \<query> - Custom Assistant. Allows you to further customize one of the existing modes.
 
 ### Search on external websites
 
