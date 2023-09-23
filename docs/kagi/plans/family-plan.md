@@ -29,17 +29,17 @@ To sign up for the Family Plan, select the plan that fits your family's size and
 
 If you have an existing Kagi account and want to upgrade to the Family plan, everything you need to do is cancel your existing plan, and then resubscribe to the Family plan (any credit left over will be pro-rated).
 
-Adding family members is easy, you can invite them via email through Kagi. For kids, you can use a username, and an adult will help them log in by getting a verification email.
+Adding family members is easy, you can [invite them via email](https://kagi.com/settings?p=account_members) through Kagi. For kids, you can use a username, and an adult will help them log in by getting a verification email.
 
 <img src="https://staticmedia.kagi.com/family/add_member.png" >
 <center><em>Invite family members to the plan</em></center>
 
-The Family Plan dashboard gives you a complete picture of your family's members
+The [Family Plan dashboard](https://kagi.com/settings?p=account_members) gives you a complete picture of your family's members
 
 <img src="https://staticmedia.kagi.com/family/dashboard.png" >
 <center><em>Manage family members</em></center>
 
-The Billing screen has the overview of the plan and allows you to update payment info or cancel the subscription.
+The [Billing screen](https://kagi.com/settings?p=billing) has the overview of the plan and allows you to update payment info or cancel the subscription.
 
 <img src="https://staticmedia.kagi.com/family/billing.png" >
 <center><em>Billing screen</em></center>
