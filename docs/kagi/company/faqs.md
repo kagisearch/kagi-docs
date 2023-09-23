@@ -219,4 +219,8 @@ What sets Kagi apart is our fundamentally different, user-centric approach, that
 ## How can I use the credit I added to my account to purchase one of the plans?
 Please visit [Billing Settings](https://kagi.com/settings?p=billing) and choose one of the plans. You will be redirected to Stripe and your available credits will be used to cover the plan price.
 
+## I subscribed to Kagi Duo or Family Plan, how can I add family members to the plan?
+Adding family members is easy, you can invite them via email from the [Family Plan Dashboard](https://kagi.com/settings?p=account_members).
+
+
 For other inquiries or simply to connect, you can email vlad@kagi.com.
