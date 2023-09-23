@@ -222,5 +222,7 @@ Please visit [Billing Settings](https://kagi.com/settings?p=billing) and choose 
 ## I subscribed to Kagi Duo or Family Plan, how can I add family members to the plan?
 Adding family members is easy, you can invite them via email from the [Family Plan Dashboard](https://kagi.com/settings?p=account_members).
 
+## If I upgrade my plan before my renewal date will I have to pay the full amount of the new plan?
+At anytime you upgrade, the unused portion of the previous plan will be prorated as credit towards your new plan, and the new billing cycle will start on the date you upgraded your plan.
 
 For other inquiries or simply to connect, you can email vlad@kagi.com.
