@@ -1,4 +1,4 @@
-# Billing
+# Billing Settings
 
 > **Important Notice:** Our pricing changed on September 21st, please review our [Plan Types](../plans/plan-types.md) for more information and refer to our [blog post for a longer discussion.](https://blog.kagi.com/unlimited-searches-for-10)
 
