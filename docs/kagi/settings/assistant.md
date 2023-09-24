@@ -1,4 +1,4 @@
-# Assistant
+# Assistant Settings
 
 These settings control Kagi Assistant, a product feature backed by Kagi Search and large language models.
 
