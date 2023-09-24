@@ -1,4 +1,4 @@
-# Account
+# Account Settings
 
 These settings provide general control over your Kagi account.
 
