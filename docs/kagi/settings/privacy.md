@@ -1,4 +1,4 @@
-# Privacy
+# Privacy Settings
 
 These settings control privacy and safety options.
 
