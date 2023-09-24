@@ -64,6 +64,7 @@ It is composed of the following parts:
 - The <span style="color:green;">replacement pattern</span>
 
 The match pattern is written using [Regex](https://en.wikipedia.org/wiki/Regular_expression), a standard language for pattern matching sequences of text.
+The specific type of regex that we use is [PCRE](https://kagi.com/search?q=PCRE).
 
 The replacement pattern is a verbatim string that will replace the entire URL.
 
