@@ -26,6 +26,8 @@ https://kagi.com/search?token=...&q=s
 This link will become invalid if you sign out of the session that you copied it from.
 Each time you sign in, a new link is generated, so you may need to replace it.
 
+You may have multiple active Session Links by signing in on multiple devices or browsers.
+
 Read on for more details concerning sessions.
 
 ## Managing Sessions
