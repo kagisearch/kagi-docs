@@ -1,4 +1,4 @@
-# General
+# General Settings
 
 These are settings that control your search experience across the whole product.
 
