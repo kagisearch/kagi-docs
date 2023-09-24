@@ -1,4 +1,4 @@
-# Advanced
+# Advanced Settings
 
 This settings page gives you access to more powerful features of Kagi.
 
