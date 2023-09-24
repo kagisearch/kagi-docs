@@ -216,7 +216,6 @@ function sidebarKagi() {
                         { text: 'Search', link: '/kagi/settings/search' },
                         { text: 'Assistant', link: '/kagi/settings/assistant' },
                         { text: 'Privacy', link: '/kagi/settings/privacy' },
-                        { text: 'Lenses & Personalized Results', link: '/kagi/settings/lenses-and-personalized-results' },
                         { text: 'Billing', link: '/kagi/settings/billing' },
                         { text: 'Advanced', link: '/kagi/settings/advanced' },
                         { text: 'Account', link: '/kagi/settings/account' },
