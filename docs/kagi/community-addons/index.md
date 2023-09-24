@@ -29,7 +29,7 @@ If you created or found a Kagi integration with other products or tools, we woul
 You can drag one of the following links to the bookmarks bar in your browser to immediately access a specific function of Kagi for the page in your current tab. You may rename the bookmarks however you want afterwards.
 
 <a href="javascript:location='https://kagi.com/discussdoc?url='+encodeURIComponent(location)">Discuss Document (same window)</a><br>
-<a href="javascript:window.open('https://kagi.com/discussdoc?url='+encodeURIComponent(location))">Discuss Document (new window/tab)</a><br>
+<a href="javascript:(function(){window.open('https://kagi.com/discussdoc?url='+encodeURIComponent(location))})()">Discuss Document (new window/tab)</a><br>
 <a href="javascript:location='https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location)">Summarize (same window)</a><br>
-<a href="javascript:window.open('https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location))">Summarize (new window/tab)</a><br>
+<a href="javascript:(function(){window.open('https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location))})()">Summarize (new window/tab)</a><br>
 
