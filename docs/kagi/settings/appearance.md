@@ -1,4 +1,4 @@
-# Appearance
+# Appearance Settings
 
 These settings control various visual options.
 
