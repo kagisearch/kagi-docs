@@ -1,12 +1,13 @@
 steps:
   - name: 'node:19'
-    entrypoint: 'npm'
-    args: ['install']
-  - name: 'node:19'
-    entrypoint: 'npm'
+    entrypoint: 'sh'
     args:
-      - 'run'
-      - 'docs:build'
+      - '-c'
+      - |-
+          npm install
+          cp -av docs/common/company/ docs/kagi/company/
+          cp -av docs/common/company/ docs/orion/company/
+          npm run docs:build
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
     entrypoint: 'gsutil'
     args:
