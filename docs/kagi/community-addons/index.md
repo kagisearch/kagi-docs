@@ -23,3 +23,13 @@ If you created or found a Kagi integration with other products or tools, we woul
 [PopClip](https://www.popclip.app) is a macOS utility tool that pops up with a menu of actions when you select text on your screen.
 
 - [Kagi search extension for PopClip](https://www.popclip.app/extensions/x/1e35e): Search Kagi from anywhere using PopClip.
+
+## Bookmarklets
+
+You can drag one of the following links to the bookmarks bar in your browser to immediately access a specific function of Kagi for the page in your current tab. You may rename the bookmarks however you want afterwards.
+
+<a href="javascript:location='https://kagi.com/discussdoc?url='+encodeURIComponent(location)">Discuss Document (same window)</a><br>
+<a href="javascript:(function(){window.open('https://kagi.com/discussdoc?url='+encodeURIComponent(location))})()">Discuss Document (new window/tab)</a><br>
+<a href="javascript:location='https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location)">Summarize (same window)</a><br>
+<a href="javascript:(function(){window.open('https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location))})()">Summarize (new window/tab)</a><br>
+
