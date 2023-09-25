@@ -39,7 +39,7 @@ You can Sign Out of that Kagi session if you need to invalidate the Session Link
 2. Open the Control Center by clicking the icon on the top right of any page
 3. Click "Sign Out" to log out and invalidate the link.
 
-Alternatively, changing your password on your [Acccount settings](https://kagi.com/settings?p=user_details) will invalidate all sessions.
+Alternatively, changing your password on your [Account settings](https://kagi.com/settings?p=user_details) will invalidate all sessions.
 
 Sessions will also expire after 90 days of being unused.
 
