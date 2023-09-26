@@ -61,7 +61,7 @@ export default defineConfig({
             text: 'Edit this page on GitHub'
         }
     },
-    rewrites: {},
+    rewrites: {'index.md': 'kagi/index.md',},
     vite: {
         resolve: {
             preserveSymlinks: true,
