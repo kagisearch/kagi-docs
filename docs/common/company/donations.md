@@ -1,4 +1,4 @@
-# Donations
+# Open Source Support
 
 We are making a monthly donation to the following projects:
 
