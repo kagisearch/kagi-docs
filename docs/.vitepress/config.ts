@@ -21,6 +21,7 @@ export default defineConfig({
         ],
 
         sidebar: {
+            '/': sidebarKagi(),
             '/kagi/': sidebarKagi(),
             '/common/': sidebarKagi(),
             '/orion/': sidebarOrion()
@@ -61,7 +62,6 @@ export default defineConfig({
             text: 'Edit this page on GitHub'
         }
     },
-    // rewrites: {'index.md': 'kagi/index.md',},
     vite: {
         resolve: {
             preserveSymlinks: true,
