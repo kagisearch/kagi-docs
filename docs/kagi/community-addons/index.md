@@ -33,3 +33,8 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 <a href="javascript:location='https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location)">Summarize (same window)</a><br>
 <a href="javascript:(function(){window.open('https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location))})()">Summarize (new window/tab)</a><br>
 
+## Firefox Context Menu Add-on
+
+Adds a button to the right click context menu on Firefox that allows you to open URLs in Kagi Summarizer
+
+[Unofficial Kagi Link Summarizer Add-on](https://addons.mozilla.org/en-US/firefox/addon/unofficial-kagi-linksummarizer/)
