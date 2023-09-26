@@ -13,9 +13,10 @@ Our users have built and shared the following themes:
 - [Brave Theme](https://gist.github.com/httpjamesm/a9c6b3b115cb09c483e53ad5f5ec9b99) by [http.james](https://httpjames.space/)
 - [Cozy Theme](https://gist.github.com/jamesjlyons/26682982319ca84b7bee991eb158ce49) by [James Lyons](https://jameslyons.design)
 - [Dark Mustard](https://gist.github.com/joshellington/51765a15d8f780089619b638fc6aea6b) by Josh Ellington
-- [Gruvbox Material Light](https://userstyles.world/style/12112/kagi-com-gruvbox-material-light) by mmmotion
-- [Gruvbox Material Dark](https://userstyles.world/style/12098/kagi-com-gruvbox-material-medium-dark) by mmmotion
+- [Gruvbox Material Light](https://github.com/mauromotion/Kagi-Gruvbox-Material-themes/blob/main/kagi-grubox-material-medium-light.css) by mmmotion
+- [Gruvbox Material Dark](https://github.com/mauromotion/Kagi-Gruvbox-Material-themes/blob/main/kagi-grubox-material-medium-dark.css) by mmmotion
 - [Minimal Fav Color](https://github.com/MattRangel/kagi-search-custom-css) by [Matt Rangel](https://github.com/MattRangel)
+- [Monokai Hack](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0) by maxpl01t
 - [Startpage Theme](https://github.com/httpjamesm/kagi-startpage-theme) by [http.james](https://httpjames.space/)
 - <details><summary>Familiar Dark Theme by 🅻uci</summary>
 
