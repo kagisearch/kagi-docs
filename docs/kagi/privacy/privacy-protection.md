@@ -6,6 +6,8 @@ next:
 
 # Privacy Protection
 
+Unlike "free" search engines, we do not log searches or in any way tie them to an account.
+
 "Free" search engines have two ways to make money—get more users or sell more ads per user. The easiest, fastest way is to mine more data to sell ads more effectively. Many search-engine companies have buckled under investor pressure, leading us to the online privacy issues we have today.
 
 Paid models like Kagi only make money when users pay us, and users only pay when they receive great value. We offer superior result quality, features, speed, and—of course—privacy. If we compromise on any of these points, we lose users. Therefore, we have to offer a better product that includes the best possible privacy.
