@@ -42,19 +42,20 @@ You can also use [Search operators ](https://help.kagi.com/kagi/features/search-
 <br />
 
 
-## Summarize Results (Quick Answer)<a id='summarize-results'></a>
+## Quick Answer<a id='summarize-results'></a>
 
-Quick Answer (aka [Summarize Results](https://help.kagi.com/kagi/ai/summarize-results.html)) extracts and summarizes the important content from the search results including links to the source material.
+[Quick Answer](https://help.kagi.com/kagi/ai/summarize-results.html)) extracts and summarizes the important content from the search results including links to the source material.
 
-<img src="./media/summarize_results.png" width="675" alt="Summarize Results"><br />
+<img src="./media/summarize_results.png" width="675" alt="Quick Answer"><br />
 <br />
 <br />
 
 Example:
 
-<img src="./media/summarize_results_example.png" width="675" alt="Summarize Results Example"><br />
+<img src="./media/summarize_results_example.png" width="675" alt="Quick Answer Example"><br />
 <br />
 <br />
+
 
 ## Summarize Page
 
