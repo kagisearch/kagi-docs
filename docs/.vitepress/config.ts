@@ -21,6 +21,7 @@ export default defineConfig({
         ],
 
         sidebar: {
+            '/': sidebarKagi(),
             '/kagi/': sidebarKagi(),
             '/common/': sidebarKagi(),
             '/orion/': sidebarOrion()
@@ -61,7 +62,11 @@ export default defineConfig({
             text: 'Edit this page on GitHub'
         }
     },
-    rewrites: {},
+    vite: {
+        resolve: {
+            preserveSymlinks: true,
+        },
+    },
     ignoreDeadLinks: true,
     sitemap: {
         hostname: 'https://help.kagi.com'
@@ -139,7 +144,7 @@ function sidebarKagi() {
             items: [
                 { text: 'Why Pay for Search', link: '/kagi/why-kagi/why-pay-for-search' },
                 { text: 'Say no to Ads', link: '/kagi/why-kagi/noads' },
-                { text: 'Kagi vs. Others', link: '/kagi/why-kagi/kagi-vs-competition'},           
+                { text: 'Kagi vs. Others', link: '/kagi/why-kagi/kagi-vs-competition'},
                 {
                     text: 'Privacy & Security', link: '/kagi/privacy/privacy-protection',
                     collapsed: true,
@@ -405,7 +410,7 @@ function sidebarOrion() {
                         { text: 'Preventing Fingerprinting', link: '/orion/privacy-and-security/preventing-fingerprinting' },
                     ]
                 },
-               
+
 
                 { text: 'Frequently Asked Questions', link: '/orion/faq/faq' },
                 { text: 'Technical Information', link: '/orion/misc/technical' },
