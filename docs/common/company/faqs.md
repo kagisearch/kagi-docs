@@ -231,4 +231,7 @@ There is no potential for users to see each other's search history or any other 
 ## Can someone who is part of my family plan leave the family plan and subscribe independently?
 Yes, they can leave the family plan at any time and subscribe to one of the individual plans.
 
+## Can I pay for outstanding invoices using the credit I added to my account?
+Yes, please go to **Settings** > **Billing** > **Manage Billing** and then locate the outstanding invoice and trigger payment for it. If you have credit on your account balance, Stripe will use it first.
+
 For other inquiries or simply to connect, you can email vlad@kagi.com.
