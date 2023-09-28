@@ -225,4 +225,10 @@ Adding family members is easy, you can invite them via email from the [Family Pl
 ## If I upgrade my plan before my renewal date will I have to pay the full amount of the new plan?
 At anytime you upgrade, the unused portion of the previous plan will be prorated as credit towards your new plan, and the new billing cycle will start on the date you upgraded your plan.
 
+## If a user is part of a family plan, is there any potential for either the plan holder or the other family plan sub-users to potentially access user data from another account?
+There is no potential for users to see each other's search history or any other data. That stands even for kids' accounts as we want to keep their privacy (you should still have parental controls though).
+
+## Can someone who is part of my family plan leave the family plan and subscribe independently?
+Yes, they can leave the family plan at any time and subscribe to one of the individual plans.
+
 For other inquiries or simply to connect, you can email vlad@kagi.com.
