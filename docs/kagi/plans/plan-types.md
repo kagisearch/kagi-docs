@@ -31,7 +31,7 @@ Note that searches do not roll over to the next month; the number of available s
 
 ## Legacy Subscribers and Early Adopters
 
-For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Updates to Kagi Search pricing](https://blog.kagi.com/update-kagi-search-pricing#existing).
+For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10).
 
 ## Why Tiered Pricing
 
