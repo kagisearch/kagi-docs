@@ -234,4 +234,7 @@ Yes, they can leave the family plan at any time and subscribe to one of the indi
 ## Can I pay for outstanding invoices using the credit I added to my account?
 Yes, please go to **Settings** > **Billing** > **Manage Billing** and then locate the outstanding invoice and trigger payment for it. If you have credit on your account balance, Stripe will use it first.
 
+## What are the limitations of the Trial plan?
+Trial plan has a limit of 100 searches and 50 interactions with Kagi AI tools ([quick answer](../getting-started/#summarize-results-quick-answer) or [summarize result](../ai/summarize-results.md)).
+
 For other inquiries or simply to connect, you can email vlad@kagi.com.
