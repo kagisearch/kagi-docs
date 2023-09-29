@@ -4,9 +4,9 @@ We’re obsessed with increasing speed and lowering latency, and we currently us
 
 First, we optimized our technology stack to increase code execution speed and decrease connection latency.
 
-Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors! This reduction has the neat side-effect of reducing CO2 emissions. Using Kagi Search will benefit the environment as well as you!
+Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors! This reduction has the neat side-effect of reducing CO₂ emissions. Using Kagi Search will benefit the environment as well as you!
 
-| Product | SERP Size | CO2 | Load Time |
+| Product | SERP Size | CO₂ | Load Time |
 | --- | --- | --- | --- |
 | Kagi | 0.76 MB | 0.43 g | 0.4 s |
 | Ecosia | 1.55 MB | 0.89 g | 1.2 s |
