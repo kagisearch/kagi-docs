@@ -237,4 +237,17 @@ Yes, please go to **Settings** > **Billing** > **Manage Billing** and then locat
 ## What are the limitations of the Trial plan?
 Trial plan has a limit of 100 searches and 50 interactions with Kagi AI tools ([quick answer](../getting-started/#summarize-results-quick-answer) or [summarize result](../ai/summarize-results.md)).
 
+## I'm having issues staying logged in or searching occasionally doesn't work
+
+There are a few things you can try:
+
+- Do you have your browser configured to clear cookies when closed?
+  Kagi relies on cookies to keep you logged in, however you can use our [extension](../getting-started/setting-default.md) which can store your session details when visiting Kagi, including when using private browsing.
+- Verify that any browser extensions you have installed are not causing conflicts.
+  We have received reports of some extensions causing issues with our cookies. If this is the case, you may need to disable the incompatible extension or switch to an alternative extension that provides similar functionality.
+
+---
+
+If you are experiencing issues, please [open a ticket](https://kagifeedback.org/) with as much detail as possible, and we will review it ASAP.
+
 For other inquiries or simply to connect, you can email vlad@kagi.com.
