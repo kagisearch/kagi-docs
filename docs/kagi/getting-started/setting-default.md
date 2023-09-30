@@ -174,7 +174,7 @@ If you want to have Kagi Search easily available on Android after configuring Ch
 2. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
 3. Scroll to **Default Search Engine** and select **Kagi** from the dropdown.
 
-To set up a private session link in Firefox, install [this extension](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/). Next, click the Extensions button with the puzzle piece icon in the toolbar, then click the Gear icon next to Kagi and select **Pin to toolbar** in the dropdown menu. Now, click the Kagi icon in your toolbar and click the **Advanced Settings** button in the top right of the modal. Finally, paste your personal [session link](https://kagi.com/settings?p=user_details) in the text field and append `&q=%s` at the end and click on **Save settings**.
+To set up a private session link in Firefox, install [this extension](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/). Next, click the Extensions button with the puzzle piece icon in the toolbar, then click the Gear icon next to Kagi and select **Pin to toolbar** in the dropdown menu. Now, click the Kagi icon in your toolbar and click the **Advanced Settings** button in the top right of the modal. Finally, paste your personal [session link](https://kagi.com/settings?p=user_details) in the text field and click on **Save settings**.
 
 <img src="./media/kagi_default_firefox1.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 1">
 
