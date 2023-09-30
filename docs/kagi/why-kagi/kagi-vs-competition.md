@@ -32,7 +32,7 @@ First, we optimized our technology stack to increase code execution speed and de
 
 Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors! This reduction has the neat side-effect of reducing CO<sub>2</sub> emissions. Using Kagi Search will benefit the environment as well as you!
 
-| Product | SERP Size | <sub>2</sub> | Load Time |
+| Product | SERP Size | CO<sub>2</sub> | Load Time |
 | --- | --- | --- | --- |
 | Kagi | 0.76 MB | 0.43 g | 0.4 s |
 | Ecosia | 1.55 MB | 0.89 g | 1.2 s |
