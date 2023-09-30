@@ -17,6 +17,7 @@ Our users have built and shared the following themes:
 - [Gruvbox Material Dark](https://github.com/mauromotion/Kagi-Gruvbox-Material-themes/blob/main/kagi-grubox-material-medium-dark.css) by mmmotion
 - [Minimal Fav Color](https://github.com/MattRangel/kagi-search-custom-css) by [Matt Rangel](https://github.com/MattRangel)
 - [Monokai Hack](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0) by maxpl01t
+- [Solarized](https://gist.github.com/RoarkGit/2074f3b71efdb55efde608627179ed54) by Liam Galt
 - [Startpage Theme](https://github.com/httpjamesm/kagi-startpage-theme) by [http.james](https://httpjames.space/)
 - <details><summary>Familiar Dark Theme by 🅻uci</summary>
 
@@ -960,7 +961,7 @@ You can collaborate on themes in the **\#appearance** channel on the [Kagi Disco
 <details><summary>Hide Quick Search button</summary>
 
 If you want to hide the floating Quick Search button from Kagi search results page, apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
-      
+
 ```css
 .quick-search-btn {
   display: none;
