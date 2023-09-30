@@ -246,6 +246,10 @@ There are a few things you can try:
 - Verify that any browser extensions you have installed are not causing conflicts.
   We have received reports of some extensions causing issues with our cookies. If this is the case, you may need to disable the incompatible extension or switch to an alternative extension that provides similar functionality.
 
+## Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?
+
+Yes, that’s because Kagi acts as a proxy between you and the LLM (both from an internet connection and payments perspective). Additionally, because Kagi is using the API access rather than the frontend, the provider does not use the data for training the LLM models. Note that during beta, Kagi will store conversations for 7 days in order to handle bug reports, however we plan to reduce this window to 24 hours when Assistant is officially launched.
+
 ---
 
 If you are experiencing issues, please [open a ticket](https://kagifeedback.org/) with as much detail as possible, and we will review it ASAP.
