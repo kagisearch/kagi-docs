@@ -958,9 +958,35 @@ You can collaborate on themes in the **\#appearance** channel on the [Kagi Disco
 
 ## Customizations
 
+Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+
+<details><summary>Remove Underlined Links</summary>
+
+Remove the underline from links from Kagi search results page.
+
+```css
+
+/* Remove bottom border from links */
+.__sri_title_link._0_sri_title_link._0_URL {
+  border-bottom: none;
+}
+
+/* Remove underline with nested links */
+.__srgi-title a {
+border-bottom: none; var(--result-item-title-border);
+}
+
+/* Remove underline with News module */
+.newsResultItem .newsResultHeader .newsResultTitle a._0_TITLE {
+  border-bottom: none; var(--result-item-title-border);
+}
+```
+
+</details>
+
 <details><summary>Hide Quick Search button</summary>
 
-If you want to hide the floating Quick Search button from Kagi search results page, apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+Hide the floating Quick Search button from Kagi search results page.
 
 ```css
 .quick-search-btn {
