@@ -235,7 +235,7 @@ Yes, they can leave the family plan at any time and subscribe to one of the indi
 Yes, please go to **Settings** > **Billing** > **Manage Billing** and then locate the outstanding invoice and trigger payment for it. If you have credit on your account balance, Stripe will use it first.
 
 ## What are the limitations of the Trial plan?
-Trial plan has a limit of 100 searches and 50 interactions with Kagi AI tools ([quick answer](../getting-started/#summarize-results-quick-answer) or [summarize result](../ai/summarize-results.md)).
+The Trial Plan has a limit of 100 searches and 50 interactions with Kagi AI tools ([quick answer](../getting-started/#quick-answer) or [summarize result](../ai/summarize-results.md)).
 
 ## I'm having issues staying logged in or searching occasionally doesn't work
 

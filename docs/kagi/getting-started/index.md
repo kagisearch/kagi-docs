@@ -44,7 +44,7 @@ You can also use [Search operators ](https://help.kagi.com/kagi/features/search-
 
 ## Quick Answer<a id='summarize-results'></a>
 
-[Quick Answer](https://help.kagi.com/kagi/ai/summarize-results.html)) extracts and summarizes the important content from the search results including links to the source material.
+[Quick Answer](https://help.kagi.com/kagi/ai/summarize-results.html) extracts and summarizes the important content from the search results including links to the source material.
 
 <img src="./media/summarize_results.png" width="675" alt="Quick Answer"><br />
 <br />
