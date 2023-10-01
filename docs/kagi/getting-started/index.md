@@ -12,7 +12,7 @@ Kagi helps you find exactly what you're looking for online. It has a few more ca
 
 - [Personalize Results](#personalize-results)
 - [Refining Search Results](#refining-search-results)
-- [Summarize Results](#summarize-results)
+- [Quick Answer](#quick-answer)
 - [Summarize Page](#summarize-page)
 - [Sharing Search Results](#sharing-search-results)
 - [Set Kagi as your default search engine](#set-kagi-as-your-default-search-engine)
@@ -42,7 +42,7 @@ You can also use [Search operators ](https://help.kagi.com/kagi/features/search-
 <br />
 
 
-## Quick Answer<a id='summarize-results'></a>
+## Quick Answer<a id='quick-answer'></a>
 
 [Quick Answer](https://help.kagi.com/kagi/ai/summarize-results.html) extracts and summarizes the important content from the search results including links to the source material.
 
