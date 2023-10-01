@@ -980,6 +980,11 @@ border-bottom: none; var(--result-item-title-border);
 .newsResultItem .newsResultHeader .newsResultTitle a._0_TITLE {
   border-bottom: none; var(--result-item-title-border);
 }
+
+/* Remove underline from links in Wikipedia module */
+.wikipediaResult a {
+  border-bottom: none; var(--result-item-title-border);
+}
 ```
 
 </details>
