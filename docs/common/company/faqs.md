@@ -1,6 +1,58 @@
-# Frequently Asked Questions (FAQs)
+# Frequently Asked Questions (FAQ)
 
-## What is Kagi
+## Table of Contents
+
+- [What is Kagi?](#what-is-kagi)
+- [How do you pronounce Kagi?](#how-do-you-pronounce-kagi)
+- [What is the name of Kagi mascot?](#what-is-the-name-of-kagi-mascot)
+- [The logo is a "g" which is in the Google ballpark. Why not "k"?](#the-logo-is-a-g-which-is-in-the-google-ballpark-why-not-k)
+- [What is Kagi Search?](#what-is-kagi-search)
+- [Why should I pay for search?](#why-should-i-pay-for-search)
+- [How do I get help with Kagi?](#how-do-i-get-help-with-kagi)
+- [How do I set Kagi as my default search engine?](#how-do-i-set-kagi-as-my-default-search-engine)
+- [Can I use Kagi in private browser sessions?](#using-login-token)
+- [Why does Kagi Search require an account?](#why-does-kagi-search-require-an-account)
+- [What data does Kagi collect?](#what-data-does-kagi-collect)
+- [I am still worried about my private information and searches being linked together. Why should I trust you?](#why-trust)
+- [Why does Kagi Search require an email address?](#why-does-kagi-search-require-an-email-address)
+- [Where are your results coming from?](#where-are-your-results-coming-from)
+- [How fast is Kagi Search?](#how-fast-is-kagi-search)
+- [How do Kagi's features compare to other search engines?](#how-do-kagi-s-features-compare-to-other-search-engines)
+- [How are searches counted?](#how-are-searches-counted)
+- [Why is Kagi focusing on AI and Orion Browser as well?](#why-is-kagi-focusing-on-ai-and-orion-browser-as-well)
+- [How do you balance development of AI features and Search?](#how-do-you-balance-development-of-ai-features-and-search)
+- [Will you expose the Search API?](#will-you-expose-the-search-api)
+- [How do I check my usage?](#how-do-i-check-my-usage)
+- [How can I change the name or other billing details that my subscription is being billed to?](#how-can-i-change-the-name-or-other-billing-details-that-my-subscription-is-being-billed-to)
+- [What is your policy on biases in search?](#what-is-your-policy-on-biases-in-search)
+- [How does Kagi help protect my privacy?](#how-does-kagi-help-protect-my-privacy)
+- [Are you affiliated with the legendary Kagi shareware platform?](#are-you-affiliated-with-the-legendary-kagi-shareware-platform)
+- [Are you hiring?](#are-you-hiring)
+- [What if I find a security issue?](#what-if-i-find-a-security-issue)
+- [How do I join Kagi’s Discord server?](#how-do-i-join-kagi-s-discord-server)
+- [Where can I find examples of Custom CSS created by other users?](#where-can-i-find-examples-of-custom-css-created-by-other-users)
+- [Does Kagi support crypto / anonymous payments ?](#does-kagi-support-crypto-anonymous-payments)
+- [Does Kagi have any student discounts?](#does-kagi-have-any-student-discounts)
+- [Can I expense Kagi and Orion at work?](#can-i-expense-kagi-and-orion-at-work)
+- [How do I sign up?](#how-do-i-sign-up)
+- [Do I need to do anything to get the benefits of the new plans?](#do-i-need-to-do-anything-to-get-the-benefits-of-the-new-plans)
+- [I do not have a credit card. Can I also pay for Kagi with PayPal or crypto?](#i-do-not-have-a-credit-card-can-i-also-pay-for-kagi-with-paypal-or-crypto)
+- [Now that I don’t have to count my searches, how can I switch all my browsers and devices to Kagi?](#now-that-i-don-t-have-to-count-my-searches-how-can-i-switch-all-my-browsers-and-devices-to-kagi)
+- [I have an outstanding pay-per-use balance on my current Standard or Professional plan. What happens now?](#i-have-an-outstanding-pay-per-use-balance-on-my-current-standard-or-professional-plan-what-happens-now)
+- [I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?](#i-notice-that-ultimate-plan-is-also-10-off-for-annual-payments-now-i-previously-had-15-off-do-i-remain-locked-in)
+- [How can I get the new Ultimate plan level features in the Family plan?](#how-can-i-get-the-new-ultimate-plan-level-features-in-the-family-plan)
+- [I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?](#i-m-keen-to-support-kagi-but-concerned-about-its-longevity-given-the-history-of-search-startups-how-can-i-be-assured-kagi-is-here-to-stay-before-making-a-commitment)
+- [How can I use the credit I added to my account to purchase one of the plans?](#how-can-i-use-the-credit-i-added-to-my-account-to-purchase-one-of-the-plans)
+- [I subscribed to Kagi Duo or Family Plan, how can I add family members to the plan?](#i-subscribed-to-kagi-duo-or-family-plan-how-can-i-add-family-members-to-the-plan)
+- [If I upgrade my plan before my renewal date will I have to pay the full amount of the new plan?](#if-i-upgrade-my-plan-before-my-renewal-date-will-i-have-to-pay-the-full-amount-of-the-new-plan)
+- [If a user is part of a family plan, is there any potential for either the plan holder or the other family plan sub-users to potentially access user data from another account?](#if-a-user-is-part-of-a-family-plan-is-there-any-potential-for-either-the-plan-holder-or-the-other-family-plan-sub-users-to-potentially-access-user-data-from-another-account)
+- [Can someone who is part of my family plan leave the family plan and subscribe independently?](#can-someone-who-is-part-of-my-family-plan-leave-the-family-plan-and-subscribe-independently)
+- [Can I pay for outstanding invoices using the credit I added to my account?](#can-i-pay-for-outstanding-invoices-using-the-credit-i-added-to-my-account)
+- [What are the limitations of the Trial plan?](#what-are-the-limitations-of-the-trial-plan)
+- [I'm having issues staying logged in or searching occasionally doesn't work](#i-m-having-issues-staying-logged-in-or-searching-occasionally-doesn-t-work)
+- [Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?](#is-using-kagi-assistant-better-in-terms-of-privacy-than-using-one-of-the-llm-models-directly)
+
+## What is Kagi {#what-is-kagi}
 
 Kagi is a company created with the mission to humanize the web. Our goal is amplify the web of human knowledge, creativity and self-expression and provide the user tools to fight against the web of greed, ad-tech and user tracking. Read more in [About](../company/index.md) section.
 
@@ -66,7 +118,8 @@ Note that Kagi does not collect any personal information for billing and that yo
 Only bare necessities to run the service. Please see our [privacy policy](https://kagi.com/privacy) and our documentation about [privacy protection](../privacy/privacy-protection.md) for more information.
 
 
-## I am still worried about my private information and searches being linked together. Why should I trust you?
+<a name="why-trust"></a>
+## I am still worried about my private information and searches being linked together. Why should I trust you? {#why-trust}
 
 Queries you type are never associated with your account. The reasons are:
 
@@ -196,7 +249,7 @@ Upon purchasing the product subscriptions you will receive a standard invoice th
 Click [here](https://kagi.com/onboarding?p=choose_plan) to become a member.
 
 ## Do I need to do anything to get the benefits of the new plans?
-No, all changes will be automatic and applied to your account today.
+No, all changes were automatic and applied to your account on September 21st, 2023.
 
 ## I do not have a credit card. Can I also pay for Kagi with PayPal or crypto?
 Yes. We have recently added [new payment options](https://blog.kagi.com/accepting-paypal-bitcoin) to allow payment through credit card, PayPal and crypto through OpenNode.
@@ -205,7 +258,7 @@ Yes. We have recently added [new payment options](https://blog.kagi.com/acceptin
 We have several options available, from easy to full manual. See [here](../getting-started/setting-default.md) for instructions.
 
 ## I have an outstanding pay-per-use balance on my current Standard or Professional plan. What happens now?
-We are waiving all pending metered usage charges for you, effective today. Yahoo!
+We waived all pending metered usage charges for you, effective on September 21st, 2023. Yahoo!
 
 ## I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?
 Yes, as long as you do not cancel you will have the previous discount applied.
@@ -248,7 +301,7 @@ There are a few things you can try:
 
 ## Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?
 
-Yes, that’s because Kagi acts as a proxy between you and the LLM (both from an internet connection and payments perspective). Additionally, because Kagi is using the API access rather than the frontend, the provider does not use the data for training the LLM models. Note that during beta, Kagi will store conversations for 7 days in order to handle bug reports, however we plan to reduce this window to 24 hours when Assistant is officially launched.
+Yes, that’s because Kagi acts as a proxy between you and the LLM (both from an internet connection and payments perspective). Additionally, because Kagi is using the API access rather than the frontend, the provider does not use the data for training the LLM models. Note that during beta, Kagi will store conversations for 7 days in order to handle bug reports, however we plan to reduce this window to 24 hours when Assistant officially launches.
 
 ---
 
