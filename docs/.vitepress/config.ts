@@ -204,7 +204,7 @@ function sidebarKagi() {
                     collapsed: true,
                     items: [
                         { text: 'Assistant', link: '/kagi/ai/assistant' },
-                        { text: 'Summarize Results', link: '/kagi/ai/summarize-results' },
+                        { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
                         { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
                         { text: 'Discuss', link: '/kagi/ai/ask-questions' },
                         { text: 'AI Usage Pricing', link: '/kagi/ai/ai-usage-pricing' },
