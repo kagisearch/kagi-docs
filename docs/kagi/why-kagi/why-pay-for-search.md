@@ -40,7 +40,7 @@ Ad based search engines make almost $300 a year off their users.
 
 Google generated [$76 billion](https://www.statista.com/statistics/469821/google-annual-ad-revenue-usa/) in US ad revenue in 2023. Google had [274 million](https://www.statista.com/topics/1001/google/) unique visitors in the US as of February 2023.
 
-To estimate the revenue per user, we can divide the 2023 US ad revenue by the 2023 number of users: $76 billion / 274 million = $277 revenue per user in the US or $23 USD per month, on average! That means there is someone, somewhere, a third party and a complete stranger, an advertiser, paying $23 month for your searches. 
+To estimate the revenue per user, we can divide the 2023 US ad revenue by the 2023 number of users: $76 billion / 274 million = $277 revenue per user in the US or $23 USD per month, on average! That means there is someone, somewhere, a third party and a complete stranger, an advertiser, paying $23 per month for your searches. 
 
 Choosing to subscribe to Kagi means that while you are now paying for your search you are getting a fair value for your money, you are getting more relevant results, are able to personalize your experience and take advantage of all the tools and features we built, all while protecting your and your family's privacy and data.
 
