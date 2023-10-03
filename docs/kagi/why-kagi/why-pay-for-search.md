@@ -36,7 +36,13 @@ All search engines have search costs, development costs, and administrative cost
 
 ## The Numbers Tell a Tale
 
-In 2022 Google generated USD $224.47 Billion dollars from advertisement revenue while processing approximately 8 Billion searches per day. At 365 days per year this amounts to approximately USD $0.07 revenue per search. If an average user searches 5 times per day, assuming a 30 day month this results in Google generating USD $11 revenue per user per month. However the value you receive is well below USD $11 because your results are influenced by ads. Choosing to subscribe to Kagi means that while you are now paying for search you are getting a fair value for your money, you are getting more relevant results, are able to personalize your experience and take advantage of AI tools all while protecting your and your family's privacy and data.
+Ad based search engines make almost $300 a year off their users. 
+
+Google generated [$76 billion](https://www.statista.com/statistics/469821/google-annual-ad-revenue-usa/) in US ad revenue in 2023. Google had [274 million](https://www.statista.com/topics/1001/google/) unique visitors in the US as of February 2023.
+
+To estimate the revenue per user, we can divide the 2023 US ad revenue by the 2023 number of users: $76 billion / 274 million = $277 revenue per user in the US or $23 USD per month, on average! That means there is someone, somewhere, a third party and a complete stranger, an advertiser, paying $23 month for your searches. 
+
+Choosing to subscribe to Kagi means that while you are now paying for your search you are getting a fair value for your money, you are getting more relevant results, are able to personalize your experience and take advantage of all the tools and features we built, all while protecting your and your family's privacy and data.
 
 ## Learn how to Pick a Plan
 
