@@ -26,6 +26,6 @@ We feel our approach is in line with our values. In the unlikely event of not fi
 
 ## Avoiding Censorship and Bias
 
-We do our best to avoid censorship and bias. Some results from traditional sources will reflect biases, but they’ll be balanced by results from other sources. Also, we have built product features to help with bias reduction. For example, our "News 360" [Lens](../features/lenses.md) includes articles from respectable media outlets across the globe.
+We do our best to avoid censorship and bias. Some results from traditional sources will reflect biases, but they’ll be balanced by results from other sources. Also, we have built product features to help with bias reduction. For example, our "World News" [Lens](../features/lenses.md) includes articles from respectable media outlets across the globe.
 
 One of the signals that does influence our ranking is the presence of ads or trackers. We penalize bloated sites regardless of their agendas.
