@@ -296,3 +296,9 @@ Ways you can help accelerate this is:
 - [Contribute](../support-and-community/contribute.md) to Orion development with your time
 - Help spread the word about Orion to attract more users
 - Get [Orion+](https://browser.kagi.com/orionplus.html) and financially support development
+
+---
+
+If you are experiencing issues, please [open a ticket](https://orionfeedback.org/) with as much detail as possible, and we will review it ASAP.
+
+For other inquiries or simply to connect, you can email vlad@kagi.com.
