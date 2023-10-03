@@ -8,9 +8,9 @@ By charging a nominal fee for searches, Kagi ensures that its search results are
 user's privacy.
 
 And by aligning our incentives with those of our users, Kagi is committed to building a better, more ethical future
-on the web..
+on the web.
 
-You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pagerank-over) post on our blog.
+You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pagerank-over) post on our blog and [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/) from Wired.
 
 ## Ad-Supported Search Engines & The Future of the Web
 
@@ -26,7 +26,9 @@ They were right in recognizing early on that ad-supported search engines will be
 
 ## Ad-Supported Search Engines & How You Currently Pay for Search
 
-The search results in "free" search engines are substantially impacted by advertisers and affiliate links that pay them to influence your results. The cost is not free, you are paying with your time and cognitive bandwidth required to parse the results to find what is actually relevant. Consider how much time you spend scrolling through initial results to pass over the results you know are meaningless. Also consider the personal information you are sharing and losing control of as you use the search services that present themselves as free.  
+We always suspected the search results in "free" search engines are substantially impacted by advertisers and affiliate links that pay them to influence your results, but this became more obvious only recently with a wave of reporting led by this Wired story: [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/). 
+
+The cost of ad-supported search is not free, you are paying with your time and cognitive bandwidth required to parse the ad-infested results to find what is actually relevant. Consider how much time you spend scrolling through initial results to pass over the results you know are meaningless. Also consider the personal information you are sharing and losing control of as you use the search services that present themselves as free.  
 
 ## Kagi Strives to Lower Cost
 
