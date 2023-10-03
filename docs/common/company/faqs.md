@@ -10,7 +10,7 @@
 - [Why should I pay for search?](#why-should-i-pay-for-search)
 - [How do I get help with Kagi?](#how-do-i-get-help-with-kagi)
 - [How do I set Kagi as my default search engine?](#how-do-i-set-kagi-as-my-default-search-engine)
-- [Can I use Kagi in private browser sessions?](#using-login-token)
+- [Can I use Kagi in private browser sessions or if I delete my cookies?](#using-login-token)
 - [Why does Kagi Search require an account?](#why-does-kagi-search-require-an-account)
 - [What data does Kagi collect?](#what-data-does-kagi-collect)
 - [I am still worried about my private information and searches being linked together. Why should I trust you?](#why-trust)
@@ -96,7 +96,7 @@ Beyond using this knowledge base, you have several options:
 You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](../getting-started/setting-default.md) for details.
 
 <a name="using-login-token"></a>
-## Can I use Kagi in private browser sessions? {#using-login-token}
+## Can I use Kagi in private browser sessions or if I am deleting my cookies? {#using-login-token}
 
 Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Account settings](https://kagi.com/settings?p=user_details) to get your login token.
 
