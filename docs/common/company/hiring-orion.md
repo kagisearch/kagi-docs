@@ -16,7 +16,7 @@ We are hiring macOS and iOS developers for the Orion browser team.  Create the b
 - Flexible work conditions, remote work OK.
 - Early startup equity is available.
 
-Send your CV to [vlad@kagi.com](mailto:vlad@kagi.com) and we will send a test project.
+Send your CV to [hello@kagi.com](mailto:hello@kagi.com) and we will send a test project.
 
 ---
 
