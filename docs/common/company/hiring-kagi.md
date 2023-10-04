@@ -34,7 +34,7 @@ Fun fact: At Kagi, we [prioritize speed](../search-details/search-speed.md), to 
 - Opportunities for early startup equity.
 - Compensation tied to the company's revenue performance.
  
-Send your CV to [vlad@kagi.com](mailto:vlad@kagi.com).  We’ll send a test project.
+Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
 
 ## Part-time opportunities
 
