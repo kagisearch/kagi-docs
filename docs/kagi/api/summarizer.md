@@ -60,7 +60,7 @@ Check out [Universal Summarizer Zapier integration](https://zapier.com/apps/univ
 
 You can reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
 
-## Supported file typees
+## Supported file types
 
 You can summarize many types of web content, including:
 
