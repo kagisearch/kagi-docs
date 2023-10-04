@@ -54,5 +54,5 @@ If you can not find something on Kagi, you likely can not find it anywhere.
 
 **Unique results from our own indexes (Teclis and TinyGem)**: Our in-house indexes help us uncover high-quality content from blogs and "small web" discussions, typically without ads and tracking. This specific approach lends Kagi results a more human, relatable flavor, distinguishing us from other search engines. 
 
-We also offering these results as an [API](https://help.kagi.com/kagi/api/enrich.html).
+We are also offering these results as an [API](https://help.kagi.com/kagi/api/enrich.html).
 
