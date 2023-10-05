@@ -30,7 +30,9 @@ Recent reporting in [Wired](https://www.wired.com/story/google-antitrust-lawsuit
 
 > Google likely alters queries billions of times a day in trillions of different variations. Here’s how it works. Say you search for “children’s clothing.” Google converts it, without your knowledge, to a search for “NIKOLAI-brand kidswear,” making a behind-the-scenes substitution of your actual query with a different query that just happens to generate more money for the company, and will generate results you weren’t searching for at all. It’s not possible for you to opt out of the substitution. If you don’t get the results you want, and you try to refine your query, you are wasting your time. This is a twisted shopping mall you can’t escape.
 
-One has to realize that the cost of ad-supported search is not free, you are paying with your time, attention and behavior change. Also consider the personal information you are sharing and losing control of as you use the search services that present themselves as free.  
+For completeness, here is the official Google [response](https://twitter.com/searchliaison/status/1709726778170786297) to the article so you can decide for yourself.
+ 
+One has to consider that the cost of ad-supported search is not free; you are paying with your time, attention and behavior change as well as personal information you are sharing and losing control of as you use ad-supported search.  
 
 ## The Numbers Tell a Tale
 
