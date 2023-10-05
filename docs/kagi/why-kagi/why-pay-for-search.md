@@ -1,6 +1,10 @@
 # Why Pay for Search
 
-We'll let Google explain this (click to enlarge). This is the actual output from Google Bard AI tool.
+You should pay for your search engine to ensure that the incentives of the information provider are aligned with what's best for you, not what’s best for advertisers.
+
+Think about it. Do you want the results you find in your search engine to give you the information you need or the information an advertiser wants you to see?
+
+Here is what Google's own AI has to say about this (click to enlarge).
 
 [![Google ad for Kagi](media/ad.png)](https://help.kagi.com/assets/ad.554fa2a5.png)
 
@@ -14,15 +18,15 @@ You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pa
 
 ## Ad-Supported Search Engines & The Future of the Web
 
-We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe why it is imperative for search engines to be ad-free:
+In the early days of Google, in 1998, its founders rightly recognized that it is an imperative for a search engines to remain ad-free:
 
 > "Currently, the predominant business model for commercial search engines is advertising. **The goals of the advertising business model do not always correspond to providing quality search to users.** For example, in our prototype search engine one of the top results for cellular phone is "The Effect of Cellular Phone Use Upon Driver Attention", a study which explains in great detail the distractions and risk associated with conversing on a cell phone while driving. This search result came up first because of its high importance as judged by the PageRank algorithm, an approximation of citation importance on the web [Page, 98].*
 >
-> It is clear that a search engine which was taking money for showing cellular phone ads would have difficulty justifying the page that our system returned to its paying advertisers. For this type of reason and historical experience with other media [Bagdikian 83], we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers."
+> It is clear that a search engine which was taking money for showing cellular phone ads would have difficulty justifying the page that our system returned to its paying advertisers. For this type of reason and historical experience with other media [Bagdikian 83], **we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.**"
 >
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
-They were right in recognizing early on that ad-supported search engines will be biased towards the advertisers. They probably could not foresee how much damage to the web adopting the model they originally criticized would ultimately cause.
+Unfortunately, this is not how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result.
 
 ## Ad-Supported Search Engines & How You Currently Pay for Search
 
@@ -52,4 +56,4 @@ Kagi brings a new model to the market - pay for your search with your wallet ins
 
 ## Learn how to Pick a Plan
 
-We make it easy to pick the plan that is right for you, take a look at our [Plan Types](../plans/plan-types.md) and review our [Pick The Right Plan](../plans/pick-the-plan.md).
+We make it easy to pick the plan that is right for you, take a look at our [Plan Types](../plans/plan-types.md).
