@@ -1,16 +1,15 @@
 # Get Connected with Kagi
 
+## Customer Support
+
+Feel free to [email us](email-support.md) or use the [Kagi Search Discord server](https://kagi.com/discord) for support.
+
+Before contacting us for support please check if your issue has been addressed in this documentation (we are really proud of it and it is also open source and editable).
+
 ## Blog
 
 We blog at [blog.kagi.com](https://blog.kagi.com/blog) about company updates product features and other important news.
 You can subscribe to our [blog's RSS feed](https://blog.kagi.com/rss.xml).
-
-Example content:
-
-- [Kagi search and Orion browser enter public beta](https://blog.kagi.com/kagi-orion-public-beta)
-- [Kagi passes an independent security audit](https://blog.kagi.com/security-audit)
-- [Kagi status update: First three months](https://blog.kagi.com/status-update-first-three-months)
-
 
 ## Discord
 
@@ -41,12 +40,6 @@ Release notes are published at:
 
 RSS feed for release notes is available at:
 [kagifeedback.org/atom/t/release-notes](https://kagifeedback.org/atom/t/release-notes)
-
-## Customer Support
-
-Before contating us for support please see if your issue has been addressed on this knowledge base or our [Kagi Search feedback forum](https://kagifeedback.org).
-
-Feel free to [email us](email-support.md) or use the [Kagi Search Discord server](https://kagi.com/discord) for support.
 
 
 ## Twitter (er, X?)
