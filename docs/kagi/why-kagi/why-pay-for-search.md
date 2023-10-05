@@ -16,7 +16,7 @@ You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pa
 
 We will let no other than the founders of Google explain this. The year is 1998, and this is how they describe why it is imperative for search engines to be ad-free:
 
-> "Currently, the predominant business model for commercial search engines is advertising. The goals of the advertising business model do not always correspond to providing quality search to users. For example, in our prototype search engine one of the top results for cellular phone is "The Effect of Cellular Phone Use Upon Driver Attention", a study which explains in great detail the distractions and risk associated with conversing on a cell phone while driving. This search result came up first because of its high importance as judged by the PageRank algorithm, an approximation of citation importance on the web [Page, 98].*
+> "Currently, the predominant business model for commercial search engines is advertising. **The goals of the advertising business model do not always correspond to providing quality search to users.** For example, in our prototype search engine one of the top results for cellular phone is "The Effect of Cellular Phone Use Upon Driver Attention", a study which explains in great detail the distractions and risk associated with conversing on a cell phone while driving. This search result came up first because of its high importance as judged by the PageRank algorithm, an approximation of citation importance on the web [Page, 98].*
 >
 > It is clear that a search engine which was taking money for showing cellular phone ads would have difficulty justifying the page that our system returned to its paying advertisers. For this type of reason and historical experience with other media [Bagdikian 83], we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers."
 >
@@ -26,13 +26,11 @@ They were right in recognizing early on that ad-supported search engines will be
 
 ## Ad-Supported Search Engines & How You Currently Pay for Search
 
-We always suspected the search results in "free" search engines are substantially impacted by advertisers and affiliate links that pay them to influence your results, but this became more obvious only recently with a wave of reporting led by this Wired story: [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/). 
+Recent reporting in [Wired](https://www.wired.com/story/google-antitrust-lawsuit-search-results/) shed new light on how ad-supported search engines alter queries to generate more commercial outcomes.
 
-The cost of ad-supported search is not free, you are paying with your time and cognitive bandwidth required to parse the ad-infested results to find what is actually relevant. Consider how much time you spend scrolling through initial results to pass over the results you know are meaningless. Also consider the personal information you are sharing and losing control of as you use the search services that present themselves as free.  
+> Google likely alters queries billions of times a day in trillions of different variations. Here’s how it works. Say you search for “children’s clothing.” Google converts it, without your knowledge, to a search for “NIKOLAI-brand kidswear,” making a behind-the-scenes substitution of your actual query with a different query that just happens to generate more money for the company, and will generate results you weren’t searching for at all. It’s not possible for you to opt out of the substitution. If you don’t get the results you want, and you try to refine your query, you are wasting your time. This is a twisted shopping mall you can’t escape.
 
-## Kagi Strives to Lower Cost
-
-All search engines have search costs, development costs, and administrative costs. Most search engines cover this by advertising, tracking, and selling your data. Currently Kagi charges about USD 1.5 cents per search and allows most people to use a paid search engine that has their best interest in mind for just $5/mo nominal fee.
+One has to realize that the cost of ad-supported search is not free, you are paying with your time, attention and behavior change. Also consider the personal information you are sharing and losing control of as you use the search services that present themselves as free.  
 
 ## The Numbers Tell a Tale
 
@@ -43,6 +41,12 @@ Google generated [$76 billion](https://www.statista.com/statistics/469821/google
 To estimate the revenue per user, we can divide the 2023 US ad revenue by the 2023 number of users: $76 billion / 274 million = $277 revenue per user in the US or $23 USD per month, on average! That means there is someone, somewhere, a third party and a complete stranger, an advertiser, paying $23 per month for your searches. 
 
 Choosing to subscribe to Kagi means that while you are now paying for your search you are getting a fair value for your money, you are getting more relevant results, are able to personalize your experience and take advantage of all the tools and features we built, all while protecting your and your family's privacy and data.
+
+## Kagi Finally Offers a Choice
+
+All search engines have search costs, development costs, and administrative costs. Most search engines cover this by advertising, tracking, and selling your data. And for 25 years we did not have any choice.
+
+Kagi brings a new model to the market - pay for your search with your wallet instead. For only $5/mo (Starter plan) or $10/mo (unlimited search plan) you can now search with a peace of mind, knowing the results are always shown with your best interest in mind.
 
 ## Learn how to Pick a Plan
 
