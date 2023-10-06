@@ -137,6 +137,7 @@ function sidebarKagi() {
                         { text: 'Kudos', link: '/kagi/support-and-community/kudos' },
                     ]
                 }
+                { text: 'Live Stats', link: '/kagi/support-and-community/stats' },
             ]
         },
         {
