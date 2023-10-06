@@ -48,6 +48,7 @@ We are currently seeking full-stack developers who embody the following qualific
 - Ability to dedicate 10-20 hours per week to R&D projects.
 - A proactive and self-organized working style, capable of thriving in a "fire & forget" mode.
 - A passion for building innovative projects from the ground up.
+- You can demonstrate a history of tinkering with product ideas/hacking projects together.
 
 If you are eager to contribute to cutting-edge projects and grow with a dynamic team, we would be thrilled to hear from you.
 
