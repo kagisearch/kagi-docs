@@ -44,6 +44,8 @@ About menu if unsure. There is a lot of debug information available in Help
 2. **Image/Video**. It is always helpful to upload images/videos. Our site will allow dragging and dropping files as you write.
 
 
+3. **Provide process logs**. If you are experiencing glitches, freezes or beachballs, you can include process logs from within Activity Monitor. Select the main Orion process (look for the Orion icon) from the list and under View, select Sample Process. You can save that analysis as a text file and attach it to your report.
+
 ## Things to Try
 
 Sometimes there are a few things you can do to help us narrow down certain issues. Depending on the problem, you can try:
