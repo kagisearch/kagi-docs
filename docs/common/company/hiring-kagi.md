@@ -45,7 +45,7 @@ We are deeply committed to fostering a culture of research and development (R&D)
 We are currently seeking full-stack developers who embody the following qualifications:
 
 - Proficiency in backend development with Python, Ruby, or Node.js, paired with expertise in crafting frontend interfaces using vanilla HTML, CSS, and JS.
-- Ability to dedicate 10-20 hours per week to R&D projects.
+- Ability to dedicate 20 hours per week to R&D projects.
 - A proactive and self-organized working style, capable of thriving in a "fire & forget" mode.
 - A passion for building innovative projects from the ground up.
 - You can demonstrate a history of tinkering with product ideas/hacking projects together.
