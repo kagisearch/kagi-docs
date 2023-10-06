@@ -124,7 +124,7 @@ function sidebarKagi() {
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
                     ]
                 },
-                { text: 'Frequently Asked Questions', link: '/kagi/company/faqs' },
+                { text: 'Frequently Asked Questions', link: '/kagi/faq/faq' },
                 {
                     text: 'Contribute',
                     collapsed: true,
