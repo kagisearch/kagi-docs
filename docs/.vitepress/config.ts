@@ -136,8 +136,8 @@ function sidebarKagi() {
                         { text: 'Contributors', link: '/kagi/support-and-community/contributors' },
                         { text: 'Kudos', link: '/kagi/support-and-community/kudos' },
                     ]
-                }
-                { text: 'Live Stats', link: '/kagi/support-and-community/stats' },
+                },
+                { text: 'Live Stats', link: '/kagi/support-and-community/stats' }
             ]
         },
         {
