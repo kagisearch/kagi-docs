@@ -1,4 +1,4 @@
-# Why Pay for Search
+# Why pay for search
 
 You should pay for your search engine to ensure that the incentives of the information provider are aligned with what's best for you, not what’s best for advertisers.
 
@@ -16,7 +16,7 @@ on the web.
 
 You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pagerank-over) post on our blog and [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/) from Wired.
 
-## Ad-Supported Search Engines & The Future of the Web
+## Ad-supported search engines & the future of the web
 
 In the early days of Google, in 1998, its founders rightly recognized that it is an imperative for a search engines to remain ad-free:
 
@@ -28,7 +28,7 @@ In the early days of Google, in 1998, its founders rightly recognized that it is
 
 Unfortunately, this is not how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result.
 
-## Ad-Supported Search Engines & How You Currently Pay for Search
+## Ad-supported search engines & how you currently pay for search
 
 Recent reporting in [Wired](https://www.wired.com/story/google-antitrust-lawsuit-search-results/) shed new light on how ad-supported search engines alter queries to generate more commercial outcomes.
 
@@ -38,7 +38,7 @@ For completeness, here is the official Google [response](https://twitter.com/sea
  
 One has to consider that the cost of ad-supported search is not free; you are paying with your time, attention and behavior change as well as personal information you are sharing and losing control of as you use ad-supported search.  
 
-## The Numbers Tell a Tale
+## The numbers tell a tale
 
 Ad based search engines make almost $300 a year off their users. 
 
@@ -48,12 +48,12 @@ To estimate the revenue per user, we can divide the 2023 US ad revenue by the 20
 
 Choosing to subscribe to Kagi means that while you are now paying for your search you are getting a fair value for your money, you are getting more relevant results, are able to personalize your experience and take advantage of all the tools and features we built, all while protecting your and your family's privacy and data.
 
-## Kagi Finally Offers a Choice
+## Kagi offers a choice
 
 All search engines have search costs, development costs, and administrative costs. Most search engines cover this by advertising, tracking, and selling your data. And for 25 years we did not have any choice.
 
 Kagi brings a new model to the market - pay for your search with your wallet instead. For only $5/mo (Starter plan) or $10/mo (unlimited search plan) you can now search with a peace of mind, knowing the results are always shown with your best interest in mind.
 
-## Learn how to Pick a Plan
+## Pick a Kagi plan that is right for you
 
 We make it easy to pick the plan that is right for you, take a look at our [Plan Types](../plans/plan-types.md).
