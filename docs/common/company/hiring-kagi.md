@@ -20,8 +20,8 @@ next:
 Fun fact: At Kagi, we [prioritize speed](../search-details/search-speed.md), to the point where all functionalities of Kagi Search (except Stripe checkout and Maps) work perfectly without JavaScript. We see JavaScript as a tool to enhance the UX, not create it.
 
 **Core ML Team**
-- Deep understanding of machine learning tools and technologies, whether in the build/deploy or apply/tweak layers.
-- Demonstrable expertise with modern Large Language Models (LLMs).
+- Deep understanding of machine learning tools and technologies, whether in the build/deploy or apply/customize layers.
+- Demonstrable expertise with modern large language models (LLMs), their deployment and/or advanced prompting techniques.
 - Experience in building noteworthy projects utilizing machine learning.
 
 **Core Design Team**
