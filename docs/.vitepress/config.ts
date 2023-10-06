@@ -117,7 +117,7 @@ function sidebarKagi() {
                 {
                     text: 'Support and Community',
                     collapsed: true,
-                    link: '/kagi/support-and-community/',
+                    link: '/kagi/support-and-community/roadmap_feedback',
                     items: [
                         { text: 'Get Connected', link: '/kagi/support-and-community/roadmap_feedback' },
                         { text: 'Reporting a Bug', link: '/kagi/support-and-community/bug-reporting' },
