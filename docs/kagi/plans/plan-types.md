@@ -1,7 +1,7 @@
 ---
 next:
-  text: 'Pick The Right Plan'
-  link: '/kagi/plans/pick-the-plan'
+  text: 'Premium Plans'
+  link: '/kagi/plans/premium-plan'
 ---
 
 # Plan Types

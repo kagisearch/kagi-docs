@@ -1,3 +1,10 @@
+---
+next:
+  text: 'Reporting a Bug'
+  link: '/kagi/support-and-community/bug-reporting'
+---
+
+
 # Get Connected with Kagi
 
 ## Customer Support
