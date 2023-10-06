@@ -36,3 +36,22 @@ For any existing subscribers and early adopters who are interested in how legacy
 ## Why Tiered Pricing
 
 This tiered pricing system is easy to understand and ensures Kagi’s financial sustainability for the future so that we can continue to provide you with the tools to own your search experience as we pursue our mission to humanize the web.
+
+## Pick The Right Plan
+
+### Start Simple
+
+We understand picking the right plan can be challenging and while we have expertise in this area and are prepared to help we suggest starting with the simple Starter plan. It is very unlikely you will exceed the allotted searches for this plan unless you are in the top 1% of searching users. To be in the top 1% you would likely need to depend on search on a daily basis for your livelihood. As a reminder the Starter plan is USD $5/month with 300 searches included.
+
+### Upgrade to Unlimited Searches
+
+If you find that you are consistently running out of searches at the end of each month because you have the Starter plan and need more than 300 searches it is time to consider the Professional plan. This plan is priced at USD $10/month and you get unlimited searches!
+
+### Consider the Ultimate Plan for Advanced Features
+
+If you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan. This gives you access to exclusive and early access to Kagi features and services.
+  * Note: Starting September 21st, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.
+
+### Understand Your Consumption
+
+Kagi has a feature to check your [current search usage](https://kagi.com/settings?p=consumption) if you are interested in really taking apart your consumption.
