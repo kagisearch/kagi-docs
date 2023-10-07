@@ -4,7 +4,9 @@ We’re obsessed with increasing speed and lowering latency, and we currently us
 
 First, we optimized our technology stack to increase code execution speed and decrease connection latency.
 
-Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors! This reduction has the neat side-effect of reducing CO<sub>2</sub> emissions. Using Kagi Search will benefit the environment as well as you!
+Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors. Having no ads andno JavaScript frameworks really helps.
+
+Third, our infrastructure is global, so you’ll always connect automatically to the Kagi node closest to you.
 
 | Product | SERP Size | CO<sub>2</sub> | Load Time |
 | --- | --- | --- | --- |
@@ -13,6 +15,7 @@ Second, we reduced data transfer between Kagi and the browser, in some cases as 
 | Bing | 1.94 MB | 1.11 g | 0.8 s |
 | Google | 2.43 MB | 1.39 g | 2.4 s |
 | DuckDuckGo | 2.48 MB | 1.42 g | 2.1 s |
-*Data from ecoping.earth*
 
-Third, our infrastructure is global, so you’ll always connect automatically to the Kagi node closest to you.
+*Data from [ecoping.earth](https://ecoping.earth). Read about the [methodology](https://sustainablewebdesign.org/calculating-digital-emissions/).*
+
+
