@@ -4,7 +4,7 @@ We’re obsessed with increasing speed and lowering latency, and we currently us
 
 First, we optimized our technology stack to increase code execution speed and decrease connection latency.
 
-Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors. Having no ads andno JavaScript frameworks really helps.
+Second, we reduced data transfer between Kagi and the browser, in some cases as much as 20x less compared to some of our competitors. Having no ads and no bulky JavaScript frameworks really helps.
 
 Third, our infrastructure is global, so you’ll always connect automatically to the Kagi node closest to you.
 
