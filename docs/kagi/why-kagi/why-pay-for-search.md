@@ -14,7 +14,7 @@ user's privacy.
 And by aligning our incentives with those of our users, Kagi is committed to building a better, more ethical future
 on the web.
 
-You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pagerank-over) post on our blog and [How Google Alters Search Queries to Get at Your Wallet](https://www.wired.com/story/google-antitrust-lawsuit-search-results/) from Wired.
+You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pagerank-over) post on our blog.
 
 ## Ad-supported search engines & the future of the web
 
@@ -27,16 +27,6 @@ In the early days of Google, in 1998, its founders rightly recognized that it is
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
 Unfortunately, this is not how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result.
-
-## Ad-supported search engines & how you currently pay for search
-
-Recent reporting in [Wired](https://www.wired.com/story/google-antitrust-lawsuit-search-results/) shed new light on how ad-supported search engines alter queries to generate more commercial outcomes.
-
-> Google likely alters queries billions of times a day in trillions of different variations. Here’s how it works. Say you search for “children’s clothing.” Google converts it, without your knowledge, to a search for “NIKOLAI-brand kidswear,” making a behind-the-scenes substitution of your actual query with a different query that just happens to generate more money for the company, and will generate results you weren’t searching for at all. It’s not possible for you to opt out of the substitution. If you don’t get the results you want, and you try to refine your query, you are wasting your time. This is a twisted shopping mall you can’t escape.
-
-For completeness, here is the official Google [response](https://twitter.com/searchliaison/status/1709726778170786297) to the article so you can decide for yourself.
- 
-One has to consider that the cost of ad-supported search is not free; you are paying with your time, attention and behavior change as well as personal information you are sharing and losing control of as you use ad-supported search.  
 
 ## The numbers tell a tale
 
