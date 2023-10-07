@@ -45,7 +45,7 @@ and will be added to the documentation below as features become available.
 
 Use at your own risk, but please reach out to us if you have any questions.
 
-See the [Support and Community](../support-and-community/index.md) section for details.
+See the [Support and Community](../support-and-community/roadmap_feedback.md) section for details.
 
 ## GitHub Discussions
 
