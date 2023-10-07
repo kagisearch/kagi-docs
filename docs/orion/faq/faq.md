@@ -301,4 +301,4 @@ Ways you can help accelerate this is:
 
 If you are experiencing issues, please [open a ticket](https://orionfeedback.org/) with as much detail as possible, and we will review it ASAP.
 
-For other inquiries or simply to connect, you can email vlad@kagi.com.
+For other inquiries or simply to connect, you can email support@kagi.com.

@@ -303,8 +303,13 @@ There are a few things you can try:
 
 Yes, that’s because Kagi acts as a proxy between you and the LLM (both from an internet connection and payments perspective). Additionally, because Kagi is using the API access rather than the frontend, the provider does not use the data for training the LLM models. Note that during beta, Kagi will store conversations for 7 days in order to handle bug reports, however we plan to reduce this window to 24 hours when Assistant officially launches.
 
+## I get "Error: Forbidden" when trying to visit Kagi
+
+If you are using a VPN, try changing to a different VPN server or disable the VPN to see if that resolves the issue.
+Unfortunately, our hosting provider (GCP) is known to block some VPN IP addresses, and this is out of our control.
+
 ---
 
 If you are experiencing issues, please [open a ticket](https://kagifeedback.org/) with as much detail as possible, and we will review it ASAP.
 
-For other inquiries or simply to connect, you can email vlad@kagi.com.
+For other inquiries or simply to connect, you can email support@kagi.com.
