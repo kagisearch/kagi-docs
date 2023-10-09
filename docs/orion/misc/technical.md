@@ -4,7 +4,7 @@ We’re still working on our official documentation, but here are a few points o
 
 # Orion Web Extensions API support
 
-Orion supports a growing number of Web Extensions APIs, and with them a growing nunber of btoh Chrome and Firefox extensions.
+Orion supports a growing number of Web Extensions APIs, and with them a growing nunber of both Chrome and Firefox extensions.
 
 We maintain a list of officially supported APIs in [this document](https://docs.google.com/spreadsheets/d/14IgSRVop4psUTgtLZlvYJYrAArhvL3WvRlUdzdQbIoQ/edit?usp=sharing).
 
