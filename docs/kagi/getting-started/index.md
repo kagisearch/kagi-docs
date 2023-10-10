@@ -83,4 +83,4 @@ Learn how to set Kagi as [default search engine in your browser](./setting-defau
 
 ## Kagi member communities
 
-Kagi has a [vivid member community](../support-and-community/roadmap_feedback.md) that shares tips, advice and suggests new features. 
+Kagi has a [vivid member community](../support-and-community/) that shares tips, advice and suggests new features. 
