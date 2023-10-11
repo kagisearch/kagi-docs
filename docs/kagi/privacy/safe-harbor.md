@@ -16,7 +16,7 @@ You are expected, as always, to comply with all laws applicable to you, and not 
 
 Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
 
-Resource attacks like denial-of-service (DoS) attacks are not in the scope of this safe harbor policy.
+**Resource attacks like denial-of-service (DoS) attacks are not in the scope of this safe harbor policy.**
 
 ## 2. Third Party Safe Harbor
 
