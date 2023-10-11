@@ -152,6 +152,7 @@ function sidebarKagi() {
                         { text: 'Privacy Protection', link: '/kagi/privacy/privacy-protection' },
                         { text: 'Private Browser Sessions', link: '/kagi/privacy/private-browser-sessions' },
                         { text: 'Security', link: '/kagi/privacy/security' },
+                        { text: 'Legal Safe Harbor', link: '/kagi/privacy/safe-harbor' },
                     ]
                 },
                 {
