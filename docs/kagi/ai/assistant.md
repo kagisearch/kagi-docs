@@ -14,8 +14,8 @@ Research assistant uses Kagi search and external sources like Wolfram Alpha, tog
 
 This mode is available in two variants:
 
-- Fast: Kagi search coupled with a fast AI model. Optimized for speed, while not sacrificing quality. Access directly with the `!fast` bang.
-- Expert: Multiple Kagi searches (and external services) together with the best available AI model for the highest accuracy and comprehensive responses. Access directly with the `!expert` bang.
+- Fast: Kagi search coupled with a fast AI model (claude-instant). Optimized for speed, while not sacrificing quality. Access directly with the `!fast` bang.
+- Expert: Multiple Kagi searches (and external services) together with the best available AI model (claude-2) for the highest accuracy and comprehensive responses. Access directly with the `!expert` bang.
 
 ### Code
 
@@ -23,7 +23,7 @@ Code assistant is tuned for programming tasks and uses a powerful AI model for p
 
 <img src="./media/assistant_code.png" width="500" alt="Kagi Assistant - Code"><br />
 
-For Starter and Professional members this modes uses gpt-3.5-turbo, and for Ultimate members it uses gpt-4.
+For Starter and Professional members this mode uses gpt-3.5-turbo, and for Ultimate members it uses gpt-4.
 
 Access directly with the `!code` bang.
 
