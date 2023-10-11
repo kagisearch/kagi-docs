@@ -16,6 +16,8 @@ You are expected, as always, to comply with all laws applicable to you, and not 
 
 Please contact us before engaging in conduct that may be inconsistent with or unaddressed by this policy. We reserve the sole right to make the determination of whether a violation of this policy is accidental or in good faith, and proactive contact to us before engaging in any action is a significant factor in that decision. If in doubt, ask us first!
 
+Resource attacks like denial-of-service (DoS) attacks are not in the scope of this safe harbor policy.
+
 ## 2. Third Party Safe Harbor
 
 If you submit a report through our bug bounty program which affects a third party service, we will limit what we share with any affected third party. We may share non-identifying content from your report with an affected third party, but only after notifying you that we intend to do so and getting the third party's written commitment that they will not pursue legal action against you or initiate contact with law enforcement based on your report. We will not share your identifying information with any affected third party without first getting your written permission to do so.
