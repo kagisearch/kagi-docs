@@ -1,4 +1,4 @@
-# Keyboard Shortcuts
+# Orion Keyboard Shortcuts
 
 Orion for macOS uses OS-level keyboard shortcuts. You may wish to change certain shortcuts from their defaults. You may also find other apps have shortcuts that conflict with Orion's defaults. You can change the keyboard shortcuts for Orion or other apps based on your specific needs.
 
@@ -8,7 +8,7 @@ Orion for macOS uses OS-level keyboard shortcuts. You may wish to change certain
 - [macOS Monterey (version 12)](#macos_monterey)
 
 <a name="macos_ventura"></a>
-## macOS Ventura (version 13) {#macos_ventura}
+## macOS Ventura or later (version 13 +) {#macos_ventura}
 
 To change your shortcuts in previous versions of macOS:
 
