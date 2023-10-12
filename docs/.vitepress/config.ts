@@ -186,7 +186,7 @@ function sidebarKagi() {
                     items: [
                         { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
                         { text: 'Lenses', link: '/kagi/features/lenses' },
-                        { text: 'Search Operators', link: '/kagi/features/search-operators' },
+                        { text: 'Keyboard Shortcuts', link: '/kagi/features/keyboard-shortcuts' },
                         { text: 'Bangs', link: '/kagi/features/bangs' },
                         { text: 'Sharing Results', link: '/kagi/features/share-results' },
                         { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
