@@ -1,4 +1,4 @@
-# Kagi Keyboard Shortcuts
+# Kagi Keyboard Shortcuts and Search Operators
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 - [Query Shortcuts & Widgets](#query-shortcuts-widgets)
 
 <a name="viewing-search-operators"></a>
-## Viewing Search Operators {#viewing-search-operators}
+## Viewing Keyboard Shortcuts and Search Operators {#viewing-search-operators}
 
 If you press **?** on your keyboard (**shift + /**) while in search results, Kagi will open a scrollable window showing keyboard shortcuts, search operators, query shortcuts, and widgets. You can also click or tap **Help** at the bottom of any Kagi webpage to see the same information.
 
