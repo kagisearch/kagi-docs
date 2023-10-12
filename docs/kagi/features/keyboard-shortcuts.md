@@ -1,4 +1,4 @@
-# Search Operators
+# Kagi Keyboard Shortcuts
 
 ## Table of Contents
 
