@@ -36,8 +36,6 @@ To switch your plan:
 3. Select a Plan you want to switch to
 4. Follow the prompts
 
-![Billing Settings](media/pay_per_use.png)
-
 ## Billing Settings: Retry Billing
 
 If your billing gets declined you will need to retry the billing attempt for the invoice by selecting the Manage Billing option under your Billing Settings
