@@ -31,14 +31,17 @@ Fun fact: At Kagi, we [prioritize speed](../search-details/search-speed.md), to 
 
 **General conditions**
 - Flexible working conditions; remote first culture.
-- Opportunities for early startup equity.
-- Compensation tied to the company's revenue performance.
- 
+- Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the feign-hearted.
+- Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
+- We are completey user funded. Kagi is currently in [one village worth of homes](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
+
 Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
 
 ## Part-time opportunities
 
-**Kagi R&D Team**
+**Kagi R&D Team** 
+
+**Note:** We are currently full, please check back later.
 
 We are deeply committed to fostering a culture of research and development (R&D) at Kagi. Many of our groundbreaking technologies such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt) or [Small Web](https://kagi.com/smallweb) have their origins in our R&D initiatives. At any time we have 4-5 individuals working on R&D projects, with some eventually transitioning to full-time roles.
 
