@@ -10,6 +10,7 @@
 - [Why should I pay for search?](#why-should-i-pay-for-search)
 - [How do I get help with Kagi?](#how-do-i-get-help-with-kagi)
 - [How do I set Kagi as my default search engine?](#how-do-i-set-kagi-as-my-default-search-engine)
+- [Why does Kagi return so few results?](#kagi-better-results)
 - [Can I use Kagi in private browser sessions or if I delete my cookies?](#using-login-token)
 - [Why does Kagi Search require an account?](#why-does-kagi-search-require-an-account)
 - [What data does Kagi collect?](#what-data-does-kagi-collect)
@@ -94,6 +95,13 @@ Beyond using this knowledge base, you have several options:
 ## How do I set Kagi as my default search engine?
 
 You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](../getting-started/setting-default.md) for details.
+
+<a name="kagi-better-results"></a>
+## Why does Kagi return so few results?
+
+Kagi only shows you actually relevant search results, so you may be confused when Kagi returns 57 results and another, ad supported, search engine returns 2.6 million results.  This is, in part, because ad supported search engines have different incentives and want you to stay on their site longer, going through pages and pages of results, etc., as every interaction is another opportunity to serve ads.
+
+Kagi, on the other hand, tries to find what you are looking for, show it in top 3 results, and only show you truly relevant, non-duplicate, results.
 
 <a name="using-login-token"></a>
 ## Can I use Kagi in private browser sessions or if I am deleting my cookies? {#using-login-token}
