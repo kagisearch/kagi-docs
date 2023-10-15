@@ -12,7 +12,7 @@ These settings control your billing options and status with Kagi, there are two 
 Your billing settings will show you your [Plan Type](../plans/plan-types.md) as well as:
 
 * Total searches this period
-* Searches used by AI
+* Searches used by AI (only on Trial plan)
 * Amount of credit value
 * Date of next renewal
 
@@ -36,8 +36,6 @@ To switch your plan:
 2. Click "Switch Plan"
 3. Select a Plan you want to switch to
 4. Follow the prompts
-
-![Billing Settings](media/pay_per_use.png)
 
 ## Billing Settings: Retry Billing
 
