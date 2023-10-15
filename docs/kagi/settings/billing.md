@@ -12,6 +12,7 @@ These settings control your billing options and status with Kagi, there are two 
 Your billing settings will show you your [Plan Type](../plans/plan-types.md) as well as:
 
 * Total searches this period
+* Searches used by AI (only on Trial plan)
 * Amount of credit value
 * Date of next renewal
 
