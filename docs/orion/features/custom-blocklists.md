@@ -8,7 +8,7 @@ Orion for Mac allows you to customize it's ad blocker by using custom block list
 
 Block lists are constantly updated as new ad/tracking domains appear. List maintainers work to identify and add new ad-serving domains as they pop up.
 
-To manually update block lists, go **Orion** > **Settings** > **Privacy** and click **Update Now**. Wait for the "Processing update" message to disappear.
+To manually update block lists, go to **Orion** > **Settings** > **Privacy** and click **Update Now**. Wait for the "Processing update" message to disappear.
 
 <img src="./media/blocklists_update_now.png" width="500" alt="Blocklists - Update Now"><br />
 
