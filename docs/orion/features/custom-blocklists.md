@@ -34,32 +34,66 @@ Then, paste the URL of the block list you wish to add and click the **Add** butt
 
 ## Third Party Block Lists
 
-There are different types of lists - general ad lists, regional lists, malware lists, privacy lists etc. You can customize your ad blocking by choosing which lists you want to add to Orion.
+There are different types of lists - general ad lists, regional lists, malware lists, privacy lists, etc. You can customize your ad blocking by choosing which lists you want to add to Orion.
 
-The [FilterLists](https://filterlists.com/) website provides a comprehensive directory of blocklists to block advertisements, malware, trackers, and other general annoyances.
+The [FilterLists](https://filterlists.com/) website provides a comprehensive directory of blocklists you can add to Orion.
 
 ### Recommended Block Lists
 
-Bypass Paywalls Clean filter - [Info](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters) <br>
-`https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt`
-
-d3Host List by d3ward - [Info](https://github.com/d3ward/toolz) <br>
-`https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock`
+#### Privacy
 
 AdGuard Tracking Protection - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
 `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt`
 
-AdGuard Social Media - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
-`https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt`
+Hagezi's Personal Blocklist - [Info](https://github.com/hagezi/dns-blocklists) <br>
+`https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt`
 
+yokoffing's Privacy Essentials - [Info](https://github.com/yokoffing/filterlists) <br>
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt`
+
+d3Host List - [Info](https://github.com/d3ward/toolz) <br>
+`https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock`
+
+##### URL Tracking Parameters
+Actually Legitimate URL Shortener Tool - [Info](https://github.com/DandelionSprout/adfilt) <br>
+`https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt`
+
+##### Fonts
+Block third-party fonts - [Info](https://github.com/yokoffing/filterlists) <br>
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt`
+
+#### Annoyances
 AdGuard Annoyances - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
 `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt`
+
+AdGuard Social Media - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
+`https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt`
 
 I don't care about cookies - [Info](https://www.i-dont-care-about-cookies.eu/) <br>
 `https://www.i-dont-care-about-cookies.eu/abp/`
 
+yokoffing's Annoyance List - [Info](https://github.com/yokoffing/filterlists) <br>
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt`
+
+Browse websites without logging in - [Info](https://github.com/DandelionSprout/adfilt) <br>
+`https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt`
+
+YouTube Clear View - [Info](https://github.com/yokoffing/filterlists) <br>
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt`
+
+##### Paywalls
+Bypass Paywalls Clean filter - [Info](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters) <br>
+`https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt`
+
+#### Security
 NoCoin Filter List - [Info](https://github.com/hoshsadiq/adblock-nocoin-list/) <br>
 `https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt`
+
+Dandelion Sprout's Anti-Malware List - [Info](https://github.com/DandelionSprout/adfilt) <br>
+`https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Dandelion%20Sprout's%20Anti-Malware%20List.txt`
+
+iam-py-test's The malicious website blocklist - [Info](https://github.com/iam-py-test/my_filters_001) <br>
+`https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt`
 
 ### Regional Block Lists
 
