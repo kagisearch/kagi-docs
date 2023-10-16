@@ -38,9 +38,7 @@ There are different types of lists - general ad lists, regional lists, malware l
 
 The [FilterLists](https://filterlists.com/) website provides a comprehensive directory of blocklists you can add to Orion.
 
-### Recommended Blocklists
-
-#### Privacy
+### Privacy
 
 AdGuard Tracking Protection - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
 `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt`
@@ -51,18 +49,22 @@ Hagezi's Personal Blocklist - [Info](https://github.com/hagezi/dns-blocklists) <
 yokoffing's Privacy Essentials - [Info](https://github.com/yokoffing/filterlists) <br>
 `https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt`
 
-d3Host List - [Info](https://github.com/d3ward/toolz) <br>
-`https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock`
-
-##### URL Tracking Parameters
+#### URL Tracking Parameters
 Actually Legitimate URL Shortener Tool - [Info](https://github.com/DandelionSprout/adfilt) <br>
 `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt`
 
-##### Fonts
+#### Fonts
 Block third-party fonts - [Info](https://github.com/yokoffing/filterlists) <br>
 `https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt`
 
-#### Annoyances
+### Ads
+Peter Lowe's list - [Info](https://pgl.yoyo.org/as/#about) <br>
+`https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext`
+
+d3Host List - [Info](https://github.com/d3ward/toolz) <br>
+`https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock`
+
+### Annoyances
 AdGuard Annoyances - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
 `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt`
 
@@ -78,14 +80,11 @@ yokoffing's Annoyance List - [Info](https://github.com/yokoffing/filterlists) <b
 Browse websites without logging in - [Info](https://github.com/DandelionSprout/adfilt) <br>
 `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt`
 
-YouTube Clear View - [Info](https://github.com/yokoffing/filterlists) <br>
-`https://raw.githubusercontent.com/yokoffing/filterlists/main/youtube_clear_view.txt`
-
-##### Paywalls
+#### Paywalls
 Bypass Paywalls Clean filter - [Info](https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters) <br>
 `https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt`
 
-#### Security
+### Security
 NoCoin Filter List - [Info](https://github.com/hoshsadiq/adblock-nocoin-list/) <br>
 `https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt`
 
@@ -95,7 +94,7 @@ Dandelion Sprout's Anti-Malware List - [Info](https://github.com/DandelionSprout
 iam-py-test's The malicious website blocklist - [Info](https://github.com/iam-py-test/my_filters_001) <br>
 `https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt`
 
-### Regional Blocklists
+## Regional Blocklists
 
 EasyList maintains a list of numerous [regional blocklists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html), these can help improve the ad blocking effectiveness if you regularly visit non-English websites.
 
