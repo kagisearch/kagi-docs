@@ -55,6 +55,9 @@ AdGuard Social Media - [Info](https://adguard.com/kb/general/ad-filtering/adguar
 AdGuard Annoyances - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
 `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt`
 
+NoCoin Filter List - [Info](https://github.com/hoshsadiq/adblock-nocoin-list/) <br>
+`https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt`
+
 ### Regional Block Lists
 
 EasyList maintains a list of numerous [regional block lists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html), these can help improve the ad blocking effectiveness if you regularly visit non-English websites.
