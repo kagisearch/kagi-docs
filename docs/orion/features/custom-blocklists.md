@@ -32,7 +32,7 @@ Then, paste the URL of the block list you wish to add and click the **Add** butt
 
 <img src="./media/blocklists_done.png" width="500" alt="Blocklists - Done"><br />
 
-## Third Party Blocklists
+## Third-Party Blocklists
 
 There are different types of lists - general ad lists, regional lists, malware lists, privacy lists, etc. You can customize your ad blocking by choosing which lists you want to add to Orion.
 
