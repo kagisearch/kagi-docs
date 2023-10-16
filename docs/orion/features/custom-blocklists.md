@@ -1,20 +1,20 @@
-# Custom Block Lists
+# Custom Blocklists
 
-> **Note**: The Custom Block Lists feature is currently only available in Orion RC version.
+> **Note**: The Custom Blocklists feature is currently only available in Orion RC version.
 
-Orion for Mac allows you to customize it's ad blocker by using custom block lists. Block lists are lists of domains that are known to serve ads, trackers, malware and other annoyances. Orion checks web page requests against these lists and blocks any requests to the listed domains. This prevents ads from being displayed and trackers from following you around.
+Orion for Mac allows you to customize it's ad blocker by using custom blocklists. Blocklists are lists of domains that are known to serve ads, trackers, malware and other annoyances. Orion checks web page requests against these lists and blocks any requests to the listed domains. This prevents ads from being displayed and trackers from following you around.
 
-## Updating Block Lists
+## Updating Blocklists
 
-Block lists are constantly updated as new ad/tracking domains appear. List maintainers work to identify and add new ad-serving domains as they pop up.
+Blocklists are constantly updated as new ad/tracking domains appear. List maintainers work to identify and add new ad-serving domains as they pop up.
 
-To manually update block lists, go to **Orion** > **Settings** > **Privacy** and click **Update Now**. Wait for the "Processing update" message to disappear.
+To manually update blocklists, go to **Orion** > **Settings** > **Privacy** and click **Update Now**. Wait for the "Processing update" message to disappear.
 
 <img src="./media/blocklists_update_now.png" width="500" alt="Blocklists - Update Now"><br />
 
 <img src="./media/blocklists_procesing_update.png" width="500" alt="Blocklists - Processing Update"><br />
 
-## Adding Block Lists
+## Adding Blocklists
 
 To add a block list to Orion go to **Orion** > **Settings** > **Privacy** and click the **Show Filter Lists** button.
 
@@ -32,13 +32,13 @@ Then, paste the URL of the block list you wish to add and click the **Add** butt
 
 <img src="./media/blocklists_done.png" width="500" alt="Blocklists - Done"><br />
 
-## Third Party Block Lists
+## Third Party Blocklists
 
 There are different types of lists - general ad lists, regional lists, malware lists, privacy lists, etc. You can customize your ad blocking by choosing which lists you want to add to Orion.
 
 The [FilterLists](https://filterlists.com/) website provides a comprehensive directory of blocklists you can add to Orion.
 
-### Recommended Block Lists
+### Recommended Blocklists
 
 #### Privacy
 
@@ -95,9 +95,9 @@ Dandelion Sprout's Anti-Malware List - [Info](https://github.com/DandelionSprout
 iam-py-test's The malicious website blocklist - [Info](https://github.com/iam-py-test/my_filters_001) <br>
 `https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antimalware.txt`
 
-### Regional Block Lists
+### Regional Blocklists
 
-EasyList maintains a list of numerous [regional block lists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html), these can help improve the ad blocking effectiveness if you regularly visit non-English websites.
+EasyList maintains a list of numerous [regional blocklists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html), these can help improve the ad blocking effectiveness if you regularly visit non-English websites.
 
 For your convenience we are listing the regional filters below however please visit their website for more information.
 
@@ -164,6 +164,6 @@ KoreanList <br>
 ROList (Romanian) <br>
 `https://www.zoso.ro/pages/rolist.txt`
 
-## Contributing to Block Lists
+## Contributing to Blocklists
 
-Many block lists are open source and maintained by independent groups and communities. Anyone can submit domains for inclusion in the lists.
+Many blocklists are open source and maintained by independent groups and communities. Anyone can submit domains for inclusion in the lists.
