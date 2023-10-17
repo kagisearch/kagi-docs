@@ -50,6 +50,9 @@ Hagezi's Personal Blocklist - [Info](https://github.com/hagezi/dns-blocklists) <
 yokoffing's Privacy Essentials - [Info](https://github.com/yokoffing/filterlists) <br>
 `https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt`
 
+Block Outsider Intrusion into LAN - [Info](https://github.com/uBlockOrigin/uBlock-issues/issues/1070) <br>
+`https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt`
+
 #### URL Tracking Parameters
   
 Actually Legitimate URL Shortener Tool - [Info](https://github.com/DandelionSprout/adfilt) <br>
