@@ -96,9 +96,11 @@ iam-py-test's The malicious website blocklist - [Info](https://github.com/iam-py
 
 ## Regional Blocklists
 
-EasyList maintains a list of numerous [regional blocklists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html), these can help improve the ad blocking effectiveness if you regularly visit non-English websites.
+EasyList maintains [supplementary blocklists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) that can improve ad blocking on non-English websites.
 
-For your convenience we are listing the regional filters below however please visit their website for more information.
+The list of regional filters is below. Please visit the [EasyList website](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) for more information.
+
+<details><summary>Show regional lists</summary> <br>
 
 EasyList Germany <br>
 `https://easylist.to/easylistgermany/easylistgermany.txt`
@@ -162,6 +164,8 @@ KoreanList <br>
 
 ROList (Romanian) <br>
 `https://www.zoso.ro/pages/rolist.txt`
+
+</details>
 
 ## Contributing to Blocklists
 
