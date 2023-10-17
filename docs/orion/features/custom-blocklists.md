@@ -54,7 +54,9 @@ Block Outsider Intrusion into LAN - [Info](https://github.com/uBlockOrigin/uBloc
 `https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/lan-block.txt`
 
 #### URL Tracking Parameters
-  
+
+*Orion cannot filter URL parameters, even when using uBlock Origin. See [Chrome and Firefox Extensions Support](https://help.kagi.com/orion/browser-extensions/macos-extensions.html#chrome-and-firefox-extensions-support) and [Supported WebExtensions APIs](https://help.kagi.com/orion/browser-extensions/macos-extensions.html#supported-webextensions-apis) for more details.*
+
 Actually Legitimate URL Shortener Tool - [Info](https://github.com/DandelionSprout/adfilt) <br>
 `https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt`
 
