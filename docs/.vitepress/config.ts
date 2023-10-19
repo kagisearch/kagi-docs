@@ -387,7 +387,7 @@ function sidebarOrion() {
                         { text: 'Privacy Report', link: '/orion/features/privacy-report' },
                         { text: 'Web Apps', link: '/orion/features/web-apps' },
                         { text: 'Programmable Buttons', link: '/orion/features/programmable-buttons' },
-                        { text: 'Custom Block Lists', link: '/orion/features/custom-blocklists' },
+                        { text: 'Custom Blocklists', link: '/orion/features/custom-blocklists' },
                     ]
                 },
                 {
