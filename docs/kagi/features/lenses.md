@@ -10,7 +10,7 @@ Here's an example using the built-in Academic lens:
 You can create your own Lenses where you specify parameters such as:
 
 - Region
-- Up to 10 includes websites
+- Up to 10 included websites
 - Up to 10 excluded websites
 - Up to 5 included keywords
 - Up to 5 excluded keywords
