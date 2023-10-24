@@ -39,7 +39,7 @@ Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test pr
 
 ## Part-time opportunities
 
-**Kagi R&D Team** 
+**Kagi R&D Team** (aka Kagi Labs)
 
 **Note:** We are currently full, please check back later.
 
