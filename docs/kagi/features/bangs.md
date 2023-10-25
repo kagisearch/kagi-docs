@@ -20,7 +20,7 @@ Some of the more popular search bangs include:
 - **!m** \<query> for Kagi Maps
 - **!n** \<query> for Kagi News
 - **!v** \<query> for Kagi Videos
-
+- **!** \<query> to go directly to the first result for your query in Kagi Search
 
 ### Regional bangs
 
