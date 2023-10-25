@@ -31,7 +31,7 @@ You can use for example **!de [query]** or **!nl [query]** to switch your region
 - **!sum** \<url> - Key moments of the page in [Universal Summarizer](../ai/summarize-page.md)
 - **!sumk** \<url> -  Alias of `!sum`
 - **!discuss** \<url> - Discuss Document chat
-- **!answer** \<search terms> - Search & open "Quick Answer"
+- **!quick** \<search terms> - Search & open "Quick Answer"
 
 ### Kagi Assistant bangs
 
