@@ -32,6 +32,14 @@ Then, paste the URL of the block list you wish to add and click the **Add** butt
 
 <img src="./media/blocklists_done.png" width="500" alt="Blocklists - Done"><br />
 
+## Impact of Number of Blocking Rules on Performance
+
+Orion's ad blocker compiles each blocklist to convert it to native WebKit content blocking rules.
+This results in minimal performance impact dependent on the number of blocking rules that are active.
+The following chart illustrates the relationship between Orion's WebKit performance vs the number of blocking rules:
+
+<img src="./media/blocklists_rules_performance_chart.png" width="500" alt="Blocklists - Impact of Number of Blocking Rules on Performance"><br />
+
 ## Third-Party Blocklists
 
 There are different types of lists - general ad lists, regional lists, malware lists, privacy lists, etc. You can customize your ad blocking by choosing which lists you want to add to Orion.
