@@ -38,7 +38,7 @@ Orion's ad blocker compiles each blocklist to convert it to native WebKit conten
 This results in minimal performance impact dependent on the number of blocking rules that are active.
 The following chart illustrates the relationship between Orion's WebKit performance vs the number of blocking rules:
 
-[<img src="./media/blocklists_rules_performance_chart.png" width="500" alt="Blocklists - Impact of Number of Blocking Rules on Performance">](./media/blocklists_rules_performance_chart.png)<br />
+<a href="./media/blocklists_rules_performance_chart.png"><img src="./media/blocklists_rules_performance_chart.png" width="500" alt="Blocklists - Impact of Number of Blocking Rules on Performance"></a><br />
 
 ## Third-Party Blocklists
 
