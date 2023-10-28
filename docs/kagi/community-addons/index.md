@@ -39,6 +39,6 @@ Adds a button to the right click context menu on Firefox that allows you to open
 
 [Unofficial Kagi Link Summarizer Add-on](https://addons.mozilla.org/en-US/firefox/addon/unofficial-kagi-linksummarizer/)
 
-## Apple Shortcut
+## Apple Shortcuts
 
 [Summarize URL](https://www.icloud.com/shortcuts/8d2668c84ad34203b47c519e066ce205): Summarize any URL using the Share Sheet or your Clipboard on your iPhone, iPad or Mac (Link only works on Safari due to restrictions imposed by Apple) - Credits to [Sean Chou](https://twitter.com/sychou)
