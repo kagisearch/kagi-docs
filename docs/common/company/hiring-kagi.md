@@ -17,7 +17,7 @@ next:
 - Proficiency in HTML, CSS, and an understanding that JavaScript can be used sparingly to enhance, not create, product experiences.
 - You are comfortable not using any FE frameworks, and rather like to be in full control of the DOM and as close to browser as possible.
 
-Fun fact: At Kagi, we [prioritize speed](../search-details/search-speed.md), to the point where all functionalities of Kagi Search (except Stripe checkout and Maps) work perfectly without JavaScript. We see JavaScript as a tool to enhance the UX, not create it. 
+Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-details/search-speed.html), to the point where all functionalities of Kagi Search (except Stripe checkout and Maps) work perfectly without JavaScript. We see JavaScript as a tool to enhance the UX, not create it. 
 
 **Core ML Team**
 - Deep understanding of machine learning tools and technologies, whether in the build/deploy or apply/customize layers.
