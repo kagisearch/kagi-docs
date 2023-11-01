@@ -33,7 +33,7 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Flexible working conditions; remote first culture.
 - Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the feign-hearted.
 - Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
-- We are completey user funded. Kagi is currently in [one village worth of homes](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
+- We are completely user funded. Kagi is currently in [one village worth of homes](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
 
 Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
 
