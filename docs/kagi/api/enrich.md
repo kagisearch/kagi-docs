@@ -18,7 +18,7 @@ Since results are niche, we bill only when non-zero results are returned.
 
 ### `GET /enrich/web`
 
-Fetch enrichment results focused on general, non-commerical web content.
+Fetch enrichment results focused on general, non-commercial web content.
 
 Returns an array of [Search Objects](./search.md#search-object).
 
