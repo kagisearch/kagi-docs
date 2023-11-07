@@ -59,6 +59,7 @@ Extension download links:
 - [Firefox-based browsers](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)
   - If you use Firefox on Android, check out [this guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/). There are [many known limitations](https://github.com/kagisearch/browser_extensions/issues/3) with the extension here, though.
   - After installing the extension, go to the extension settings (click the puzzle piece in the top right corner of the browser window) for Kagi and enter your [private session token URL](#private_session) to be logged in automatically even when cookies have been deleted.
+  - If you run into a problem of not being logged in to Kagi on incognito sessions, try manually setting your session token. If that doesn't work, [try disallowing it on Incognito, saving the session token manually, and then re-allowing it again](https://kagifeedback.org/d/2206-extension-not-logging-in-to-search-in-ubuntu-firefox-private-window/15).
 - [Safari for macOS](https://apps.apple.com/app/kagi-search-for-safari/id1622835804)
 - [Safari for iOS and iPadOS](https://apps.apple.com/app/kagi-search-for-safari/id1607766153)
 - The [xSearch](https://apps.apple.com/us/app/xsearch-for-safari/id1579902068) and [HyperWeb](https://apps.apple.com/us/app/hyperweb/id1581824571) extensions for Safari also support Kagi
