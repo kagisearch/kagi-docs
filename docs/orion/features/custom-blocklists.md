@@ -206,7 +206,7 @@ Orion allows you to create your own filters directly in Orion's Settings. You ca
 
 ## Blocklist Syntax
 
-Orion follows the Adblock Plus standard for its blocklist syntax, this means any filters created for Adblock Plus are compatible with Orion. You can learn how to create your own blocklists by following this [step-by-step guide](https://adblockplus.org/filter-cheatsheet), or visit the full [blocklist syntax reference](https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters) for more technical details.
+Orion follows the Adblock Plus standard for its blocklist syntax, this means any filters created for Adblock Plus are compatible with Orion. You can learn how to create your own blocklists by following the [step-by-step guide](https://adblockplus.org/filter-cheatsheet), or visit the full [blocklist syntax reference](https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters) for more technical details.
 
 Note: Snippet filters are not supported.
 
