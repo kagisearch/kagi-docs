@@ -198,6 +198,18 @@ ROList (Romanian) <br>
 
 </details>
 
+## Personal Filters
+
+Orion allows you to create your own filters directly in Orion's Settings. You can enable this feature in **Orion** > **Settings** > **Privacy** > **Show Filter Lists**, then check the **Custom Filters** checkbox and specify the rules in the text area.
+
+<img src="./media/blocklists_show_filter_lists.png" width="500" alt="Blocklists - Personal Filters"><br />
+
+## Blocklist Syntax
+
+Orion follows the Adblock Plus standard for its blocklist syntax, this means any filters created for Adblock Plus are compatible with Orion. You can learn how to create your own blocklists by following this [step-by-step guide](https://adblockplus.org/filter-cheatsheet), or visit the full [blocklist syntax reference](https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters) for more technical details.
+
+Note: Snippet filters are not supported.
+
 ## Contributing to Blocklists
 
 Many blocklists are open source and maintained by independent groups and communities. Anyone can submit domains for inclusion in the lists.
