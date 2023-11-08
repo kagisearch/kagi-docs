@@ -1,4 +1,4 @@
-# Password Manager
+# Password Management
 
 ## Table of Contents
 - [Orion's Password Manager](#orions_password_manager)
