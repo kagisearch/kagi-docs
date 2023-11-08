@@ -110,7 +110,7 @@ To sync Orion passwords across devices, perform these steps <u>on each device</u
 <img src="./media/ipados_keychain.png" width="500" alt="iPadOS iCloud Keychain Settings"><br />
 
 <a name="using_safari_passwords"></a>
-## Using Safari Passwords into Orion on macOS {#using_safari_passwords}
+## Using Safari Passwords in Orion on macOS {#using_safari_passwords}
 
 As an alternative to importing passwords from Safari into Orion, you can also access your Safari passwords in Orion directly. To enable this, first go to **Orion** > **Settings** > **Passwords**, and then in the **Password Provider** dropdown select **3rd Party Provider**.
 
