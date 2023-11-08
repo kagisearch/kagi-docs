@@ -8,6 +8,7 @@
   - [macOS](#syncing_passwords_macos)
   - [iOS](#syncing_passwords_ios)
   - [iPadOS](#syncing_passwords_ipados)
+- [Using Safari Passwords in Orion on macOS](#using_safari_passwords)
 - [1Password & Orion](#1password)
 
 <a name="orions_password_manager"></a>
@@ -107,6 +108,31 @@ To sync Orion passwords across devices, perform these steps <u>on each device</u
 <img src="./media/ipados_icloud.png" width="500" alt="iPadOS iCloud Settings fro Keychain"><br />
 
 <img src="./media/ipados_keychain.png" width="500" alt="iPadOS iCloud Keychain Settings"><br />
+
+<a name="using_safari_passwords"></a>
+## Using Safari Passwords in Orion on macOS {#using_safari_passwords}
+
+As an alternative to importing passwords from Safari into Orion, you can also access your Safari passwords in Orion directly. To enable this, first go to **Orion** > **Settings** > **Passwords**, and then in the **Password Provider** dropdown select **3rd Party Provider**.
+
+<img src="./media/password_management_3rd_party_settings_menu.png" width="500" alt="3rd Party Passwords - Settings Menu"><br />
+
+<img src="./media/password_management_3rd_party_settings_window.png" width="500" alt="3rd Party Passwords - Settings Window"><br />
+
+Now, to access your Safari passwords simply click the key icon in the login screen of your favorite website.
+
+<img src="./media/password_management_3rd_party_key_button.png" width="500" alt="3rd Party Passwords - Key Button"><br />
+
+Then, click the **Passwords** button.
+
+<img src="./media/password_management_3rd_party_passwords_button.png" width="500" alt="3rd Party Passwords - Passwords Button"><br />
+
+Next, you will be prompted to unlock your passwords with **Touch ID** or with your **macOS password**.
+
+<img src="./media/password_management_3rd_party_unlock_passwords.png" width="500" alt="3rd Party Passwords - Unlock Passwords"><br />
+
+Finally, select the desired password from the list and click on **Choose Password**.
+
+<img src="./media/password_management_3rd_party_choose_password.png" width="500" alt="3rd Party Passwords - Choose Password"><br />
 
 <a name="1password"></a>
 ## 1Password & Orion {#1password}
