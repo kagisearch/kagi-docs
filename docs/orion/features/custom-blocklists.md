@@ -16,7 +16,7 @@ To manually update blocklists, go to **Orion** > **Settings** > **Privacy** and 
 
 ## Adding Blocklists
 
-To add a block list to Orion go to **Orion** > **Settings** > **Privacy** and click the **Show Filter Lists** button.
+To add a blocklist to Orion, go to **Orion** > **Settings** > **Privacy** and click the **Show Filter Lists** button. Please note that Orion is compatible with Adblock Plus style blocklists.
 
 <img src="./media/blocklists_settings_menu.png" width="500" alt="Blocklists - Settings Menu"><br />
 
@@ -26,7 +26,7 @@ Next, in the modal that opens, click the **+** button.
 
 <img src="./media/blocklists_add_blocklist.png" width="500" alt="Blocklists - Add Blocklist"><br />
 
-Then, paste the URL of the block list you wish to add and click the **Add** button. Finally click **Done**.
+Then, paste the URL of the blocklist you wish to add and click the **Add** button. Finally click **Done**.
 
 <img src="./media/blocklists_custom_url.png" width="500" alt="Blocklists - Custom URL"><br />
 
