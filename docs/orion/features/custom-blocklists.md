@@ -202,7 +202,7 @@ ROList (Romanian) <br>
 
 Orion allows you to create your own filters directly in Orion's Settings. You can enable this feature in **Orion** > **Settings** > **Privacy** > **Show Filter Lists**, then check the **Custom Filters** checkbox and specify the rules in the text area.
 
-<img src="./media/blocklists_show_filter_lists.png" width="500" alt="Blocklists - Personal Filters"><br />
+<img src="./media/blocklists_personal_filters.png" width="500" alt="Blocklists - Personal Filters"><br />
 
 ## Blocklist Syntax
 
