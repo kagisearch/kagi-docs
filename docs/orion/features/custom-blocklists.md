@@ -34,7 +34,7 @@ Then, paste the URL of the blocklist you wish to add and click the **Add** butto
 
 ## Impact of Number of Blocking Rules on Performance
 
-Orion's ad blocker compiles each blocklist to convert it to native WebKit content blocking rules.
+Orion's content blocker compiles each blocklist to convert it to native WebKit content blocking rules.
 This results in minimal performance impact dependent on the number of blocking rules that are active.
 The following chart illustrates the relationship between Orion's WebKit performance vs the number of blocking rules:
 
