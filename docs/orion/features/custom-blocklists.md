@@ -11,7 +11,7 @@
 - [Blocklist Syntax](#blocklist_syntax)
 - [Contributing to Blocklists](#contributing_blocklists)
 
-<a id="custom_blocklists">
+<a id="custom_blocklists"></a>
 ## Custom Blocklists {#custom_blocklists}
 
 > **Note**: The Custom Blocklists feature is currently only available in Orion RC version.
@@ -19,7 +19,7 @@
 Orion for Mac allows you to customize it's ad blocker by using custom blocklists. Blocklists are lists of domains that are known to serve ads, trackers, malware and other annoyances. Orion checks web page requests against these lists and blocks any requests to the listed domains. This prevents ads from being displayed and trackers from following you around.
 
 
-<a id="updating_blocklists">
+<a id="updating_blocklists"></a>
 ## Updating Blocklists {#updating_blocklists}
 
 Blocklists are constantly updated as new ad/tracking domains appear. List maintainers work to identify and add new ad-serving domains as they pop up.
@@ -31,7 +31,7 @@ To manually update blocklists, go to **Orion** > **Settings** > **Privacy** and 
 <img src="./media/blocklists_procesing_update.png" width="500" alt="Blocklists - Processing Update"><br />
 
 
-<a id="adding_blocklists">
+<a id="adding_blocklists"></a>
 ## Adding Blocklists {#adding_blocklists}
 
 To add a blocklist to Orion, go to **Orion** > **Settings** > **Privacy** and click the **Show Filter Lists** button. Please note that Orion is compatible with Adblock Plus style blocklists.
@@ -51,7 +51,7 @@ Then, paste the URL of the blocklist you wish to add and click the **Add** butto
 <img src="./media/blocklists_done.png" width="500" alt="Blocklists - Done"><br />
 
 
-<a id="performance_chart">
+<a id="performance_chart"></a>
 ## Impact of Number of Blocking Rules on Performance {#performance_chart}
 
 Orion's content blocker compiles each blocklist to convert it to native WebKit content blocking rules.
@@ -61,7 +61,7 @@ The following chart illustrates the relationship between Orion's WebKit performa
 <img src="./media/blocklists_rules_performance_chart.png" width="500" alt="Blocklists - Impact of Number of Blocking Rules on Performance"><br />
 
 
-<a id="third_party_blocklists">
+<a id="third_party_blocklists"></a>
 ## Third-Party Blocklists {#third_party_blocklists}
 
 There are different types of lists - general ad lists, regional lists, malware lists, privacy lists, etc. You can customize your ad blocking by choosing which lists you want to add to Orion.
@@ -148,7 +148,7 @@ iam-py-test's The malicious website blocklist - [Info](https://github.com/iam-py
 </details>
 
 
-<a id="regional_blocklists">
+<a id="regional_blocklists"></a>
 ## Regional Blocklists {#regional_blocklists}
 
 EasyList maintains [supplementary blocklists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) that can improve ad blocking on non-English websites.
@@ -223,7 +223,7 @@ ROList (Romanian) <br>
 </details>
 
 
-<a id="personal_filters">
+<a id="personal_filters"></a>
 ## Personal Filters {#personal_filters}
 
 Orion allows you to create your own filters directly in Orion Settings. You can enable this feature in **Orion** > **Settings** > **Privacy** > **Show Filter Lists**, then check the **Custom Filters** checkbox and specify the rules in the text area.
@@ -231,7 +231,7 @@ Orion allows you to create your own filters directly in Orion Settings. You can 
 <img src="./media/blocklists_personal_filters.png" width="500" alt="Blocklists - Personal Filters"><br />
 
 
-<a id="blocklist_syntax">
+<a id="blocklist_syntax"></a>
 ## Blocklist Syntax {#blocklist_syntax}
 
 Orion follows the Adblock Plus standard for its blocklist syntax, this means any filters created for Adblock Plus are compatible with Orion. You can learn how to create your own blocklists by following the [step-by-step guide](https://adblockplus.org/filter-cheatsheet), or visit the full [blocklist syntax reference](https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters) for more technical details.
@@ -239,7 +239,7 @@ Orion follows the Adblock Plus standard for its blocklist syntax, this means any
 Note: Snippet filters are not supported.
 
 
-<a id="contributing_blocklists">
+<a id="contributing_blocklists"></a>
 ## Contributing to Blocklists {#contributing_blocklists}
 
 Many blocklists are open source and maintained by independent groups and communities. Anyone can submit domains for inclusion in the lists.
