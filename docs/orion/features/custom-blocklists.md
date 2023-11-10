@@ -1,6 +1,7 @@
-# Orion Content Blocker
+#  Orion's Content Blocker
 
 ## Table of Contents
+- [Default Blocklists](#default_blocklists)
 - [Custom Blocklists](#custom_blocklists)
 - [Updating Blocklists](#updating_blocklists)
 - [Adding Blocklists](#adding_blocklists)
@@ -8,13 +9,21 @@
 - [Third-Party Blocklists](#third_party_blocklists)
 - [Regional Blocklists](#regional_blocklists)
 - [Personal Filters](#personal_filters)
-- [Blocklist Syntax](#blocklist_syntax)
+- [Blocklist Syntax](#blocklist-syntax)
 - [Contributing to Blocklists](#contributing_blocklists)
+
+<a id="default_blocklists"></a>
+## Default Blocklists {#default_blocklists}
+
+To protect you from most ads and trackers, Orion for Mac includes the following blocklists by default:
+- EasyList (Enabled)
+- EasyPrivacy (Enabled)
+- Fanboy's Annoyance (Disabled)
+
+You can enable or disable these blocklists in **Orion** > **Settings** > **Privacy**, then click the **Show Filter Lists** button.
 
 <a id="custom_blocklists"></a>
 ## Custom Blocklists {#custom_blocklists}
-
-> **Note**: The Custom Blocklists feature is currently only available in Orion RC version.
 
 Orion for Mac allows you to customize it's ad blocker by using custom blocklists. Blocklists are lists of domains that are known to serve ads, trackers, malware and other annoyances. Orion checks web page requests against these lists and blocks any requests to the listed domains. This prevents ads from being displayed and trackers from following you around.
 
@@ -231,8 +240,8 @@ Orion allows you to create your own filters directly in Orion Settings. You can 
 <img src="./media/blocklists_personal_filters.png" width="500" alt="Blocklists - Personal Filters"><br />
 
 
-<a id="blocklist_syntax"></a>
-## Blocklist Syntax {#blocklist_syntax}
+<a id="blocklist-syntax"></a>
+## Blocklist Syntax {#blocklist-syntax}
 
 Orion follows the Adblock Plus standard for its blocklist syntax, this means any filters created for Adblock Plus are compatible with Orion. You can learn how to create your own blocklists by following the [step-by-step guide](https://adblockplus.org/filter-cheatsheet), or visit the full [blocklist syntax reference](https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters) for more technical details.
 
