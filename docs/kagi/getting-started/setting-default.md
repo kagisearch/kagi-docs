@@ -112,9 +112,9 @@ If you are interested in using Kagi in private (incognito) browser windows, be s
 
 If you want to manually set Kagi as a default search engine, use these settings:
 
-- Kagi Search URL [https://kagi.com/search?q={searchTerms}](https://kagi.com/search?q={searchTerms})
+- Kagi Search URL `https://kagi.com/search?q=%s`
 
-- Kagi auto suggestions URL [https://kagi.com/api/autosuggest?q={searchTerms}](https://kagi.com/api/autosuggest?q={searchTerms})
+- Kagi auto suggestions URL `https://kagi.com/api/autosuggest?q=%s`
 
 
 <a name="private_session"></a>
