@@ -24,7 +24,82 @@ Some of the more popular search bangs include:
 
 ### Regional bangs
 
-You can use for example **!de [query]** or **!nl [query]** to switch your region to Germany or Netherlands on the fly.
+You can quickly search in another region than your default by using a bang with that region's country code.
+
+For example:
+
+- `!de` to search in Germany
+- `!nl` to search in Netherlands
+- `!int` to search with the International setting
+
+This will load search results with that region already selected in the region filter, instead of needing to perform a search first.
+
+<details>
+<summary>See the full list of Regional Bangs</summary>
+
+Bang | Region
+-----|-------
+int  | International
+by   | Belarus
+bz   | Belize
+bj   | Benin
+ky   | Cayman Islands
+cf   | Central African Republic
+cx   | Christmas Island
+co   | Colombia
+hr   | Croatia
+cy   | Cyprus
+ir   | Iran
+iq   | Iraq
+im   | Isle of Man
+kz   | Kazakhstan
+ke   | Kenya
+ki   | Kiribati
+kw   | Kuwait
+lr   | Liberia
+ly   | Libya
+mg   | Madagascar
+my   | Malaysia
+nz   | New Zealand
+no   | Norway
+om   | Oman
+qa   | Qatar
+re   | Réunion
+za   | South Africa
+th   | Thailand
+tg   | Togo
+tk   | Tokelau
+to   | Tonga
+vi   | U.S. Virgin Islands
+ua   | Ukraine
+uy   | Uruguay
+uz   | Uzbekistan
+vu   | Vanuatu
+vn   | Vietnam
+ye   | Yemen
+zm   | Zambia
+at   | Austria
+be   | Belgium
+ca   | Canada
+ch   | Switzerland
+cn   | China
+de   | Germany
+dk   | Denmark
+es   | Spain
+fr   | France
+gb   | United Kingdom
+hu   | Hungary
+it   | Italy
+il   | Israel
+jp   | Japan
+nl   | Netherlands
+pl   | Poland
+pt   | Portugal
+rs   | Serbia
+us   | United States
+si   | Slovenia
+
+</details>
 
 ### AI related bangs
 
