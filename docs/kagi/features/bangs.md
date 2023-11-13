@@ -40,64 +40,64 @@ This will load search results with that region already selected in the region fi
 Bang | Region
 -----|-------
 int  | International
-by   | Belarus
-bz   | Belize
-bj   | Benin
-ky   | Cayman Islands
-cf   | Central African Republic
-cx   | Christmas Island
-co   | Colombia
-hr   | Croatia
-cy   | Cyprus
-ir   | Iran
-iq   | Iraq
-im   | Isle of Man
-kz   | Kazakhstan
-ke   | Kenya
-ki   | Kiribati
-kw   | Kuwait
-lr   | Liberia
-ly   | Libya
-mg   | Madagascar
-my   | Malaysia
-nz   | New Zealand
-no   | Norway
-om   | Oman
-qa   | Qatar
-re   | Réunion
-za   | South Africa
-th   | Thailand
-tg   | Togo
-tk   | Tokelau
-to   | Tonga
-vi   | U.S. Virgin Islands
-ua   | Ukraine
-uy   | Uruguay
-uz   | Uzbekistan
-vu   | Vanuatu
-vn   | Vietnam
-ye   | Yemen
-zm   | Zambia
 at   | Austria
 be   | Belgium
+bj   | Benin
+by   | Belarus
+bz   | Belize
 ca   | Canada
+cf   | Central African Republic
 ch   | Switzerland
 cn   | China
+co   | Colombia
+cx   | Christmas Island
+cy   | Cyprus
 de   | Germany
 dk   | Denmark
 es   | Spain
 fr   | France
 gb   | United Kingdom
+hr   | Croatia
 hu   | Hungary
-it   | Italy
 il   | Israel
+im   | Isle of Man
+iq   | Iraq
+ir   | Iran
+it   | Italy
 jp   | Japan
+ke   | Kenya
+ki   | Kiribati
+kw   | Kuwait
+ky   | Cayman Islands
+kz   | Kazakhstan
+lr   | Liberia
+ly   | Libya
+mg   | Madagascar
+my   | Malaysia
 nl   | Netherlands
+no   | Norway
+nz   | New Zealand
+om   | Oman
 pl   | Poland
 pt   | Portugal
+qa   | Qatar
+re   | Réunion
 rs   | Serbia
-us   | United States
 si   | Slovenia
+tg   | Togo
+th   | Thailand
+tk   | Tokelau
+to   | Tonga
+ua   | Ukraine
+us   | United States
+uy   | Uruguay
+uz   | Uzbekistan
+vi   | U.S. Virgin Islands
+vn   | Vietnam
+vu   | Vanuatu
+ye   | Yemen
+za   | South Africa
+zm   | Zambia
 
 </details>
 
