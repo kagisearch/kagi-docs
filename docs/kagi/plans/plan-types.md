@@ -10,9 +10,9 @@ next:
 
 Kagi offers several individual subscriptions plans.
 
-![Individual Plans](media/individual_plans.png)
+![Individual Plans](media/individual_plans.png){data-zoomable}
 
-* The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and curious about paid search engines.  
+* The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and curious about paid search engines.
 * The **Starter** plan offers 300 searches for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
 * The **Professional** plan offers unlimited searches for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
 * The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches, exclusive and early access to Kagi features and services for USD $25 per month and offers the most power to the user.
