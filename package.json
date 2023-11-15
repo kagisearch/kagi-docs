@@ -7,6 +7,7 @@
   "dependencies": {
     "@docsearch/js": "^3.5.1",
     "esbuild": "^0.19.3",
+    "medium-zoom": "^1.0.8",
     "vitepress": "^1.0.0-beta.7",
     "vitepress-plugin-pagefind": "^0.2.4"
   },
