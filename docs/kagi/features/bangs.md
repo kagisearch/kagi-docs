@@ -2,11 +2,11 @@
 
 Bangs are shortcuts starting with exclamation points (!) that quickly take you to search results on other sites. For example, searching Kagi for **!w Monty Python** will search Wikipedia directly for "Monty Python" and take you to that Wikipedia search result. Bangs that perform searches on external sites are [never counted as searches](../plans/plan-types.md#how-searches-are-counted) for the purpose of billing/usage.
 
-![Bang Example](media/bang.gif)
+![Bang Example](media/bang.gif){data-zoomable}
 
 To take advantage of Bangs make sure you have enabled Bangs in your [Search](https://kagi.com/settings?p=search) settings. You can also set up Quick Bangs and Custom Bangs, continue reading to learn more.
 
-![Enable Bangs](media/enable_bangs.png)
+![Enable Bangs](media/enable_bangs.png){data-zoomable}
 
 Note that Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang).
 
@@ -143,23 +143,25 @@ For convenience, Kagi allows you to customize Quick Bangs which do not require a
 
 Configure Quick Bangs under [Search](https://kagi.com/settings?p=search) in the Kagi Settings.
 
-<img src="./media/quick_bangs.png" alt="Quick Bangs">
+![Quick Bangs](./media/quick_bangs.png){data-zoomable}
+
 
 ## Custom Bangs
 
 You can also create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings?p=advanced).
 
-<img src="./media/custom_bang_settings.png" alt="Custom Bangs">
+![Custom Bangs](./media/custom_bang_settings.png){data-zoomable}
 
 Once you "Open Bangs" you will see any existing custom bangs.
 
-<img src="./media/custom_bang_in_settings.png" alt="Custom Bang in Settings">
+![Custom Bang in Settings](./media/custom_bang_in_settings.png){data-zoomable}
 
 From here you can "Add Bang" to define new custom bangs.
 
-<img src="./media/custom_bang_editor_settings.png" alt="Custom Bang Editor in Settings">
+![Custom Bang Editor in Settings](./media/custom_bang_editor_settings.png){data-zoomable}
 
 You can create your own Custom Bangs in Kagi using the [Search Shortcuts menu](search-shortcuts.md).
+
 
 ## Watch a Demo
 
@@ -174,7 +176,7 @@ Or, you could be "feeling lucky" enough to take the chance!
 
 When you start your query with `!(space)query`, Kagi will redirect you to the first search result.
 
-![Feeling Lucky Example](media/feeling-lucky-example.png)
+![Feeling Lucky Example](media/feeling-lucky-example.png){data-zoomable}
 
 Here is the full list of "feeling lucky" patterns that we support:
 
