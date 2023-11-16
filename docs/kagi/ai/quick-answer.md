@@ -4,12 +4,12 @@ Even with an engine as powerful as Kagi you may not be interested in reading eve
 
 Once you have search results returned you can select **Quick Answer** to quickly transform the information on the page into the easier to digest format.
 
-![Summarizer](media/summarize.png)
+![Summarizer](media/summarize.png){data-zoomable}
 
 The Kagi AI Quick Answer will quickly produce a summary of the results below the search bar.
 
-![Summary Results](media/summarized_results.png)
+![Summary Results](media/summarized_results.png){data-zoomable}
 
 Kagi AI Quick Answer is a new tool and benefits from constant feedback, be sure to use the feedback option to help tune the model for your specific needs.
 
-![Summary Feedback](media/summarize_feedback.png)
+![Summary Feedback](media/summarize_feedback.png){data-zoomable}
