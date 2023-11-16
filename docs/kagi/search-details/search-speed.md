@@ -20,7 +20,7 @@ Third, our infrastructure is global, so you’ll always connect automatically to
 
 ## Data Center Locations
 
-![Kagi Data Center Locations](./media/data_center_locations.png){width=600px data-zoomable}
+![Kagi Data Center Locations](./media/data_center_locations.png){data-zoomable}
 
 Our data centers are strategically positioned across the globe in the following locations:
 - North Virginia (US)
