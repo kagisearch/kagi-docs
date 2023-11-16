@@ -18,4 +18,17 @@ Third, our infrastructure is global, so you’ll always connect automatically to
 
 *Data from [ecoping.earth](https://ecoping.earth). Read about the [methodology](https://sustainablewebdesign.org/calculating-digital-emissions/).*
 
+## Data Center Locations
 
+![Kagi Data Center Locations](./media/data_center_locations.png){width=600px data-zoomable}
+
+Our data centers are strategically positioned across the globe in the following locations:
+- North Virginia (US)
+- Los Angeles (US)
+- Iowa (US)
+- London
+- Netherlands
+- Hong Kong
+- Singapore
+- São Paulo
+- Sydney
