@@ -4,7 +4,7 @@ Kagi allows you to filter your results in ways you won't find on other search en
 
 If you don't see the filters at the top of your search results, just click or tap **Options**.
 
-<img src="./media/options.gif" width="675" alt="Filter Options Button"><br />
+![Filter Options Button](./media/options.gif){width=675px data-zoomable}
 
 Filter options:
 
@@ -18,4 +18,4 @@ Filter options:
 - **All Results** or **Verbatim**
   - You can view all of the results Kagi thinks are relevant to your query, or only view results containing the specific text you searched for.
 
-<img src="./media/filters.gif" width="675" alt="Filtering Results"><br />
+![Filtering Results](./media/filters.gif){width=675px data-zoomable}
