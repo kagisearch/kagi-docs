@@ -10,7 +10,7 @@ Kagi Assistant is a product feature backed by Kagi Search and large language mod
 
 Research assistant uses Kagi search and external sources like Wolfram Alpha, together with an AI model to answer your queries.
 
-<img src="./media/assistant_research.png" width="500" alt="Kagi Assistant - Research"><br />
+![Kagi Assistant - Research](./media/assistant_research.png){data-zoomable}
 
 This mode is available in two variants:
 
@@ -21,7 +21,7 @@ This mode is available in two variants:
 
 Code assistant is tuned for programming tasks and uses a powerful AI model for programming.
 
-<img src="./media/assistant_code.png" width="500" alt="Kagi Assistant - Code"><br />
+![Kagi Assistant - Code](./media/assistant_code.png){data-zoomable}
 
 For Starter and Professional members this mode uses `gpt-3.5-turbo`, and for Ultimate members it uses `gpt-4`.
 
@@ -31,7 +31,7 @@ Access directly with the `!code` bang.
 
 Chat assistant allows direct access to a variety of large language models for creative tasks.
 
-<img src="./media/assistant_chat.png" width="500" alt="Kagi Assistant - Chat"><br />
+![Kagi Assistant - Chat](./media/assistant_chat.png){data-zoomable}
 
 This mode supports the following models:
 
@@ -51,7 +51,7 @@ Access directly with the `!chat` bang.
 
 Custom assistant allows you to further customize one of the existing modes.
 
-<img src="./media/assistant_custom.png" width="500" alt="Kagi Assistant - Custom"><br />
+![Kagi Assistant - Custom](./media/assistant_custom.png){data-zoomable}
 
 Select the base mode (and variant/model where applicable) and add your own custom instructions. Setup is detailed in the [Assistant settings help page](../settings/assistant.md#custom-assistant).
 
