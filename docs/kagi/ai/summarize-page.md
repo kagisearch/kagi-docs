@@ -18,11 +18,11 @@ Summarize Page is made using Kagi's own, in-house models. There are currently tw
 
 You may find individual pages that you would like to summarize and Kagi is the first engine to offer a Summarize Page option. Expand the page options next to a search results and select "Summarize Page" and Kagi will use its proprietary Universal Summarizer technology in the back end to provide an easily digestible synthesis.
 
-![Summarize Page](media/summarize_page.png)
+![Summarize Page](media/summarize_page.png){data-zoomable}
 
 Once complete you will see the individual page summary appear below the result.
 
-![Summarized Page](media/summarized_page.png)
+![Summarized Page](media/summarized_page.png){data-zoomable}
 
 After reading the summary you can even choose to proceed to [Discuss this document](./ask-questions.md).
 
@@ -62,4 +62,4 @@ As mentioned at the start, two models are offered in the API. As for the differe
 
 There's <https://kagi.com/summarizer> where you can enter the URL of any page, PDF, PPTX, MP3, video etc that you want to have summarized.
 
-![Universal Summarizer landing page](media/universal-summarizer_landing_page.png)
+![Universal Summarizer landing page](media/universal-summarizer_landing_page.png){data-zoomable}
