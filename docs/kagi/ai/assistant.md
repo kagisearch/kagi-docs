@@ -38,6 +38,7 @@ This mode supports the following models:
 - OpenAI
   - `gpt-3.5-turbo`
   - `gpt-4` (for Ultimate members)
+  - `gpt-4-turbo` (for Ultimate members)
 - Anthropic
   - `claude-instant`
   - `claude-2` (for Ultimate members)
