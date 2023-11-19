@@ -5,6 +5,28 @@ The Search API gives programmable access to Kagi's premium search results.
 > **NOTE:** The Search API is currently only available to customers of the
 > Kagi Teams plan. Please reach out to vlad@kagi.com for invite.
 
+
+## Quick start
+
+1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account)
+2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
+3. Call the API. See below for example.
+
+## API key
+
+To obtain an API key you will first need to [create a Kagi account](https://kagi.com/signup?plan_id=trial). 
+
+Then, navigate to Settings -> Advanced -> API portal, or click [here](https://kagi.com/settings?p=api) to go directly.
+
+Click "Generate API Token".
+
+## API credits
+
+Kagi search API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
+
+Using API with insufficient credits will produce "Insufficient credit to perform this request." response message.
+
+
 ## Pricing
 
 Kagi search API is priced at $25 for 1000 queries. 
