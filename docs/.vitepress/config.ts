@@ -15,7 +15,6 @@ export default defineConfig({
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
-            { text: 'Home', link: '/' },
             { text: 'Kagi', link: '/kagi/' },
             { text: 'Orion', link: '/orion/' }
         ],
