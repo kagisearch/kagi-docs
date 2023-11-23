@@ -207,7 +207,6 @@ function sidebarKagi() {
                         { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
                         { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
                         { text: 'Discuss', link: '/kagi/ai/ask-questions' },
-                        { text: 'AI Usage Pricing', link: '/kagi/ai/ai-usage-pricing' },
                     ]
                 },
                 {
