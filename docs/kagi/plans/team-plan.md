@@ -53,3 +53,7 @@ If you want to cancel your Team Plan, you can do so in your Kagi account's [Bill
 3. On the next webpage, click/tap another **Cancel plan** button to confirm the cancellation.
 
 No refunds or credits are available for canceled Team plans.
+
+## Features
+
+See [Team plan features](../features/team-plan-features.md).
