@@ -33,9 +33,9 @@ You can see your Personalized Results for all websites in [Settings](https://kag
 
 Wonder what are the most promoted and blocked domains among Kagi Search users?  
 
-Check the [Personalization Leaderboard](https://kagi.com/settings?p=rule_leaderboard). We anonymously aggregate the rankings of domains that have been tagged by other Kagi users.
+Check the [Personalization Leaderboard](https://kagi.com/stats?stat=leaderboard). We anonymously aggregate the rankings of domains that have been tagged by other Kagi users.
 
-<img src="https://kagifeedback.org/assets/files/2023-07-01/1688193924-891326-image.png" width="675" alt="Personalization leaderboard"><br />
+![Personalization Leaderboard](./media/domain-leaderboard.png){width=675px data-zoomable}
 
 ## Website Information
 
@@ -51,11 +51,13 @@ The information may include:
 <img src="./media/website_info.png" width="675" alt="Website Information">
 
 
-## Web Archive & More Results
+## Quick Actions Menu
 
-Near the top of the information window for the search result are two links you can use:
+Clicking on the three dots (...) to the right of each search result will bring a menu with 4 options:
 
-- **Open result in Web Archive** will show you the history of the webpage at the [Wayback Machine](https://archive.org/).
 - **More results from this site** will perform the same Kagi search again, but with results limited to the website of your initial result.
+- **Open result in Web Archive** will show you the history of the webpage at the [Wayback Machine](https://archive.org/).
+- **Summarize Page** will use [Universal Summarizer](../ai/summarize-page.md) to give you a summary of the webpage within the search results page.
+- **Ask Questions about Document** will take you to [Kagi Assistant](../ai/assistant.md) and use the webpage as context for asking questions.
 
-<img src="./media/links.png" width="675" alt="Web Archive and More Results Links">
+![Quick Actions Menu](./media/quick-actions-menu.png){width=675px data-zoomable}
