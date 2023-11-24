@@ -15,7 +15,9 @@ To the right of each Kagi search result is a shield icon. Hovering over the icon
 
 Midway down the information window for the search result, you can tweak how the website for the result is treated in future Kagi searches.
 
-<img src="./media/personalized_results.gif" width="675" alt="Personalized Results Example"><br />
+
+![Personalized Results Example](./media/personalized_results.gif){width=675px data-zoomable}
+
 
 Your options are to:
 
@@ -25,7 +27,9 @@ Your options are to:
 - Make the website ranking **Higher**
 - **Pin** the website to the top of search results
 
-<img src="./media/ranking.png" width="675" alt="Web Archive and More Results Links"><br />
+
+![Web Archive and More Results Links](./media/ranking.png){width=675px data-zoomable}
+
 
 You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
 
@@ -48,7 +52,8 @@ The information may include:
 - Whether the website uses a secure HTTPs connection
 - How fast the website responds to requests
 
-<img src="./media/website_info.png" width="675" alt="Website Information">
+
+![Website Information](./media/website_info.png){width=675px data-zoomable}
 
 
 ## Quick Actions Menu
