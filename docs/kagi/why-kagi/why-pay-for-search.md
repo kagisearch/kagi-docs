@@ -1,8 +1,8 @@
 # Why pay for search
 
-You should pay for your search engine to ensure that the incentives of the information provider are aligned with what's best for you, not what’s best for advertisers.
+You should pay for your search engine to ensure that the incentives of your information provider are aligned with what's best for you, not what’s best for advertisers.
 
-Think about it. Do you want the results you find in your search engine to give you the information you need or the information an advertiser wants you to see?
+Think about it: Do you want the results you find in your search engine to give you the information you need or the information the advertisers want you to see?
 
 Here is what Google's own AI has to say about this (click to enlarge).
 
