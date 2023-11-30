@@ -52,6 +52,7 @@
 - [What are the limitations of the Trial plan?](#what-are-the-limitations-of-the-trial-plan)
 - [I'm having issues staying logged in or searching occasionally doesn't work](#i-m-having-issues-staying-logged-in-or-searching-occasionally-doesn-t-work)
 - [Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?](#is-using-kagi-assistant-better-in-terms-of-privacy-than-using-one-of-the-llm-models-directly)
+- 
 
 ## What is Kagi {#what-is-kagi}
 
@@ -315,6 +316,11 @@ Yes, that’s because Kagi acts as a proxy between you and the LLM (both from an
 
 If you are using a VPN, try changing to a different VPN server or disable the VPN to see if that resolves the issue.
 Unfortunately, our hosting provider (GCP) is known to block some VPN IP addresses, and this is out of our control.
+
+## Why do I get better results for local searches with Google?
+
+The reason is that Google knows where you are (since it tracks you across apps/devices), who you are and your past search history.
+When you search for 'dog and pony' Google may know it is the name of your local pub because you searched for it before, or recorded your location at that place through your phone, while Kagi does not so it shows you animal results instead.
 
 ---
 
