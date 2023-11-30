@@ -21,6 +21,7 @@ Our users have built and shared the following themes:
 - [Monokai Hack](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0) by maxpl01t
 - [Solarized](https://gist.github.com/RoarkGit/2074f3b71efdb55efde608627179ed54) by Liam Galt
 - [Startpage Theme](https://github.com/httpjamesm/kagi-startpage-theme) by [http.james](https://httpjames.space/)
+- [Nocturnal Theme](https://github.com/Vexz00/kagi-nocturnal-theme) by Kel
 - <details><summary>Enhanced Dark Theme by El Dude</summary>
 
     User El_Dude shared an Enhanced Dark Theme in the  [Kagi Discord](https://kagi.com/discord) server **\#appearance** channel.
