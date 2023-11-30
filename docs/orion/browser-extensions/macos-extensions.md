@@ -47,8 +47,9 @@ Orion highlights some popular Web Extensions for you to try first:
 <a name="managing_extensions"></a>
 ## Managing Extensions
 
-1. Click the **Window** menu.
-2. Click **Extensions**.
+1. Click the **Tools** menu.
+2. Mouse over **Extensions**
+3. Click **Manage Extensions**.
 
 <img src="./media/macos_extensions_menu.png" width="300" alt="macOS Extensions Menu Choice"><br />
 
