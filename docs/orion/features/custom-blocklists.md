@@ -126,6 +126,9 @@ AdGuard Annoyances - [Info](https://adguard.com/kb/general/ad-filtering/adguard-
 AdGuard Social Media - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
 `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_4_Social/filter.txt`
 
+EasyList Cookie List - [Info](https://easylist.to/#easylist-cookie-list) <br>
+`https://secure.fanboy.co.nz/fanboy-cookiemonster.txt`
+
 I don't care about cookies - [Info](https://www.i-dont-care-about-cookies.eu/) <br>
 `https://www.i-dont-care-about-cookies.eu/abp/`
 
