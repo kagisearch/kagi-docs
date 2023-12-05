@@ -42,3 +42,7 @@ Adds a button to the right click context menu on Firefox that allows you to open
 ## Apple Shortcuts
 
 [Summarize URL](https://www.icloud.com/shortcuts/8d2668c84ad34203b47c519e066ce205): Summarize any URL using the Share Sheet or your Clipboard on your iPhone, iPad or Mac - Credits to [Sean Chou](https://twitter.com/sychou)
+
+## Script Kit
+
+- [FastGPT for Script Kit](https://scriptkit.com/api/new?name=kagi-fastgpt&url=https://gist.githubusercontent.com/awakenedhaggis/bd9dbf2421325117f7e5c20f62e1c99f/raw/9ab7d843fdfb2bf3b1e3c65e5c4774fe896abc91/kagi-fastgpt.ts): Access our [FastGPT API](../api/fastgpt.md) directly from your desktop using Script Kit.
