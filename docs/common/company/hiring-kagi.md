@@ -12,7 +12,7 @@ next:
 - Exceptional problem-solving and coding abilities.
 - Crafting products with care
 
-**Core Front-end Team**
+**Core Front-end Team** (we are currently full, check back later)
 - Passion for creating delightful and swift user interfaces. 
 - Proficiency in HTML, CSS, and an understanding that JavaScript can be used sparingly to enhance, not create, product experiences.
 - You are comfortable not using any FE frameworks, and rather like to be in full control of the DOM and as close to browser as possible.
@@ -40,8 +40,6 @@ Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test pr
 ## Part-time opportunities
 
 **Kagi R&D Team** (aka Kagi Labs)
-
-**Note:** We are currently full, please check back later.
 
 We are deeply committed to fostering a culture of research and development (R&D) at Kagi. Many of our groundbreaking technologies such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt) or [Small Web](https://kagi.com/smallweb) have their origins in our R&D initiatives. At any time we have 4-5 individuals working on R&D projects, with some eventually transitioning to full-time roles.
 
