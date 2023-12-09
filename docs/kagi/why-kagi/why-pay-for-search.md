@@ -18,7 +18,7 @@ You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pa
 
 ## Ad-supported search engines & the future of the web
 
-In the early days of Google, in 1998, its founders rightly recognized that it is an imperative for a search engines to remain ad-free:
+In the early days of Google, in 1998, its founders emphasized the importance of maintaining an ad-free search engine:
 
 > "Currently, the predominant business model for commercial search engines is advertising. **The goals of the advertising business model do not always correspond to providing quality search to users.** For example, in our prototype search engine one of the top results for cellular phone is "The Effect of Cellular Phone Use Upon Driver Attention", a study which explains in great detail the distractions and risk associated with conversing on a cell phone while driving. This search result came up first because of its high importance as judged by the PageRank algorithm, an approximation of citation importance on the web [Page, 98].*
 >
@@ -26,7 +26,7 @@ In the early days of Google, in 1998, its founders rightly recognized that it is
 >
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
-Unfortunately, this is not how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result.
+Unfortunately, this is exactly how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result.
 
 ## The numbers tell a tale
 
