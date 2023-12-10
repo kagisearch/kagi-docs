@@ -12,6 +12,10 @@ Our goal is to eventually support 100% of APIs on Desktop and all APIs that are 
 
 To debug extension issues, follow the [troubleshooting guide](../support-and-community/troubleshooting/troubleshooting-extension-issues.md).
 
+## Check Orion browser context (for example in extension)
+
+Check availability of window.KAGI object.
+
 ## Orion iOS/iPadOS technical information
 
 How do I add support for opening Orion from my app?
