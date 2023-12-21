@@ -18,6 +18,11 @@ Kagi helps you find exactly what you're looking for online. It has a few more ca
 - [Set Kagi as your default search engine](#set-kagi-as-your-default-search-engine)
 - [Kagi member communities](#kagi-member-communities)
 
+## Set Kagi as your default search engine
+
+Learn how to set Kagi as [default search engine in your browser](./setting-default.md), including using private session link to have it work in private browser windows without logging in.
+
+
 ## Personalize Results
 
 Kagi's personalization options lets you customize your results including eliminating websites that you find low quality or distracting or boosting those that you find more useful. Clicking the shield icon to the right of a search result reveals additional information and [personalization options](https://help.kagi.com/kagi/features/website-info-personalized-results.html) for that result. From here you can raise or lower the weighting for that website including blocking websites that you'd like eliminated from your search results. You can see some of the more popular modifications on the [Kagi Personalization Leaderboard](https://kagi.com/stats?stat=leaderboard).
@@ -77,9 +82,6 @@ You can [share your search results](https://help.kagi.com/kagi/features/share-re
 
 <img src="./media/share_this_search.png" width="675" alt="Sharing Search Results"><br />
 
-## Set Kagi as your default search engine
-
-Learn how to set Kagi as [default search engine in your browser](./setting-default.md), including using private session link to have it work in private browser windows without logging in.
 
 ## Kagi member communities
 
