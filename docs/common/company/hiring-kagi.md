@@ -54,3 +54,10 @@ We are currently seeking full-stack developers who embody the following qualific
 If you are eager to contribute to cutting-edge projects and grow with a dynamic team, we would be thrilled to hear from you.
 
 Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
+
+## Who you would be working with
+
+To get a sense of some aspects of the position, including the team you would be working with and the business itself, check out the Kagi Search community event, recorded live in December 2023 in [Kagi discord](https://kagi.com/discord).
+
+<a href=
+"https://www.youtube.com/watch?v=DRVY-74lkBA"><img width="400" alt="Kagi community event" src="https://github.com/kagisearch/kagi-docs/assets/4319401/d5aa73a0-871b-40a0-b92d-e135f5cc552a"></a>
