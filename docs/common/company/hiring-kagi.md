@@ -8,9 +8,11 @@ next:
 ## Full-time positions
 
 **Core Back-end Team**
-- Advanced knowledge of the Crystal language.
+- Advanced knowledge of the Crystal language. 
 - Exceptional problem-solving and coding abilities.
 - Crafting products with care
+
+Our tech lead Zac Nowicki recently gave a talk at Crystal Conf. Zac shares a summary of lessons, technology, ideas, and challenges after building a search engine product from the ground up in Crystal for the past three years. Watch the presentation [here](https://www.youtube.com/watch?v=r7t9xPajjTM&list=PLt-CsM4G1WoadONHl3zPN_Ts5PqH8TgMZ&index=8).
 
 **Core Front-end Team** (we are currently full, check back later)
 - Passion for creating delightful and swift user interfaces. 
@@ -33,7 +35,7 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Flexible working conditions; remote first culture.
 - Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the feign-hearted.
 - Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
-- We are completely user funded. Kagi is currently in [one village worth of homes](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
+- We are completely user funded. Kagi is currently used by [one town worth of people](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
 
 Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
 
