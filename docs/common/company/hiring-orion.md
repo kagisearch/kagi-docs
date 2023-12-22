@@ -51,3 +51,12 @@ AppKit or UIKit に精通しており、難しい問題を解決できる
 
 - 現在、日本に支社はございません。
 - 候補者様とのやりとり、面接、コミュニケーションなどにおいて使用される言語は英語のみとなります。
+
+
+## Who you would be working with
+
+To get a sense of some aspects of the position, including the team you would be working with and the work itself, check out the Orion Browser community event, recorded live in December 2023 in [Orion discord](https://discord.com/invite/gKh5E6ys6D).
+
+<a href=
+"https://www.youtube.com/watch?v=824jsH9mxzQ"><img width="400" alt="Kagi community event" src="https://github.com/kagisearch/kagi-docs/assets/4319401/d3c2d5db-cc56-4271-8374-aea21ef886e0"></a>
+
