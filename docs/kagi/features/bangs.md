@@ -40,20 +40,24 @@ Bang | Region
 -----|-------
 int  | International
 at   | Austria
-be   | Belgium
+be   | Belgium (en)
+be_fr| Belgium (fr)
 bj   | Benin
 by   | Belarus
 bz   | Belize
-ca   | Canada
+ca   | Canada (en)
+ca_fr| Canada (fr)
 cf   | Central African Republic
-ch   | Switzerland
+ch   | Switzerland (de)
+ch_fr| Switzerland (fr)
 cn   | China
 co   | Colombia
 cx   | Christmas Island
 cy   | Cyprus
 de   | Germany
 dk   | Denmark
-es   | Spain
+es   | Spain (es)
+es_ca| Spain (ca)
 fr   | France
 gb   | United Kingdom
 hr   | Croatia
