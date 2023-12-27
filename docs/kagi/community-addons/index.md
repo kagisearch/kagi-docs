@@ -46,3 +46,7 @@ Adds a button to the right click context menu on Firefox that allows you to open
 ## Script Kit
 
 - [FastGPT for Script Kit](https://scriptkit.com/api/new?name=kagi-fastgpt&url=https://gist.githubusercontent.com/awakenedhaggis/bd9dbf2421325117f7e5c20f62e1c99f/raw/9ab7d843fdfb2bf3b1e3c65e5c4774fe896abc91/kagi-fastgpt.ts): Access our [FastGPT API](../api/fastgpt.md) directly from your desktop using Script Kit.
+
+## Chrome Extension
+
+[FastGPT to Markdown](https://chromewebstore.google.com/detail/kagi-fastgpt-to-markdown/bamhebecdlhhkedgncapjoofbohgiogc): Copy Kagi FastGPT question and answer to your clipboard, nicely formatted in Markdown.
