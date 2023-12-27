@@ -60,8 +60,7 @@ Extension download links:
   - If you use Firefox on Android, check out [this guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/). There are [many known limitations](https://github.com/kagisearch/browser_extensions/issues/3) with the extension here, though.
   - After installing the extension, go to the extension settings (click the puzzle piece in the top right corner of the browser window) for Kagi and enter your [private session token URL](#private_session) to be logged in automatically even when cookies have been deleted.
   - If you run into a problem of not being logged in to Kagi on incognito sessions, try manually setting your session token. If that doesn't work, try disallowing it on Incognito, saving the session token manually, and then re-allowing it again.
-- [Safari for macOS](https://apps.apple.com/app/kagi-search-for-safari/id1622835804)
-- [Safari for iOS and iPadOS](https://apps.apple.com/app/kagi-search-for-safari/id1607766153)
+- [Safari for macOS/iOS](https://apps.apple.com/app/kagi-search-for-safari/id1622835804)
 - The [xSearch](https://apps.apple.com/us/app/xsearch-for-safari/id1579902068) and [HyperWeb](https://apps.apple.com/us/app/hyperweb/id1581824571) extensions for Safari also support Kagi
 
 If you are a macOS, iOS, or iPadOS user, you can complement your Kagi experience with the free [Orion](https://browser.kagi.com) web browser, produced by the same team that built Kagi Search.
@@ -231,7 +230,7 @@ If you are a macOS, iOS, or iPadOS user, we strongly recommend using Kagi with t
 
 Use the [Orion iOS/iPadOS web browser](https://browser.kagi.com), which has native support for Kagi Search.
 
-If you prefer to use Safari, you can use the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1607766153).
+If you prefer to use Safari, you can use the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1622835804).
 
 
 <a name="firefox_focus"></a>
