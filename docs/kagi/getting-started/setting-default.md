@@ -138,7 +138,7 @@ Unfortunately, as [this github issue](https://github.com/kagisearch/browser_exte
 2. In the **Site Search** section about halfway down, click the **Add** button at its upper right and fill in these details:
     - **Search engine:** Kagi Search
     - **Keyword:** kagi
-    - **Query URL:** `https://kagi.com/search?q=%s` if you're not planning to use Kagi in private search. If you are, then use `https://kagi.com/search?token=TOKEN&q=%s` with the token found in your [private session tokens​](#private_session) replacing `TOKEN`.
+    - **Query URL:** `https://kagi.com/search?q=%s` if you're not planning to use Kagi in private search. If you are, then use `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](#private_session))
 3. Find Kagi again in the Site Search section. You may have to click **Additional sites** at the bottom if you don't see it right away.
 3. Click the three dots next to the Kagi entry in the list.
 4. Click **Make default**.
@@ -174,8 +174,16 @@ If you want to have Kagi Search easily available on Android after configuring Ch
 2. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
 3. Scroll to **Default Search Engine** and select **Kagi** from the dropdown.
 
-To set up a private session link in Firefox, install [this extension](https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/). Next, click the Extensions button with the puzzle piece icon in the toolbar, then click the Gear icon next to Kagi and select **Pin to toolbar** in the dropdown menu. Now, click the Kagi icon in your toolbar and click the **Advanced Settings** button in the top right of the modal. Finally, paste your personal [session link](https://kagi.com/settings?p=user_details) in the text field and click on **Save settings**.
+To set up a private session link in Firefox:
 
+1. Enter about:config in the address bar and press enter
+2. Add a new preference called `browser.urlbar.update2.engineAliasRefresh`, of type `Boolean` and value `true`.
+3. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
+4. Click the Add button
+5. Enter the following values:
+    - **Search engine name:** `Kagi Search`
+    - **Engine URL:** `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](#private_session))
+    - **Alias:** `kagi`
 <img src="./media/kagi_default_firefox1.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 1">
 
 <img src="./media/kagi_default_firefox2.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 2">
