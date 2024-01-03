@@ -52,7 +52,7 @@
 - [What are the limitations of the Trial plan?](#what-are-the-limitations-of-the-trial-plan)
 - [I'm having issues staying logged in or searching occasionally doesn't work](#i-m-having-issues-staying-logged-in-or-searching-occasionally-doesn-t-work)
 - [Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?](#is-using-kagi-assistant-better-in-terms-of-privacy-than-using-one-of-the-llm-models-directly)
-- 
+- [Can I use my personal account for work?](#personal-account-for-work)
 
 ## What is Kagi {#what-is-kagi}
 
@@ -321,6 +321,12 @@ Unfortunately, our hosting provider (GCP) is known to block some VPN IP addresse
 
 The reason is that Google knows where you are (since it tracks you across apps/devices), who you are and your past search history.
 When you search for 'dog and pony' Google may know it is the name of your local pub because you searched for it before, or recorded your location at that place through your phone, while Kagi does not so it shows you animal results instead.
+
+<a name="personal-account-for-work"></a>
+## Can I use my personal account for work? {#personal-account-for-work}
+
+Yes, you can use your individual account for any kind of work.
+However, only you may use your personal account; you may not share it with others.
 
 ---
 
