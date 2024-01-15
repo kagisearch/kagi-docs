@@ -18,7 +18,7 @@ Kagi is a high quality, 100% privacy-respecting search engine with results augme
 
 ## About Orion Browser
 
-Orion is a fast, zero telemetry browser for Mac/iOS. Learn more about [Orion](https://browser.kagi.com) or check [Orion documentation](./orion/).
+Orion is a fast, zero telemetry browser for Mac/iOS. Learn more about [Orion](https://browser.kagi.com) or check [Orion documentation](/orion/).
 
 ## Contributing
 
