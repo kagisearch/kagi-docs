@@ -69,4 +69,4 @@ Brave Search is pursuing an ad-based model where users can pay to opt-out of ads
 
 Brave Search also largely uses its own search index for results. Having a single-index source may be limiting.
 
-Kagi Search includes anonymized requests to traditional search indexes as well our own non-commercial index (Teclis), news index (TinyGem), and an AI for instant answers. Teclis and TinyGem are a result of our crawl through millions of domains, focusing primarily on non-commercial, high-quality content. More about Kagi's [search sources](../search-details/search-sources.md).
+Kagi Search includes anonymized requests to traditional search indexes including Brave, as well our own non-commercial index (Teclis), news index (TinyGem), and an AI for instant answers. Teclis and TinyGem are a result of our crawl through millions of domains, focusing primarily on non-commercial, high-quality content. More about Kagi's [search sources](../search-details/search-sources.md).
