@@ -4,6 +4,6 @@ Orion is [as fast or faster than Safari](https://twitter.com/vladquant/status/1
   
 <img src="./media/orion_speed.png" width="300" alt="Orion Speedometer Score"><br />
 
-Orion scores 408 on Speedometer 2.0 (using M1 MacBook Pro, with Orion's Compatibility mode ON) which is the fastest performance of any browser in existence (that we know of).   
+Orion scores 605 on Speedometer 2.1 (using M3 MacBook Pro, with Orion's Compatibility mode ON) which is the fastest performance of any browser in existence (that we know of).   
   
 On top of this, the native ad blocker makes Orion simply unrivaled in browsing speed. And, thanks to thoughtful optimizations, Orion feels faster and more responsive than Safari on slow and old Macs.
