@@ -275,3 +275,4 @@ SV | Swedish
 TR | Turkish
 UK | Ukrainian
 ZH | Chinese (simplified)
+ZH-HANT | Chinese (traditional)
