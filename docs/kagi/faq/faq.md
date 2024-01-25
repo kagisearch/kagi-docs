@@ -331,7 +331,7 @@ However, only you may use your personal account; you may not share it with other
 
 <a name="warrant-canary"></a>
 ## Do you have a warrant canary? {#warrant-canary}
-Yes, our warrant canary is included in our [privacy page](https://kagi.com/privacy#warrant-canary)
+Yes, our warrant canary is included in our [privacy page](https://kagi.com/privacy#warrant-canary).
 
 ---
 
