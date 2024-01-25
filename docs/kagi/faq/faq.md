@@ -53,6 +53,7 @@
 - [I'm having issues staying logged in or searching occasionally doesn't work](#i-m-having-issues-staying-logged-in-or-searching-occasionally-doesn-t-work)
 - [Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?](#is-using-kagi-assistant-better-in-terms-of-privacy-than-using-one-of-the-llm-models-directly)
 - [Can I use my personal account for work?](#personal-account-for-work)
+- [Do you have a warrant canary?](#warrant-canary)
 
 ## What is Kagi {#what-is-kagi}
 
@@ -327,6 +328,10 @@ When you search for 'dog and pony' Google may know it is the name of your local 
 
 Yes, you can use your individual account for any kind of work.
 However, only you may use your personal account; you may not share it with others.
+
+<a name="warrant-canary"></a>
+## Do you have a warrant canary? {#warrany-canary}
+Yes, our warrant canary is included in our [privacy page](https://kagi.com/privacy#warrant-canary)
 
 ---
 
