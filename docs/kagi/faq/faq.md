@@ -330,7 +330,7 @@ Yes, you can use your individual account for any kind of work.
 However, only you may use your personal account; you may not share it with others.
 
 <a name="warrant-canary"></a>
-## Do you have a warrant canary? {#warrany-canary}
+## Do you have a warrant canary? {#warrant-canary}
 Yes, our warrant canary is included in our [privacy page](https://kagi.com/privacy#warrant-canary)
 
 ---
