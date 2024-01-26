@@ -50,3 +50,6 @@ Adds a button to the right click context menu on Firefox that allows you to open
 ## Chrome Extension
 
 [FastGPT to Markdown](https://chromewebstore.google.com/detail/kagi-fastgpt-to-markdown/bamhebecdlhhkedgncapjoofbohgiogc): Copy Kagi FastGPT question and answer to your clipboard, nicely formatted in Markdown.
+
+## Emacs
+- [kagi.el](https://codeberg.org/bram85/kagi.el): Emacs package that provides access to the Kagi FastGPT and Universal Summarizer API.
