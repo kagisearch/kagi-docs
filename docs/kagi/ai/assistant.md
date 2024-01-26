@@ -9,6 +9,8 @@ Kagi Assistant is a product feature backed by Kagi Search and large language mod
 ### Research
 
 Research assistant uses Kagi search and external sources like Wolfram Alpha, together with an AI model to answer your queries.
+This model also allows you to upload a file (up to 8 MB) or provide a URL (article, PDF, video, podcast, etc.) to use as context.
+If an image is provided it will be processed using GPT4 Vision.
 
 ![Kagi Assistant - Research](./media/assistant_research.png){width=500px data-zoomable}
 
@@ -42,9 +44,8 @@ This mode supports the following models:
 - Anthropic
   - `claude-instant`
   - `claude-2` (for Ultimate members)
-- Google
-  - `chat-bison`
-  - `code-bison` (Codey)
+- Mistral AI
+  - `mistral-medium` (for Ultimate members)
 
 Access directly with the `!chat` bang.
 
@@ -57,3 +58,12 @@ Custom assistant allows you to further customize one of the existing modes.
 Select the base mode (and variant/model where applicable) and add your own custom instructions. Setup is detailed in the [Assistant settings help page](../settings/assistant.md#custom-assistant).
 
 Access directly with the `!custom` bang.
+
+## Tips and Tricks for using Kagi Assistant
+
+- Assistant has a character limit of 6,000 for each prompt in a conversation.
+- You can input math equations using the LaTeX format.
+- Using the copy button will copy the response to your clipboard preserving any formatting using markdown.
+- Assistant supports syntax highlighting in generated code snippets.
+- For optimal results, interact with the Assistant in a natural language. For instance, "Who was Alan Turing?" will yield a better response than simply "Alan Turing".
+- When using Code Assistant, it is recommended to specify the programming language you are using as part of your prompt.
