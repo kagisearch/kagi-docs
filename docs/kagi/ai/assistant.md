@@ -67,4 +67,4 @@ Access directly with the `!custom` bang.
 - Using the copy button will copy the response to your clipboard preserving any formatting using markdown.
 - Assistant supports syntax highlighting in generated code snippets.
 - For optimal results, interact with the Assistant in a natural language. For instance, "Who was Alan Turing?" will yield a better response than simply "Alan Turing".
-- When using Code Assistant, it is recommended to specify the programming language you're using as part of your prompt.
+- When using Code Assistant, it is recommended to specify the programming language you are using as part of your prompt.
