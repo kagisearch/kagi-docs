@@ -44,9 +44,8 @@ This mode supports the following models:
 - Anthropic
   - `claude-instant`
   - `claude-2` (for Ultimate members)
-- Google
-  - `chat-bison`
-  - `code-bison` (Codey)
+- Mistral AI
+  - `mistral-medium` (for Ultimate members)
 
 Access directly with the `!chat` bang.
 
