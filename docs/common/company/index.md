@@ -8,7 +8,7 @@ next:
 
 Kagi Inc. is a company created with the mission to humanize the web. Our goal is to amplify the web of human knowledge, creativity, and self-expression.
 
-Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi) and [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky). Our team is a fully remote team operating on all continents.
+Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram), [Raghu Murthi](https://www.linkedin.com/in/raghumurthi) and [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky). Our team is a fully remote team operating on all continents.
 
 Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi members in its first external fundraise.
 
