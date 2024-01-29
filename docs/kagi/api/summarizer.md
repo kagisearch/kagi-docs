@@ -1,6 +1,6 @@
 # Universal Summarizer
 
-The Universal Summarizer is an API using powerful LLMs to summarize content on the web, or your own documents, of any length.
+The Universal Summarizer is an API using powerful LLMs to summarize any content, of almost any format, with unlimited token length!
 
 ## Quick start
 
@@ -8,6 +8,7 @@ The Universal Summarizer is an API using powerful LLMs to summarize content on t
 1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account)
 2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
 3. Call the API. See [example usage](#examples).
+4. Alternatively use Kagi Search browser extension ([Chrome](https://chromewebstore.google.com/detail/kagi-search-for-chrome/cdglnehniifkbagbbombnjghhcihifij?pli=1)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)) and you can use the most advanced Muriel model right from the extension.
 
 ## API key
 
