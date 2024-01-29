@@ -44,3 +44,5 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 - [Kagi raises $670K](https://blog.kagi.com/safe-round) from its users in its first external fundraise. Total money invested nears $5M at this point.
 - We publish our [live stats](https://kagi.com/stats)
 - We cross $1M annual revenue milestone, offering paid web search and paid web browser product
+- Kagi Assistant enters public beta 
+- The team is now ~30
