@@ -1,8 +1,8 @@
 import DefaultTheme from "vitepress/theme";
 import queryHack from "../custom_scripts/search_query_hack";
-import { onMounted, watch, nextTick } from 'vue';
-import { useRoute } from 'vitepress';
-import mediumZoom from 'medium-zoom';
+import { onMounted, watch, nextTick } from "vue";
+import { useRoute } from "vitepress";
+import mediumZoom from "medium-zoom";
 import "./custom.scss";
 
 export default {
@@ -13,7 +13,7 @@ export default {
   setup() {
     const route = useRoute();
     const initZoom = () => {
-      mediumZoom('[data-zoomable]', { background: 'var(--vp-c-bg)' }); 
+      mediumZoom("[data-zoomable]", { background: "var(--vp-c-bg)" });
     };
     onMounted(() => {
       initZoom();
