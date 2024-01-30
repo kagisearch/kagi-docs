@@ -91,6 +91,8 @@ If you press **?** on your keyboard (**shift + /**) while in search results, Kag
 
 **!m** — [Bang](bangs.md) that performs a Kagi Maps search, for example: [!m eiffel tower](https://kagi.com/search?q=!m%20eiffel%20tower)
 
+**!q** — [Bang](bangs.md) that performs a search with [Quick Answer](https://help.kagi.com/kagi/ai/quick-answer.html) enabled, for example: [!q pythagorean theorem](https://kagi.com/search?q=!q%20pythagorean+theorem)
+
 **calc** — Opens a widget that can perform math calculations, unit conversions, and currency conversions, for example: [calc](https://kagi.com/search?q=calc). The widget opens automatically when you search for a calculation, like [(45 * 2) / (5 + 10)](https://kagi.com/search?q=%2845+*+2%29+%2F+%285+%2B+10%29).
 
 **ip address** — Check your IP address by searching for [ip address](https://kagi.com/search?q=ip%20address)

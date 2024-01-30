@@ -12,6 +12,10 @@ Our goal is to eventually support 100% of APIs on Desktop and all APIs that are 
 
 To debug extension issues, follow the [troubleshooting guide](../support-and-community/troubleshooting/troubleshooting-extension-issues.md).
 
+## Check Orion browser context (for example in extension)
+
+Check availability of window.KAGI object.
+
 ## Orion iOS/iPadOS technical information
 
 How do I add support for opening Orion from my app?
@@ -129,11 +133,10 @@ cp -r ~/Library/Application\ Support/Orion ~/Library/Application\ Support/Orion\
 ```
 
 ### Change start page wallpaper to custom image
-To change to a custom wallpaper go to the preferences plist for the indivdiual profiles located in
+To change to a custom wallpaper run this command with correct path to picture you want to change it to
 ```
-~/Library/Application\ Support/Orion/[Your profiles]
+defaults write com.kagi.kagimacOS backgroundImageOnStartPage file:///Users/james/Pictures/62068712ee1c9.jpg
 ```
-there is a string under <key>backgroundImageOnStartPage</key> in the string it starts with file:///. Just insert the location of the file that you want.
 
 ### I prefer the original WebKit PDF viewer!
 

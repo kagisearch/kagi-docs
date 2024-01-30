@@ -1,6 +1,6 @@
 # Universal Summarizer
 
-The Universal Summarizer is an API using powerful LLMs to summarize content on the web, or your own documents, of any length.
+The Universal Summarizer is an API using powerful LLMs to summarize any content, of almost any format, with unlimited token length!
 
 ## Quick start
 
@@ -8,10 +8,11 @@ The Universal Summarizer is an API using powerful LLMs to summarize content on t
 1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account)
 2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
 3. Call the API. See [example usage](#examples).
+4. Alternatively use Kagi Search browser extension ([Chrome](https://chromewebstore.google.com/detail/kagi-search-for-chrome/cdglnehniifkbagbbombnjghhcihifij?pli=1)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)) and you can use the most advanced Muriel model right from the extension.
 
 ## API key
 
-To obtain an API key you will first need to [create a Kagi account](https://kagi.com/signup?plan_id=trial). 
+To obtain an API key you will first need to [create a Kagi account](https://kagi.com/signup?plan_id=trial).
 
 Then, navigate to Settings -> Advanced -> API portal, or click [here](https://kagi.com/settings?p=api) to go directly.
 
@@ -19,7 +20,7 @@ Click "Generate API Token".
 
 ## API credits
 
-Universal Sumamrizer API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
+Universal Summarizer API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
 
 Using API with insufficient credits will produce "Insufficient credit to perform this request." response message.
 
@@ -40,7 +41,7 @@ Notes:
 
 Our enterprise-grade Muriel summarization engine produces even higher quality summaries, especially for long documents. It also provides longer and more detailed summaries than our consumer-grade model. See the difference [here](https://blog.kagi.com/universal-summarizer#muriel).
 
-Murial usage is a **flat rate of $1 USD per summary**, regardless of the length or type of the document. 
+Muriel usage is a **flat rate of $1 USD per summary**, regardless of the length or type of the document.
 
 To use Muriel just use "muriel" as the "engine" parameter in the API call. See examples below.
 
@@ -226,7 +227,7 @@ Different summarization engines are provided that will give you choices over the
 Engine | Description
 -------|-----------
 cecil (default) | Friendly, descriptive, fast summary
-agnes  | Formal, technical, analytical summary 
+agnes  | Formal, technical, analytical summary
 daphne | Informal, creative, friendly summary
 muriel | Best-in-class summary using our enterprise-grade model
 
@@ -236,7 +237,7 @@ The summarizer can translate the output into a desired language, using the table
 of supported language codes below.
 
 If no language is specified, the document's original language is allowed to
-influence the summarizer's output. Specifying a language will add a an explicit
+influence the summarizer's output. Specifying a language will add an explicit
 translation step, to translate the summary to the desired language.
 
 For example, if a document is mostly written in Spanish, the summary output may
@@ -275,3 +276,4 @@ SV | Swedish
 TR | Turkish
 UK | Ukrainian
 ZH | Chinese (simplified)
+ZH-HANT | Chinese (traditional)

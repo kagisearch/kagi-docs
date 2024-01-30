@@ -16,7 +16,7 @@ Here are some extra things you can do to help us debug this:
 
 
 
-- Copy console errors from background-script [Window->Extensions->Console (from options popup button for specific web-extension)]
+- Copy console errors from background-script [Tools->Extensions->Console (from options popup button for specific web-extension)]
 
 <img src="../media/debug_ext.png" width="700" alt="Enable extension console"><br />
 

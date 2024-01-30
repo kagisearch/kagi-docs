@@ -1,5 +1,7 @@
 # Gift Kagi
 
+> NOTE: Purchasing gifts is currently limited to users with an active subscription.
+
 You can gift Kagi from within your [Settings](https://kagi.com/settings/) by going to [Gifts](https://kagi.com/settings?p=gift).
 
 ![Give Gift](media/give_gifts.png)

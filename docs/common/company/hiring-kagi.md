@@ -8,11 +8,13 @@ next:
 ## Full-time positions
 
 **Core Back-end Team**
-- Advanced knowledge of the Crystal language.
+- Advanced knowledge of the Crystal language. 
 - Exceptional problem-solving and coding abilities.
 - Crafting products with care
 
-**Core Front-end Team**
+Our tech lead Zac Nowicki recently gave a talk at Crystal Conf. Zac shares a summary of lessons, technology, ideas, and challenges after building a search engine product from the ground up in Crystal for the past three years. Watch the presentation [here](https://www.youtube.com/watch?v=r7t9xPajjTM&list=PLt-CsM4G1WoadONHl3zPN_Ts5PqH8TgMZ&index=8).
+
+**Core Front-end Team** (we are currently full, check back later)
 - Passion for creating delightful and swift user interfaces. 
 - Proficiency in HTML, CSS, and an understanding that JavaScript can be used sparingly to enhance, not create, product experiences.
 - You are comfortable not using any FE frameworks, and rather like to be in full control of the DOM and as close to browser as possible.
@@ -33,15 +35,13 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Flexible working conditions; remote first culture.
 - Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the feign-hearted.
 - Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
-- We are completely user funded. Kagi is currently in [one village worth of homes](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
+- We are completely user funded. Kagi is currently used by [one town worth of people](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
 
 Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
 
 ## Part-time opportunities
 
 **Kagi R&D Team** (aka Kagi Labs)
-
-**Note:** We are currently full, please check back later.
 
 We are deeply committed to fostering a culture of research and development (R&D) at Kagi. Many of our groundbreaking technologies such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt) or [Small Web](https://kagi.com/smallweb) have their origins in our R&D initiatives. At any time we have 4-5 individuals working on R&D projects, with some eventually transitioning to full-time roles.
 
@@ -56,3 +56,10 @@ We are currently seeking full-stack developers who embody the following qualific
 If you are eager to contribute to cutting-edge projects and grow with a dynamic team, we would be thrilled to hear from you.
 
 Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
+
+## Who you would be working with
+
+To get a sense of some aspects of the position, including the team you would be working with and the business itself, check out the [Kagi Search community event](https://www.youtube.com/watch?v=DRVY-74lkBA), recorded live in December 2023 in [Kagi discord](https://kagi.com/discord).
+
+<a href=
+"https://www.youtube.com/watch?v=DRVY-74lkBA"><img width="400" alt="Kagi community event" src="https://github.com/kagisearch/kagi-docs/assets/4319401/d5aa73a0-871b-40a0-b92d-e135f5cc552a"></a>

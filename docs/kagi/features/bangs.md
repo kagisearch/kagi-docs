@@ -12,7 +12,6 @@ Note that Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang
 
 ## Bang Examples
 
-
 Some of the more popular search bangs include:
 
 - **!help** \<query> to search this knowledge base for information about Kagi Search. Try "!help search operators" in Kagi.
@@ -41,20 +40,24 @@ Bang | Region
 -----|-------
 int  | International
 at   | Austria
-be   | Belgium
+be   | Belgium (en)
+be_fr| Belgium (fr)
 bj   | Benin
 by   | Belarus
 bz   | Belize
-ca   | Canada
+ca   | Canada (en)
+ca_fr| Canada (fr)
 cf   | Central African Republic
-ch   | Switzerland
+ch   | Switzerland (de)
+ch_fr| Switzerland (fr)
 cn   | China
 co   | Colombia
 cx   | Christmas Island
 cy   | Cyprus
 de   | Germany
 dk   | Denmark
-es   | Spain
+es   | Spain (es)
+es_ca| Spain (ca)
 fr   | France
 gb   | United Kingdom
 hr   | Croatia
@@ -103,9 +106,11 @@ zm   | Zambia
 
 ### AI related bangs
 
-- **!sum** \<url> - Key moments of the page in [Universal Summarizer](../ai/summarize-page.md)
-- **!sumk** \<url> -  Alias of `!sum`
+- **!sum** \<url> - Summarize the page in [Universal Summarizer](../ai/summarize-page.md) using the default setting (currently key moments)
+- **!sumk** \<url> -  Key moments of the page in [Universal Summarizer](../ai/summarize-page.md)
+- **!summ** \<url> -  Summary of the page in [Universal Summarizer](../ai/summarize-page.md)
 - **!discuss** \<url> - Discuss Document chat
+- **!fast** \<query> - Invoke FastGPT with the query
 - **!quick** \<search terms> - Search & open "Quick Answer"
 
 ### Kagi Assistant bangs
@@ -120,7 +125,6 @@ zm   | Zambia
 
 ### Search on external websites
 
- 
 - **!yt** \<query> for [YouTube](https://youtube.com)
 - **!r** \<query> for [Reddit](https://www.reddit.com)
 - **!u** \<query> for [Urban Dictionary](https://www.urbandictionary.com)
@@ -147,7 +151,6 @@ Configure Quick Bangs under [Search](https://kagi.com/settings?p=search) in the 
 
 ![Quick Bangs](./media/quick_bangs.png){data-zoomable}
 
-
 ## Custom Bangs
 
 You can also create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings?p=advanced).
@@ -163,7 +166,6 @@ From here you can "Add Bang" to define new custom bangs.
 ![Custom Bang Editor in Settings](./media/custom_bang_editor_settings.png){data-zoomable}
 
 You can create your own Custom Bangs in Kagi using the [Search Shortcuts menu](search-shortcuts.md).
-
 
 ## Watch a Demo
 
@@ -185,4 +187,3 @@ Here is the full list of "feeling lucky" patterns that we support:
 - `! query`
 - `query !`
 - `\query`
-
