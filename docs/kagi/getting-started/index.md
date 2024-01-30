@@ -10,12 +10,12 @@ Kagi helps you find exactly what you're looking for online. It has a few more ca
 
 ## Table of Contents
 
+- [Set Kagi as your default search engine](#set-kagi-as-your-default-search-engine)
 - [Personalize Results](#personalize-results)
 - [Refining Search Results](#refining-search-results)
 - [Quick Answer](#quick-answer)
 - [Summarize Page](#summarize-page)
 - [Sharing Search Results](#sharing-search-results)
-- [Set Kagi as your default search engine](#set-kagi-as-your-default-search-engine)
 - [Kagi member communities](#kagi-member-communities)
 
 ## Set Kagi as your default search engine
