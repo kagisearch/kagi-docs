@@ -1,17 +1,16 @@
 import { defineConfig } from 'vitepress'
-import { SearchPlugin } from 'kagi-sidekick-vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: "Kagi's Docs",
     description: "Kagi Search Help",
     head: [
-        ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
-        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32x32.png" }],
-        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png" }],
-        ['link', { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5" }],
-        ['meta', { name: "msapplication-TileColor", content: "#ffffff" }],
-        ['meta', { name: "theme-color", content: "#ffffff" }],
+        ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32x32.png"}],
+        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png"}],
+        ['link', { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5"}],
+        ['meta', { name: "msapplication-TileColor", content: "#ffffff"}],
+        ['meta', { name: "theme-color", content: "#ffffff"}],
     ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
@@ -54,8 +53,7 @@ export default defineConfig({
                             searchByText: '',
                         }
                     }
-                },
-
+                }
             }
         },
         editLink: {
@@ -67,9 +65,6 @@ export default defineConfig({
         resolve: {
             preserveSymlinks: true,
         },
-        plugins: [SearchPlugin({
-            origin: "https://sidekick-ui.pages.dev/"
-        })]
     },
     ignoreDeadLinks: true,
     sitemap: {
@@ -90,7 +85,7 @@ function sidebarKagi() {
                         { text: 'About', link: '/kagi/company/' },
                         { text: 'Products', link: '/kagi/company/products' },
                         { text: 'History', link: '/kagi/company/history' },
-                        { text: 'Assets', link: '/kagi/company/assets' },
+                         { text: 'Assets', link: '/kagi/company/assets' },
                         {
                             text: 'Jobs', link: '/kagi/company/hiring-kagi',
                             collapsed: true,
@@ -148,7 +143,7 @@ function sidebarKagi() {
             items: [
                 { text: 'Why Pay for Search', link: '/kagi/why-kagi/why-pay-for-search' },
                 { text: 'Say no to Ads', link: '/kagi/why-kagi/noads' },
-                { text: 'Kagi vs. Others', link: '/kagi/why-kagi/kagi-vs-competition' },
+                { text: 'Kagi vs. Others', link: '/kagi/why-kagi/kagi-vs-competition'},
                 {
                     text: 'Privacy & Security', link: '/kagi/privacy/privacy-protection',
                     collapsed: true,
@@ -196,7 +191,7 @@ function sidebarKagi() {
                         { text: 'Sharing Results', link: '/kagi/features/share-results' },
                         { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
                         { text: 'Filtering Results', link: '/kagi/features/filtering-results' },
-                        { text: 'Shopping Searches', link: '/kagi/features/shopping' },
+                        { text: 'Shopping Searches', link: '/kagi/features/shopping'},
                         { text: 'Customizing Kagi CSS', link: '/kagi/features/custom-css' },
                         { text: 'Turning Off Animations', link: '/kagi/features/turning-off-animations' },
                         { text: 'Redirects', link: '/kagi/features/redirects' },
@@ -327,7 +322,7 @@ function sidebarOrion() {
         {
             text: 'User Guide',
             items: [
-                {
+                 {
                     text: 'Why Orion?',
                     collapsed: true,
                     link: '/orion/why-orion/orion-vs-safari',
