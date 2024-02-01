@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { SearchPlugin } from 'kagi-sidekick-vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -65,6 +66,9 @@ export default defineConfig({
         resolve: {
             preserveSymlinks: true,
         },
+        plugins: [SearchPlugin({
+            origin: "https://sidekick.kagi.com"
+        })]
     },
     ignoreDeadLinks: true,
     sitemap: {
