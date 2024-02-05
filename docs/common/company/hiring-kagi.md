@@ -26,7 +26,7 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Demonstrable expertise with modern large language models (LLMs), their deployment and/or advanced prompting techniques.
 - Experience in building noteworthy projects utilizing machine learning.
 
-**Core Design Team**
+**Core Design Team** (we are currently full, check back later)
 - Enthusiasm for diving deep into user feedback and discussions to improve UX.
 - Meticulous attention to detail in UX design.
 - A critical perspective on current search/assistant user interfaces, paired with a desire to revolutionize them.
