@@ -10,7 +10,7 @@
 - [Why should I pay for search?](#why-should-i-pay-for-search)
 - [How do I get help with Kagi?](#how-do-i-get-help-with-kagi)
 - [How do I set Kagi as my default search engine?](#how-do-i-set-kagi-as-my-default-search-engine)
-- [Why does Kagi return so few results?](#kagi-better-results)
+- [Why does Kagi return so few results?](#why-does-kagi-return-so-few-results)
 - [Can I use Kagi in private browser sessions or if I delete my cookies?](#using-login-token)
 - [Why does Kagi Search require an account?](#why-does-kagi-search-require-an-account)
 - [What data does Kagi collect?](#what-data-does-kagi-collect)
