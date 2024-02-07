@@ -47,4 +47,4 @@ If you have 2FA authentication enabled in your account, you will prompted to ent
 
 If you need to disable 2FA authentication for your account, first visit the [Account Settings](https://kagi.com/settings?p=user_details) page. Then, click the **Remove 2FA** button.
 
-![2FA authentication - Login](./media/remove_2fa.png){width=600px data-zoomable}
+![2FA authentication - Login](./media/2fa_auth_remove_2fa.png){width=600px data-zoomable}
