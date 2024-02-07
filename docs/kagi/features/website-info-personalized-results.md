@@ -33,9 +33,16 @@ Your options are to:
 
 You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
 
+
+Personalization can also be disabled for a single search via unchecking the "Personalized" option in the "Options" menu.
+
+
+![Personalized Option in Search Options Dropdown](./media/personalized_option.png){width=675px data-zoomable}
+
+
 ## Domain Leaderboard
 
-Wonder what are the most promoted and blocked domains among Kagi Search users?  
+Wonder what are the most promoted and blocked domains among Kagi Search users?
 
 Check the [Personalization Leaderboard](https://kagi.com/stats?stat=leaderboard). We anonymously aggregate the rankings of domains that have been tagged by other Kagi users.
 
