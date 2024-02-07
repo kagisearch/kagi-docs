@@ -174,20 +174,21 @@ If you want to have Kagi Search easily available on Android after configuring Ch
 2. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
 3. Scroll to **Default Search Engine** and select **Kagi** from the dropdown.
 
-To set up a private session link in Firefox:
-
-1. Enter about:config in the address bar and press enter
-2. Add a new preference called `browser.urlbar.update2.engineAliasRefresh`, of type `Boolean` and value `true`.
-3. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
-4. Click the Add button
-5. Enter the following values:
-    - **Search engine name:** `Kagi Search`
-    - **Engine URL:** `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](#private_session))
-    - **Alias:** `kagi`
 <img src="./media/kagi_default_firefox1.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 1">
 
 <img src="./media/kagi_default_firefox2.jpg" width="675" alt="Setting Kagi as Default Search Engine in Firefox 2">
 
+To set up a private session link in Firefox:
+
+1. Enter about:config in the address bar and press enter
+2. Add a new preference called `browser.urlbar.update2.engineAliasRefresh`, of type `Boolean` and value `true`. (This will enable the button to add a new search engine in about:preferences#search)
+3. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
+4. Click the "Add" button below the table under the heading "Search Shortcuts"
+5. Enter the following values:
+    - **Search engine name:** `Kagi Search`
+    - **Engine URL:** `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](#private_session))
+    - **Alias:** `kagi`
+6. Select the new "Kagi Search" as your default search engine using the dropdown at the top of this page.
 
 <a name="firefox_android_mobile"></a>
 #### Android Mobile {#firefox_android_mobile}
