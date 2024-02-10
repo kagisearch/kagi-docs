@@ -57,8 +57,8 @@ Extension download links:
 - [Chromium-based browsers](https://chrome.google.com/webstore/detail/cdglnehniifkbagbbombnjghhcihifij) (Chrome, Edge, Brave, Vivaldi, Arc...)
   - After installing the extension make sure to [set Kagi as your default search engine](#chromium_browsers).
 - [Firefox-based browsers](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)
-  - If you use Firefox on Android, check out [this guide](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/). There are [many known limitations](https://github.com/kagisearch/browser_extensions/issues/3) with the extension here, though.
-  - After installing the extension, go to the extension settings (click the puzzle piece in the top right corner of the browser window) for Kagi and enter your [private session token URL](#private_session) to be logged in automatically even when cookies have been deleted.
+  - If you use Firefox on Android, please know there are [many known limitations](https://github.com/kagisearch/browser_extensions/issues/3) with the extension, at this moment. That means you need to follow the [Firefox Android search setup](#firefox_android_mobile) above to search with Kagi.
+  - After installing the extension, if your profile deletes cookies frequently, go to the extension settings (click the puzzle piece in the top right corner of the browser window) for Kagi and enter your [private session token URL](#private_session) to be logged in automatically even when cookies have been deleted.
   - If you run into a problem of not being logged in to Kagi on incognito sessions, try manually setting your session token. If that doesn't work, try disallowing it on Incognito, saving the session token manually, and then re-allowing it again.
 - [Safari for macOS/iOS](https://apps.apple.com/app/kagi-search-for-safari/id1622835804)
 - The [xSearch](https://apps.apple.com/us/app/xsearch-for-safari/id1579902068) and [HyperWeb](https://apps.apple.com/us/app/hyperweb/id1581824571) extensions for Safari also support Kagi
@@ -203,8 +203,8 @@ To set up a private session link in Firefox:
 5. A list of additional predefined search engines will be displayed.
 6. Tap the **Other** radio button to add a search engine and do the following:
     - in the **Name** field, enter **Kagi**.
-    - In the **Search string to use** field, enter **https://kagi.com/search?q=%s**
-    - In the **Search suggestion API (optional)** field, enter **https://kagi.com/api/autosuggest?q=%s** 
+    - In the **Search string to use** field, enter `https://kagi.com/search?q=%s`
+    - In the **Search suggestion API (optional)** field, enter `https://kagi.com/api/autosuggest?q=%s` 
     - Tap the confirmation button in the top right corner of the screen.
 
 If your browser is configured to default to private browsing, this will require you to log back in to Kagi each time your tabs are closed. To get around this, in the **Search string to use** field, use your [session link](https://kagi.com/settings?p=user_details) and append `&q=%s` at the end.
