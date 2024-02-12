@@ -13,11 +13,11 @@
 
 The table below shows how Kagi stacks up to some of the most popular search engines around in terms of key features.
 
-|  | Kagi | Google | Bing | DuckDuckGo/Ecosia/StartPage | Brave | 
+|  | Kagi | Google | Bing | DuckDuckGo/Ecosia/Startpage | Brave | 
 | --- | --- | --- | --- | --- | --- | 
 | Ad-free business model | **Yes** | No | No | No | No | 
 | Has own web index | **[Yes](../search-details/search-sources.html)** | Yes | Yes | No | Yes | 
-| User can block sites | **Yes** | No | No | No | No | 
+| User can block sites | **Yes** | No | No | No | Yes | 
 | Zero search telemetry | **Yes** | No | No | No | No | 
 | Anonymises user data | **Yes** | No | No | Yes | Yes | 
 
