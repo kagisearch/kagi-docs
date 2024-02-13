@@ -8,7 +8,7 @@ next:
 
 Kagi Inc. is a company created with the mission to humanize the web. Our goal is to amplify the web of human knowledge, creativity, and self-expression.
 
-Our goal is to bring a friendly version of the internet, that has users' best interest in mind, into homes worldwide through a combination of best in class products - search engine, web browser and soon email.
+We want to bring a friendly version of the internet, one that has users' best interest in mind, into homes worldwide through our portfolio of best in class products - search engine, web browser, and soon email.
 
 Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky) and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). Our team is a fully remote team operating on all continents.
 
