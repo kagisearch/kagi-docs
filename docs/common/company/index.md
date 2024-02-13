@@ -8,13 +8,15 @@ next:
 
 Kagi Inc. is a company created with the mission to humanize the web. Our goal is to amplify the web of human knowledge, creativity, and self-expression.
 
+Our goal is to bring a friendly version of the internet, that has users' best interest in mind, into homes worldwide through a combination of best in class products - search engine, web browser and soon email.
+
 Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky) and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). Our team is a fully remote team operating on all continents.
 
 Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi members in its first external fundraise.
 
 Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser. We also have a number of other products such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt), [Kagi Small Web](https://blog.kagi.com/small-web), [open-source projects](https://github.com/kagisearch) and [APIs](https://help.kagi.com/kagi/api/overview.html).
 
-Want to learn more? Read about  [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) (interview with Kagi's founder Vladimir Prelovac) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which serves as our manifesto.
+Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) (interview with Kagi's founder Vladimir Prelovac) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which serves as our manifesto.
 
 Our company headquarters are in Palo Alto, CA.
 
