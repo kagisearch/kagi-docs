@@ -273,8 +273,8 @@ We waived all pending metered usage charges for you, effective on September 21st
 ## I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?
 Yes, as long as you do not cancel you will have the previous discount applied.
 
-## How can I get the new Ultimate plan level features in the Family plan?
-As of now, we haven’t established a mechanism to incorporate Ultimate plan features into the Family plan. However, we are open to suggestions and would appreciate any ideas you may have. Please share your thoughts at [KagiFeedback.org](https://kagifeedback.org/).
+## How can I get the new Ultimate plan level features in the Family or Duo plans?
+If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
 
 ## I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?
 What sets Kagi apart is our fundamentally different, user-centric approach, that prioritizes the interest of our members and alignment of incentives. It’s worth noting that all of Kagi’s growth has been organic, without any expenditure on marketing or customer acquisition, attesting to the inherent value and trust our user base places in us. We invite you to review our [live stats](https://kagi.com/stats) for a transparent view of our steady progress.
