@@ -18,7 +18,7 @@ Kagi offers several individual subscriptions plans.
 * The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches, exclusive and early access to Kagi features and services for USD $25 per month and offers the most power to the user.
   * Note: Starting September 21st, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.
 
-We also offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page.
+We also offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
 
 ## How searches are counted
 
