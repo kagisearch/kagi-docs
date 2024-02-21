@@ -39,7 +39,6 @@
 - [Do I need to do anything to get the benefits of the new plans?](#do-i-need-to-do-anything-to-get-the-benefits-of-the-new-plans)
 - [I do not have a credit card. Can I also pay for Kagi with PayPal or crypto?](#i-do-not-have-a-credit-card-can-i-also-pay-for-kagi-with-paypal-or-crypto)
 - [Now that I don’t have to count my searches, how can I switch all my browsers and devices to Kagi?](#now-that-i-don-t-have-to-count-my-searches-how-can-i-switch-all-my-browsers-and-devices-to-kagi)
-- [I have an outstanding pay-per-use balance on my current Standard or Professional plan. What happens now?](#i-have-an-outstanding-pay-per-use-balance-on-my-current-standard-or-professional-plan-what-happens-now)
 - [I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?](#i-notice-that-ultimate-plan-is-also-10-off-for-annual-payments-now-i-previously-had-15-off-do-i-remain-locked-in)
 - [How can I get the new Ultimate plan level features in the Family plan?](#how-can-i-get-the-new-ultimate-plan-level-features-in-the-family-plan)
 - [I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?](#i-m-keen-to-support-kagi-but-concerned-about-its-longevity-given-the-history-of-search-startups-how-can-i-be-assured-kagi-is-here-to-stay-before-making-a-commitment)
@@ -266,9 +265,6 @@ Yes. We have recently added [new payment options](https://blog.kagi.com/acceptin
 
 ## Now that I don’t have to count my searches, how can I switch all my browsers and devices to Kagi?
 We have several options available, from easy to full manual. See [here](../getting-started/setting-default.md) for instructions.
-
-## I have an outstanding pay-per-use balance on my current Standard or Professional plan. What happens now?
-We waived all pending metered usage charges for you, effective on September 21st, 2023. Yahoo!
 
 ## I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?
 Yes, as long as you do not cancel you will have the previous discount applied.
