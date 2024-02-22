@@ -132,6 +132,10 @@ zm   | Zambia
 
 And many more! (Kagi supports all [DuckDuckGo bangs](https://duckduckgo.com/bang))
 
+## Contributing Bangs
+
+The [Kagi Bangs repository](https://github.com/kagisearch/bangs) is open source. You can refine the accuracy of existing bangs or introduce new ones for everyone to enjoy on Kagi Search. Your contributions will enhance the search experience for users worldwide.
+
 ## Supported Bang Syntaxes
 
 For convenience, Kagi supports placing the bang trigger elsewhere in your query.
