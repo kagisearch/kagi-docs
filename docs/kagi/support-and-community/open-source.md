@@ -15,7 +15,7 @@ Libraries:
  
 Documentation (this website):
 
-- [Kagi docuemntation](https://github.com/kagisearch/kagi-docs)
+- [Kagi Help](https://github.com/kagisearch/kagi-docs)
 
 Browser extensions:
 
