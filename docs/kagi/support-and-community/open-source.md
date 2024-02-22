@@ -19,10 +19,7 @@ Documentation (this website):
 
 Browser extensions:
 
-- [Chrome](https://github.com/kagisearch/browser_extensions)
-- [Firefox](https://github.com/kagisearch/browser_extensions)
-- [Safari macOS](https://github.com/kagisearch/Kagi-Search-for-Safari-macOS)
-- [Safari iOS](https://github.com/kagisearch/Kagi-Search-for-Safari-iOS)
+- [Chrome, Firefox and Safari extensions](https://github.com/kagisearch/browser_extensions)
 
 Orion Browser:
 - [Programmable buttons](https://github.com/OrionBrowser/ProgrammableButtons)
