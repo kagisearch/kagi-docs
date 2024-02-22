@@ -1,12 +1,21 @@
 # Commitment to Open-source
 
-Kagi Search is increasingly open-source and we welcome your contributions.
+Kagi is increasingly open-source and we welcome your contributions. Check us out on [Kagi Github](https://github.com/kagisearch).
 
 Here is the list of our current OSS initiatives.
 
-Documentation:
+Features
+- [Kagi Small Web](https://github.com/kagisearch/smallweb)
+- [Kagi Bangs](https://github.com/kagisearch/bangs)
+  
+Libraries:
+- [Kagi API Python SDK](https://github.com/kagisearch/kagiapi)
+- [PyLLMs](https://github.com/kagisearch/pyllms)
+- [VectorDB](https://github.com/kagisearch/vectordb)
+ 
+Documentation (this website):
 
-- [Kagi search](https://github.com/kagisearch/kagi-docs)
+- [Kagi docuemntation](https://github.com/kagisearch/kagi-docs)
 
 Browser extensions:
 
@@ -14,10 +23,6 @@ Browser extensions:
 - [Firefox](https://github.com/kagisearch/browser_extensions)
 - [Safari macOS](https://github.com/kagisearch/Kagi-Search-for-Safari-macOS)
 - [Safari iOS](https://github.com/kagisearch/Kagi-Search-for-Safari-iOS)
-
-AI libraries (used internally to power Kagi AI features):
-- [PyLLMs](https://github.com/kagisearch/pyllms)
-- [VectorDB](https://github.com/kagisearch/vectordb)
 
 Orion Browser:
 - [Programmable buttons](https://github.com/OrionBrowser/ProgrammableButtons)
