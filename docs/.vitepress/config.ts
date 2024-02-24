@@ -262,7 +262,8 @@ function sidebarKagi() {
                         { text: 'Search API', link: '/kagi/api/search' },
                         { text: 'Enrichment API', link: '/kagi/api/enrich' },
                         { text: 'Small Web RSS Feed', link: '/kagi/api/smallweb' },
-                    ]
+                    ],
+                    text: 'Kagi Sidekick', link: '/kagi/sidekick/',
                 }
 
             ]
