@@ -23,7 +23,7 @@ From the [Members tab](https://kagi.com/settings?p=members) you can remove team 
 
 ## Upgrade Team Members
 
-From the [Members tab](https://kagi.com/settings?p=members) you can upgrade team members by selecting the ellipsis (...) next to the user and selecting "Upgrade to Team Member".
+From the [Members tab](https://kagi.com/settings?p=members) you can upgrade a team member to Team Owner role by selecting the ellipsis (...) next to the user and selecting "Upgrade to Team Owner".
 <img src="./media/member_management.png"  width="675" alt="Upgrade Members">
 
 ## Managing Usage
