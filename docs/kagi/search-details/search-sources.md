@@ -26,8 +26,8 @@ Finally, a modern search engine is much more than just 'links'. Other sources in
 - Answer Summaries (aka. Quick Answer - Using state of the art LLMs)
 - Maps (Apple based map and Kagi Maps - Mapbox/OSM based)
 - Local business listings (Yelp/Tripadvisor)
-- Unit conversion APIs (currency, time, ...)
-- Shopping results (including unbiased reviews from Amazon/Reddit)
+- Calculations (Wolfram Alpha)
+- Unit conversions (Wolfram Alpha)
 - Sports results
 - Stock information
 - Weather
