@@ -28,6 +28,7 @@ Finally, a modern search engine is much more than just 'links'. Other sources in
 - Local business listings (Yelp/Tripadvisor)
 - Calculations (Wolfram Alpha)
 - Unit conversions (Wolfram Alpha)
+- Time zone conversions (Wolfram Alpha and others)
 - Sports results
 - Stock information
 - Weather
