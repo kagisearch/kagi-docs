@@ -43,14 +43,16 @@ Chat assistant allows direct access to a variety of large language models for cr
 This mode supports the following models:
 
 - OpenAI
-  - `gpt-3.5-turbo`
-  - `gpt-4` (for Ultimate members)
-  - `gpt-4-turbo` (for Ultimate members)
+  - GPT 3.5 Turbo
+  - GPT 4 (for Ultimate members)
+  - GPT 4 Turbo (for Ultimate members)
 - Anthropic
-  - `claude-instant`
-  - `claude-2` (for Ultimate members)
+  - Claude Instant 1
+  - Claude 2 (for Ultimate members)
+  - Claude 3 Opus (for Ultimate members)
 - Mistral AI
-  - `mistral-medium` (for Ultimate members)
+  - Mistral Small
+  - Mistral Large (for Ultimate members)
 
 Access directly with the `!chat` bang.
 
