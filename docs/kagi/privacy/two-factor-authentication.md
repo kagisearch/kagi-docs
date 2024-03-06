@@ -6,7 +6,10 @@ In the event that your account password was compromised, attackers wouldn’t be
 
 ## Authenticator Apps
 
-Kagi’s 2FA implementation is compatible with most authenticator apps, some options are provided below:  
+Kagi’s 2FA implementation is compatible with most authenticator apps, some options are provided below:
+
+Cross-Platform: [Ente Auth](https://github.com/ente-io/ente/tree/main/auth#readme)
+
 iOS:
 - [Raivo Authenticator](https://apps.apple.com/us/app/raivo-authenticator/id1459042137)  
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)  
