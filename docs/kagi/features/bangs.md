@@ -109,8 +109,8 @@ zm   | Zambia
 - **!sum** \<url> - Summarize the page in [Universal Summarizer](../ai/summarize-page.md) using the default setting (currently key moments)
 - **!sumk** \<url> -  Key moments of the page in [Universal Summarizer](../ai/summarize-page.md)
 - **!summ** \<url> -  Summary of the page in [Universal Summarizer](../ai/summarize-page.md)
-- **!discuss** \<url> - Discuss Document chat
-- **!fast** \<query> - Invoke FastGPT with the query
+- **!discussdoc** \<url> - Discuss Document chat
+- **!fgpt** \<query> - Invoke FastGPT with the query
 - **!quick** \<search terms> - Search & open "Quick Answer"
 
 ### Kagi Assistant bangs
