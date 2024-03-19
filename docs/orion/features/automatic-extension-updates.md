@@ -6,4 +6,4 @@ You can enable this feature by following these steps:
 1. In your menu bar, go to **Tools** > **Extensions** > **Manage Extensions**.
 2. In the Manage Extensions window, enable the **Automatic updates** checkbox.
 
-![Orion - Automatic Extension Updates](./media/automatic_extension_updates_toggle.png){data-zoomable}
+![Orion - Automatic Extension Updates](./media/automatic_extension_updates.png){data-zoomable}
