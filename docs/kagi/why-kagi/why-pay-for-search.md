@@ -26,7 +26,7 @@ In the early days of Google, in 1998, its founders emphasized the importance of 
 >
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
-Unfortunately, this is exactly how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result.
+Unfortunately, this is exactly how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result. In many ways, Google made a pivot from "organizing the world's information" to "organizing the world's ads" and we believe that this leads to a sub-optimal experience for the end user.
 
 ## The numbers tell a tale
 
