@@ -367,6 +367,12 @@ function sidebarOrion() {
                     collapsed: true,
                     link: '/orion/features/website-settings',
                     items: [
+                        { text: 'Compact Tabs', link: '/orion/features/compact-tabs' },
+                        { text: 'Link Previews', link: '/orion/features/link-previews' },
+                        { text: 'RSS Feed Detection', link: '/orion/features/rss-feed-detection' },
+                        { text: 'Automatic Extension Updates', link: '/orion/features/automatic-extension-updates' },
+                        { text: '120 fps Page Rendering.html', link: '/orion/features/120-fps-page-rendering' },
+                        { text: 'Remove Trackers from Copied Links', link: '/orion/features/remove-trackers-from-copied-links' },
                         { text: 'Website Settings', link: '/orion/features/website-settings' },
                         { text: 'Password Manager', link: '/orion/features/password-management' },
                         { text: 'Syncing Data', link: '/orion/features/syncing-data' },
