@@ -365,7 +365,7 @@ function sidebarOrion() {
                 {
                     text: 'Features',
                     collapsed: true,
-                    link: '/orion/features/website-settings',
+                    link: '/orion/features/compact-tabs',
                     items: [
                         { text: 'Compact Tabs', link: '/orion/features/compact-tabs' },
                         { text: 'Link Previews', link: '/orion/features/link-previews' },
