@@ -6,7 +6,7 @@ Sometimes you want to quickly take a peek at a link without opening it in a new 
 
 ## Using Link Previews in Orion
 
-To preview a link in Orion, simply press and hold the Shift key and then click on the link.
+To preview a link in Orion, simply hold the Shift key and then click on the link.
 
 ## Enabling Link Previews in Other Apps
 
