@@ -190,6 +190,9 @@ To set up a private session link in Firefox:
     - **Alias:** `kagi`
 6. Select the new "Kagi Search" as your default search engine using the dropdown at the top of this page.
 
+There is currently no way to manually set the 'Search suggestion API' for a search engine in Firefox desktop.
+Instaling [the extension](#browser_extension) does allow you to use suggestions.
+
 <a name="firefox_android_mobile"></a>
 #### Android Mobile {#firefox_android_mobile}
 
