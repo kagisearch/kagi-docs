@@ -184,9 +184,10 @@ Develop -> Empty Cache.
 ## How do I change the app icon?
 
 There are two possible ways. For a quick and easy solution using Finder:
-1. Find and select Orion in Finder
-2. From Finder's app menu, select File -> Get Info
-3. From the icon that appears at the top next to Orion's name, either drag & drop your new icon, or select it and paste your new icon from the clipboard
+1. Make sure default (1st) icon is selected in Preferences->Appearance 
+2. Find and select Orion in Finder
+3. From Finder's app menu, select File -> Get Info
+4. From the icon that appears at the top next to Orion's name, either drag & drop your new icon, or select it and paste your new icon from the clipboard
 
 To revert back to the original icon, select and press delete on the icon.
 
