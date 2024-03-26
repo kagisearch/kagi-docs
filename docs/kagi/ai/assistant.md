@@ -16,8 +16,8 @@ If an image is provided it will be processed using GPT4 Vision.
 
 This mode is available in two variants:
 
-- `Fast`: Kagi search coupled with a fast LLM (`claude-instant`). Optimized for speed, while not sacrificing quality. Access directly with the `!fast` bang.
-- `Expert`: Multiple Kagi searches (and external services) together with the best available LLM (`claude-2`) for the highest accuracy and comprehensive responses. Access directly with the `!expert` bang.
+- `Fast`: Kagi search coupled with a fast LLM (`Claude 3 Haiku`). Optimized for speed, while not sacrificing quality. Access directly with the `!fast` bang.
+- `Expert`: Multiple Kagi searches (and external services) together with a better LLM (`Claude 3 Sonnet`) for the highest accuracy and comprehensive responses. Access directly with the `!expert` bang.
 
 Research Assistant supports using [Lenses](../features/lenses.md) to filter the types of websites used as context to generate an answer. Lenses are predefined categories that help you focus on specific topics or sources. This allows you to restrict results to more trustworthy or relevant sites for your needs. To enable this feature, toggle the Lenses switch and select one of the available options.
 
@@ -47,8 +47,8 @@ This mode supports the following models:
   - GPT 4 (for Ultimate members)
   - GPT 4 Turbo (for Ultimate members)
 - Anthropic
-  - Claude Instant 1
-  - Claude 2 (for Ultimate members)
+  - Claude 3 Haiku
+  - Claude 3 Sonnet
   - Claude 3 Opus (for Ultimate members)
 - Mistral AI
   - Mistral Small
