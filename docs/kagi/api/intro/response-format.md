@@ -11,9 +11,36 @@ All responses are returned in a data envelope:
 
 Field | Type   | Description
 ------|--------|-----------
-meta  | object | [Request Metadata](../objects.md#request-metadata)
+meta  | object | [Request Metadata](#request-metadata)
 data  | any    | Response data. Can be any valid JSON value, as documented
-error | array  | [Error Object](../objects.md#error-object), if an error occurred
+error | array  | [Error Object](#error-object), if an error occurred
+
+## Request Metadata
+
+Field | Type   | Description
+------|--------|-----------
+id    | string | Request ID
+node  | string | Server node name
+ms    | int    | Request duration, in milliseconds
+
+## Error Object
+
+Field | Type    | Description
+------|---------|-----------
+code  | int     | [Error code](#error-code)
+msg   | string  | Error message
+ref   | string? | Error location reference
+
+### Error Code
+
+Code | Error
+-----|------
+   0 | Internal error
+   1 | Malformed request
+   2 | Unauthorized
+ 100 | No billing information
+ 101 | Insufficient credit
+ 200 | Summarize failed
 
 ## Examples
 
