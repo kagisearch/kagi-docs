@@ -8,17 +8,19 @@ In the event that your account password was compromised, attackers wouldn’t be
 
 Kagi’s 2FA implementation is compatible with most authenticator apps, some options are provided below:
 
-Cross-Platform: [Ente Auth](https://github.com/ente-io/ente/tree/main/auth#readme)
-
 iOS:
+- [2FAS Authenticator](https://apps.apple.com/us/app/2fas-auth/id1217793794) (Open Source)
 - [Raivo Authenticator](https://apps.apple.com/us/app/raivo-authenticator/id1459042137)  
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)  
 - [Microsoft Authenticator](https://apps.apple.com/us/app/microsoft-authenticator/id983156458)  
 
 Android:
+- [2FAS Authenticator](https://play.google.com/store/apps/details?id=com.twofasapp) (Open Source)
 - [Aegis Authenticator](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis&hl=en&gl=US)
 - [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en&gl=US)
 - [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en&gl=US)
+
+Cross-Platform: [Ente Auth](https://github.com/ente-io/ente/tree/main/auth#readme)
 
 Some password managers such as 1Password and Bitwarden also have a 2FA authenticator built-in.
 
