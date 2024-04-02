@@ -1,6 +1,6 @@
 # FastGPT
 
-[FastGPT](https://labs.kagi.com/fastgpt) is a Kagi service using powerful LLMs to answer user queries running a full search engine underneath. Think ChatGPT, but on steroids and faster! You can try the web app [here](https://labs.kagi.com/fastgpt).
+[FastGPT](https://kagi.com/fastgpt) is a Kagi service using powerful LLMs to answer user queries running a full search engine underneath. Think ChatGPT, but on steroids and faster! You can try the web app [here](https://kagi.com/fastgpt).
 
 ## Quick start
 
