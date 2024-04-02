@@ -33,7 +33,7 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 
 **General conditions**
 - Flexible working conditions; remote first culture.
-- Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the feign-hearted.
+- Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the faint-hearted.
 - Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
 - We are completely user funded. Kagi is currently used by [one town worth of people](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
 
