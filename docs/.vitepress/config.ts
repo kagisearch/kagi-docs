@@ -358,6 +358,7 @@ function sidebarOrion() {
                         { text: 'Troubleshooting Webpage Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-webpage-issues' },
                         { text: 'Troubleshooting Syncing Data Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-syncing-data-issues' },
                         { text: 'Troubleshooting FastMail Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-fastmail-issues' },
+                        { text: 'Restoring Bookmarks, Reading List, etc.', link: '/orion/support-and-community/troubleshooting/restoring_bookmarks' },
                         { text: 'Reporting a bug', link: '/orion/support-and-community/troubleshooting/bug-reporting' },
                     ]
                 },
