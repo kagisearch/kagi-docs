@@ -17,27 +17,28 @@ Orion includes a built-in Password Manager that makes it easy to store and autom
 
 To use Orion's Password Manager, simply fill your login credentials in your favorite website and you will be prompted to save them when you submit the form.
 
-<img src="./media/macos_passwords_1_save_password.png" width="500" alt="macOS Save Password"><br />
+![macOS Save Password](./media/macos_passwords_1_save_password.png){width=500px data-zoomable}
 
 The next time you visit that website, Orion will show you the list of saved passwords so you can select the one you need, Orion will then fill the login information automatically.
 
-<img src="./media/macos_passwords_2_fill_password.png" width="500" alt="macOS Fill Password"><br />
+![macOS Fill Password](./media/macos_passwords_2_fill_password.png){width=500px data-zoomable}
 
 Orion also allows you to manage your saved passwords. To access the Passwords window, go to the **Window** menu and click on **Passwords**.
 
-<img src="./media/macos_passwords_3_passwords_menu.png" width="500" alt="macOS Passwords Menu"><br />
+![macOS Passwords Menu](./media/macos_passwords_3_passwords_menu.png){width=500px data-zoomable}
 
 This will open the Passwords window which will be locked to protect your privacy. Use your macOS password to unlock it.
 
-<img src="./media/macos_passwords_4_passwords_window_locked.png" width="500" alt="macOS Passwords Window - Locked"><br />
+![macOS Passwords Window - Locked](./media/macos_passwords_4_passwords_window_locked.png){width=500px data-zoomable}
 
 Once you have entered your password, Orion will show you the list of all your saved passwords, you can click on any of them to reveal them. 
 
-<img src="./media/macos_passwords_5_passwords_window_list.png" width="500" alt="macOS Passwords Window - List"><br />
+![macOS Passwords Window - List](./media/macos_passwords_5_passwords_window_list.png){width=500px data-zoomable}
 
 You can also right click on a password to show additional options such as **Copy Website**, **Copy Username**, **Copy Password** and **Edit**. You can also use the **Add Password** and **Remove Password** buttons when needed.
 
-<img src="./media/macos_passwords_6_passwords_window_options.png" width="500" alt="macOS Passwords Window - Options"><br />
+![macOS Passwords Window - Options](./media/macos_passwords_6_passwords_window_options.png){width=500px data-zoomable}
+
 
 <a name="password_storage_sync"></a>
 ## Password Storage & Sync {#password_storage_sync}
@@ -57,11 +58,11 @@ Once you have Safari 15+, follow these steps in Orion:
 
 1. Click the **File** menu, choose **Import From**, and choose **Safari**.
 
-<img src="./media/macos_import_from_safari.png" width="300" alt="Importing from Safari"><br />
+![Importing from Safari](./media/macos_import_from_safari.png){width=500px data-zoomable}
 
 2. Orion can import many different types of data from Safari, including passwords. Check and uncheck your desired import data and then click the **Import** button.
 
-<img src="./media/macos_safari_import.png" width="300" alt="Safari Import"><br />
+![Safari Import](./media/macos_safari_import.png){width=300px data-zoomable}
 
 <a name="syncing_passwords"></a>
 ## Syncing Passwords in Orion {#syncing_passwords}
@@ -74,13 +75,14 @@ To sync Orion passwords across devices, perform these steps <u>on each device</u
 1. Click the Apple menu (), click **System Preferences**, and click **Apple ID**.
    - If you're using macOS 3.14 (Mojave), you don't need to click Apple ID.
    
-<img src="./media/macos_open_system_prefs_menu.png" width="300" alt="Open macOS System Preferences"><br />
+![Open macOS System Preferences](./media/macos_open_system_prefs_menu.png){width=300px data-zoomable}
 
-<img src="./media/macos_appleid_button.png" width="500" alt="Open macOS System Preferences"><br />
+![Open macOS System Preferences](./media/macos_appleid_button.png){width=500px data-zoomable}
+
 
 2. In your iCloud/Apple ID settings, check the **Keychain** box if it isn't already checked.
 
-<img src="./media/macos_icloud_keychain.png" width="500" alt="Open macOS System Preferences"><br />
+![Open macOS System Preferences](./media/macos_icloud_keychain.png){width=500px data-zoomable}
 
 <a name="syncing_passwords_ios"></a>
 ### iOS {#syncing_passwords_ios}
@@ -90,9 +92,9 @@ To sync Orion passwords across devices, perform these steps <u>on each device</u
 3. Tap iCloud.
 4. Turn on **Passwords and Keychain** if it isn't already on.
 
-<img src="./media/ios_icloud.png" width="300" alt="iOS iCloud Settings"><br />
+![iOS iCloud Settings](./media/ios_icloud.png){width=300px data-zoomable}
 
-<img src="./media/ios_keychain.png" width="300" alt="iOS iCloud Keychain Settings"><br />
+![iOS iCloud Keychain Settings](./media/ios_keychain.png){width=300px data-zoomable}
 
 <a name="syncing_passwords_ipados"></a>
 ### iPadOS {#syncing_passwords_ipados}
@@ -101,38 +103,40 @@ To sync Orion passwords across devices, perform these steps <u>on each device</u
 2. Tap your name at the top left corner of Settings.
 3. Tap iCloud.
 
-<img src="./media/ipados_system_settings.png" width="500" alt="ipadOS iCloud Settings"><br />
+![iPadOS iCloud Settings](./media/ipados_system_settings.png){width=500px data-zoomable}
 
 4. Turn on **Keychain** if it isn't already on.
 
-<img src="./media/ipados_icloud.png" width="500" alt="iPadOS iCloud Settings fro Keychain"><br />
+![iPadOS iCloud Settings for Keychain](./media/ipados_icloud.png){width=500px data-zoomable}
 
-<img src="./media/ipados_keychain.png" width="500" alt="iPadOS iCloud Keychain Settings"><br />
+![iPadOS iCloud Keychain Settings](./media/ipados_keychain.png){width=500px data-zoomable}
 
 <a name="using_safari_passwords"></a>
 ## Using Safari Passwords in Orion on macOS {#using_safari_passwords}
 
-As an alternative to importing passwords from Safari into Orion, you can also access your Safari passwords in Orion directly. To enable this, first go to **Orion** > **Settings** > **Passwords**, and then in the **Password Provider** dropdown select **3rd Party Provider**.
+As an alternative to importing passwords from Safari into Orion, you can also access your Safari passwords in Orion directly. To enable this, first go to **Orion** > **Settings** > **Passwords**, and then disable the **Use Orion's Keychain** checkbox.
 
-<img src="./media/password_management_3rd_party_settings_menu.png" width="500" alt="3rd Party Passwords - Settings Menu"><br />
+![Third Party Passwords - Settings Menu](./media/password_management_3rd_party_settings_menu.png){width=500px data-zoomable}
 
-<img src="./media/password_management_use_orions_keychain.png" width="500" alt="3rd Party Passwords - Use Orion's Keychain"><br />
+![Third Party Passwords - Use Orion's Keychain](./media/password_management_use_orions_keychain.png){width=500px data-zoomable}
 
 Now, to access your Safari passwords simply click the key icon in the login screen of your favorite website.
 
-<img src="./media/password_management_3rd_party_key_button.png" width="500" alt="3rd Party Passwords - Key Button"><br />
+![Third Party Passwords - Key Button](./media/password_management_3rd_party_key_button.png){width=500px data-zoomable}
 
 Then, click the **Passwords** button.
 
-<img src="./media/password_management_3rd_party_passwords_button.png" width="500" alt="3rd Party Passwords - Passwords Button"><br />
+![Third Party Passwords - Passwords Button](./media/password_management_3rd_party_passwords_button.png){width=500px data-zoomable}
+
 
 Next, you will be prompted to unlock your passwords with **Touch ID** or with your **macOS password**.
 
-<img src="./media/password_management_3rd_party_unlock_passwords.png" width="500" alt="3rd Party Passwords - Unlock Passwords"><br />
+![Third Party Passwords - Unlock Passwords](./media/password_management_3rd_party_unlock_passwords.png){width=500px data-zoomable}
 
 Finally, select the desired password from the list and click on **Choose Password**.
 
-<img src="./media/password_management_3rd_party_choose_password.png" width="500" alt="3rd Party Passwords - Choose Password"><br />
+![Third Party Passwords - Choose Password](./media/password_management_3rd_party_choose_password.png){width=500px data-zoomable}
+
 
 <a name="1password"></a>
 ## 1Password & Orion {#1password}
