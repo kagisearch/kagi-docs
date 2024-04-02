@@ -116,7 +116,7 @@ As an alternative to importing passwords from Safari into Orion, you can also ac
 
 <img src="./media/password_management_3rd_party_settings_menu.png" width="500" alt="3rd Party Passwords - Settings Menu"><br />
 
-<img src="./media/password_management_3rd_party_settings_window.png" width="500" alt="3rd Party Passwords - Settings Window"><br />
+<img src="./media/password_management_use_orions_keychain.png" width="500" alt="3rd Party Passwords - Use Orion's Keychain"><br />
 
 Now, to access your Safari passwords simply click the key icon in the login screen of your favorite website.
 
