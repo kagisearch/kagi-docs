@@ -43,7 +43,7 @@ Adds a button to the right click context menu on Firefox that allows you to open
 
 [Summarize URL](https://www.icloud.com/shortcuts/8d2668c84ad34203b47c519e066ce205): Summarize any URL using the Share Sheet or your Clipboard on your iPhone, iPad or Mac - Credits to [Sean Chou](https://twitter.com/sychou)
 
-[Ask Kagi](https://www.icloud.com/shortcuts/072ba261469b40e2af7ca49e57adf9a1): Ask Kagi's FastGPT AI questions, Siri will read out the result. Great for idle questions in the car! You must insert your own API key, get your API key [here](https://help.kagi.com/kagi/api/fastgpt.html#quick-start) - Credits to [Alex Schuldberg](https://bsky.app/profile/schuldberg.com)
+[Ask Kagi](https://www.icloud.com/shortcuts/c92d096f37984fe4b756a6ff2eafc795): Ask Kagi's FastGPT AI questions, Siri will read out the result. Great for idle questions in the car! You must insert your own API key, get your API key [here](https://help.kagi.com/kagi/api/fastgpt.html#quick-start) - Credits to [Alex Schuldberg](https://bsky.app/profile/schuldberg.com)
 
 ## Script Kit
 
