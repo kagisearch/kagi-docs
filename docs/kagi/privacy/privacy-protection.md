@@ -28,6 +28,6 @@ Note that you can register for Kagi Search with any email address you control. Y
 
 Let us reiterate that we do not log searches or in any way tie them to an account. We simply have no incentive to do it. Our business model is to sell subscriptions, not user data.
 
-Kagi’s business model is unlike any other search engine. This means we don’t need or want your personal information (it would just be an unwelcome liability). In fact, the only data we store is an email address. That can be any email address, as long as you can use it to recover your account. There is no other personal information shared with Kagi.
+Kagi's business model is unlike any other search engine. This means we don't need or want your personal information (it would just be an unwelcome liability). In fact, the only data we store is an email address. That can be any email address, as long as you can use it to recover your account. There is no other personal information shared with Kagi.
 
 By choosing this business model, we will have far fewer users than mainstream search engines. But we have also removed any incentive to misuse the information you have shared with us.
