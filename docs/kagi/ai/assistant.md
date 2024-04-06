@@ -68,7 +68,7 @@ Access directly with the `!custom` bang.
 
 ## Tips and Tricks for using Kagi Assistant
 
-- Assistant has a character limit of 6,000 for each prompt in a conversation.
+- Assistant has a character limit of 16,000 for each prompt in a conversation.
 - You can input math equations using the LaTeX format.
 - Using the copy button will copy the response to your clipboard preserving any formatting using markdown.
 - Assistant supports syntax highlighting in generated code snippets.
