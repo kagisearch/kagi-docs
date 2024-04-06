@@ -81,7 +81,7 @@ When you visit Assistant's Chat Mode landing page, you will be presented with a 
 
 The Privacy column in the scorecard rates each model based on how it handles user data. The criteria are:
 
-- 1 Circle: User data is used to train models. No data retention period specified.  
-- 2 Circles: User data is not used to train models. No data retention period specified.  
-- 3 Circles: User data is not used to train models. Data retained for more than 30 days before deletion.  
-- 4 Circles: User data is not used to train models. Data retained for 30 days or less before deletion.
+- 1 circle: User data is used to train models. No data retention period specified.  
+- 2 circles: User data is not used to train models. No data retention period specified.  
+- 3 circles: User data is not used to train models. Data retained for more than 30 days before deletion.  
+- 4 circles: User data is not used to train models. Data retained for 30 days or less before deletion.
