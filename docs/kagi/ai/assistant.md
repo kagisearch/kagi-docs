@@ -74,3 +74,14 @@ Access directly with the `!custom` bang.
 - Assistant supports syntax highlighting in generated code snippets.
 - For optimal results, interact with the Assistant in a natural language. For instance, "Who was Alan Turing?" will yield a better response than simply "Alan Turing".
 - When using Code Assistant, it is recommended to specify the programming language you are using as part of your prompt.
+
+## Chat Mode Scorecard Criteria
+
+When you visit Assistant's Chat Mode landing page, you will be presented with a scorecard comparing different aspects of each model.
+
+The Privacy column in the scorecard rates each model based on how it handles user data. The criteria are:
+
+- 1 Circle: User data is used to train models. No data retention period specified.  
+- 2 Circles: User data is not used to train models. No data retention period specified.  
+- 3 Circles: User data is not used to train models. Data retained for more than 30 days before deletion.  
+- 4 Circles: User data is not used to train models. Data retained for 30 days or less before deletion.
