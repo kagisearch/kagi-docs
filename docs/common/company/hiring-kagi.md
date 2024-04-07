@@ -31,6 +31,12 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Meticulous attention to detail in UX design.
 - A critical perspective on current search/assistant user interfaces, paired with a desire to revolutionize them.
 
+**Chief of Staff**
+-  Handling legal, finance, accounting, and HR to ensure day to-day operations are running smoothly.
+-  Identifying areas of improvement across the organization, making actionable recommendations and executing them.
+-  Completing special operational projects and initiatives with attention to detail. 
+-  Has previous experience with operations in startups.
+  
 **General conditions**
 - Flexible working conditions; remote first culture.
 - Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the faint-hearted.
