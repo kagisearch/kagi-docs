@@ -50,6 +50,8 @@ This mode supports the following models:
   - Claude 3 Haiku
   - Claude 3 Sonnet
   - Claude 3 Opus (for Ultimate members)
+- Google
+  - Gemini Pro
 - Mistral AI
   - Mistral Small
   - Mistral Large (for Ultimate members)
