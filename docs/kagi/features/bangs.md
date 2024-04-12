@@ -190,4 +190,4 @@ Here is the full list of "feeling lucky" patterns that we support:
 
 - `! query`
 - `query !`
-- `\query`
+- `\ query`
