@@ -127,7 +127,15 @@ function sidebarKagi() {
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
                     ]
                 },
-                { text: 'Frequently Asked Questions', link: '/kagi/faq/faq' },
+                {
+                    text: 'Frequently Asked Questions',
+                    collapsed: true,
+                    link: '/kagi/faq/faq',
+                    items: [
+                        { text: 'General', link: '/kagi/faq/faq' },
+                        { text: 'Sales Tax / VAT', link: '/kagi/faq/sales-tax-vat' },
+                    ]
+                },
                 {
                     text: 'Contribute',
                     collapsed: true,
