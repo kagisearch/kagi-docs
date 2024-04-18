@@ -1,8 +1,6 @@
 # Family Plan
 
-> **Important Notice:** Starting from March 26th, we will begin including localized sales tax for all new customers who subscribe on or after this date.
-> 
-> Starting from April 9th, all existing customers who qualify for sales tax/VAT will see localized sales tax/VAT added to their monthly invoice in USD, on top of their current subscription fee. This adjustment will appear on your next invoice on or after April 9th, with no immediate extra charge.
+> **Important Notice:** Effective April 11th, 2024, Kagi will begin collecting applicable sales tax/VAT on all new subscription purchases to comply with global tax regulations. For existing members, sales tax/VAT will be applied to your next renewal after April 18th, 2024. Please visit the [FAQ](../faq/sales-tax-vat.md) for more information.
 
 Since the inception, Kagi has been driven by the idea of humanizing the web, especially for families and kids. Our commitment to this cause was the inspiration behind the creation of Kagi. Many of our staff are parents are are working together to build a better search and web future for our children. We strive to provide a search engine that prioritizes the well-being of your loved ones, particularly the most vulnerable ones like children, by offering an ad-free and safe browsing experience. We offer two different group plans based on your specific needs.
 
