@@ -3,9 +3,7 @@
 We have recently implemented changes to our billing process to comply with global tax regulations. This FAQ addresses common questions and concerns regarding these changes.
 
 ## Why are you collecting sales tax / VAT now?
-We were not required to collect them initially, until hitting certain threshold (typicall expressed in number of ustomers in a jurisdiction). Implementing sales tax is incredibly resource intensive and when we launched two years ago we did not know if the idea of paid search will ever take off, so we decided to postpone sales tax implemnetation and instead focus on product.
-
-Kagi luckily made it and due to our growth, we are now required by law to collect sales tax / VAT in many jurisdictions.
+We weren't initially required to collect sales tax/VAT until reaching certain thresholds, typically defined by the number of customers in a jurisdiction. Implementing sales tax is resource-intensive, and when we launched two years ago, we weren't sure if the idea of paid search would take off. We decided to postpone the implementation of sales tax and instead focus on developing our product. Fortunately, Kagi has been successful, and due to our growth, we are now legally required to collect sales tax/VAT in many jurisdictions.
 
 ## Will I be charged more than I was previously?
 We are now collecting sales tax / VAT. If you are in an affected jurisdiction the correct amount of sales tax/VAT is automatically added to your renewal in order to comply with tax laws.
