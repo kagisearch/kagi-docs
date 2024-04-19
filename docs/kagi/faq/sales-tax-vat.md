@@ -2,11 +2,13 @@
 
 We have recently implemented changes to our billing process to comply with global tax regulations. This FAQ addresses common questions and concerns regarding these changes.
 
-## Why was I charged more than I was previously?
-We are now collecting sales tax / VAT. If you are in an affected jurisdiction the correct amount of sales tax/VAT is added to your renewal in order to comply with tax laws.
-
 ## Why are you collecting sales tax / VAT now?
-We were not required to collect them initially, until hitting certain threshold. Due to Kagi's growth, we are now required by law to collect sales tax / VAT in many jurisdictions.
+We were not required to collect them initially, until hitting certain threshold (typicall expressed in number of ustomers in a jurisdiction). Implementing sales tax is incredibly resource intensive and when we launched two years ago we did not know if the idea of paid search will ever take off, so we decided to postpone sales tax implemnetation and instead focus on product.
+
+Kagi luckily made it and due to our growth, we are now required by law to collect sales tax / VAT in many jurisdictions.
+
+## Will I be charged more than I was previously?
+We are now collecting sales tax / VAT. If you are in an affected jurisdiction the correct amount of sales tax/VAT is automatically added to your renewal in order to comply with tax laws.
 
 ## When will this sales tax / VAT collection start?
 - New users: April 11th, 2024. 
@@ -19,7 +21,9 @@ We rely on the billing address you provide at the time of your subscription purc
 To efficiently handle the complexity of collecting sales tax globally, we have partnered with [Reach](https://www.withreach.com/) as our Merchant of Record. They act as a reseller of Kagi's services, allowing them to manage sales tax / VAT on our behalf.
 
 ## I see a charge in my bank statement from “RCH-KAGI.COM” or “RCH-KAGI”, is that a legitimate charge by Kagi?
-Yes, this is how charges made by Reach on behalf of Kagi will show up in your bank statement. You may also see a temporary preauthorization charge of $1 USD or $0 USD. This is simply to confirm the validity of your credit card details and will disappear within a day or two.
+Yes, this is how charges made by Reach on behalf of Kagi will show up in your bank statement. You may also see a temporary preauthorization charge of $1 USD or $0 USD. 
+
+This was a part of migration and is simply to confirm the validity of your credit card details and will disappear within a day or two.
 
 ## What if where I live there is no tax for digital services?
 Your renewal cost will remain unchanged.
