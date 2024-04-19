@@ -6,7 +6,7 @@ next:
 
 # Plan Types
 
-> **Important Notice:** Effective April 11th, 2024, Kagi will begin collecting applicable sales tax/VAT on all new subscription purchases to comply with global tax regulations. For existing members, sales tax/VAT will be applied to your next renewal after April 18th, 2024. Please visit the [FAQ](../faq/sales-tax-vat.md) for more information.
+> **Important Notice:** Effective April 11th, 2024, Kagi will begin collecting applicable sales tax/VAT on all new subscription purchases to comply with global tax regulations. For existing members, sales tax/VAT will be applied to your next renewal after April 21st, 2024. Please visit the [FAQ](../faq/sales-tax-vat.md) for more information.
 
 
 
