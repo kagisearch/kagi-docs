@@ -10,7 +10,7 @@ We were not required to collect them initially, until hitting certain threshold.
 
 ## When will this sales tax / VAT collection start?
 - New users: April 11th, 2024. 
-- Existing users: On the first subscription renewal on/after April 19th, 2024.
+- Existing users: On the first subscription renewal on/after April 21st, 2024.
 
 ## How do you determine what tax percentage to charge me?
 We rely on the billing address you provide at the time of your subscription purchase.
