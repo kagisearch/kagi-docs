@@ -1,4 +1,4 @@
-# Sales Tax / VAT FAQ
+# Billing / Sales Tax / VAT FAQ
 
 We have recently implemented changes to our billing process to comply with global tax regulations. This FAQ addresses common questions and concerns regarding these changes.
 
@@ -6,7 +6,7 @@ We have recently implemented changes to our billing process to comply with globa
 We weren't initially required to collect sales tax/VAT until reaching certain thresholds, typically defined by the number of customers in a jurisdiction or sales volume. Implementing sales tax is resource-intensive, and when we launched two years ago, we weren't sure if the idea of paid search would take off. We decided to postpone the implementation of sales tax and instead focus on developing our product. Fortunately, Kagi has been successful, and due to our growth, we are now legally required to collect sales tax/VAT in many jurisdictions.
 
 ## Will I be charged more than I was previously?
-We are now collecting sales tax / VAT. If you are in an affected jurisdiction the correct amount of sales tax/VAT is automatically added to your renewal in order to comply with tax laws.
+We are now collecting sales tax / VAT. If you are in an affected jurisdiction, the correct amount of sales tax/VAT is automatically added to your renewal in order to comply with tax laws.
 
 ## When will this sales tax / VAT collection start?
 - New users: April 11th, 2024. 
@@ -34,3 +34,6 @@ Yes, please visit the [billing portal](https://kagi.com/billing/portal).
 
 ## My billing address is outdated. How can I update it?
 Please visit the [billing portal](https://kagi.com/billing/portal).
+
+## Why is my account showing “no invoice history”? 
+This was a result of a migration to a new merchant of record. We can still get your past invoices on demand, let us know which ones do you need by emailing support@kagi.com.
