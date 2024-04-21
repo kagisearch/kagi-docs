@@ -9,7 +9,7 @@ Kagi Assistant is a product feature backed by Kagi Search and large language mod
 ### Research
 
 Research assistant uses Kagi search and external sources like Wolfram Alpha, together with an AI model to answer your queries.
-This model also allows you to upload a file (up to 8 MB) or provide a URL (article, PDF, video, podcast, etc.) to use as context.
+This model also allows you to upload a file (up to 16 MB) or provide a URL (article, PDF, video, podcast, etc.) to use as context.
 If an image is provided it will be processed using GPT4 Vision.
 
 ![Kagi Assistant - Research](./media/assistant_research.png){width=500px data-zoomable}
