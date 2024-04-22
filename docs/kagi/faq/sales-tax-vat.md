@@ -16,7 +16,7 @@ We are now collecting sales tax / VAT. If you are in an affected jurisdiction, t
 We rely on the billing address you provide at the time of your subscription purchase.
 
 ## What information is needed to accurately calculate sales taxes?
-We only need to know the country and, if tax rates vary within the country, the state or zip code as well.
+Only the country and, if tax rates vary within the country, the state or zip code as well.
 
 ## Why does my receipt say the seller is “Kagi by Reach US”?
 To efficiently handle the complexity of collecting sales tax globally, we have partnered with [Reach](https://www.withreach.com/) as our Merchant of Record. They act as a reseller of Kagi's services, allowing them to manage sales tax / VAT on our behalf.
