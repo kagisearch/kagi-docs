@@ -89,9 +89,9 @@ The Privacy column in the scorecard rates each model based on how it handles use
 - 4 circles: User data is not used to train models. Data retained for 30 days or less before deletion.
 - 
 
-## LLM Price comparison
+## LLM Comparison
 
-Felt useful to have this all in once place. Feel free to edit.
+There are so many models around so felt useful to have this all in once place. Feel free to edit.
 
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
@@ -102,7 +102,7 @@ Felt useful to have this all in once place. Feel free to edit.
 | GPT-4 (8k)             | 8K             | 30                    | 60                     |
 | GPT-4 (32k)            | 32K            | 60                    | 120                    |
 | GPT-3.5-Turbo          | 16K            | 0.5                   | 1.5                    |
-| Gemini Pro             | 1M             | 0.125                 | 0.375                  |
+| Gemini 1.5 Pro         | 1M             | 0.125                 | 0.375                  |
 | Mistral Small          | 8K             | 2                     | 6                      |
 | Mistral Medium         | 8K             | 2.7                   | 8.1                    |
 | Mistral Large          | 8K             | 8                     | 24                     |
