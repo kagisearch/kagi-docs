@@ -95,17 +95,17 @@ There are so many models around so felt useful to have this all in one place. Fe
 
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
-| Claude 3 Haiku*        | 200K           | 0.25                  | 1.25                   |
-| Claude 3 Sonnet*       | 200K           | 3                     | 15                     |
-| Claude 3 Opus*         | 200K           | 15                    | 75                     |
-| GPT-4-Turbo*           | 128K           | 10                    | 30                     |
-| GPT-4 (8k)             | 8K             | 30                    | 60                     |
-| GPT-4 (32k)*           | 32K            | 60                    | 120                    |
-| GPT-3.5-Turbo*         | 16K            | 0.5                   | 1.5                    |
-| Gemini 1.5 Pro*        | 1M             | 7                     | 21                     |
-| Mistral Small*         | 8K             | 2                     | 6                      |
-| Mistral Medium*        | 8K             | 2.7                   | 8.1                    |
-| Mistral Large*         | 8K             | 8                     | 24                     |
+| **Claude 3 Haiku**        | 200K           | 0.25                  | 1.25                   |
+| **Claude 3 Sonnet**       | 200K           | 3                     | 15                     |
+| **Claude 3 Opus**         | 200K           | 15                    | 75                     |
+| **GPT-4-Turbo**           | 128K           | 10                    | 30                     |
+| GPT-4 (8k)              | 8K             | 30                    | 60                     |
+| **GPT-4 (32k)**           | 32K            | 60                    | 120                    |
+| **GPT-3.5-Turbo**         | 16K            | 0.5                   | 1.5                    |
+| **Gemini 1.5 Pro**        | 1M             | 7                     | 21                     |
+| **Mistral Small**         | 8K             | 2                     | 6                      |
+| **Mistral Medium**        | 8K             | 2.7                   | 8.1                    |
+| **Mistral Large**         | 8K             | 8                     | 24                     |
 | Reka Core              | 128K           | 10                    | 25                     |
 | Reka Flash             | 128K           | 0.8                   | 2                      |
 | Reka Edge              | 128K           | 0.4                   | 1                      |
@@ -117,4 +117,4 @@ There are so many models around so felt useful to have this all in one place. Fe
 | Groq Gemma 7B          | 8K             | 0.10                  | 0.10                   |
 
 
-* Available in Kagi Assistant
+**Models in bold** - Available in Kagi Assistant
