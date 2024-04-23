@@ -87,7 +87,7 @@ The Privacy column in the scorecard rates each model based on how it handles use
 - 2 circles: User data is not used to train models. No data retention period specified.  
 - 3 circles: User data is not used to train models. Data retained for more than 30 days before deletion.  
 - 4 circles: User data is not used to train models. Data retained for 30 days or less before deletion.
-- 
+  
 
 ## LLM Comparison
 
