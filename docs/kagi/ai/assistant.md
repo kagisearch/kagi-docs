@@ -87,3 +87,32 @@ The Privacy column in the scorecard rates each model based on how it handles use
 - 2 circles: User data is not used to train models. No data retention period specified.  
 - 3 circles: User data is not used to train models. Data retained for more than 30 days before deletion.  
 - 4 circles: User data is not used to train models. Data retained for 30 days or less before deletion.
+- 
+
+## LLM Price comparison
+
+Felt useful to have this all in once place. Feel free to edit.
+
+| LLM                    | Price per input ($/M)    | Price per output ($/M)    |
+|------------------------|--------------------------|---------------------------|
+| Claude 3 Haiku         | 0.25                     | 1.25                      |
+| Claude 3 Sonnet        | 3                        | 15                        |
+| Claude 3 Opus          | 15                       | 75                        |
+| GPT-4-Turbo            | 10                       | 30                        |
+| GPT-4                  | 30                       | 60                        |
+| GPT-4 (32k)            | 60                       | 120                       |
+| GPT-3.5-Turbo instruct | 0.5                      | 1.5                       |
+| GPT-3.5-0125           | 1.5                      | 2                         |
+| Gemini Pro             | 0.125                    | 0.375                     |
+| Mistral Small          | 2                        | 6                         |
+| Mistral Medium         | 2.7                      | 8.1                       |
+| Mistral Large          | 8                        | 24                        |
+| Reka Core              | 10                       | 25                        |
+| Reka Flash             | 0.8                      | 2                         |
+| Reka Edge              | 0.4                      | 1                         |
+| Cohere Command R+      | 3.00                     | 15.00                     |
+| Cohere Command R       | 0.50                     | 1.50                      |
+| Groq Llama 3 70B (8K)  | 0.59                     | 0.79                      |
+| Groq Llama 3 8B (8K)   | 0.05                     | 0.10                      |
+| Groq Mixtral 8x7B (32K)| 0.27                     | 0.27                      |
+| Groq Gemma 7B (8K)     | 0.10                     | 0.10  
