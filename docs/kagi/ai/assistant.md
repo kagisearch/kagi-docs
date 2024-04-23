@@ -91,7 +91,7 @@ The Privacy column in the scorecard rates each model based on how it handles use
 
 ## LLM Comparison
 
-There are so many models around so felt useful to have this all in once place. Feel free to edit.
+There are so many models around so felt useful to have this all in one place. Feel free to edit.
 
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
