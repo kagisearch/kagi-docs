@@ -51,7 +51,7 @@ This mode supports the following models:
   - Claude 3 Sonnet
   - Claude 3 Opus (for Ultimate members)
 - Google
-  - Gemini Pro
+  - Gemini Pro (for Ultimate members)
 - Mistral AI
   - Mistral Small
   - Mistral Large (for Ultimate members)
