@@ -30,7 +30,7 @@ This was a part of migration and is simply to confirm the validity of your credi
 Your renewal cost will remain unchanged.
 
 ## I’m a tax-exempt entity, can I waive the tax charge?
-Please enter your tax ID in the [billing portal](https://kagi.com/billing/portal) and depending on the jurisdiction taxes may be automatically waived going forward.
+Please enter your tax ID in the [billing portal](https://kagi.com/billing/portal) and depending on the jurisdiction taxes may be automatically waived going forward. You may need to include the two-letter country code before your tax ID.
 
 ## Is there a way to view my upcoming invoice?
 Yes, please visit the [billing portal](https://kagi.com/billing/portal).
