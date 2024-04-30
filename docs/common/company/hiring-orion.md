@@ -1,16 +1,26 @@
 # Jobs at Orion Browser
 
-We are hiring macOS and iOS developers for the Orion browser team.  Create the best browser on Apple devices with us.
+
+**Orion browser developer**
 
 Requirements:
 
 - Swift experience (3+ years) with macOS or iOS (preferably both)
 - Additional requirements based on role you are applying to
 
+Available specializations:
 + Full stack developer - You can write code in Swift but also delve into WebKit (C++) and JavaScript if needed
 + UI/UX engineer: You have experience with macOS or iOS UX/UI components (AppKit/UIKit) and love creating native apps with great user interactions
 + Extension support developer - You can help extend our WebExtensions API support by combining JavaScript, Swift (and occasionally WebKit if needed)
 
+**Product Manager - Orion Browser**
+- Clearly define goals and functionalities for features, set and validate outcome hypothesis, and write release notes
+- Collaborate with the development team to efficiently deliver features, while continuously improving the team's processes, productivity, and accountability
+- Demonstrate strong ownership by deeply understanding our objectives, forming a thoughtful perspective, and guiding development to achieve our mid to long-term goals
+- Gather community feedback from various channels and convert it into actionable insights
+- Communicate complex ideas in a clear manner, and promote engagement and collaboration in the team
+- Previous experience leading products
+  
 
 ## General conditions
 
