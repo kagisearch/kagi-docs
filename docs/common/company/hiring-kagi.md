@@ -31,6 +31,14 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Meticulous attention to detail in UX design.
 - A critical perspective on current search/assistant user interfaces, paired with a desire to revolutionize them.
 
+**Product Manager - Search & Assistant**
+- Clearly define goals and functionalities for features, set and validate outcome hypothesis, and write release notes
+- Collaborate with the development team to efficiently deliver features, while continuously improving the team's processes, productivity, and accountability
+- Demonstrate strong ownership by deeply understanding our objectives, forming a thoughtful perspective, and guiding development to achieve our mid to long-term goals
+- Gather community feedback from various channels and convert it into actionable insights
+- Communicate complex ideas in a clear manner, and promote engagement and collaboration in the team
+- Previous experience leading products
+  
 **Chief of Staff**
 -  Handling legal, finance, accounting, and HR to ensure day to-day operations are running smoothly.
 -  Identifying areas of improvement across the organization, making actionable recommendations and executing them.
