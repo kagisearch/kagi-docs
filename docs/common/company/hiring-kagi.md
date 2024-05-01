@@ -44,6 +44,15 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 -  Identifying areas of improvement across the organization, making actionable recommendations and executing them.
 -  Completing special operational projects and initiatives with attention to detail. 
 -  Has previous experience with operations in startups.
+
+
+**Devops**
+- Description TBD
+  
+**Search Index Team**
+- Ccrawling/Indexing/Ranking
+- Description TBD
+
   
 **General conditions**
 - Flexible working conditions; remote first culture.
