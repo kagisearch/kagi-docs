@@ -49,7 +49,9 @@ You can also use [Search operators ](https://help.kagi.com/kagi/features/search-
 
 ## Quick Answer<a id='quick-answer'></a>
 
-[Quick Answer](https://help.kagi.com/kagi/ai/quick-answer.html) extracts and summarizes the important content from the search results including links to the source material.
+[Quick Answer](https://help.kagi.com/kagi/ai/quick-answer.html) uses AI to extract and summarize the important content from the search results including links to the source material.
+
+**Note**: You can conveniently trigger quick answer by appending question mark '?' to your search query or by pressing 'q' after your search results loaded.
 
 <img src="./media/summarize_results.png" width="675" alt="Quick Answer"><br />
 <br />
