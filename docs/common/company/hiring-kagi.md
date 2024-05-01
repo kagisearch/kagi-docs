@@ -50,7 +50,7 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Description TBD
   
 **Search Index Team**
-- Ccrawling/Indexing/Ranking
+- Crawling/Indexing/Ranking
 - Description TBD
 
   
