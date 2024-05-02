@@ -6,22 +6,19 @@ next:
 
 # Search Sources
 
-You can think of Kagi as a "search client," working like an email client that connects to various indexes and sources, including ours, to find relevant results and package them into a superior, secure, and privacy-respecting search experience, all happening automatically and in a split-second for you.
+Kagi is known for delivering a unique flavor of high-quality search results, sourced from our own web index (internally named "Teclis") and news index (internally named "TinyGem"). Kagi's indexes provide distinctive results that help you discover non-commercial websites and engage with "[small web](https://blog.kagi.com/small-web)" discussions surrounding a particular topic.
 
-## External
+We don't stop there; we are always trying new things to surface relevant, high-quality results. For example, we recently launched the [Kagi Small Web](https://blog.kagi.com/small-web) initiative, which showcases content from personal blogs and discussions around the web. Discovering high-quality content written without the motive of financial gain gives Kagi's search results a unique flavor and makes it feel more humane to use.
 
-Our data includes anonymized API calls to traditional search indexes like Google, Yandex, Mojeek and Brave, specialized search engines like [Marginalia](https://search.marginalia.nu), and sources of vertical information like Wolfram Alpha, Apple, Wikipedia, Open Meteo, Yelp, TripAdvisor and other APIs. Typically every search query on Kagi will call a number of different sources at the same time, all with the purpose of bringing the best possible search results to the user. 
+Our search results also include anonymized API calls to all major search result providers worldwide, specialized search engines like [Marginalia](https://search.marginalia.nu), and sources of vertical information such as Wolfram Alpha, Apple, Wikipedia, Open Meteo, Yelp, TripAdvisor, and other APIs. Typically, every search query on Kagi will call a dozen or so different sources simultaneously, all with the purpose of bringing the best possible search results to the user in a split-second.
 
-For example, when you search for images in Kagi, we use 7 different sources of information (including non-typical sources such as Flickr and Wikipedia Commons), trying to surface the very best image results for your query. The same is also the case for Kagi's Video/News/Podcasts results. 
+Our unique algorithms down-rank pages with a lot of ads and trackers (which we have found correlate with a decrease in content quality) and promote content from independent, ad-free sources and personal websites. This ensures that Kagi shows results that delight users and are [worth paying for](https://help.kagi.com/kagi/why-kagi/why-pay-for-search.html). Subscriptions from our members pay for search results, allowing Kagi to remain [ad-free](https://blog.kagi.com/age-pagerank-over) and [100% privacy-respecting](https://kagi.com/privacy).
 
-## Internal
-But most importantly, we are known for our unique results, coming from our web index (internal name - **Teclis**) and news index (internal name - **TinyGem**). Kagi's indexes provide unique results that help you discover non-commercial websites and "small web" discussions surrounding a particular topic. Kagi's Teclis and TinyGem indexes are both available as an [API](https://help.kagi.com/kagi/api/enrich.html).
-
-We do not stop there and we are always trying new things to surface relevant, high-quality results. For example, we recently launched the [Kagi Small Web](https://blog.kagi.com/small-web) initiative which platforms content from personal blogs and discussions around the web. Discovering high quality content written without the motive of financial gain, gives Kagi's search results a unique flavor and makes it feel more humane to use.
 
 ## Niche sources
 
-Finally, a modern search engine is much more than just 'links'. Other sources in Kagi include:
+A modern search engine is much more than just 'links'. Other sources in Kagi include:
+
 - Direct Answers (Kagi AI)
 - Answer Summaries (aka. Quick Answer - Using state of the art LLMs)
 - Maps (Apple based map and Kagi Maps - Mapbox/OSM based)
@@ -41,7 +38,7 @@ Finally, a modern search engine is much more than just 'links'. Other sources in
 
 Why do Kagi's search results stand out even though other search engines have access to the same sources? The main reasons are:
 
-**Kagi focuses on users, not advertisers**: This user-centric approach significantly enhances our ability to highlight high-quality search results. For instance, we effectively mitigate SEO spam by downranking websites reliant on ads or trackers. Since these spam websites predominantly monetize through ads, they become easily detectable. 
+**Kagi focuses on users, not advertisers**: This user-centric approach significantly enhances our ability to highlight high-quality search results. For instance, we effectively mitigate SEO spam by down-ranking websites reliant on ads or trackers. Since these spam websites predominantly monetize through ads, they become easily detectable. 
 
 Our consistent strategy of combating ads in all forms prioritizes high-quality web results. 
 
