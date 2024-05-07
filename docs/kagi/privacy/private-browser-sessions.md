@@ -20,7 +20,7 @@ Because a Session Link provides access to your Kagi account, it should always be
 To use this link in a browser's custom search engine, you may need to append a placeholder of `&q=%s`, like so:
 
 ```
-https://kagi.com/search?token=...&q=s
+https://kagi.com/search?token=...&q=%s
 ```
 
 This link will become invalid if you sign out of the session that you copied it from.
