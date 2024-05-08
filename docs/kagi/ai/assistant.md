@@ -55,8 +55,10 @@ This mode supports the following models:
 - Mistral AI
   - Mistral Small
   - Mistral Large (for Ultimate members)
-
+ 
 Access directly with the `!chat` bang.
+
+![LLMs supported by Kagi Assistant](https://kagifeedback.org/assets/files/2024-03-26/1711457673-662718-image.png)
 
 ### Custom
 
