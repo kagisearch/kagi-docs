@@ -45,13 +45,17 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 -  Completing special operational projects and initiatives with attention to detail. 
 -  Has previous experience with operations in startups.
 
-
 **Devops**
 - Description TBD
   
 **Search Index Team**
 - Crawling/Indexing/Ranking
 - Description TBD
+
+**macOS/iOS developer**
+- Development of macOS/iOS native apps
+- See also [Orion browser jobs](./hiring-orion.md)
+
 
   
 **General conditions**
