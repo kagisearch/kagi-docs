@@ -40,3 +40,7 @@ Please visit the [billing portal](https://kagi.com/billing/portal).
 
 ## Why is my account showing “no invoice history”? 
 This was a result of a migration to a new merchant of record. We can still get your past invoices on demand, let us know which ones do you need by emailing support@kagi.com.
+
+## Why am I unable to add prepaid credit to my account?
+This restriction happens when you haven't entered a billing address and the system is unable to determine the appropriate tax for your subscription.
+To remove the restriction, please select a country or region using the dropdown in the [add prepaid credit](https://kagi.com/settings?p=account_topup) page.
