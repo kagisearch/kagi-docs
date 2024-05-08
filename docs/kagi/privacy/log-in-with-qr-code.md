@@ -4,6 +4,8 @@
 
 Logging in to Kagi on a new device is now easier than ever. When you visit the Kagi homepage on a new device, you will have the option to scan a QR code with your phone. This will log you in automatically without having to enter your credentials again.
 
+Before using this feature, make sure you are already logged in to Kagi on your phone. This is necessary for your phone to securely confirm your identity when scanning the QR code.
+
 This feature is especially useful when using devices without a keyboard such as:
 - Gaming consoles
 - Smart TVs
