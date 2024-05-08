@@ -10,7 +10,7 @@ Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`
 
 Our users have built and shared the following themes:
 
-- [Enhanced Theme](https://gist.github.com/sefidel/ffb677da037e4d6951949a110132fe80) by [sefidel](https://gist.github.com/sefidel)
+- [Kagi Oranginum](https://gist.github.com/sefidel/ffb677da037e4d6951949a110132fe80) by [sefidel](https://gist.github.com/sefidel)
 - [Brave Theme](https://gist.github.com/httpjamesm/a9c6b3b115cb09c483e53ad5f5ec9b99) by [http.james](https://httpjames.space/)
 - [Cozy Theme](https://gist.github.com/jamesjlyons/26682982319ca84b7bee991eb158ce49) by [James Lyons](https://jameslyons.design)
 - [Dark Mustard](https://gist.github.com/joshellington/51765a15d8f780089619b638fc6aea6b) by Josh Ellington
