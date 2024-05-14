@@ -99,14 +99,14 @@ There are so many models around so felt useful to have this all in one place. Fe
 
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
-| **Claude 3 Haiku**        | 200K           | 0.25                  | 1.25                   |
-| **Claude 3 Sonnet**       | 200K           | 3                     | 15                     |
-| **Claude 3 Opus**         | 200K           | 15                    | 75                     |
+| **GPT-4o**                    | 128K             | 5                    | 15                     |
 | **GPT-4-Turbo**           | 128K           | 10                    | 30                     |
-| GPT-4o                    | 128K             | 5                    | 15                     |
 | GPT-4 (8k)              | 8K             | 30                    | 60                     |
 | **GPT-4 (32k)**           | 32K            | 60                    | 120                    |
 | **GPT-3.5-Turbo**         | 16K            | 0.5                   | 1.5                    |
+| **Claude 3 Haiku**        | 200K           | 0.25                  | 1.25                   |
+| **Claude 3 Sonnet**       | 200K           | 3                     | 15                     |
+| **Claude 3 Opus**         | 200K           | 15                    | 75                     |
 | **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                     | 10.50/21                     |
 | Gemini 1.5 Flash (128K/1M)        | 1M             | 0.35/0.70                     | 0.53/1.05                     |
 | **Mistral Small**         | 8K             | 2                     | 6                      |
