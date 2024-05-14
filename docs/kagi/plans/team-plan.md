@@ -1,8 +1,16 @@
 # Team Plan
 
-## Inquire About Team Plan
+Kagi Team plan is currently in invite only beta.
 
 If you are interested in a plan for your team please inquire by emailing [support@kagi.com](mailto:support@kagi.com).
+
+Main features:
+- User management dashboard
+- Control access by IP address
+- Team members can share settings and Kagi tweaks between them
+
+Price:
+- $19/mo for unlimited users + search cost (2.5 cents per search)
 
 ## Adding Team Members
 
