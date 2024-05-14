@@ -46,6 +46,7 @@ This mode supports the following models:
   - GPT 3.5 Turbo
   - GPT 4 (for Ultimate members)
   - GPT 4 Turbo (for Ultimate members)
+  - GPT 4o (for Ultimate members)
 - Anthropic
   - Claude 3 Haiku
   - Claude 3 Sonnet
