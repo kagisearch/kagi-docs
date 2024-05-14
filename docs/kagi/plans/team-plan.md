@@ -8,6 +8,7 @@ Main features:
 - User management dashboard
 - Control access by IP address
 - Team members can share settings and Kagi tweaks between them
+- Access to Kagi Search API
 
 Price:
 - $19/mo for unlimited users + search cost (2.5 cents per search)
