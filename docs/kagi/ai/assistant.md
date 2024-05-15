@@ -30,7 +30,7 @@ Code assistant is tuned for programming tasks and uses a powerful AI model for p
 
 ![Kagi Assistant - Code](./media/assistant_code.png){width=500px data-zoomable}
 
-For Starter and Professional members this mode uses `gpt-3.5-turbo`, and for Ultimate members it uses `gpt-4`.
+For Starter and Professional members this mode uses `gpt-3.5-turbo`, and for Ultimate members it uses `gpt-4o`.
 
 Access directly with the `!code` bang.
 
