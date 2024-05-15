@@ -29,7 +29,7 @@ Using API with insufficient credits will produce "Insufficient credit to perform
 
 ### Consumer models
 
-Price for our consumer grade model (Agnes) is **$0.030 USD** per **1,000** tokens processed. If you are subscribed to the Kagi Ultimate [plan](https://kagi.com/pricing), discounted pricing at **$0.025** per **1,000** tokens processed is automatically applied.
+Price for our consumer-grade models (Cecil and Agnes) is **$0.030 USD** per **1,000** tokens processed. If you are subscribed to the Kagi Ultimate [plan](https://kagi.com/pricing), discounted pricing at **$0.025** per **1,000** tokens processed is automatically applied.
 
 Notes:
 
