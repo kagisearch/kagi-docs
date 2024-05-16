@@ -1,6 +1,6 @@
-# Team Plan
+# Kagi for Business
 
-Kagi Team plan is currently in invite only beta.
+Kagi Team plan is created for businesses, organizations and teams. Kagi Team plan is currently in invite only beta.
 
 If you are interested in a plan for your team please inquire by emailing [support@kagi.com](mailto:support@kagi.com).
 
