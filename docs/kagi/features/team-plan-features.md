@@ -20,7 +20,7 @@ Team Members may choose to share [Lenses](../features/lenses.md) across the team
 
 ## Search API
 
-The Team Plan provides access to one of Kagi's most important features - the [Kagi Search API](../search-api/overview.md). This is the same API that Kagi’s front end uses to render the results. The API use is charged the same rate as everyday use ($0.0025/search).
+The Team Plan provides access to one of Kagi's most important features - the [Kagi Search API](../search-api/overview.md). This is the same API that Kagi’s front end uses to render the results. The API use is charged the same rate as everyday use ($0.025/search).
 
 As a first step we recommend reviewing the [Kagi API Documentation](../search-api/overview.md).
 <br> <br>
