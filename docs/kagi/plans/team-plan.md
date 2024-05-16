@@ -9,7 +9,7 @@ Main features:
 - Control access by IP address
 - Team members can share settings and Kagi tweaks between them
 - Access to Kagi Search API
-- Learn more about [Team plan features](../features/team-plan-features.html)
+- Learn more about [Team plan features](../features/team-plan-features.md)
 
 Price:
 - $19/mo for unlimited users + search cost (2.5 cents per search)
