@@ -2,7 +2,7 @@
 
 [Kagi Maps](https://kagi.com/maps) is a powerful tool that simplifies the process of finding businesses, points of interest, and addresses. With Kagi Maps, you can easily search for locations, get driving or walking directions, and discover interesting stops along your route.
 
-![Kagi Maps](./media/kagi_maps_hero.png){width=500px data-zoomable}
+![Kagi Maps](./media/kagi_maps_hero.png){width=675px data-zoomable}
 
 ## Enabling Geolocation
 
