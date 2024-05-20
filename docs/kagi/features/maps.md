@@ -8,7 +8,7 @@
 
 By default, Kagi Maps uses your IP address to determine your approximate location and use it as the initial location of the map.
 
-For a better experience while using Kagi Maps, we recommend sharing your geolocation with Kagi Maps. Your location will only be saved in your browser’s storage and will not be associated to your account. To do this, click or tap on the Geolocation button:
+For a better experience while using Kagi Maps, we recommend sharing your geolocation with Kagi Maps. Your location will only be saved in your browser’s storage and will not be associated with your account. To do this, click or tap on the Geolocation button:
 
 ![Kagi Maps - Geolocation Button](./media/kagi_maps_geolocation_button.png){width=500px data-zoomable}
 
