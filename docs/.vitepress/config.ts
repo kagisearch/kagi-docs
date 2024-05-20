@@ -211,6 +211,7 @@ function sidebarKagi() {
                         { text: 'Redirects', link: '/kagi/features/redirects' },
                         { text: 'Code Searches', link: '/kagi/features/code' },
                         { text: 'Verbatim Search', link: '/kagi/features/verbatim' },
+                        { text: 'Kagi Maps', link: '/kagi/features/maps' },
                     ]
                 },
                 {
