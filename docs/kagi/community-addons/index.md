@@ -55,3 +55,19 @@ Adds a button to the right click context menu on Firefox that allows you to open
 
 ## Emacs
 - [kagi.el](https://codeberg.org/bram85/kagi.el): Emacs package that provides access to the Kagi FastGPT and Universal Summarizer API.
+
+## BangNavigator
+
+[BangNavigator](https://github.com/FaFre/bang_navigator) is a privacy-centric search and research browser designed to enhance your mobile search experience while ensuring your personal data and identity remains secure during research.
+
+Some of the features are:
+
+- **Privacy by Default**: Incognito mode is enabled by default to keep your searches and browsing history private.
+- **Full Browser Functionality**: Includes all the essential features of a basic browser to browse the web efficiently.
+- **Kagi Integration**: Seamlessly integrates Kagi's search, assistant, and summarizer tools within a user-friendly interface.
+- **Easy Sharing**: Share URLs or text from any app directly into BangNavigator without the need to copy and paste, for direct use with summarizer/assistant.
+- **Quick Summarization**: Long press any link on a website to get a summary via Kagi's summarizer.
+- **Enhanced Text Interaction**: Custom context menu allows for easy passage of marked text to Kagi's search or assistant tools.
+- **Home Widget**: Includes a home screen widget for quick actions, enhancing productivity.
+- **Speech Input**: Supports voice commands for hands-free operation and accessibility.
+- **PDF processing**: Open and directly summarize/prompt PDF documents.
