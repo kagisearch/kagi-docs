@@ -8,7 +8,7 @@ Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`
 
 ## User Themes
 
-Our users have built and shared the following themes:
+Our users have built and shared many themes. Check out [awesome-kagi-css](https://github.com/kawaiier/awesome-kagi-css/) or themes below.
 
 - [Kagi Oranginum](https://gist.github.com/sefidel/ffb677da037e4d6951949a110132fe80) by [sefidel](https://gist.github.com/sefidel)
 - [Brave Theme](https://gist.github.com/httpjamesm/a9c6b3b115cb09c483e53ad5f5ec9b99) by [http.james](https://httpjames.space/)
