@@ -14,7 +14,7 @@ Kagi (pronounced kah-gee) was founded in 2018 by [Vladimir Prelovac](https://vla
 
 Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi users in its first external fundraise, followed by [$1.88M raised in 2024](https://blog.kagi.com/what-is-next-for-kagi#3), again from its users, bringing the number of users-investors to 93.
 
-Kagi launched in June 2022, and we maintain a public-facing real-time statistics page about Kagi growth and usage at [kagi.com/stats](https://kagi.com/stats).
+Kagi launched in June 2022, and we maintain a public real-time statistics page featuring Kagi growth and usage at [kagi.com/stats](https://kagi.com/stats).
 
 In the early 2024, [Kagi became a Public Benefit Corporation (PBC)](https://blog.kagi.com/what-is-next-for-kagi#4). 
 
