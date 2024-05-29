@@ -12,7 +12,7 @@ We want to bring a friendly version of the internet, one that has users' best in
 
 Kagi (pronounced kah-gee) was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky) and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). Our team is a fully remote, operating in over 10 countries. We are actively [hiring](https://help.kagi.com/kagi/company/hiring-kagi.html).
 
-Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi users in its first external fundraise, followed by [$1.88M raised in 2024](https://blog.kagi.com/what-is-next-for-kagi#3), again from its users, bringing the number of users-investors to 93.
+Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi users in its first external fundraise, followed by [$1.88M raised in 2024](https://blog.kagi.com/what-is-next-for-kagi#3), again from our users, bringing the number of users-investors to 93.
 
 Kagi launched in June 2022, and we maintain a public real-time statistics page featuring Kagi growth and usage at [kagi.com/stats](https://kagi.com/stats).
 
