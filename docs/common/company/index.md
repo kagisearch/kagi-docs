@@ -10,7 +10,7 @@ Kagi Inc. is a company created with the mission to humanize the web. Our goal is
 
 We want to bring a friendly version of the internet, one that has users' best interest in mind, into homes worldwide through our portfolio of best in class products - search engine, web browser, and soon email.
 
-Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky) and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). Our team is a fully remote team operating on all continents.
+Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky) and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). 
 
 Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi users in its first external fundraise, followed by [$1.88M raised in 2024](https://blog.kagi.com/what-is-next-for-kagi), again from its users, bringing the number of investors to 93.
 
@@ -22,7 +22,7 @@ Kagi is getting noticed by thought leaders like [Leo Laporte](https://twit.tv), 
 
 Additionally, we are grateful to content creators like [Linus Tech Tips](https://youtu.be/YnSv8ylLfPw?t=523) and [Ask Leo](https://www.youtube.com/watch?v=K297opaBp8E&t=7s), [numerous](https://chuck.is/kagi/) [bloggers](https://dannb.org/blog/2023/how-kagi-beats-google/), and the vibrant discussions by Kagi members on Hacker News, X, Mastodon, Reddit, Blue Sky, LinkedIN and other social media for helping [spread awareness](https://x.com/vladquant/likes)
 
-Our company headquarters are in Palo Alto, CA.
+Our company headquarters are in Palo Alto, CA. Our team is a fully remote, operating in over 10 countries.
 
 Contact:
 
