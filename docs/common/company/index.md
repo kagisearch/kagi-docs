@@ -16,7 +16,11 @@ Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi rais
 
 Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser. We also have a number of other products such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt), [Kagi Small Web](https://blog.kagi.com/small-web), [open-source projects](https://github.com/kagisearch) and [APIs](https://help.kagi.com/kagi/api/overview.html).
 
-Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) (interview with Kagi's founder Vladimir Prelovac) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which serves as our manifesto.
+Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which serves as our manifesto.
+
+Kagi is getting noticed by thought leaders like [Leo Laporte](https://twit.tv), [Jason Koebler](https://www.404media.co/friendship-ended-with-google-now-kagi-is-my-best-friend/), [John Gruber](https://daringfireball.net/linked/2024/01/19/bray-google-kagi), and [Cory Doctorow](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/), as well as high quality media organizations such as [The Verge](https://www.theverge.com/23896415/kagi-search-google-meta-quest-3-chatgpt-macos-sonoma-installer-newsletter) and [Fast Company](https://www.fastcompany.com/91038374/kagi-web-search-engine-google-alternative), publications like [Monocle](https://monocle.com/radio/shows/the-entrepreneurs/eureka-389/play/) and [Die Zeit](https://www.zeit.de/index). We thank them for their coverage and helping spread the word.
+
+Additionally, we are grateful to content creators like [Linus Tech Tips](https://youtu.be/YnSv8ylLfPw?t=523) and [Ask Leo](https://www.youtube.com/watch?v=K297opaBp8E&t=7s), [numerous](https://chuck.is/kagi/) [bloggers](https://dannb.org/blog/2023/how-kagi-beats-google/), and the vibrant discussions by Kagi members on Hacker News, X, Mastodon, Reddit, Blue Sky, LinkedIN and other social media for helping [spread awareness](https://x.com/vladquant/likes)
 
 Our company headquarters are in Palo Alto, CA.
 
