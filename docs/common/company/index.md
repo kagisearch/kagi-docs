@@ -23,7 +23,7 @@ Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fa
 - [Universal Summarizer](https://kagi.com/summarizer)
 - [FastGPT](https://kagi.com/fastgpt)
 - Numerous [open-source projects](https://github.com/kagisearch)
-- [Kagi APIs](https://help.kagi.com/kagi/api/overview.html).
+- [Kagi APIs](https://help.kagi.com/kagi/api/overview.html)
 
 Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over) blog post, which serves as our manifesto.
 
