@@ -12,7 +12,7 @@ We want to bring a friendly version of the internet, one that has users' best in
 
 Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky) and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). Our team is a fully remote team operating on all continents.
 
-Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi members in its first external fundraise.
+Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi users in its first external fundraise, followed by [$1.88M raised in 2024](https://blog.kagi.com/what-is-next-for-kagi), again from its users, bringing the number of investors to 93.
 
 Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser. We also have a number of other products such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt), [Kagi Small Web](https://blog.kagi.com/small-web), [open-source projects](https://github.com/kagisearch) and [APIs](https://help.kagi.com/kagi/api/overview.html).
 
