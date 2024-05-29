@@ -18,7 +18,12 @@ Kagi launched in [June 2022](https://blog.kagi.com/kagi-orion-public-beta) and w
 
 In the early 2024, [Kagi became a Public Benefit Corporation (PBC)](https://blog.kagi.com/what-is-next-for-kagi#4). 
 
-Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry, WebKit-based browser. We also have a number of other products such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt), [Kagi Small Web](https://blog.kagi.com/small-web), [open-source projects](https://github.com/kagisearch) and [APIs](https://help.kagi.com/kagi/api/overview.html).
+Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry, WebKit-based browser. We also have a number of other products such as:
+- [Kagi Small Web](https://blog.kagi.com/small-web)
+- [Universal Summarizer](https://kagi.com/summarizer)
+- [FastGPT](https://kagi.com/fastgpt)
+- Numerous [open-source projects](https://github.com/kagisearch)
+- [Kagi APIs](https://help.kagi.com/kagi/api/overview.html).
 
 Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over) blog post, which serves as our manifesto.
 
