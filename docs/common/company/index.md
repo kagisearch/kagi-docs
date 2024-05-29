@@ -14,7 +14,11 @@ Kagi was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) 
 
 Kagi has been bootstrapped by the founder from 2018 to 2023. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi users in its first external fundraise, followed by [$1.88M raised in 2024](https://blog.kagi.com/what-is-next-for-kagi), again from its users, bringing the number of investors to 93.
 
-Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry browser. We also have a number of other products such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt), [Kagi Small Web](https://blog.kagi.com/small-web), [open-source projects](https://github.com/kagisearch) and [APIs](https://help.kagi.com/kagi/api/overview.html).
+Kagi maintains public-facing statistics at [kagi.com/stats](https://kagi.com/stats).
+
+In early 2024, [Kagi became a Public Benefit Corporation (PBC)](https://blog.kagi.com/what-is-next-for-kagi#4). 
+
+Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry, WebKit-based browser. We also have a number of other products such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt), [Kagi Small Web](https://blog.kagi.com/small-web), [open-source projects](https://github.com/kagisearch) and [APIs](https://help.kagi.com/kagi/api/overview.html).
 
 Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and "[The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over)" blog post, which serves as our manifesto.
 
@@ -22,7 +26,7 @@ Kagi is getting noticed by thought leaders like [Leo Laporte](https://twit.tv), 
 
 Additionally, we are grateful to content creators like [Linus Tech Tips](https://youtu.be/YnSv8ylLfPw?t=523) and [Ask Leo](https://www.youtube.com/watch?v=K297opaBp8E&t=7s), [numerous](https://chuck.is/kagi/) [bloggers](https://dannb.org/blog/2023/how-kagi-beats-google/), and the vibrant discussions by Kagi members on Hacker News, X, Mastodon, Reddit, Blue Sky, LinkedIN and other social media for helping [spread awareness](https://x.com/vladquant/likes)
 
-Our company headquarters are in Palo Alto, CA. Our team is a fully remote, operating in over 10 countries.
+Our company headquarters are in Palo Alto, CA. Our team is a fully remote, operating in over 10 countries. We are actively [hiring](https://help.kagi.com/kagi/company/hiring-kagi.html).
 
 Contact:
 
