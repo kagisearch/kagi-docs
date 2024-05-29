@@ -26,18 +26,18 @@ Kagi is getting noticed by thought leaders like [Leo Laporte](https://twit.tv), 
 
 Additionally, we are grateful to content creators like [Linus Tech Tips](https://youtu.be/YnSv8ylLfPw?t=523) and [Ask Leo](https://www.youtube.com/watch?v=K297opaBp8E&t=7s), numerous [bloggers](https://dannb.org/blog/2023/how-kagi-beats-google/), and the vibrant discussions by Kagi members on Hacker News, X, Mastodon, Reddit, Blue Sky, LinkedIN and other social media for helping [spread awareness](https://x.com/vladquant/likes).
 
-Contact:
-
-Kagi Inc.\
-Palo Alto, CA, USA\
-Email: vlad@kagi.com\
-Phone: 650 535-2700
-
 We hope that our work impacts people's lives in some small way for the better. Thank you for your interest in being a part of this!
 
 > "With Kagi and Orion, we’re striving to build better ways to experience the web, ways that are safe yet fun for everyone, including my own kids."
 >
 > —Vladimir Prelovac
+
+## Contact
+
+Kagi Inc.\
+Palo Alto, CA, USA\
+Email: vlad@kagi.com\
+Phone: 650 535-2700
 
 ## What Does "Kagi" Mean?
 
