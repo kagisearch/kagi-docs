@@ -53,7 +53,7 @@ More Kagi assets are available on the [Kagi Assets](https://kagi.com/assets) pag
 
 People sometimes ask: why does Kagi have a "g" logo in the Google ballpark rather than a "k"?
 
-Our designer insisted the Kagi logo is "anchored" in the letter "g," and we had to agree. Besides, we can't let Google own the letter "g" too, can we? ;)
+Our brand designer insisted the Kagi logo is "anchored" in the letter "g," and we had to agree. Besides, we can't let Google own the letter "g" too, can we? ;)
 
 ## Orion Browser Logo
 
