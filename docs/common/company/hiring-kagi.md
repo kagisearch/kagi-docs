@@ -45,12 +45,70 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 -  Completing special operational projects and initiatives with attention to detail. 
 -  Has previous experience with operations in startups.
 
-**Devops**
-- Description TBD
+**Site Reliability Engineer (SRE)**
+
+Key Responsibilities:
+- Ensure the reliability, performance, and scalability of Kagi's search engine and related services
+- Define and implement SLOs and SLIs (Service Level Indicators) to measure and maintain system health
+- Collaborate with development teams to design and implement fault-tolerant, resilient, and scalable architectures
+- Conduct thorough postmortems and root cause analyses to identify and prevent recurring issues
+- Automate incident response and remediation processes using tools like Runbooks or Playbooks
+- Implement and maintain comprehensive monitoring, alerting, and logging systems to proactively identify and resolve issues
+- Optimize system performance through capacity planning, load testing, and resource allocation
+- Continuously improve infrastructure and processes through automation, configuration management, and infrastructure as code
+- Participate in on-call rotations to provide rapid incident response and resolution
+- Foster a culture of knowledge sharing, documentation, and collaboration within the organization
+
+Required Skills and Experience:
+- Strong experience with distributed systems, databases, and performance analysis.
+- Proficiency in one or more programming languages such as Go, Python, or Java
+- Solid understanding of containerization technologies like Docker and orchestration platforms like Kubernetes
+- Experience with infrastructure as code tools such as Terraform
+- Knowledge of observability practices and tools like Prometheus, Grafana, ELK stack, or Jaeger
+- Familiarity with chaos engineering principles and tools like Chaos Monkey or Gremlin
+- Understanding of networking concepts, including TCP/IP, DNS, and load balancing
+- Ability to design and implement resilient and scalable systems that can handle high traffic and data volumes
+- Excellent problem-solving and analytical skills to diagnose and resolve complex system issues
+- Strong communication and collaboration abilities to work effectively with cross-functional teams
+
+Preferred Qualifications:
+- Experience with search engine architecture and related technologies
+- Knowledge of database performance tuning and optimization techniques
+- Familiarity with serverless computing platforms like AWS Lambda or Google Cloud Functions
+- Contributions to open-source projects or community involvement in the SRE or DevOps space
+
+As an SRE at Kagi, you will play a critical role in ensuring the reliability, performance, and scalability of our search engine and related services. You will work closely with development teams to design and implement resilient architectures, automate operations, and proactively identify and resolve issues. Your focus will be on maintaining system health, optimizing performance, and continuously improving our infrastructure to support Kagi's growth and innovation in the search industry. You will be part of a collaborative and dynamic team that values knowledge sharing, automation, and data-driven decision-making.
+
   
 **Search Index Team**
-- Crawling/Indexing/Ranking
-- Description TBD
+
+Key Responsibilities:
+- Develop and optimize our web crawling system to efficiently gather high-quality web pages
+- Design and implement robust indexing strategies to store and organize collected data
+- Create and refine ranking algorithms to deliver the most relevant search results
+- Collaborate with the Core ML Team to integrate machine learning techniques into the indexing and ranking processes
+- Monitor and analyze system performance, identifying areas for improvement and implementing optimizations
+- Stay up-to-date with the latest trends and advancements in web crawling, indexing, and ranking technologies
+
+Required Skills and Experience:
+- Strong programming skills in languages such as C++, Java, or Python
+- In-depth knowledge of web crawling techniques, including handling various web page structures, navigation, and content extraction
+- Solid understanding of data structures, algorithms, and information retrieval concepts
+- Experience with distributed computing and large-scale data processing frameworks like Hadoop or Spark
+- Familiarity with search engine architecture and ranking algorithms
+- Ability to analyze and interpret large datasets to derive insights and make data-driven decisions
+- Excellent problem-solving and debugging skills
+- Strong communication and collaboration abilities to work effectively with cross-functional teams
+
+Preferred Qualifications:
+- Advanced degree in Computer Science, Information Retrieval, or a related field
+- Prior experience working on search engine technologies at scale
+- Knowledge of natural language processing (NLP) and its applications in search
+- Contributions to open-source projects or research publications in the field of web search
+
+As a member of the Search Index Team at Kagi, you will play a crucial role in building and enhancing our search engine's foundation. Your work will directly impact the quality and relevance of search results delivered to our users. You will have the opportunity to tackle complex challenges, innovate, and contribute to the development of cutting-edge search technologies in a fast-paced startup environment.
+
+
 
 **macOS/iOS developer**
 - Development of macOS/iOS native apps
