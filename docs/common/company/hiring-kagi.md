@@ -7,6 +7,24 @@ next:
 
 ## Full-time positions
 
+**Product Manager - Search & Assistant**
+- Clearly define goals and functionalities for features, set and validate outcome hypothesis, and write release notes
+- Collaborate with the development team to efficiently deliver features, while continuously improving the team's processes, productivity, and accountability
+- Demonstrate strong ownership by deeply understanding our objectives, forming a thoughtful perspective, and guiding development to achieve our mid to long-term goals
+- Gather community feedback from various channels and convert it into actionable insights
+- Communicate complex ideas in a clear manner, and promote engagement and collaboration in the team
+- Previous experience leading products
+  
+
+**Head of Marketing**
+
+- Innovative Marketing Strategy: Develop and execute creative, non-traditional marketing strategies that highlight Kagi's unique ad-free, privacy-focused search engine.
+- Brand Positioning and Storytelling: Strengthen Kagi's brand identity through compelling storytelling that emphasizes our commitment to providing a user-centric, ad-free search experience.
+- Community Engagement and Growth: Drive user acquisition and retention through grassroots marketing, partnerships, influencer collaborations, and community-building activities, avoiding digital ads to maintain our ad-free pedigree.
+- Collaborative Campaigns: Work closely with product, engineering, and customer support teams to align marketing initiatives with Kagi’s core values and enhance the overall user experience.
+- Performance Measurement and Optimization: Utilize data-driven insights to measure the effectiveness of marketing campaigns, continuously refine strategies, and ensure impactful and sustainable growth.
+
+
 **Core Back-end Team**
 - Advanced knowledge of the Crystal language. 
 - Exceptional problem-solving and coding abilities.
@@ -30,20 +48,6 @@ Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-detai
 - Enthusiasm for diving deep into user feedback and discussions to improve UX.
 - Meticulous attention to detail in UX design.
 - A critical perspective on current search/assistant user interfaces, paired with a desire to revolutionize them.
-
-**Product Manager - Search & Assistant**
-- Clearly define goals and functionalities for features, set and validate outcome hypothesis, and write release notes
-- Collaborate with the development team to efficiently deliver features, while continuously improving the team's processes, productivity, and accountability
-- Demonstrate strong ownership by deeply understanding our objectives, forming a thoughtful perspective, and guiding development to achieve our mid to long-term goals
-- Gather community feedback from various channels and convert it into actionable insights
-- Communicate complex ideas in a clear manner, and promote engagement and collaboration in the team
-- Previous experience leading products
-  
-**Chief of Staff**
--  Handling legal, finance, accounting, and HR to ensure day to-day operations are running smoothly.
--  Identifying areas of improvement across the organization, making actionable recommendations and executing them.
--  Completing special operational projects and initiatives with attention to detail. 
--  Has previous experience with operations in startups.
 
 **Site Reliability Engineer (SRE)**
 
