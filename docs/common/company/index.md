@@ -27,10 +27,6 @@ Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fa
 
 Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over) blog post, which serves as our manifesto.
 
-Kagi is getting noticed by thought leaders like [Leo Laporte](https://twit.tv), [Jason Koebler](https://www.404media.co/friendship-ended-with-google-now-kagi-is-my-best-friend/), [John Gruber](https://daringfireball.net/linked/2024/01/19/bray-google-kagi), and [Cory Doctorow](https://pluralistic.net/2024/04/04/teach-me-how-to-shruggie/), as well as high quality media organizations such as [The Verge](https://www.theverge.com/23896415/kagi-search-google-meta-quest-3-chatgpt-macos-sonoma-installer-newsletter) and [The Register](https://www.theregister.com/2024/01/30/ai_is_changing_search/), publications like [Monocle](https://monocle.com/radio/shows/the-entrepreneurs/eureka-389/play/) and [Die Zeit](https://www.zeit.de/index). We thank them for their coverage and helping spread the word.
-
-Additionally, we are grateful to content creators like [Linus Tech Tips](https://youtu.be/YnSv8ylLfPw?t=523) and [Ask Leo](https://www.youtube.com/watch?v=K297opaBp8E&t=7s), numerous [bloggers](https://dannb.org/blog/2023/how-kagi-beats-google/), and the vibrant discussions by Kagi members on Hacker News, X, Mastodon, Reddit, Blue Sky, LinkedIN and other social media for helping [spread awareness](https://x.com/vladquant/likes).
-
 We hope that our work impacts people's lives in some small way for the better. Thank you for your interest in being a part of this!
 
 > "With Kagi and Orion, we’re striving to build better ways to experience the web, ways that are safe yet fun for everyone, including my own kids."
