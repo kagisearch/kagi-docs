@@ -18,6 +18,17 @@ Third, our infrastructure is global, so you’ll always connect automatically to
 
 *Data from [ecoping.earth](https://ecoping.earth). Read about the [methodology](https://sustainablewebdesign.org/calculating-digital-emissions/).*
 
+**Benchmark update Jun 3 2024**
+
+![image](https://github.com/kagisearch/kagi-docs/assets/4319401/7ff7591c-f83c-4720-88c6-fdd078a9e55a)
+
+After loading on IDLE, most search engines continue to load additional content and send requests (Kagi does not).
+
+We make fewer requests, we load less data, the page load is faster, and so on.
+
+(the results aren't 100% accurate. Each time you reload the page, the numbers change slightly, but not by much)
+
+
 ## Data Center Locations
 
 ![Kagi Data Center Locations](./media/data_center_locations.png){data-zoomable}
