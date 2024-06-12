@@ -64,6 +64,7 @@ hr   | Croatia
 hu   | Hungary
 il   | Israel
 im   | Isle of Man
+in   | India
 iq   | Iraq
 ir   | Iran
 it   | Italy
