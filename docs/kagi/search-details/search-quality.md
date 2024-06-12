@@ -18,11 +18,11 @@ Our algorithm primarily focuses on relevancy and user intent. When it makes sens
 
 We believe the name of the game in search is quality, not quantity. A search engine's job is to provide the best answer fast and within the reach of one or two pages of results. If the user needs to go to page 17 to find what they were looking for, we have failed.
 
-Also note that one page of Kagi results will show 20-30 organic results compared to just 10 results typically shown on other search engines. So two pages of Kagi results are actually an equivalent of about six pages of results in other search engines!
+Also note that one page of Kagi results will show 30-50 organic results compared to just 10 results typically shown on other search engines. So two pages of Kagi results are actually an equivalent of about eight pages of results in other search engines!
 
 Other search engines may also show an inflated number of results available. The reality is they don't really have that many results. You can check yourself by clicking through pages of their results, which at one point abruptly stop. Between deceiving users with a provisional high results number and showing the best results, we chose the latter.
 
-We feel our approach is in line with our values. In the unlikely event of not finding what you are looking for, you can always modify the query slightly to get new results.
+We feel our approach is in line with our values. In the unlikely event of not finding what you are looking for in the avaialble results, you can always modify the query slightly to get the new results.
 
 ## Avoiding Censorship and Bias
 
