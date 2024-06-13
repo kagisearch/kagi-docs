@@ -168,7 +168,7 @@ Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in ot
 
 - [Bangs](../features/bangs.md) and search suggestions (while typing) are never counted as searches.
 - Reloading the same search within a short time (~2 minutes) does not count as an additional search.
-- Each [lense](../features/lenses.md) and content type (e.g. images, news) is considered a separate search.
+- Each [lens](../features/lenses.md) and content type (e.g. images, news) is considered a separate search.
 - Loading more results counts as an additional search.
 
 ## Why is Kagi focusing on AI and Orion Browser as well?
