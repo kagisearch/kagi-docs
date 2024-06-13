@@ -8,7 +8,7 @@ To take advantage of Bangs make sure you have enabled Bangs in your [Search](htt
 
 ![Enable Bangs](media/enable_bangs.png){data-zoomable}
 
-Note that Kagi supports all [DuckDuckGo-style bangs](https://duckduckgo.com/bang).
+You can use the community-created [Kagi Bangs Explorer](https://kbe.smaertness.net) to find bangs for your favorite sites.
 
 ## Bang Examples
 
@@ -131,7 +131,7 @@ zm   | Zambia
 - **!u** \<query> for [Urban Dictionary](https://www.urbandictionary.com)
 - **!imd** \<query> for the [Internet Movie Database](https://www.imdb.com/)
 
-And many more! (Kagi supports all [DuckDuckGo bangs](https://duckduckgo.com/bang))
+And many more! You can use the community-created [Kagi Bangs Explorer](https://kbe.smaertness.net) to find bangs for your favorite sites.
 
 ## Contributing Bangs
 
