@@ -76,7 +76,7 @@ If you are a macOS, iOS, or iPadOS user, you can complement your Kagi experience
 
 <br />
 
-<video src="./media/kagi_extension_google_chrome.mp4" width="720" type="video/mp4" autoplay muted loop disablepictureinpicture />
+<video src="./media/kagi_extension_google_chrome.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 <br />
 
