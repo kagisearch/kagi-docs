@@ -80,6 +80,16 @@ If you are a macOS, iOS, or iPadOS user, you can complement your Kagi experience
 
 <br />
 
+To enhance your browsing experience with Kagi, follow these steps to set Kagi as your default search engine in Google Chrome:
+
+1. Launch Google Chrome.
+2. Install the Kagi Search extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/kagi-search-for-chrome/cdglnehniifkbagbbombnjghhcihifij) by clicking the **Add to Chrome** button.
+3. You will be prompted to confirm you want to add the extension. To confirm, click on **Add extension**.
+4. Click the **puzzle-piece** icon in Chrome’s toolbar (this is the Extensions menu), then click the **Pin** icon next to *Kagi Search for Chrome*.
+5. Finally, click the **Kagi** icon in Chrome’s toolbar. If you see a message saying *No Kagi session found*, click the **Let’s go!** link (you may need to log into Kagi if you haven’t already).
+
+<br />
+
 #### Setting up the Kagi Extension in Safari {#setting_up_extension_safari}
 
 To set up the Kagi extension for Safari on macOS click on the extension icon in Safari's toolbar and then:
