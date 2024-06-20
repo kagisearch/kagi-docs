@@ -22,7 +22,7 @@ Also note that one page of Kagi results will show 30-50 organic results compared
 
 Other search engines may also show an inflated number of results available. The reality is they don't really have that many results. You can check yourself by clicking through pages of their results, which at one point abruptly stop. Between deceiving users with a provisional high results number and showing the best results, we chose the latter.
 
-We feel our approach is in line with our values. In the unlikely event of not finding what you are looking for in the avaialble results, you can always modify the query slightly to get the new results.
+We feel our approach is in line with our values. In the unlikely event of not finding what you are looking for in the available results, you can always modify the query slightly to get the new results.
 
 ## Avoiding Censorship and Bias
 
