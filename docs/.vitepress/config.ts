@@ -178,6 +178,7 @@ function sidebarKagi() {
                         { text: 'Speed', link: '/kagi/search-details/search-speed' },
                     ]
                 },
+                { text: 'AI Philosophy', link: '/kagi/why-kagi/ai-philosophy' },
             ]
 
         },
