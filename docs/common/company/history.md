@@ -46,3 +46,8 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 - We cross $1M annual revenue milestone, offering paid web search and paid web browser product
 - Kagi Assistant enters public beta 
 - The team is now ~30
+
+2024
+
+- Kagi becomes a [Public Benefit Corporation (PBC)](https://blog.kagi.com/what-is-next-for-kagi#4)
+- The team is now ~35
