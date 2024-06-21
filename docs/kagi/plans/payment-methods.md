@@ -2,8 +2,24 @@
 
 You can pay for Kagi's products and services using any of the payment methods listed below:
 
--  Stripe (Debit or credit card, Apple Pay, Google Pay)
--  PayPal* (+Venmo, iDEAL, giropay, debit or credit card)
--  OpenNode (Bitcoin, Bitcoin Lightning)
+- **Stripe (recommended)** 
+  - Debit or credit card
+  - Apple Pay
+  - Google Pay
+- **PayPal** \* 
+  - Venmo
+  - iDEAL
+  - Giropay
+  - Debit or credit card
+- **OpenNode**
+  - Bitcoin
+  - Bitcoin Lightning
 
-\* PayPal fees will be added to the transaction amount.
+*\* Please note that PayPal fees will be added to the transaction amount.*
+
+## Using PayPal and OpenNode with Kagi
+
+PayPal and OpenNode can only be used to [add prepaid funds](https://kagi.com/settings?p=account_topup) to your Kagi account, which can then be used towards any of our plans.  
+If you added prepaid funds and haven't subscribed to one of our plans yet, you can do so from the [Plan Selection](https://kagi.com/settings?p=billing_plan) page.
+
+If you have any questions about our payment methods or need help with your subscription, please don't hesitate to reach out to our support team at [support@kagi.com](mailto:support@kagi.com).
