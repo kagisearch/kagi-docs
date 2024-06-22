@@ -4,6 +4,16 @@
 
 ![Kagi Maps](./media/kagi_maps_hero.png){width=675px data-zoomable}
 
+## Kagi Basemap Options
+
+![Kagi Maps - Basemaps](./media/kagi_maps_basemap_selection.gif){data-zoomable}
+
+A basemap is the underlying map that provides the background and context for the data layers you add on top of it. Kagi Maps offers three basemap options to suit your preferences and needs:
+
+- **Apple Maps**. This is the default basemap and currently offers the most features, such as driving directions.
+- **Kagi Basemap**. Provides greater detail, readability, and map comprehension by using 3d landmarks, trees, shadows and improved labeling.
+- **OpenStreetMap**. An open-source, community-driven basemap optimized for speed and a lightweight map search experience.
+
 ## Enabling Geolocation
 
 By default, Kagi Maps uses your IP address to determine your approximate location and use it as the initial location of the map.
