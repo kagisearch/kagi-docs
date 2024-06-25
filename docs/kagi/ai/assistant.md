@@ -49,7 +49,7 @@ This mode supports the following models:
   - GPT 4o (for Ultimate members)
 - Anthropic
   - Claude 3 Haiku
-  - Claude 3 Sonnet
+  - Claude 3.5 Sonnet
   - Claude 3 Opus (for Ultimate members)
 - Google
   - Gemini Pro (for Ultimate members)
@@ -105,7 +105,7 @@ There are so many models around so felt useful to have this all in one place. Fe
 | **GPT-4 (32k)**           | 32K            | 60                    | 120                    |
 | **GPT-3.5-Turbo**         | 16K            | 0.5                   | 1.5                    |
 | **Claude 3 Haiku**        | 200K           | 0.25                  | 1.25                   |
-| **Claude 3 Sonnet**       | 200K           | 3                     | 15                     |
+| **Claude 3.5 Sonnet**       | 200K           | 3                     | 15                     |
 | **Claude 3 Opus**         | 200K           | 15                    | 75                     |
 | **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                     | 10.50/21                     |
 | Gemini 1.5 Flash (128K/1M)        | 1M             | 0.35/0.70                     | 0.53/1.05                     |
