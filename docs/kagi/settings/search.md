@@ -27,7 +27,6 @@ Here's what that looks like disabled:
 
 ![Search Settings 2](media/search_settings_2.png)
 
-- **Instant Answers** — Choose whether to allow answers to your questions using Kagi AI at the top of your search results. For example, try a search for [how far is the moon from earth](https://kagi.com/search?q=how+far%20is%20the%20moon%20from%20earth).
 - **Inline Videos** — Choose whether inline videos will appear in results.
 - **Inline Images** — Choose whether inline news will appear in results.
 - **Inline Discussions** — Choose whether inline discussions will appear in results.
