@@ -236,6 +236,7 @@ function sidebarKagi() {
                         { text: 'General', link: '/kagi/settings/general' },
                         { text: 'Appearance', link: '/kagi/settings/appearance' },
                         { text: 'Search', link: '/kagi/settings/search' },
+                        { text: 'AI', link: '/kagi/settings/ai' },
                         { text: 'Assistant', link: '/kagi/settings/assistant' },
                         { text: 'Privacy', link: '/kagi/settings/privacy' },
                         { text: 'Lenses', link: '/kagi/settings/lenses' },
