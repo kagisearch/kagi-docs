@@ -6,7 +6,8 @@
 - [Option 2: Using the Kagi Browser Extension](#browser_extension)
   - [Setting up the Extension](#setting_up_extension)
     - [Google Chrome](#setting_up_extension_google_chrome)
-    - [Safari](#setting_up_extension_safari)
+    - [Safari for Mac](#setting_up_extension_safari_mac)
+    - [Safari for iOS](#setting_up_extension_safari_ios)
   - [Note for Safari Users: Browsing History](#safari_extension)
   - [Note for Brave Browser Users](#brave_extension)
   - [Note for Opera Browser Users](#opera_extension)
@@ -92,7 +93,7 @@ To enhance your browsing experience with Kagi, follow these steps to set Kagi as
 
 <br />
 
-#### Setting up the Kagi Extension in Safari {#setting_up_extension_safari}
+#### Setting up the Kagi Extension in Safari for Mac {#setting_up_extension_safari_mac}
 
 To set up the Kagi extension for Safari on macOS click on the extension icon in Safari's toolbar and then:
 - Make sure the **Make Kagi Default Search Engine** checkbox is checked to search Kagi from the address bar.
@@ -101,6 +102,14 @@ To set up the Kagi extension for Safari on macOS click on the extension icon in 
 
 <img src="./media/macos_setting_default_4_safari_extension.png" width="500" alt="Kagi Extension for Safari"><br />
 
+#### Setting up the Kagi Extension in Safari for iOS {#setting_up_extension_safari_ios}
+
+
+<br />
+
+<video src="./media/install_kagi_for_safari_ios.mp4" width="606" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
 
 <a name="safari_extension"></a>
 ### Note for Safari Users: Browsing History {#safari_extension}
