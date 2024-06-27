@@ -120,7 +120,7 @@ Follow these steps to set up the Kagi for Safari extension:
 2. Open the **Settings** app and navigate to **Safari** > **Extensions** > **Kagi for Safari**.
 3. Enable the **Allow Extension** and **Allow in Private Browsing** toggles.
 4. Under Permissions, set **kagi.com** and **Other Websites** to **Allow**.
-5. Open Safari and visit [kagi.com](https://kagi.com/).
+5. Open **Safari** and visit [kagi.com](https://kagi.com/).
 6. Tap the **AA** icon in the address bar and select **Kagi for Safari**.
 7. If prompted with *The extension 'Kagi for Safari' would like to access kagi.com*, tap **Always Allow**, then confirm by tapping **Always Allow on Every Website**.
 
