@@ -104,14 +104,13 @@ To set up the Kagi extension for Safari on macOS click on the extension icon in 
 
 #### Setting up the Kagi Extension in Safari for iOS {#setting_up_extension_safari_ios}
 
-
-<br />
-
-<video src="./media/install_kagi_for_safari_ios.mp4" width="606" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
-
-<br />
-
 Set Kagi as your default search engine in Safari by installing the [Kagi for Safari](https://apps.apple.com/app/kagi-search-for-safari/id1622835804) extension.
+
+<br />
+
+<video src="./media/install_kagi_for_safari_ios.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
 
 Follow these steps to set up the Kagi for Safari extension:
 
