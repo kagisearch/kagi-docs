@@ -36,7 +36,11 @@
 
 If you use Apple devices with macOS/iOS/iPadOS you can use Orion browser by Kagi. It has Kagi built-in and is the easiest option to start using Kagi.
 
-[Download Orion](https://browser.kagi.com).
+[Download Orion](https://kagi.com/orion/).
+
+You can also scan the QR Code below to download Orion on your iPhone or iPad:
+
+![Orion for iOS QR Code](./media/orion_ios_qr_code.png){width=256px data-zoomable}
 
 Tip: It is recommended you enter your private session link in Orion settings, as it will allow you to use Kagi in private windows and after clearing cookies. To do this, first go to **Orion** > **Settings**.
 
