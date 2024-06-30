@@ -5,15 +5,15 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@docsearch/js": "^3.5.1",
-    "esbuild": "^0.19.3",
+    "@docsearch/js": "^3.6.0",
+    "esbuild": "^0.21.5",
     "kagi-sidekick-vitepress": "^0.0.1-alpha.15",
-    "medium-zoom": "^1.0.8",
+    "medium-zoom": "^1.1.0",
     "vitepress": "^1.0.0-beta.7",
-    "vitepress-plugin-pagefind": "^0.2.4"
+    "vitepress-plugin-pagefind": "^0.4.4"
   },
   "devDependencies": {
-    "sass": "^1.63.6"
+    "sass": "^1.77.6"
   },
   "type": "module"
 }
