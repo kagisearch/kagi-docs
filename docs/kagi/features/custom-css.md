@@ -24,7 +24,7 @@ To apply a theme:
 
 Once applied, the theme will instantly update Kagi's appearance. You can switch themes at any time to find your perfect search interface.
 
-**Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings?p=appearance) page
+**Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings?p=appearance) page.
 
 ### Dark Mustard
 
