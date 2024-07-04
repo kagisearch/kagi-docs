@@ -6,9 +6,25 @@
 
 Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
 
+Here's a proofread and improved version of the support page:
+
 ## User Themes
 
-Our users have built and shared many themes. Check out [awesome-kagi-css](https://github.com/kawaiier/awesome-kagi-css/) or themes below.
+Themes allow you to customize the look and feel of Kagi, enhancing your search experience with personalized colors, layouts, and styles.
+Our community has created and shared numerous themes, which you can explore on [awesome-kagi-css](https://github.com/kawaiier/awesome-kagi-css/) or browse the selection below.
+
+To apply a theme:
+
+1. Choose a theme and click **Get It**.
+2. Copy the CSS code.
+3. Go to the [Custom CSS](https://kagi.com/settings?p=custom_css) page.
+4. Ensure the **Enable Custom CSS** toggle is turned on.
+5. Paste the copied code into the text area.
+6. Click **Apply Custom CSS**.
+
+Once applied, the theme will instantly update Kagi's appearance. You can switch themes at any time to find your perfect search interface.
+
+**Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings?p=appearance) page
 
 ### Dark Mustard
 
