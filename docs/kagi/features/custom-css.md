@@ -116,6 +116,24 @@ by [Matt Rangel](https://github.com/MattRangel)
 <br>
 
 
+### Kagi Mathiazom
+
+by [mathiazom](https://github.com/mathiazom)  
+
+[**Get it**](https://gist.github.com/mathiazom/ccbdd3bd8ff7da8e010546fa186b1e70)
+
+| ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_desktop_1.png){ data-zoomable width="300" style="display: block; margin: 0 auto" } | ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_desktop_2.png){ data-zoomable  width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_mobile_1.png){data-zoomable width="100" height="600" style="display: block; margin: 0 auto"} | ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_mobile_2.png){data-zoomable width="100" height="600" style="display: block; margin: 0 auto"} |
+
+
+<br>
+
+---
+
+<br>
+
+
 You can collaborate on themes in the **\#appearance** channel on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
