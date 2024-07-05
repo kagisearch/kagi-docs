@@ -152,15 +152,15 @@ by [neilio](https://github.com/neilio)
 <br>
 
 
-### Cozy Theme
+### Kagi Gruvbox Dark Theme
 
-by [jamesjlyons](https://github.com/jamesjlyons)  
+by [auphone](https://auphone.net/)  
 
-[**Get it**](https://gist.github.com/jamesjlyons/26682982319ca84b7bee991eb158ce49)
+[**Get it**](https://auphone.net/posts/kagi-gruvbox-dark-theme-css/)
 
-| ![Cozy Theme](./themes/media/cozy_theme_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Cozy Theme](./themes/media/cozy_theme_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
+| ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
 |---:|---:|
-| ![Cozy Theme](./themes/media/cozy_theme_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Cozy Theme](./themes/media/cozy_theme_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+| ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
 
 
 <br>
