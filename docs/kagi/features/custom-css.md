@@ -134,6 +134,24 @@ by [mathiazom](https://github.com/mathiazom)
 <br>
 
 
+### Kagi Google-Style
+
+by [neilio](https://github.com/neilio)  
+
+[**Get it**](https://gist.github.com/neilio/c2c3495ff16c0a0401f4cf630438e1b3)
+
+| ![Kagi Google-Style Theme](./themes/media/kagi_google_style_desktop_1.png){ data-zoomable width="300" style="display: block; margin: 0 auto" } | ![Kagi Google-Style Theme](./themes/media/kagi_google_style_desktop_2.png){ data-zoomable  width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Kagi Google-Style Theme](./themes/media/kagi_google_style_mobile_1.png){data-zoomable width="100" height="600" style="display: block; margin: 0 auto"} | ![Kagi Google-Style Theme](./themes/media/kagi_google_style_mobile_2.png){data-zoomable width="100" height="600" style="display: block; margin: 0 auto"} |
+
+
+<br>
+
+---
+
+<br>
+
+
 You can collaborate on themes in the **\#appearance** channel on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
