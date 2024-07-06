@@ -9,7 +9,6 @@ You can pay for Kagi's products and services using any of the payment methods li
 - **PayPal** \* 
   - Venmo
   - iDEAL
-  - Giropay
   - Debit or credit card
 - **OpenNode**
   - Bitcoin
