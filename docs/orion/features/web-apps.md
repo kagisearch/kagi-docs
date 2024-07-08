@@ -20,11 +20,11 @@ If you expand the **Options** section using the arrow button, you can also:
 
 ## Install Site as an App from the Address Bar
 
-On sites that follow the [web application manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) specification, you will see an install icon in the address bar that makes it easy to create an app for it. To use it simply click the icon and then confirm by pressing Install.
+On sites that follow the [web application manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest) specification, you'll see an install icon in the address bar that makes it easy to create an app for the site. To use it, simply click the icon and then confirm by pressing **Install**.
 
 <br />
 
-<video src="./media/orion_install_this_site_as_an_app.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/macos_install_this_site_as_an_app.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 <br />
 
