@@ -4,7 +4,13 @@ Orion for macOS can import data from several web browsers and source files:
 
 - Safari
 - Google Chrome
+- Firefox
 - Brave
+- Microsoft Edge
+- Opera
+- Arc
+- 1Password
+- LastPass
 - Bookmarks HTML File
 - Passwords CSV File
 
