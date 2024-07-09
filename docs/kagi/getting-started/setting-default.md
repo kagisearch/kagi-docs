@@ -70,7 +70,7 @@ Extension download links:
 - [Safari for macOS/iOS](https://apps.apple.com/app/kagi-search-for-safari/id1622835804)
   - You can also scan the QR code below to download the extension on your iPhone or iPad:
 ![Kagi for Safari QR Code](./media/kagi_safari_extension_qr_code.png){width=256px data-zoomable}
-- The [xSearch](https://apps.apple.com/us/app/xsearch-for-safari/id1579902068) and [HyperWeb](https://apps.apple.com/us/app/hyperweb/id1581824571) extensions for Safari also support Kagi
+- The [xSearch](https://apps.apple.com/app/xsearch-for-safari/id1579902068), [QueryDial](https://apps.apple.com/app/querydial/id6478811925) and [HyperWeb](https://apps.apple.com/app/hyperweb/id1581824571) extensions for Safari also support Kagi
 
 If you are a macOS, iOS, or iPadOS user, you can complement your Kagi experience with the free [Orion](https://browser.kagi.com) web browser, produced by the same team that built Kagi Search.
 
