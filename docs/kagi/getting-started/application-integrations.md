@@ -4,7 +4,7 @@ Kagi can be integrated with other applications to make it easy to quickly search
 
 ## BoltAI
 
-BoltAI is a native AI app for Mac, it includes built-in support for using Kagi Search to provide context to the LLMs.
+[BoltAI](https://boltai.com) is a native AI app for Mac, it includes built-in support for using Kagi Search to provide context to the LLMs.
 To set it up, launch BoltAI and navigate to **Settings** > **Plugins** > **Kagi Search**, then select the **Settings** tab and paste your [API key](https://kagi.com/settings?p=api).
 
 **Note:** The Search API is only available in our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html) (invite-only at the moment). 
