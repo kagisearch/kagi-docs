@@ -39,7 +39,7 @@ Personalization can also be disabled for a single search via unchecking the "Per
 
 ![Personalized Option in Search Options Dropdown](./media/personalized_option.png){width=675px data-zoomable}
 
-If you need more advanced blocking features, such as specifying rules by match patterns (e.g., `*://*.example.com/*`) or by regular expressions (e.g., `/example\.(net|org)/`), the [uBlacklist](https://github.com/iorate/ublacklist?tab=readme-ov-file#ublacklist) browser extension includes support for Kagi Search.
+If you need advanced blocking features, such as specifying rules by match patterns (e.g., `*://*.example.com/*`) or by regular expressions (e.g., `/example\.(net|org)/`), the [uBlacklist](https://github.com/iorate/ublacklist?tab=readme-ov-file#ublacklist) browser extension includes support for Kagi Search.
 
 ## Domain Leaderboard
 
