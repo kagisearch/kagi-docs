@@ -2,6 +2,13 @@
 
 Kagi can be integrated with other applications to make it easy to quickly search the web from within those applications.
 
+## BoltAI
+
+[BoltAI](https://boltai.com) is a native AI app for Mac, it includes built-in support for using Kagi Search to provide context to the LLMs.
+To set it up, launch BoltAI and navigate to **Settings** > **Plugins** > **Kagi Search**, then select the **Settings** tab and paste your [API key](https://kagi.com/settings?p=api).
+
+**Note:** The Search API is only available in our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html) (invite-only at the moment). 
+
 ## Alfred
 
 [Alfred](https://www.alfredapp.com/) is a productivity application for macOS that allows you to quickly search your computer and the web. Kagi can be added as a [custom search](https://www.alfredapp.com/help/features/web-search/#custom) so that you can launch a Kagi search from within Alfred.
