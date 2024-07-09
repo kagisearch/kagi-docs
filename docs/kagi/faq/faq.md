@@ -32,13 +32,12 @@
 - [What if I find a security issue?](#what-if-i-find-a-security-issue)
 - [How do I join Kagi’s Discord server?](#how-do-i-join-kagi-s-discord-server)
 - [Where can I find examples of Custom CSS created by other users?](#where-can-i-find-examples-of-custom-css-created-by-other-users)
-- [Does Kagi support crypto / anonymous payments ?](#does-kagi-support-crypto-anonymous-payments)
+- [Does Kagi support crypto / anonymous payments?](#does-kagi-support-crypto-anonymous-payments)
 - [Does Kagi have any student discounts?](#does-kagi-have-any-student-discounts)
 - [Can I expense Kagi and Orion at work?](#can-i-expense-kagi-and-orion-at-work)
 - [How do I sign up?](#how-do-i-sign-up)
-- [Do I need to do anything to get the benefits of the new plans?](#do-i-need-to-do-anything-to-get-the-benefits-of-the-new-plans)
 - [I do not have a credit card. Can I also pay for Kagi with PayPal or crypto?](#i-do-not-have-a-credit-card-can-i-also-pay-for-kagi-with-paypal-or-crypto)
-- [Now that I don’t have to count my searches, how can I switch all my browsers and devices to Kagi?](#now-that-i-don-t-have-to-count-my-searches-how-can-i-switch-all-my-browsers-and-devices-to-kagi)
+- [How can I switch all my browsers and devices to Kagi?](#how-can-i-switch-all-my-browsers-and-devices-to-kagi)
 - [I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?](#i-notice-that-ultimate-plan-is-also-10-off-for-annual-payments-now-i-previously-had-15-off-do-i-remain-locked-in)
 - [How can I get the new Ultimate plan level features in the Family plan?](#how-can-i-get-the-new-ultimate-plan-level-features-in-the-family-plan)
 - [I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?](#i-m-keen-to-support-kagi-but-concerned-about-its-longevity-given-the-history-of-search-startups-how-can-i-be-assured-kagi-is-here-to-stay-before-making-a-commitment)
@@ -83,7 +82,6 @@ We are confident that Kagi will help you amplify your search abilities, become m
 The [age of ads is over](https://blog.kagi.com/age-pagerank-over). With Kagi, users pay for searches and get a superior product compared to the "free", ad-supported, search engines.
 
 Read our full article on [why pay for search](../why-kagi/why-pay-for-search.md).
-
 
 ## How do I get help with Kagi?
 
@@ -218,7 +216,6 @@ No. That Kagi went bankrupt in an unfortunate turn of events. We liked the name 
 
 Yes, [see here](../company/hiring-kagi.md).
 
-
 ## What if I find a security issue?
 
 If you discover potential security issues on our platform, please notify our [security contact](mailto:vlad@kagi.com).
@@ -235,7 +232,7 @@ For feature requests and bug reports, please visit [kagifeedback.org](https://ka
 
 Check [Custom CSS](../features/custom-css.md). Also check [Kagi Discord](https://kagi.com/discord) server which has an #appearance channel where people are sharing custom CSS examples.
 
-## Does Kagi support crypto / anonymous payments ?
+## Does Kagi support crypto / anonymous payments?
 
 We officially support OpenNode as a cryptocurrency payment option.
 
@@ -257,13 +254,10 @@ Upon purchasing the product subscriptions you will receive a standard invoice th
 ## How do I sign up?
 Click [here](https://kagi.com/onboarding?p=choose_plan) to become a member.
 
-## Do I need to do anything to get the benefits of the new plans?
-No, all changes were automatic and applied to your account on September 21st, 2023.
-
 ## I do not have a credit card. Can I also pay for Kagi with PayPal or crypto?
 Yes. We have recently added [new payment options](https://blog.kagi.com/accepting-paypal-bitcoin) to allow payment through credit card, PayPal and crypto through OpenNode.
 
-## Now that I don’t have to count my searches, how can I switch all my browsers and devices to Kagi?
+## How can I switch all my browsers and devices to Kagi?
 We have several options available, from easy to full manual. See [here](../getting-started/setting-default.md) for instructions.
 
 ## I notice that Ultimate plan is also 10% off for annual payments now. I previously had 15% off. Do I remain locked in?
@@ -282,7 +276,7 @@ Please visit [Billing Settings](https://kagi.com/settings?p=billing) and choose 
 Adding family members is easy, you can invite them via email from the [Family Plan Dashboard](https://kagi.com/settings?p=account_members).
 
 ## If I upgrade my plan before my renewal date will I have to pay the full amount of the new plan?
-At anytime you upgrade, the unused portion of the previous plan will be prorated as credit towards your new plan, and the new billing cycle will start on the date you upgraded your plan.
+At anytime you upgrade, the unused portion of the previous plan will be prorated as credit towards your new plan.
 
 ## If a user is part of a family plan, is there any potential for either the plan holder or the other family plan sub-users to potentially access user data from another account?
 There is no potential for users to see each other's search history or any other data. That stands even for kids' accounts as we want to keep their privacy (you should still have parental controls though).
