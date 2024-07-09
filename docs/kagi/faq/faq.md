@@ -52,6 +52,7 @@
 - [Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?](#is-using-kagi-assistant-better-in-terms-of-privacy-than-using-one-of-the-llm-models-directly)
 - [Can I use my personal account for work?](#personal-account-for-work)
 - [Do you have a warrant canary?](#warrant-canary)
+- [Why is the Giropay payment option not available?](#giropay)
 
 ## What is Kagi {#what-is-kagi}
 
@@ -322,6 +323,9 @@ However, only you may use your personal account; you may not share it with other
 <a name="warrant-canary"></a>
 ## Do you have a warrant canary? {#warrant-canary}
 Yes, our warrant canary is included in our [privacy page](https://kagi.com/privacy#warrant-canary).
+
+## Why is the Giropay payment option not available? {#giropay}
+PayPal [announced](https://www.paypal.com/us/cshelp/article/giropay-deprecation-help1183) that Giropay has been deprecated as a payment method. It is no longer available as of July 1st, 2024.​ If you relied on Giropay to add funds to your account, please explore our other [payment options](https://help.kagi.com/kagi/plans/payment-methods.html).
 
 ---
 
