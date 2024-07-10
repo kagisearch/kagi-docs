@@ -241,9 +241,9 @@ For more information, please read this [blog post](https://blog.kagi.com/accepti
 
 ## Does Kagi have any student discounts?
 
-We do not have any discounts because Kagi is not yet profitable and there is nothing to discount from. 
+We do not. 
 
-We are recently [updated our plans](https://blog.kagi.com/update-kagi-search-pricing) with unlimited searches for $10.
+See the [discussion here](https://kagifeedback.org/d/687-implement-regional-pricing) for more details.
 
 ## Can I expense Kagi and Orion at work?
 
