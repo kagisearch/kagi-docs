@@ -155,7 +155,7 @@ We are currently seeking full-stack developers who embody the following qualific
 
 If you are eager to contribute to cutting-edge projects and grow with a dynamic team, we would be thrilled to hear from you.
 
-Send your CV to [work@kagi.com](mailto:work@kagi.com).  We’ll send a test project.
+Send your CV to [labs@kagi.com](mailto:labs@kagi.com).  We’ll send a test project.
 
 ## Who you would be working with
 

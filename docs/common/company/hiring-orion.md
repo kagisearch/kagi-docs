@@ -29,7 +29,7 @@ Available specializations:
 - Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
 - Part-time and full-time is both possible.
 
-Send your CV to [work@kagi.com](mailto:work@kagi.com) and we will send a test project.
+Send your CV to [orion@kagi.com](mailto:orion@kagi.com) and we will send a test project.
 
 
 ## Who you would be working with
