@@ -12,7 +12,7 @@ To increase your chances of a timely response:
 
 - Put real effort into your application
 - Clearly demonstrate why you're a strong fit for the role
-- Be concise - we appreciate thorough applications, but don't pad unnecessarily
+- Be detailed, but get to the point. Quality over quantity.
 
 If you don't hear back quickly, it's not personal - we're just working through a backlog. Thanks for your patience and interest in Kagi..
 
