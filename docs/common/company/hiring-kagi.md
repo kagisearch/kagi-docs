@@ -14,7 +14,7 @@ To increase your chances of a timely response:
 - Clearly demonstrate why you're a strong fit for the role
 - Be detailed, but get to the point. Quality over quantity.
 
-If you don't hear back quickly, it's not personal - we're just working through a backlog. Thanks for your patience and interest in Kagi..
+If you don't hear back quickly, it's not personal - we're just working through a backlog. Thanks for your patience and interest in Kagi.
 
 ## Full-time positions
 
@@ -155,7 +155,7 @@ We are currently seeking full-stack developers who embody the following qualific
 
 If you are eager to contribute to cutting-edge projects and grow with a dynamic team, we would be thrilled to hear from you.
 
-Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
+Send your CV to [work@kagi.com](mailto:work@kagi.com).  We’ll send a test project.
 
 ## Who you would be working with
 
