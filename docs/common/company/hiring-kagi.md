@@ -137,7 +137,7 @@ As a member of the Search Index Team at Kagi, you will play a crucial role in bu
 - Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
 - We are completely user funded. Kagi is currently used by [one town worth of people](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
 
-Send your CV to [hello@kagi.com](mailto:hello@kagi.com).  We’ll send a test project.
+Send your CV to [work@kagi.com](mailto:work@kagi.com).  We’ll send a test project.
 
 ## Part-time opportunities
 
