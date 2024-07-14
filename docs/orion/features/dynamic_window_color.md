@@ -2,7 +2,7 @@
 
 <br />
 
-<video src="./media/macos_dynamic_window_color.mp4.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/macos_dynamic_window_color.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 When using the Compact tab layout, Orion for Mac automatically adapts the window color to match the current website's color scheme, providing a more immersive and visually seamless browsing experience.
 
