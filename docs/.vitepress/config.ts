@@ -413,6 +413,7 @@ function sidebarOrion() {
                         { text: 'Programmable Buttons', link: '/orion/features/programmable-buttons' },
                         { text: 'Custom Blocklists', link: '/orion/features/custom-blocklists' },
                         { text: 'Page Tweaks', link: '/orion/features/page-tweaks' },
+                        { text: 'Dynamic Window Color', link: '/orion/features/dynamic-window-color' },
                     ]
                 },
                 {
