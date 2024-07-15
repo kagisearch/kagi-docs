@@ -95,8 +95,6 @@ None of the models train on user data.
 
 ## LLM Comparison
 
-There are so many models around so felt useful to have this all in one place. Feel free to edit.
-
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
 | **GPT-4o**                    | 128K             | 5                    | 15                     |
