@@ -95,6 +95,8 @@ None of the models train on user data.
 
 ## LLM Comparison
 
+Kagi Assistant provides access to all the models in bold. Usage is included in your Kagi subscription. The prices are purely for informative purposes.
+
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
 | **GPT-4o**                    | 128K             | 5                    | 15                     |
@@ -121,4 +123,3 @@ None of the models train on user data.
 | Groq Gemma 7B          | 8K             | 0.10                  | 0.10                   |
 
 
-**Models in bold** - Available in Kagi Assistant
