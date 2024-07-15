@@ -414,6 +414,7 @@ function sidebarOrion() {
                         { text: 'Custom Blocklists', link: '/orion/features/custom-blocklists' },
                         { text: 'Page Tweaks', link: '/orion/features/page-tweaks' },
                         { text: 'Dynamic Window Color', link: '/orion/features/dynamic-window-color' },
+                        { text: 'Summarize Page', link: '/orion/features/summarize-page' },
                     ]
                 },
                 {
