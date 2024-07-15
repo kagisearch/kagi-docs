@@ -4,7 +4,7 @@
 
 <video src="./media/macos_summarize_page.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-Orion's integration with Kagi's Universal Summarizer allows you to quickly generate concise summaries of lengthy web articles, saving you valuable time.
+Orion's integration with Kagi's [Universal Summarizer](https://help.kagi.com/kagi/ai/summarize-page.html) allows you to quickly generate concise summaries of lengthy web articles, saving you valuable time.
 
 To summarize a page:
 
