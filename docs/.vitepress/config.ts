@@ -415,6 +415,7 @@ function sidebarOrion() {
                         { text: 'Page Tweaks', link: '/orion/features/page-tweaks' },
                         { text: 'Dynamic Window Color', link: '/orion/features/dynamic-window-color' },
                         { text: 'Summarize Page', link: '/orion/features/summarize-page' },
+                        { text: 'Copy Link to Selection', link: '/orion/features/copy-link-to-selection' },
                     ]
                 },
                 {
