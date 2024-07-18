@@ -100,6 +100,7 @@ Kagi Assistant provides access to all the models in bold. Usage is included in y
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
 | **GPT-4o**                    | 128K             | 5                    | 15                     |
+| GPT-4o mini                    | 128K             | 0.15                    | 0.60                     |
 | **GPT-4-Turbo**           | 128K           | 10                    | 30                     |
 | GPT-4 (8k)              | 8K             | 30                    | 60                     |
 | **GPT-4 (32k)**           | 32K            | 60                    | 120                    |
