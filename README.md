@@ -45,13 +45,15 @@ official support venues, in the [Community](#community) section.
 
 ### Community
 
-Each of our products has their own budding community. You can join us for
-wider discussion and product support at their dedicated venues:
+Each of our products has their own forum, and we encourage you to join us there.
+We also have a shared Discord server where you can discuss all of our products.
 
-Product | Feedback & Bug Reports | Discord
---------|------------------------|------------
-Kagi Search | [kagifeedback.org](https://kagifeedback.org) | [Invite Link](https://kagi.com/discord)
-Orion Browser | [orionfeedback.org](https://orionfeedback.org) | [Invite Link](https://discord.gg/EMMzT57hQT)
+Discord Invite: https://kagi.com/discord
+
+Product | Feedback & Bug Reports
+--------|-----------------------
+Kagi Search | [kagifeedback.org](https://kagifeedback.org)
+Orion Browser | [orionfeedback.org](https://orionfeedback.org)
 
 ## Contributing
 

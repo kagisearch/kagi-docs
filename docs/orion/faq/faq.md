@@ -273,7 +273,8 @@ wizzair.com - Interference with rendering of the website
 ## Help! A site isn’t working! {#compatibility}
 Orion has a "Compatibility mode" in the settings menu. Turning it on will suspend your currently running extensions (the most common cause of problems) and record the setting for this website so it works when you visit it again. 
 
-If the site still fails, you may want to test it in Safari. If it works there, please report the problem to us via our [Orion beta Discord server](https://discord.com/invite/gKh5E6ys6D).
+If the site still fails, you may want to test it in Safari. If it works there,
+please report the problem to us via our [Discord server](https://kagi.com/discord).
 
 <a name="issuetracker"></a>
 ## Is there a public issue tracker? {#issuetracker}
