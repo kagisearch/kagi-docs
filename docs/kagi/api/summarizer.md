@@ -228,7 +228,7 @@ Engine | Description
 -------|-----------
 cecil (default) | Friendly, descriptive, fast summary
 agnes  | Formal, technical, analytical summary
-daphne | Same as Agnes (Soon-to-be-depracated)
+daphne | Same as Agnes (Soon-to-be-deprecated)
 muriel | Best-in-class summary using our enterprise-grade model
 
 ### Target Language Codes

@@ -21,7 +21,7 @@ and to the discussion.
 
 ## Discord
 
-In addition, you can also [join our Discord!](discord-server.md) for real-time discussion about
+In addition, you can also [join our Discord](discord-server.md) for real-time discussion about
 the product and chat with other Orion users.
 
 ## Documentation

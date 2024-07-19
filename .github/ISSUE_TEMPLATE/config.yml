@@ -12,14 +12,10 @@ contact_links:
     url: https://kagifeedback.org
     about: If you have found a bug or have feedback for Kagi Search that is unrelated to the API or documentation, please open a ticket on this forum.
 
-  - name: Kagi Search Discord Server
+  - name: Kagi Discord Server
     url: https://kagi.com/discord
-    about: Chat with the Kagi Search developers and community for small questions, sharing ideas, and casual discussion.
+    about: Chat with the Kagi and Orion developers and community for small questions, sharing ideas, and casual discussion.
 
   - name: Orion Browser feedback, bug reports, and feature requests
     url: https://orionfeedback.org
     about: If you have found a bug or have feedback for the Orion Browser that is unrelated to its documentation, please open a ticket on this forum.
-
-  - name: Orion Browser Discord Server
-    url: https://discord.gg/EMMzT57hQT
-    about: Chat with the Orion developers and community for small questions, sharing ideas, and casual discussion.

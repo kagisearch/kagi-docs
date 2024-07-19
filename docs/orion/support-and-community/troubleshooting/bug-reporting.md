@@ -15,7 +15,7 @@ for any bug report. lease include a clear list of instructions to reproduce the 
 If we can not reproduce the problem, we are not able to fix it.
 
 **Important note**: Most likely cause of problems on web pages is Content blocking
-and Web extension. You can rule out both quickly by enabling [Compatibilty mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode).
+and Web extension. You can rule out both quickly by enabling [Compatibility mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode).
 
 The second most likely cause of issues is WebKit, Orion's rendering engine.
 This is why we will ask you to check if the same problems exists in Safari
@@ -50,7 +50,7 @@ About menu if unsure. There is a lot of debug information available in Help
 
 Sometimes there are a few things you can do to help us narrow down certain issues. Depending on the problem, you can try:
 
-- Turn on [Compatibilty mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode)
+- Turn on [Compatibility mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode)
 - Disabling all browser extensions
 - Restarting Orion
 
