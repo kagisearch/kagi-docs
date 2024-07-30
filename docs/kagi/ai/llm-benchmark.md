@@ -14,18 +14,21 @@ Last updated **July 26 2024**.
 
 | Model                                    | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) | Accuracy |
 |------------------------------------------|--------|----------------|--------------------|--------------------|----------|
-| OpenAI gpt-4o                            | 7482   | 0.14310        | 1.60               | 48.00              | 52.00%   |
-| Anthropic Claude-3.5-sonnet-20240620     | 6595   | 0.12018        | 2.54               | 48.90              | 46.00%   |
-| Mistral large-latest                     | 5097   | 0.06787        | 3.08               | 18.03              | 44.00%   |
-| Groq llama-3.1-70b-versatile             | 5190   | 0.00781        | 0.71               | 81.62              | 40.00%   |
-| OpenAI gpt-4o-mini                       | 6029   | 0.00451        | 1.64               | 36.92              | 34.00%   |
-| DeepSeek chat                            | 7310   | 0.00304        | 4.81               | 17.20              | 32.00%   |
-| Anthropic Claude-3-haiku-20240307        | 5642   | 0.00881        | 1.33               | 55.46              | 28.00%   |
-| Groq llama-3.1-8b-instant                | 6628   | 0.00085        | 2.26               | 82.02              | 28.00%   |
-| DeepSeek coder                           | 8079   | 0.00327        | 4.13               | 16.72              | 28.00%   |
-| OpenAI gpt-4                             | 2477   | 0.33408        | 1.32               | 16.68              | 26.00%   |
-| Mistral open-mistral-nemo                | 4135   | 0.00323        | 0.65               | 82.65              | 22.00%   |
-| OpenAI gpt-3.5-turbo                     | 1569   | 0.01552        | 0.51               | 45.03              | 22.00%   |
+| **OpenAI gpt-4o**                            | 7482   | 0.14310        | 1.60               | 48.00              | 52.00%   |
+| **Anthropic Claude-3.5-sonnet-20240620**     | 6595   | 0.12018        | 2.54               | 48.90              | 46.00%   |
+| **Mistral large-latest**                     | 5097   | 0.06787        | 3.08               | 18.03              | 44.00%   |
+| **Groq llama-3.1-70b-versatile**             | 5190   | 0.00781        | 0.71               | 81.62              | 40.00%   |
+| **Reka reka-core**  |  6966  | 0.12401  |     6.21    |       17.56        |   36.00%   |
+| **OpenAI gpt-4o-mini**                       | 6029   | 0.00451        | 1.64               | 36.92              | 34.00%   |
+| **DeepSeek deepseek-chat**                            | 7310   | 0.00304        | 4.81               | 17.20              | 32.00%   |
+| **Anthropic Claude-3-haiku-20240307**        | 5642   | 0.00881        | 1.33               | 55.46              | 28.00%   |
+| **Groq llama-3.1-8b-instant**                | 6628   | 0.00085        | 2.26               | 82.02              | 28.00%   |
+| **DeepSeek deepseek-coder**                           | 8079   | 0.00327        | 4.13               | 16.72              | 28.00%   |
+| **OpenAI gpt-4**                             | 2477   | 0.33408        | 1.32               | 16.68              | 26.00%   |
+| **Mistral open-mistral-nemo**               | 4135   | 0.00323        | 0.65               | 82.65              | 22.00%   |
+| **OpenAI gpt-3.5-turbo**                     | 1569   | 0.01552        | 0.51               | 45.03              | 22.00%   |
+| **Reka reka-edge**  |  5377  | 0.00798  |     2.02    |       46.87        |   20.00%   |
+| **Reka reka-flash** |  5738  | 0.01668  |     3.28    |       28.75        |   16.00%   |
 
 As models get more advanced and to prevent leaking test to training data, we periodically update the benchmarks with harder questions to have reasonable distribution of model scores.
 
