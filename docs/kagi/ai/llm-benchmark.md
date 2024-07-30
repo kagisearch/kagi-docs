@@ -118,3 +118,6 @@ The table below is updated to the best of our abilities, feel free to submit cha
 [Kagi Assistant](./assistant.md) provides access to all the models in bold. Usage is included in your Kagi subscription.
 
 
+## Credits
+
+Kagi LLM Benchmarking Project is inspired by [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) and [Aider LLM coding leaderboard](https://aider.chat/docs/leaderboards/).
