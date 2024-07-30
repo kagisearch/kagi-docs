@@ -93,5 +93,5 @@ The Privacy column in the scorecard rates each model based on how it handles use
 
 None of the models train on user data.
 
-Check also [Kagi LLM Benchmarking Project](./llm-benchmarking.md)
+Check also [Kagi LLM Benchmarking Project](./llm-benchmark.md)
 
