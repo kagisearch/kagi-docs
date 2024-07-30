@@ -28,9 +28,9 @@ Last updated **July 29, 2024**.
 | Reka **reka-flash** | 16.00 | 5738 | 0.01668 | 3.28 | 28.75 |
 
 
-This approach measures the models' potential and adaptability, with some bias towards features essential for [Kagi LLM features](./kagi-ai.md) (mostly around reasoning and instruction following capabilties, see examples below).
+The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency abd average speed in tokens per second at the time of testing.
 
-The table includes metrics such as total tokens output (some models are less verbose by default afecting both cost and speed), total cost to run the test, median response latency, average speed in tokens per second and overall test accuracy.
+This approach measures the models' potential and adaptability, with some bias towards features essential for [Kagi LLM features](./kagi-ai.md) (mostly around reasoning and instruction following capabilties, see examples below).
 
 As models get more advanced and to prevent leaking test to training data, we periodically update the benchmarks with harder questions to have reasonable distribution of model scores.
 
