@@ -225,7 +225,7 @@ function sidebarKagi() {
                         { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
                         { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
                         { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
-                        { text: 'Kagi LLM Benchmarking Project', link: '/kagi/ai/llm-benchmarking' },
+                        { text: 'Kagi LLM Benchmarking Project', link: '/kagi/ai/llm-benchmark' },
                     ]
                 },
                 {
