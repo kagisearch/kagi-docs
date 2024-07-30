@@ -25,6 +25,8 @@ Last updated July 26 2024.
 | MistralProvider('open-mistral-nemo')     | 4135   | 0.00323        | 0.65               | 82.65              | 22.00%   |
 | OpenAIProvider('gpt-3.5-turbo')          | 1569   | 0.01552        | 0.51               | 45.03              | 22.00%   |
 
+As models get more advanced and to prevent leaking test to training data, we periodically update the benchmarks with harder questions to have reasonable distribution of model scores.
+
 ## Benchmark details
 
 The benchmark is meant to be hard so we can reasonably evaluate current capabilities of LLMs.
