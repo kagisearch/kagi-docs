@@ -93,34 +93,5 @@ The Privacy column in the scorecard rates each model based on how it handles use
 
 None of the models train on user data.
 
-## LLM Comparison
-
-Kagi Assistant provides access to all the models in bold. Usage is included in your Kagi subscription. The prices are purely for informative purposes.
-
-| LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
-|------------------------|----------------|-----------------------|------------------------|
-| **GPT-4o**                    | 128K             | 5                    | 15                     |
-| GPT-4o mini                    | 128K             | 0.15                    | 0.60                     |
-| **GPT-4-Turbo**           | 128K           | 10                    | 30                     |
-| GPT-4 (8k)              | 8K             | 30                    | 60                     |
-| **GPT-4 (32k)**           | 32K            | 60                    | 120                    |
-| **GPT-3.5-Turbo**         | 16K            | 0.5                   | 1.5                    |
-| **Claude 3 Haiku**        | 200K           | 0.25                  | 1.25                   |
-| **Claude 3.5 Sonnet**       | 200K           | 3                     | 15                     |
-| **Claude 3 Opus**         | 200K           | 15                    | 75                     |
-| **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                     | 10.50/21                     |
-| Gemini 1.5 Flash (128K/1M)        | 1M             | 0.35/0.70                     | 0.53/1.05                     |
-| **Mistral Small**         | 8K             | 2                     | 6                      |
-| **Mistral Medium**        | 8K             | 2.7                   | 8.1                    |
-| **Mistral Large**         | 8K             | 8                     | 24                     |
-| Reka Core              | 128K           | 10                    | 25                     |
-| Reka Flash             | 128K           | 0.8                   | 2                      |
-| Reka Edge              | 128K           | 0.4                   | 1                      |
-| Cohere Command R+      | 128K           | 3                     | 15                     |
-| Cohere Command R       | 128K           | 0.50                  | 1.50                   |
-| Groq Llama 3 70B       | 8K             | 0.59                  | 0.79                   |
-| Groq Llama 3 8B        | 8K             | 0.05                  | 0.10                   |
-| Groq Mixtral 8x7B      | 32K            | 0.27                  | 0.27                   |
-| Groq Gemma 7B          | 8K             | 0.10                  | 0.10                   |
-
+Check also [Kagi LLM Benchmarking Project](./llm-benchmarking.md)
 
