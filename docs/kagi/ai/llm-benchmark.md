@@ -31,7 +31,7 @@ Last updated **July 29, 2024**.
 | GoogleGenAI **gemini-1.5-pro**  |   12.00   | 5284  | 0.27762  |     3.32    |       16.49        |  
 
 
-The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency abd average speed in tokens per second at the time of testing.
+The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
 
 This approach measures the models' potential and adaptability, with some bias towards features essential for [Kagi LLM features](./kagi-ai.md) (mostly around reasoning and instruction following capabilties, see examples below).
 
