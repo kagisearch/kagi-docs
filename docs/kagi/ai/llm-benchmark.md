@@ -72,7 +72,7 @@ What does this program do, in one sentence?
 
 ## LLM Pricing comparison
 
-In addition to quality and speed, we are also interested in the cost of LLMs. 
+In addition to quality and speed, we are also interested in the cost of using contemporary LLMs. 
 
 The table below is updated to the best of our abilities, feel free to submit changes by editing this page.
 
