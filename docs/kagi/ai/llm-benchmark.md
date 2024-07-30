@@ -23,9 +23,12 @@ Last updated **July 29, 2024**.
 | DeepSeek **deepseek-coder** | 28.00 | 8079 | 0.00327 | 4.13 | 16.72 |
 | OpenAI **gpt-4** | 26.00 | 2477 | 0.33408 | 1.32 | 16.68 |
 | Mistral **open-mistral-nemo** | 22.00 | 4135 | 0.00323 | 0.65 | 82.65 |
+|       Groq **gemma2-9b-it**     |   22.00   | 4889  | 0.00249  |     1.69    |       54.39        |  
 | OpenAI **gpt-3.5-turbo** | 22.00 | 1569 | 0.01552 | 0.51 | 45.03 |
 | Reka **reka-edge** | 20.00 | 5377 | 0.00798 | 2.02 | 46.87 |
 | Reka **reka-flash** | 16.00 | 5738 | 0.01668 | 3.28 | 28.75 |
+| GoogleGenAI **gemini-1.5-flash** |  14.00   | 5287  | 0.02777  |     3.02    |       21.16        |   
+| GoogleGenAI **gemini-1.5-pro**  |   12.00   | 5284  | 0.27762  |     3.32    |       16.49        |  
 
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency abd average speed in tokens per second at the time of testing.
