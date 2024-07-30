@@ -218,13 +218,14 @@ function sidebarKagi() {
                     ]
                 },
                 {
-                    text: 'AI Features', link: '/kagi/ai/kagi-ai',
+                    text: 'LLM Features', link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
                         { text: 'Assistant', link: '/kagi/ai/assistant' },
                         { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
                         { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
-                        { text: 'Discuss', link: '/kagi/ai/ask-questions' },
+                        { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
+                        { text: 'Kagi LLM Benchmarking Project', link: '/kagi/ai/llm-benchmarking' },
                     ]
                 },
                 {
