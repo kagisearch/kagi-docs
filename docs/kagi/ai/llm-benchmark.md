@@ -4,7 +4,9 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 ## LLM Benchmarks
 
-Using an unpolluted benchmark, the Kagi LLM Benchmarking Project measures the performance of contemporary large language models (LLMs) through diverse and challenging tasks. Unlike widely used benchmarks, our tests frequently change and are mostly novel to LLMs, providing a rigorous assessment of their capabilities. This approach ensures an accurate measurement of the models' potential and adaptability, somewhat biased towards focusing on skills essential for implementing [Kagi LLM features](./kagi-ai.md).
+Using an unpolluted benchmark, the Kagi LLM Benchmarking Project measures the performance of contemporary large language models (LLMs) through diverse and challenging tasks. Unlike widely used benchmarks, our tests frequently change and are mostly novel to LLMs, providing a rigorous assessment of their capabilities. This approach ensures an accurate measurement of the models' potential and adaptability, but is somewhat biased towards capabilities essential for implementing [Kagi LLM features](./kagi-ai.md).
+
+The table measures total tokens output by the model in the benchmark (some models are less verbose by default afecting both cost and speed), total cost at current price, median latency for answer, average speed in tokens per second and overall test accuracy.
 
 Last updated July 26 2024.
 
