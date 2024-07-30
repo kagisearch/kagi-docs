@@ -1,6 +1,6 @@
 # Kagi LLM Benchmarking Project
 
-Introducing the Kagi LLM Benchmarking Project, which evaluates major large language models (LLMs) on their reasoning, coding, and generalization capabilities.
+Introducing the Kagi LLM Benchmarking Project, which evaluates major large language models (LLMs) on their reasoning, coding, and instruction following capabilities.
 
 ## LLM Benchmarks
 
@@ -34,6 +34,10 @@ As models get more advanced and to prevent leaking test to training data, we per
 The benchmark is meant to be hard so we can reasonably evaluate current capabilities of LLMs.
 
 Example questions include:
+
+```
+What is the capital of Finland? If it begins with the letter H, respond 'Oslo' otherwise respond 'Helsinki'.
+```
 
 ```
 What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R/2bN4/4Q1BK/1p6/1bq1R1rb w - - 0 1
