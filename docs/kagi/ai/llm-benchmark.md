@@ -33,7 +33,7 @@ Last updated **July 29, 2024**.
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
 
-This approach measures the models' potential and adaptability, with some bias towards features essential for [Kagi LLM features](./kagi-ai.md) (mostly around reasoning and instruction following capabilties, see examples below).
+This approach measures the models' potential and adaptability, with some bias towards features essential for [Kagi LLM features](./assistant.md) (mostly around reasoning and instruction following capabilties, see examples below).
 
 As models get more advanced and to prevent leaking test to training data, we periodically update the benchmarks with harder questions to have reasonable distribution of model scores.
 
