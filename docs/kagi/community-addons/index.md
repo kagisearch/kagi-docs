@@ -71,3 +71,7 @@ Some of the features are:
 - **Home Widget**: Includes a home screen widget for quick actions, enhancing productivity.
 - **Speech Input**: Supports voice commands for hands-free operation and accessibility.
 - **PDF processing**: Open and directly summarize/prompt PDF documents.
+
+## kago! for kagi
+
+[kago! for kagi](https://play.google.com/store/apps/details?id=com.ryvelia.kago) is a community-developed app designed to bring the search capabilities of Kagi to mobile devices, similar to how Google Go functions. Built using Flutter, this app focuses on providing a fast and easy search experience for users on the go. It is an uncommercial project, aiming to improve accessibility without any commercial intent, and will soon be open-sourced to allow for community contributions. Currently, Kago! for Kagi is available only for Android, and you can find it on the [Google Play Store](https://play.google.com/store/apps/details?id=com.ryvelia.kago).
