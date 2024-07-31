@@ -9,18 +9,13 @@ next:
 
 ## Customer Support
 
-Feel free to [email us](email-support.md) or use the [Kagi Search Discord server](https://kagi.com/discord) for support.
+Feel free to email us at [support@kagi.com](mailto:support@kagi.com) from your Kagi account email address.
 
-Before contacting us for support please check if your issue has been addressed in this documentation (we are really proud of it and it is also open source and editable).
-
-## Blog
-
-We blog at [blog.kagi.com](https://blog.kagi.com/blog) about company updates product features and other important news.
-You can subscribe to our [blog's RSS feed](https://blog.kagi.com/rss.xml).
+Before contacting us for support, please check if your issue has been addressed in this documentation (we are really proud of it and it is open source and editable).
 
 ## Discord
 
-We have a [Kagi Search Discord server](https://kagi.com/discord) where you can join our community for real-time discussion about the product and chat with other Kagi users.
+We have a [Kagi Community Discord server](https://kagi.com/discord) where you can join our community for real-time discussion about the product and chat with other Kagi users.
 
 Please use the **#introduce-yourself** channel to say hello and let everyone know a bit about you.
 
@@ -34,6 +29,11 @@ You can join [KagiFeedback.org](https://kagifeedback.org/) to see the bug report
 
 - Please see our [Bug Reporting Guide](bug-reporting.md) for instructions on reporting issues.
 - All bugs and feature requests are encouraged to be posted on the forum.
+
+## Blog
+
+We blog at [blog.kagi.com](https://blog.kagi.com/blog) about company updates product features and other important news.
+You can subscribe to our [blog's RSS feed](https://blog.kagi.com/rss.xml).
 
 ## Roadmap
 
