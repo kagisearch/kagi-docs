@@ -20,5 +20,7 @@ The Page Summary panel will appear on the right side of the window, offering the
   - **Summary**: A concise paragraph-style overview.
 - **Language**: Select the output language for the summary. This can differ from the original page language, helping you understand content in unfamiliar languages.
 
+You can adjust the font and font size of the summary by clicking the **aA** button in the top-right corner of the panel.
+
 **Tip**: Use this feature to quickly grasp the main ideas of long articles, research papers, or news stories, enhancing your browsing efficiency.
 
