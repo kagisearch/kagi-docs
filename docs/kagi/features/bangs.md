@@ -116,7 +116,7 @@ zm   | Zambia
 
 ### Kagi Assistant bangs
 
-> **Note:** Kagi Assistant is currently in closed beta and only available to Ultimate plan members. If you are not part of the beta, these bangs will not work as described below.
+> **Note:** Kagi Assistant is currently in open beta and available to Ultimate plan members. If you are not part of the beta, these bangs will not work as described below.
 
 - **!fast** \<query> - Fast Assistant. Kagi search coupled with a fast AI model. Optimized for speed, while not sacrificing quality.
 - **!expert** \<query> - Expert Assistant. Multiple Kagi searches (and external services) together with the best available AI model for the highest accuracy and comprehensive responses.
