@@ -101,7 +101,7 @@ The table below is updated to the best of our abilities, feel free to submit cha
 | **Claude 3.5 Sonnet**       | 200K           | 3                     | 15                     |
 | **Claude 3 Opus**         | 200K           | 15                    | 75                     |
 | **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                     | 10.50/21                     |
-| Gemini 1.5 Flash (128K/1M)        | 1M             | 0.35/0.70                     | 0.53/1.05                     |
+| Gemini 1.5 Flash (128K/1M)        | 1M             | 0.075/0.15                     | 0.3/0.6                     |
 | **Mistral Small**         | 8K             | 2                     | 6                      |
 | **Mistral Medium**        | 8K             | 2.7                   | 8.1                    |
 | **Mistral Large**         | 8K             | 8                     | 24                     |
