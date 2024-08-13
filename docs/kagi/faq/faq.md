@@ -116,7 +116,7 @@ Read more about [Session Link](../privacy/private-browser-sessions.md).
 
 ## Why does Kagi Search require an account?
 
-Kagi Search requires an account only because it is a paid service which requires an account for the transaction.
+Kagi Search requires an account only because it is a paid service which requires an account for the transaction. Kagi is a paid service because we want to show you high quality, unbiased search results that are in your best interest. Ad supported search engines will always bias towards what the advertisers (their real customers) demand.
 
 Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as [Privacy](https://privacy.com/) if you want to.
 
