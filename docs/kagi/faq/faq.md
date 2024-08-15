@@ -1,3 +1,8 @@
+---
+next:
+  text: 'Billing / Sales Tax / VAT FAQ'
+  link: '/kagi/faq/sales-tax-vat'
+---
 # Frequently Asked Questions (FAQ)
 
 ## Table of Contents
