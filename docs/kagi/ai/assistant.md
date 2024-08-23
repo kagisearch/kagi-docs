@@ -30,7 +30,7 @@ Code assistant is tuned for programming tasks and uses a powerful AI model for p
 
 ![Kagi Assistant - Code](./media/assistant_code.png){width=500px data-zoomable}
 
-For Starter and Professional members this mode uses `gpt-3.5-turbo`, and for Ultimate members it uses `gpt-4o`.
+This mode uses `gpt-4o`.
 
 Access directly with the `!code` bang.
 
@@ -44,18 +44,18 @@ This mode supports the following models:
 
 - OpenAI
   - GPT 3.5 Turbo
-  - GPT 4 (for Ultimate members)
-  - GPT 4 Turbo (for Ultimate members)
-  - GPT 4o (for Ultimate members)
+  - GPT 4
+  - GPT 4 Turbo
+  - GPT 4o
 - Anthropic
   - Claude 3 Haiku
   - Claude 3.5 Sonnet
-  - Claude 3 Opus (for Ultimate members)
+  - Claude 3 Opus
 - Google
-  - Gemini Pro (for Ultimate members)
+  - Gemini Pro
 - Mistral AI
   - Mistral Small
-  - Mistral Large (for Ultimate members)
+  - Mistral Large
  
 Access directly with the `!chat` bang.
 
