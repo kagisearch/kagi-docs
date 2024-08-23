@@ -45,7 +45,7 @@ This mode supports the following models:
 - OpenAI
   - GPT 3.5 Turbo
   - GPT 4
-  - GPT 4
+  - GPT 4 Turbo
   - GPT 4o
 - Anthropic
   - Claude 3 Haiku
