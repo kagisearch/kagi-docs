@@ -59,6 +59,7 @@ next:
 - [Can I use my personal account for work?](#personal-account-for-work)
 - [Do you have a warrant canary?](#warrant-canary)
 - [Why is the Giropay payment option not available?](#giropay)
+- [I am trying to purchase a subscription, but the field to input my billing address is grayed out and I'm unable to type in it](#billing-address-is-grayed-out)
 
 ## What is Kagi {#what-is-kagi}
 
@@ -335,6 +336,14 @@ Yes, our warrant canary is included in our [privacy page](https://kagi.com/priva
 
 ## Why is the Giropay payment option not available? {#giropay}
 PayPal [announced](https://www.paypal.com/us/cshelp/article/giropay-deprecation-help1183) that Giropay has been deprecated as a payment method. It is no longer available as of July 1st, 2024.​ If you relied on Giropay to add funds to your account, please explore our other [payment options](https://help.kagi.com/kagi/plans/payment-methods.html).
+
+## I am trying to purchase a subscription, but the field to input my billing address is grayed out and I'm unable to type in it {#billing-address-is-grayed-out}
+This is because you are using Stripe's "Link" feature for fast payments.
+You can update your address by visiting [Stripe's "Link" management page](https://app.link.com/login).
+
+After updating your address, you can return to the [Kagi sign-up page](https://kagi.com/onboarding?p=choose_plan) to complete your subscription purchase. 
+
+**Note:** Remember we only need your country (and zip code if in the US) to determine the appropriate sales tax or VAT.
 
 ---
 
