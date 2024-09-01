@@ -24,6 +24,7 @@ next:
 - [Where are your results coming from?](#where-are-your-results-coming-from)
 - [How fast is Kagi Search?](#how-fast-is-kagi-search)
 - [How do Kagi's features compare to other search engines?](#how-do-kagi-s-features-compare-to-other-search-engines)
+- [Can I use my Kagi account on multiple devices?](#use-account-on-multiple-devices)
 - [How are searches counted?](#how-are-searches-counted)
 - [Why is Kagi focusing on AI and Orion Browser as well?](#why-is-kagi-focusing-on-ai-and-orion-browser-as-well)
 - [How do you balance development of AI features and Search?](#how-do-you-balance-development-of-ai-features-and-search)
@@ -167,6 +168,9 @@ We are...ahem...[fast](../search-details/search-speed.md).
 ## How do Kagi's features compare to other search engines?
 
 Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in other search engines.
+
+## Can I use my Kagi account on multiple devices? {#use-account-on-multiple-devices}
+Yes, you can use your Kagi membership on all your devices, as long as you don't share your account. You can also log in on multiple web browsers on the same device.
 
 ## How are searches counted?
 
