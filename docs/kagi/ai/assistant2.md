@@ -1,5 +1,7 @@
 # The Assistant by Kagi
 
+<br>
+
 <video src="./media/assistant.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 The Assistant by Kagi combines the unparalleled results of Kagi Search with the latest large language models (LLM), making it the perfect companion for creative, research, and programming tasks --- alongside everything else you can think of!
