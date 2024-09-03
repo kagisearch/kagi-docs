@@ -1,4 +1,4 @@
-# Kagi AI Integration Philosophy
+# Kagi's AI Integration Philosophy
 
 Generative AI is a hot topic, but the technology still has flaws. Critics of AI go as far to [say](https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html) that "*[AI] will degrade our science and debase our ethics by incorporating into our technology a fundamentally flawed conception of language and knowledge*".
 
