@@ -21,7 +21,7 @@ The Assistant by Kagi combines the unparalleled results of Kagi Search with the 
 
 ## Privacy
 
-When you use Assistant by Kagi, your data is never used to train AI models, and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity (can be adjusted in [settings](https://kagi.com/settings/?p=assistant)).
+When you use Assistant by Kagi, your data is never used to train AI models, and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity (can be adjusted in [settings](https://kagi.com/settings/?p=assistant).
 
 ## Using the Assistant
 
