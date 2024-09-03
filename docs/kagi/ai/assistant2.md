@@ -11,7 +11,7 @@ The Assistant by Kagi combines the unparalleled results of Kagi Search with the 
 - Access to the latest and most performant large language models from OpenAI, Anthropic, Mistral and Google
 - Multiple [custom assistants](#custom-assistants)
 - The ability to control whether the Assistant has web access (powered by Kagi Search).
-- Applying Kagi Search [Lenses](https://help.kagi.com/kagi/features/lenses.html) and [Personalized Results](https://help.kagi.com/kagi/features/website-info-personalized-results.html#personalized-results) to the Assistant searches
+- Applying Kagi Search [Lenses](../features/lenses.md) and [Personalized Results](../features/website-info-personalized-results.md) to the Assistant searches
 - Switch between multiple threads from a single window
 - Saving Assistant threads
 - Altering the Assistant configuration within the thread
