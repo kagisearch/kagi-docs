@@ -21,7 +21,7 @@ The Assistant by Kagi combines the unparalleled results of Kagi Search with the 
 
 ## Privacy
 
-When you use Assistant by Kagi, your data is never used to train AI models, and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity (can be adjusted in [settings](https://kagi.com/settings/?p=assistant).
+When you use Assistant by Kagi, your data is never used to train AI models, and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity (can be adjusted in [settings](https://kagi.com/settings/?p=assistant)).
 
 ## Using the Assistant
 
@@ -49,11 +49,7 @@ Threads can be renamed, added to Quick Access, shared, deleted, and downloaded v
 The Quick Access feature can be used to better organize your threads but it will not influence the thread saving setting.
 In other words, threads added to Quick Access will also be deleted after 24 hours unless you have chosen otherwise in the settings.
 
-You can also **preserve** threads with the star (<i class="icon-xs"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
-<path d="M21.75 12V21.75H12A9.75 9.75 0 1121.75 12Z"></path>
-<path class="saved" d="M12.3137 15.9498L8.41415 18L9.15906 13.6576L6 10.5825L10.3595 9.95072L12.3093 6L14.259 9.95072L18.6185 10.5825L15.4595 13.6576L16.2044 18L12.3137 15.9498Z"></path>
-</svg>
-</i>) symbol, located to the left of the thread title.
+You can also **preserve** threads with the star symbol, located to the left of the thread title.
 Preserved threads do not expire.
 
 ## Custom Instructions
