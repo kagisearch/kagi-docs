@@ -113,4 +113,6 @@ The Assistant provides access to the following LLMs:
 - Google
 	- Gemini Pro
 
+We also plan to add Llama models from Meta soon.
+
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
