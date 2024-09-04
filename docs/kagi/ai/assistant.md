@@ -116,3 +116,18 @@ The Assistant provides access to the following LLMs:
 We also plan to add Llama models from Meta soon.
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
+
+## Availability
+
+The Assistant is available to all Kagi Ultimate members.
+If you are on a different plan you can upgrade from the [Billing Settings](https://kagi.com/settings?p=billing_plan) page.
+
+We also offer an Ultimate upgrade for Family Plans, you can upgrade from the [Family Management](https://kagi.com/settings?p=account_members) page.
+
+## FAQ
+
+**Q**: Does the Assistant have file upload capability?
+**A**: The Assistant will have file upload capabilities very soon (work in progress). In the meantime, you can continue to use the [legacy Assistant](https://kagi.com/v1_assistant).
+
+**Q**: What is Kagi’s stance about using LLMs in search?
+**A**: We are continue to relentlessly focus on the core search experience and build thoughtfully integrated features on top of it. Read more about it in our [AI Integration Philosophy](../why-kagi/ai-philosophy.md) page.
