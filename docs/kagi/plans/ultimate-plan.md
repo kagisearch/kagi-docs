@@ -2,9 +2,9 @@
 
 The Kagi Ultimate Plan provides the premier Kagi experience. The plan costs $25/month.
 
-## Exclusive and Early Access to Kagi Features
+## Access to The Assistant by Kagi
 
-Exclusive and early access to Kagi features and services. (Starting September 21st, we’re giving Ultimate Plan users access to the closed beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.)
+[The Assistant by Kagi](../ai/assistant.md) combines the unparalleled results of Kagi Search with the latest large language models (LLM), making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of!
 
 ## Discounted access to Kagi API services
 
