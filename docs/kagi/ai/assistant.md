@@ -68,9 +68,7 @@ You can, for instance, instruct the Assistant to be more succinct or to consider
 You can create Custom Assistants in the [Assistant Settings](https://kagi.com/settings?p=assistant).
 It is possible to customize the LLM, settings (the use of web access, lenses, and personalized results), and the instructions for each Custom Assistant.
 
-Assistant comes with two predefined Custom Assistants:
-- **Code**. Optimized for programming tasks. It uses Claude 3.5 Sonnet and has web access.
-- **Research**. Optimized for information retrieval tasks. It relies on GPT-4o and has web access.
+The Assistant comes with a **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 3.5 Sonnet and has web access.
 
 ## Keyboard Shortcuts {#keyboard-shortcuts}
 
