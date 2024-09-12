@@ -26,6 +26,14 @@ We feel our approach is in line with our values. In the unlikely event of not fi
 
 ## Avoiding Censorship and Bias
 
-We do our best to avoid censorship and bias. Some results from traditional sources will reflect biases, but they’ll be balanced by results from other sources. Also, we have built product features to help with bias reduction. For example, our "World News" [Lens](../features/lenses.md) includes articles from respectable media outlets across the globe.
+As a search engine Kagi is used to find a wide variety of information to inform and improve its user’s lives. There is, however, a wide variety of content online that some may find distasteful, problematic, or immoral.
 
-One of the signals that does influence our ranking is the presence of ads or trackers. We penalize bloated sites regardless of their agendas.
+This raises difficult questions about whether Kagi should censor information found on the open web or augment results with messaging to inform the user they may be making poor choices.
+
+We do not censor information and we take our responsibility to serve our users and society seriously. When evaluating these types of decisions we use the following principles.
+
+- Be transparent about how we think about and make decisions; we seek alternative perspectives and feedback and engage in discussions in public forums.
+- These are decisions where reasonable people can disagree. We try to ensure that difficult decisions are based on well defined and agreed principles rather than arbitrarily made. Whenever possible we will yield the decision making power to the user (for example through [personalization](../features/website-info-personalized-results.md) features). 
+- If we cannot define workable principles we seek to create accountability for the people making what end up being arbitrary decisions.
+- Ideally many of these decisions with societal impact are made not by a company's employees, but by representative governments. We abide by all applicable laws governing what information people should be able to find online.
+

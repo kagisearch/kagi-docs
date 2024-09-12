@@ -7,7 +7,9 @@
   - [Setting up the Extension](#setting_up_extension)
     - [Google Chrome](#setting_up_extension_google_chrome)
     - [Safari for Mac](#setting_up_extension_safari_mac)
+	    - [Choosing a Search Engine to Redirect (Mac)](#choosing_a_search_engine_to_redirect_mac)
     - [Safari for iOS](#setting_up_extension_safari_ios)
+	    - [Choosing a Search Engine to Redirect (iOS)](#choosing_a_search_engine_to_redirect_ios)
   - [Note for Safari Users: Browsing History](#safari_extension)
   - [Note for Brave Browser Users](#brave_extension)
   - [Note for Opera Browser Users](#opera_extension)
@@ -106,6 +108,20 @@ To set up the Kagi extension for Safari on macOS click on the extension icon in 
 
 <img src="./media/macos_setting_default_4_safari_extension.png" width="500" alt="Kagi Extension for Safari"><br />
 
+##### Choosing a Search Engine to Redirect (Mac) {#choosing_a_search_engine_to_redirect_mac}
+
+By default, the Kagi Search extension for Safari will redirect searches from any search engine to Kagi. For a better experience, we recommend selecting a single search engine to redirect (DuckDuckGo or Ecosia are recommended options as they have better privacy policies than other alternatives). You can accomplish this by following these steps:
+
+1. Open **Safari**.
+2. In the menu bar, go to **Safari** > **Settings**.
+3. Click on the **Search** tab.
+4. In the **Search engine** dropdown, select the search engine you want to redirect to Kagi (DuckDuckGo or Ecosia are recommended).
+5. Close the Settings window.
+6. In Safari’s toolbar, click on the **Kagi extension icon**.
+7. In the **Engine to redirect** dropdown, select the same search engine you chose in step 4.
+
+**Note:** If you set DuckDuckGo as default and experience issues with [Bangs](../features/bangs.md) we recommend switching to Ecosia instead.
+
 #### Setting up the Kagi Extension in Safari for iOS {#setting_up_extension_safari_ios}
 
 Set Kagi as your default search engine in Safari by installing the [Kagi for Safari](https://apps.apple.com/app/kagi-search-for-safari/id1622835804) extension.
@@ -126,6 +142,22 @@ Follow these steps to set up the Kagi for Safari extension:
 5. Open **Safari** and visit [kagi.com](https://kagi.com/).
 6. Tap the **AA** icon in the address bar and select **Kagi for Safari**.
 7. If prompted with *The extension 'Kagi for Safari' would like to access kagi.com*, tap **Always Allow**, then confirm by tapping **Always Allow on Every Website**.
+
+##### Choosing a Search Engine to Redirect (iOS) {#choosing_a_search_engine_to_redirect_ios}
+
+By default, the Kagi Search extension for Safari will redirect searches from any search engine to Kagi. For a better experience, we recommend selecting a single search engine to redirect (DuckDuckGo or Ecosia are recommended options as they have better privacy policies than other alternatives). You can accomplish this by following these steps:
+
+1. Open the **Settings** app.
+2. Tap on **Safari**.
+3. Tap on **Search Engine**.
+4. Select the search engine you want to redirect to Kagi (DuckDuckGo or Ecosia are recommended).
+5. Open **Safari**.
+6. Tap the **aA** or **puzzle piece** icon in the address bar.
+7. Tap on **Kagi for Safari**.
+8. In the **Engine to redirect** dropdown, select the same search engine you chose in step 4.
+9. Tap on **Done**.
+
+**Note:** If you set DuckDuckGo as default and experience issues with [Bangs](../features/bangs.md) we recommend switching to Ecosia instead.
 
 <a name="safari_extension"></a>
 ### Note for Safari Users: Browsing History {#safari_extension}

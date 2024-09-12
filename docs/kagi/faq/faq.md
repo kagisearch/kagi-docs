@@ -1,3 +1,8 @@
+---
+next:
+  text: 'Billing / Sales Tax / VAT FAQ'
+  link: '/kagi/faq/sales-tax-vat'
+---
 # Frequently Asked Questions (FAQ)
 
 ## Table of Contents
@@ -19,6 +24,7 @@
 - [Where are your results coming from?](#where-are-your-results-coming-from)
 - [How fast is Kagi Search?](#how-fast-is-kagi-search)
 - [How do Kagi's features compare to other search engines?](#how-do-kagi-s-features-compare-to-other-search-engines)
+- [Can I use my Kagi account on multiple devices?](#use-account-on-multiple-devices)
 - [How are searches counted?](#how-are-searches-counted)
 - [Why is Kagi focusing on AI and Orion Browser as well?](#why-is-kagi-focusing-on-ai-and-orion-browser-as-well)
 - [How do you balance development of AI features and Search?](#how-do-you-balance-development-of-ai-features-and-search)
@@ -53,6 +59,7 @@
 - [Can I use my personal account for work?](#personal-account-for-work)
 - [Do you have a warrant canary?](#warrant-canary)
 - [Why is the Giropay payment option not available?](#giropay)
+- [I am trying to purchase a subscription, but the field to input my billing address is grayed out and I'm unable to type in it](#billing-address-is-grayed-out)
 
 ## What is Kagi {#what-is-kagi}
 
@@ -116,7 +123,7 @@ Read more about [Session Link](../privacy/private-browser-sessions.md).
 
 ## Why does Kagi Search require an account?
 
-Kagi Search requires an account only because it is a paid service which requires an account for the transaction.
+Kagi Search requires an account only because it is a paid service which requires an account for the transaction. Kagi is a paid service because we want to show you high quality, unbiased search results that are in your best interest. Ad supported search engines will always bias towards what the advertisers (their real customers) demand.
 
 Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as [Privacy](https://privacy.com/) if you want to.
 
@@ -162,6 +169,9 @@ We are...ahem...[fast](../search-details/search-speed.md).
 ## How do Kagi's features compare to other search engines?
 
 Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in other search engines.
+
+## Can I use my Kagi account on multiple devices? {#use-account-on-multiple-devices}
+Yes, you can use your Kagi membership on all your devices, as long as you don't share your account. You can also log in on multiple web browsers on the same device.
 
 ## How are searches counted?
 
@@ -326,6 +336,14 @@ Yes, our warrant canary is included in our [privacy page](https://kagi.com/priva
 
 ## Why is the Giropay payment option not available? {#giropay}
 PayPal [announced](https://www.paypal.com/us/cshelp/article/giropay-deprecation-help1183) that Giropay has been deprecated as a payment method. It is no longer available as of July 1st, 2024.​ If you relied on Giropay to add funds to your account, please explore our other [payment options](https://help.kagi.com/kagi/plans/payment-methods.html).
+
+## I am trying to purchase a subscription, but the field to input my billing address is grayed out and I'm unable to type in it {#billing-address-is-grayed-out}
+This is because you are using Stripe's "Link" feature for fast payments.
+You can update your address by visiting [Stripe's "Link" management page](https://app.link.com/login).
+
+After updating your address, you can return to the [Kagi sign-up page](https://kagi.com/onboarding?p=choose_plan) to complete your subscription purchase. 
+
+**Note:** Remember we only need your country (and zip code if in the US) to determine the appropriate sales tax or VAT.
 
 ---
 

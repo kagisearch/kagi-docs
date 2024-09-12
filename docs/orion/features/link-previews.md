@@ -14,7 +14,7 @@ To enable Link Previews while using other apps, follow these steps:
 1. In your menu bar, select **Orion** > **Settings**.
 2. Click on the **General** tab.
 3. If you see an option to make Orion your default web browser at the bottom of the window, click **Set Default**.
-4. Switch to the **Tabs** tab and make sure the **Open external links in Preview** checkbox is enabled.
+4. Switch to the **Browsing** tab and make sure the **Open external links in Preview** checkbox is enabled.
 
 ## Using Link Previews in Other Apps
 

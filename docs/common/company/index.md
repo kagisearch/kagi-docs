@@ -6,9 +6,7 @@ next:
 
 # About
 
-Kagi Inc. is a company created with the mission to humanize the web. Our goal is to amplify the web of human knowledge, creativity, and self-expression.
-
-We want to bring a friendly version of the internet, one that has users' best interest in mind, into homes worldwide through our user-centric products.
+At Kagi, we envision a friendly version of the internet where users can explore, learn, and interact with confidence and ease. Our mission is to humanize the web, making it more accessible, ethical, and centered around the needs of individuals. We are driven by our core purpose: to inform and educate, empowering users with knowledge and understanding in their digital journey.
 
 Kagi (pronounced kah-gee) was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky) and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). Our team is a fully remote, operating in over 10 countries. We are actively [hiring](https://help.kagi.com/kagi/company/hiring-kagi.html).
 
@@ -18,11 +16,15 @@ Kagi launched in [June 2022](https://blog.kagi.com/kagi-orion-public-beta) and w
 
 In the early 2024, [Kagi became a Public Benefit Corporation (PBC)](https://blog.kagi.com/what-is-next-for-kagi#4). 
 
-Kagi Inc. currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry, WebKit-based browser. We also have a number of other products such as:
+We want to bring a friendly version of the internet, one that has users' best interest in mind, into homes and business worldwide with our portfolio of products.
+
+Kagi currently has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry, WebKit-based browser. 
+
+We also have a number of other initiatives (we call them 'treats') such as:
 - [Kagi Small Web](https://blog.kagi.com/small-web)
 - [Universal Summarizer](https://kagi.com/summarizer)
 - [FastGPT](https://kagi.com/fastgpt)
-- Numerous [open-source projects](https://github.com/kagisearch)
+- [Open-source projects](https://github.com/kagisearch)
 - [Kagi APIs](https://help.kagi.com/kagi/api/overview.html)
 
 Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over) blog post, which serves as our manifesto.

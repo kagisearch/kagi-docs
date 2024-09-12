@@ -27,8 +27,8 @@ Last updated **July 29, 2024**.
 | OpenAI **gpt-3.5-turbo** | 22.00 | 1569 | 0.01552 | 0.51 | 45.03 |
 | Reka **reka-edge** | 20.00 | 5377 | 0.00798 | 2.02 | 46.87 |
 | Reka **reka-flash** | 16.00 | 5738 | 0.01668 | 3.28 | 28.75 |
+| GoogleGenAI **gemini-1.5-pro-exp-0801**  |   14.00   |  4942  | 0.26325  |     1.82    |       28.19      |  
 | GoogleGenAI **gemini-1.5-flash** |  14.00   | 5287  | 0.02777  |     3.02    |       21.16        |   
-| GoogleGenAI **gemini-1.5-pro**  |   12.00   | 5284  | 0.27762  |     3.32    |       16.49        |  
 
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
@@ -101,7 +101,7 @@ The table below is updated to the best of our abilities, feel free to submit cha
 | **Claude 3.5 Sonnet**       | 200K           | 3                     | 15                     |
 | **Claude 3 Opus**         | 200K           | 15                    | 75                     |
 | **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                     | 10.50/21                     |
-| Gemini 1.5 Flash (128K/1M)        | 1M             | 0.35/0.70                     | 0.53/1.05                     |
+| Gemini 1.5 Flash (128K/1M)        | 1M             | 0.075/0.15                     | 0.3/0.6                     |
 | **Mistral Small**         | 8K             | 2                     | 6                      |
 | **Mistral Medium**        | 8K             | 2.7                   | 8.1                    |
 | **Mistral Large**         | 8K             | 8                     | 24                     |
