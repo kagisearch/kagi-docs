@@ -6,12 +6,14 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **July 29, 2024**.
+Last updated **Sep 12, 2024**.
 
 | Model | Accuracy (%)| Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |------------------------------------------|----------|--------|----------------|--------------------|--------------------|
 | OpenAI **gpt-4o** | 52.00 | 7482 | 0.14310 | 1.60 | 48.00 |
 | Together **meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo** |   50.00   | 7767  | 0.07136  |     2.00    |       46.49        |  
+| OpenAI **o1-mini** | 50.00 | 29820| 0.37716 | 4.35 | n/a |
+| OpenAI **o1-preview** | 48.00 | 38440| 2.40306 | 9.29 | n/a |
 | Anthropic **claude-3.5-sonnet-20240620** | 46.00 | 6595 | 0.12018 | 2.54 | 48.90 |
 | Mistral **large-latest** | 44.00 | 5097 | 0.06787 | 3.08 | 18.03 |
 | Groq **llama-3.1-70b-versatile** | 40.00 | 5190 | 0.00781 | 0.71 | 81.62 |
@@ -23,7 +25,7 @@ Last updated **July 29, 2024**.
 | DeepSeek **deepseek-coder** | 28.00 | 8079 | 0.00327 | 4.13 | 16.72 |
 | OpenAI **gpt-4** | 26.00 | 2477 | 0.33408 | 1.32 | 16.68 |
 | Mistral **open-mistral-nemo** | 22.00 | 4135 | 0.00323 | 0.65 | 82.65 |
-|       Groq **gemma2-9b-it**     |   22.00   | 4889  | 0.00249  |     1.69    |       54.39        |  
+| Groq **gemma2-9b-it**     |   22.00   | 4889  | 0.00249  |     1.69    |       54.39        |  
 | OpenAI **gpt-3.5-turbo** | 22.00 | 1569 | 0.01552 | 0.51 | 45.03 |
 | Reka **reka-edge** | 20.00 | 5377 | 0.00798 | 2.02 | 46.87 |
 | Reka **reka-flash** | 16.00 | 5738 | 0.01668 | 3.28 | 28.75 |
@@ -91,8 +93,10 @@ The table below is updated to the best of our abilities, feel free to submit cha
 
 | LLM                    | Context Length | Price per input ($/M) | Price per output ($/M) |
 |------------------------|----------------|-----------------------|------------------------|
+| o1-preview             | -             | 15                    | 60                     |
+| o1-mini             | -             | 3                    | 12                     |
 | **GPT-4o**                    | 128K             | 5                    | 15                     |
-| GPT-4o mini                    | 128K             | 0.15                    | 0.60                     |
+| **GPT-4o mini**                    | 128K             | 0.15                    | 0.60                     |
 | **GPT-4-Turbo**           | 128K           | 10                    | 30                     |
 | GPT-4 (8k)              | 8K             | 30                    | 60                     |
 | **GPT-4 (32k)**           | 32K            | 60                    | 120                    |
