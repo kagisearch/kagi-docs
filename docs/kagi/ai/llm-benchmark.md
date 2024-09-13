@@ -10,27 +10,27 @@ Last updated **Sep 12, 2024**.
 
 | Model | Accuracy (%)| Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |------------------------------------------|----------|--------|----------------|--------------------|--------------------|
-| OpenAI **gpt-4o** | 52.00 | 7482 | 0.14310 | 1.60 | 48.00 |
-| Together **meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo** |   50.00   | 7767  | 0.07136  |     2.00    |       46.49        |  
-| OpenAI **o1-mini** | 50.00 | 29820| 0.37716 | 4.35 | n/a |
-| OpenAI **o1-preview** | 48.00 | 38440| 2.40306 | 9.29 | n/a |
-| Anthropic **claude-3.5-sonnet-20240620** | 46.00 | 6595 | 0.12018 | 2.54 | 48.90 |
-| Mistral **large-latest** | 44.00 | 5097 | 0.06787 | 3.08 | 18.03 |
-| Groq **llama-3.1-70b-versatile** | 40.00 | 5190 | 0.00781 | 0.71 | 81.62 |
-| Reka **reka-core** | 36.00 | 6966 | 0.12401 | 6.21 | 17.56 |
-| OpenAI **gpt-4o-mini** | 34.00 | 6029 | 0.00451 | 1.64 | 36.92 |
-| DeepSeek **deepseek-chat** | 32.00 | 7310 | 0.00304 | 4.81 | 17.20 |
-| Anthropic **claude-3-haiku-20240307** | 28.00 | 5642 | 0.00881 | 1.33 | 55.46 |
-| Groq **llama-3.1-8b-instant** | 28.00 | 6628 | 0.00085 | 2.26 | 82.02 |
-| DeepSeek **deepseek-coder** | 28.00 | 8079 | 0.00327 | 4.13 | 16.72 |
-| OpenAI **gpt-4** | 26.00 | 2477 | 0.33408 | 1.32 | 16.68 |
-| Mistral **open-mistral-nemo** | 22.00 | 4135 | 0.00323 | 0.65 | 82.65 |
-| Groq **gemma2-9b-it**     |   22.00   | 4889  | 0.00249  |     1.69    |       54.39        |  
-| OpenAI **gpt-3.5-turbo** | 22.00 | 1569 | 0.01552 | 0.51 | 45.03 |
-| Reka **reka-edge** | 20.00 | 5377 | 0.00798 | 2.02 | 46.87 |
-| Reka **reka-flash** | 16.00 | 5738 | 0.01668 | 3.28 | 28.75 |
-| GoogleGenAI **gemini-1.5-pro-exp-0801**  |   14.00   |  4942  | 0.26325  |     1.82    |       28.19      |  
-| GoogleGenAI **gemini-1.5-flash** |  14.00   | 5287  | 0.02777  |     3.02    |       21.16        |   
+| OpenAI **gpt-4o** | 52 | 7482 | 0.14310 | 1.60 | 48.00 |
+| Together **meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo** |   50   | 7767  | 0.07136  |     2.00    |       46.49        |  
+| OpenAI **o1-mini** | 50 | 29820| 0.37716 | 4.35 | n/a |
+| OpenAI **o1-preview** | 48 | 38440| 2.40306 | 9.29 | n/a |
+| Anthropic **claude-3.5-sonnet-20240620** | 46 | 6595 | 0.12018 | 2.54 | 48.90 |
+| Mistral **large-latest** | 44 | 5097 | 0.06787 | 3.08 | 18.03 |
+| Groq **llama-3.1-70b-versatile** | 40 | 5190 | 0.00781 | 0.71 | 81.62 |
+| Reka **reka-core** | 36 | 6966 | 0.12401 | 6.21 | 17.56 |
+| OpenAI **gpt-4o-mini** | 34 | 6029 | 0.00451 | 1.64 | 36.92 |
+| DeepSeek **deepseek-chat** | 32 | 7310 | 0.00304 | 4.81 | 17.20 |
+| Anthropic **claude-3-haiku-20240307** | 28 | 5642 | 0.00881 | 1.33 | 55.46 |
+| Groq **llama-3.1-8b-instant** | 28 | 6628 | 0.00085 | 2.26 | 82.02 |
+| DeepSeek **deepseek-coder** | 28 | 8079 | 0.00327 | 4.13 | 16.72 |
+| OpenAI **gpt-4** | 26 | 2477 | 0.33408 | 1.32 | 16.68 |
+| Mistral **open-mistral-nemo** | 22 | 4135 | 0.00323 | 0.65 | 82.65 |
+| Groq **gemma2-9b-it**     |   22   | 4889  | 0.00249  |     1.69    |       54.39        |  
+| OpenAI **gpt-3.5-turbo** | 22 | 1569 | 0.01552 | 0.51 | 45.03 |
+| Reka **reka-edge** | 20 | 5377 | 0.00798 | 2.02 | 46.87 |
+| Reka **reka-flash** | 16 | 5738 | 0.01668 | 3.28 | 28.75 |
+| GoogleGenAI **gemini-1.5-pro-exp-0801**  |   14   |  4942  | 0.26325  |     1.82    |       28.19      |  
+| GoogleGenAI **gemini-1.5-flash** |  14   | 5287  | 0.02777  |     3.02    |       21.16        |   
 
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
