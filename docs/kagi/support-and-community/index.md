@@ -9,11 +9,11 @@ next:
 
 ## Customer Support
 
-Feel free to email us at [support@kagi.com](mailto:support@kagi.com) from your Kagi account email address.
+Feel free to email us at [support@kagi.com](mailto:support@kagi.com).
 
-Before contacting us for support, please check if your issue has been addressed in this documentation (we are really proud of it and it is open source and editable).
+Before contacting us for support, Feel free check if your issue has been addressed in this documentation (we are really proud of it and it is open source and editable).
 
-## Discord
+## Kagi Community
 
 We have a [Kagi Community Discord server](https://kagi.com/discord) where you can join our community for real-time discussion about the product and chat with other Kagi users.
 
@@ -22,6 +22,9 @@ Please use the **#introduce-yourself** channel to say hello and let everyone kno
 We'd also love to hear your initial thoughts about Kagi Search on the **#first-impressions** channel.
 
 To make specific feature requests or bug reports, please use our [Kagi Search feedback forum](https://kagifeedback.org) rather than Discord.
+
+## Social Media
+[KagiHQ on Twitter](https://twitter.com/KagiHQ)
 
 ## Feedback Forum
 
@@ -49,5 +52,4 @@ RSS feed for release notes is available at:
 [kagifeedback.org/atom/t/release-notes](https://kagifeedback.org/atom/t/release-notes)
 
 
-## Twitter (er, X?)
-[KagiHQ on Twitter](https://twitter.com/KagiHQ)
+
