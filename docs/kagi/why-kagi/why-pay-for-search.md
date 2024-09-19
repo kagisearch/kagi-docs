@@ -20,9 +20,7 @@ You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pa
 
 In the early days of Google, in 1998, its founders emphasized the importance of maintaining an ad-free search engine:
 
-> "Currently, the predominant business model for commercial search engines is advertising. **The goals of the advertising business model do not always correspond to providing quality search to users.** For example, in our prototype search engine one of the top results for cellular phone is "The Effect of Cellular Phone Use Upon Driver Attention", a study which explains in great detail the distractions and risk associated with conversing on a cell phone while driving. This search result came up first because of its high importance as judged by the PageRank algorithm, an approximation of citation importance on the web [Page, 98].*
->
-> It is clear that a search engine which was taking money for showing cellular phone ads would have difficulty justifying the page that our system returned to its paying advertisers. For this type of reason and historical experience with other media [Bagdikian 83], **we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.**"
+> "**The goals of the advertising business model do not always correspond to providing quality search to users.** ...  **we expect that advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.**"
 >
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
