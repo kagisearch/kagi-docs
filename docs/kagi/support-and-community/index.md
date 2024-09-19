@@ -5,13 +5,11 @@ next:
 ---
 
 
-# Get Connected with Kagi
+## Get in touch
 
-## Customer Support
+Feel free to email our customer support at [support@kagi.com](mailto:support@kagi.com). 
 
-Feel free to email us at [support@kagi.com](mailto:support@kagi.com).
-
-Before contacting us for support, Feel free check if your issue has been addressed in this documentation (we are really proud of it and it is open source and editable).
+Or, email Kagi CEO at [vlad@kagi.com](mailto:vlad@kagi.com).
 
 ## Kagi Community
 
