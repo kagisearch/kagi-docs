@@ -9,7 +9,7 @@ next:
 
 Feel free to email our customer support at [support@kagi.com](mailto:support@kagi.com). 
 
-Or, email Kagi CEO at [vlad@kagi.com](mailto:vlad@kagi.com).
+Or, email Kagi CEO, Vladimir Prelovac, at [vlad@kagi.com](mailto:vlad@kagi.com).
 
 ## Kagi Community
 
