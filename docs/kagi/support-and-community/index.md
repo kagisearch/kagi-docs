@@ -23,6 +23,10 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 ## Social Media
 [KagiHQ on Twitter](https://twitter.com/KagiHQ)
+[KagiHQ on Mastodon] (https://mastodon.social/@kagihq)
+[Kagi.com on Bluesky] (https://bsky.app/profile/kagi.com)
+[KagiHQ on Threads] (https://www.threads.net/@kagihq)
+[KagiHQ on Instagram] (https://www.instagram.com/kagihq/)
 
 ## Feedback Forum
 
