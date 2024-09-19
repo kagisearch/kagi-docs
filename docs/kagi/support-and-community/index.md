@@ -26,6 +26,12 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 [KagiHQ on Mastodon](https://mastodon.social/@KagiHQ)
 
+[Kagi.com on Bluesky](https://bsky.app/profile/kagi.com)
+
+[Kagi.com on Threads](https://threads.net/@kagihq)
+
+[KagiHQ on Instagram](https://instagram.com/kagihq)
+
 ## Feedback Forum
 
 You can join [KagiFeedback.org](https://kagifeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address and to the discussion.
