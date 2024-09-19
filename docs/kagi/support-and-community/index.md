@@ -22,15 +22,15 @@ We'd also love to hear your initial thoughts about Kagi Search on the **#first-i
 To make specific feature requests or bug reports, please use our [Kagi Search feedback forum](https://kagifeedback.org) rather than Discord.
 
 ## Social Media
-[KagiHQ on Twitter](https://twitter.com/KagiHQ)
+- [KagiHQ on Twitter](https://twitter.com/KagiHQ)
 
-[KagiHQ on Mastodon](https://mastodon.social/@KagiHQ)
+- [KagiHQ on Mastodon](https://mastodon.social/@KagiHQ)
 
-[Kagi.com on Bluesky](https://bsky.app/profile/kagi.com)
+- [Kagi.com on Bluesky](https://bsky.app/profile/kagi.com)
 
-[Kagi.com on Threads](https://threads.net/@kagihq)
+- [Kagi.com on Threads](https://threads.net/@kagihq)
 
-[KagiHQ on Instagram](https://instagram.com/kagihq)
+- [KagiHQ on Instagram](https://instagram.com/kagihq)
 
 ## Feedback Forum
 
