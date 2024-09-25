@@ -118,7 +118,7 @@ Orion currently supports [about 70% of the WebExtensions APIs](https://browser.k
 
 The rollout of manifest v3 extensions in Chrome will not affect extensions in Orion.
 
-Orion has its own implementation of the entire WebExtensions APIs collection. Different "manifests" are just numbers. We support WebExtensions APIs regardless of how Google decides to number them or change them. Manifest change impacts mainly Chromium clones. Orion will support both "manifest v2" and manifest v3" extensions in the future.
+Orion has its own implementation of the entire WebExtensions APIs collection. Different "manifests" are just numbers. We support WebExtensions APIs regardless of how Google decides to number them or change them. Manifest change impacts mainly Chromium clones. Orion will support both "manifest v2" and "manifest v3" extensions in the future.
 
 <a name="safari"></a>
 ## Safari Extensions Support
