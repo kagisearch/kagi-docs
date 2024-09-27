@@ -8,7 +8,7 @@ Beyond just the clutter, these ads are powered by invasive tracking technologies
 
 This is where Kagi comes in. By charging a nominal fee for searches, Kagi ensures that its search results are faster, more accurate, and completely respectful of the user's privacy:
 
-![Why_pay_for_search](https://github.com/user-attachments/assets/79e5a4eb-7455-43e8-911f-68c91334e619)
+![Why_pay_for_search](https://github.com/user-attachments/assets/0522f80b-6217-4a12-8e62-dfb90b1e0805)
 
 And when you pay for search, you’re supporting a product that doesn't need ad revenue or access to user data because it gets its support directly from its users. 
 
