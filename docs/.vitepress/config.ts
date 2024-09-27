@@ -239,7 +239,6 @@ function sidebarKagi() {
                         { text: 'Search', link: '/kagi/settings/search' },
                         { text: 'AI', link: '/kagi/settings/ai' },
                         { text: 'Assistant', link: '/kagi/settings/assistant' },
-                        { text: 'Privacy', link: '/kagi/settings/privacy' },
                         { text: 'Lenses', link: '/kagi/settings/lenses' },
                         { text: 'Personalized Results', link: '/kagi/settings/personalized-results' },
                         { text: 'Billing', link: '/kagi/settings/billing' },
