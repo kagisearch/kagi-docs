@@ -112,8 +112,8 @@ The Assistant provides access to the following LLMs:
 	- Mistral Large
 - Google
 	- Gemini Pro
-
-We also plan to add Llama models from Meta soon.
+- Meta
+	- Llama 3.1 405B
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
 
