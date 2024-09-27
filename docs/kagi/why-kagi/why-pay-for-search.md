@@ -1,18 +1,18 @@
 # Why pay for search
 
-You should pay for your search engine to ensure that the incentives of your information provider are aligned with what's best for you, not what’s best for advertisers.
+Search advertising is becoming increasingly aggressive and harder to distinguish from organic results. In 2022 alone, [search advertising spending](https://www.statista.com/statistics/267056/paid-search-advertising-expenditure-worldwide/) reached a staggering **185.35 billion U.S. dollars** worldwide, and this is forecast to grow by six percent annually until 2028, hitting nearly **261 billion U.S. dollars**. 
 
-Think about it: Do you want your search engine results to empower you and give you the information you need or serve you content that advertisers want you to see?
+This explosion in spending has directly contributed to the cluttering of search results with intrusive ads, slowing down the experience and making it harder for users to find what they’re looking for. 
 
-Here is what Google's own AI has to say about this (click to enlarge).
+Beyond just the clutter, these ads are powered by invasive tracking technologies that follow users across the web, exploiting their data to maximize ad revenue. 
 
-[![Google ad for Kagi](media/ad.png)](https://help.kagi.com/assets/ad.554fa2a5.png)
+This is where Kagi comes in. By charging a nominal fee for searches, Kagi ensures that its search results are faster, more accurate, and completely respectful of the user's privacy:
 
-By charging a nominal fee for searches, Kagi ensures that its search results are faster, more accurate, and completely respectful of
-user's privacy.
+![Why_pay_for_search](https://github.com/user-attachments/assets/debadad6-3555-4edf-b275-e581ef3f2112)
 
-And by aligning our incentives with those of our users, Kagi is committed to building a better, more ethical future
-on the web.
+And when you pay for search, you’re supporting a product that doesn't need ad revenue or access to user data because it gets its support directly from its users. 
+
+By aligning our incentives with those of our users, Kagi is committed to building a **better, more ethical web**.
 
 You can learn more in [The Age of PageRank is Over](https://blog.kagi.com/age-pagerank-over) post on our blog.
 
