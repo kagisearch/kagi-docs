@@ -6,6 +6,5 @@ These pages have been moved:
 - [General](../settings/general.md)
 - [Appearance](../settings/appearance.md)
 - [Search](../settings/search.md)
-- [Privacy](../settings/privacy.md)
 - [Billing](../settings/billing.md)
 - [Account](../settings/account.md)
