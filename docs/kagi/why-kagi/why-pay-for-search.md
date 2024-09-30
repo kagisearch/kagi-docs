@@ -1,16 +1,16 @@
 # Why pay for search
 
-Search advertising is becoming increasingly aggressive and harder to distinguish from organic results. In 2022 alone, [search advertising spending](https://www.statista.com/statistics/267056/paid-search-advertising-expenditure-worldwide/) reached a staggering **185.35 billion U.S. dollars** worldwide, and this is forecast to grow by six percent annually until 2028, hitting nearly **261 billion U.S. dollars**. 
+Search advertising is becoming increasingly aggressive and harder to distinguish from organic results. In 2022 alone, [search advertising spending](https://www.statista.com/statistics/267056/paid-search-advertising-expenditure-worldwide/) reached a staggering **185.35 billion U.S. dollars** worldwide, and this is forecast to grow by six percent annually until 2028, hitting nearly **261 billion U.S. dollars**.
 
-This explosion in spending has directly contributed to the cluttering of search results with intrusive ads, slowing down the experience and making it harder for users to find what they’re looking for. 
+This explosion in spending has directly contributed to the cluttering of search results with intrusive ads, slowing down the experience and making it harder for users to find what they’re looking for.
 
-Beyond just the clutter, these ads are powered by invasive tracking technologies that follow users across the web, exploiting their data to maximize ad revenue. 
+Beyond just the clutter, these ads are powered by invasive tracking technologies that follow users across the web, exploiting their data to maximize ad revenue.
 
 This is where Kagi comes in. By charging a nominal fee for searches, Kagi ensures that its search results are faster, more accurate, and completely respectful of the user's privacy:
 
-![Why_pay_for_search](https://github.com/user-attachments/assets/0522f80b-6217-4a12-8e62-dfb90b1e0805)
+![Why_pay_for_search](media/why_pay_for_search_kagi.png)
 
-And when you pay for search, you’re supporting a product that doesn't need ad revenue or access to user data because it gets its support directly from its users. 
+And when you pay for search, you’re supporting a product that doesn't need ad revenue or access to user data because it gets its support directly from its users.
 
 By aligning our incentives with those of our users, Kagi is committed to building a **better, more ethical web**.
 
@@ -28,11 +28,11 @@ Unfortunately, this is exactly how it played out, and over the last 20 years we 
 
 ## The numbers tell a tale
 
-Ad based search engines make almost $300 a year off their users. 
+Ad based search engines make almost $300 a year off their users.
 
 Google generated [$76 billion](https://www.statista.com/statistics/469821/google-annual-ad-revenue-usa/) in US ad revenue in 2023. Google had [274 million](https://www.statista.com/topics/1001/google/) unique visitors in the US as of February 2023.
 
-To estimate the revenue per user, we can divide the 2023 US ad revenue by the 2023 number of users: $76 billion / 274 million = $277 revenue per user in the US or $23 USD per month, on average! That means there is someone, somewhere, a third party and a complete stranger, an advertiser, paying $23 per month for your searches. 
+To estimate the revenue per user, we can divide the 2023 US ad revenue by the 2023 number of users: $76 billion / 274 million = $277 revenue per user in the US or $23 USD per month, on average! That means there is someone, somewhere, a third party and a complete stranger, an advertiser, paying $23 per month for your searches.
 
 Choosing to subscribe to Kagi means that while you are now paying for your search you are getting a fair value for your money, you are getting more relevant results, are able to personalize your experience and take advantage of all the tools and features we built, all while protecting your and your family's privacy and data.
 
