@@ -4,11 +4,13 @@
 
 <video src="./media/snaps.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-**Snaps** is an exclusive Kagi Search feature that allows you to easily limit search results to a specific website by using the `@` symbol followed by a short code for the site and then your search query.
+**Snaps** is an exclusive Kagi Search feature that allows you to easily limit search results to a specific website by using the `@` symbol followed by a short code for the site and then your search query. 
 
 ## Example
 
-Typing `@r Doggo` will search for "Doggo" on Kagi but limit the results to Reddit (`r` is the short code for Reddit). This allows you to quickly find relevant content on a specific site using Kagi's powerful index.
+Typing `@r headphones` will search for "headphones" but limit the results to reddit.com (`r` is the short code for Reddit). This allows you to quickly find relevant content on a specific site using Kagi's powerful index.
+
+Its relative, [Bangs](./bangs.md) feature, invoked by using "!r headphones", would redirect the user to reddit's internal search.
 
 ## How to Use Snaps
 
