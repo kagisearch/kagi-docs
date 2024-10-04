@@ -213,8 +213,8 @@ function sidebarKagi() {
                         { text: 'Code Searches', link: '/kagi/features/code' },
                         { text: 'Verbatim Search', link: '/kagi/features/verbatim' },
                         { text: 'Kagi Maps', link: '/kagi/features/maps' },
-                        { text: 'Widgets', link: '/kagi/features/widgets' }
-                        { text: 'Snaps', link: '/kagi/features/snaps' }
+                        { text: 'Widgets', link: '/kagi/features/widgets' },
+                        { text: 'Snaps', link: '/kagi/features/snaps' },
                     ]
                 },
                 {
