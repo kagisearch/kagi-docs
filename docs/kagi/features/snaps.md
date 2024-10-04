@@ -1,5 +1,7 @@
 # Snaps
 
+<br>
+
 <video src="./media/snaps.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 **Snaps** is an exclusive Kagi Search feature that allows you to easily limit search results to a specific website by using the `@` symbol followed by a short code for the site and then your search query.
