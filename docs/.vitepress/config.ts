@@ -207,7 +207,6 @@ function sidebarKagi() {
                         { text: 'Sharing Results', link: '/kagi/features/share-results' },
                         { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
                         { text: 'Filtering Results', link: '/kagi/features/filtering-results' },
-                        { text: 'Shopping Searches', link: '/kagi/features/shopping' },
                         { text: 'Customizing Kagi CSS', link: '/kagi/features/custom-css' },
                         { text: 'Turning Off Animations', link: '/kagi/features/turning-off-animations' },
                         { text: 'Redirects', link: '/kagi/features/redirects' },
@@ -215,6 +214,7 @@ function sidebarKagi() {
                         { text: 'Verbatim Search', link: '/kagi/features/verbatim' },
                         { text: 'Kagi Maps', link: '/kagi/features/maps' },
                         { text: 'Widgets', link: '/kagi/features/widgets' }
+                        { text: 'Snaps', link: '/kagi/features/snaps' }
                     ]
                 },
                 {
