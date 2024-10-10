@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Link Previews'
+  link: '/orion/features/link-previews'
+---
+
 # Compact Tabs
 
 Compact Tabs is a feature available in Orion for Mac that condenses your open tabs into a single, compact bar, located next to the address bar, allowing you to see more of your webpage and less of the browser's interface.

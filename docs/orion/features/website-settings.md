@@ -1,9 +1,3 @@
----
-next:
-  text: 'Password Management'
-  link: '/orion/features/password-management'
----
-
 # Website Settings
 
 ## Table of Contents
