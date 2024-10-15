@@ -13,7 +13,8 @@ There are several ways to summarize a page:
 6. Via the [Summarizer API](../api/summarizer.md)
 
 Summarize Page is made using Kagi's own, in-house models. There are currently three models in use:
-  - Cecil (Consumer-grade, accessible via the website, browser extension or API. Unlimited use via website or browser extension is included with your Kagi membership)
+  - Cecil (Consumer-grade, accessible via the website, browser extension or API)
+      - Unlimited use via website or browser extension is included with your Kagi membership
   - Agnes (Consumer-grade, accessible via the browser extension or API)
   - Muriel (Enterprise-grade, accessible via the browser extension or API)
 
