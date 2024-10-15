@@ -1,19 +1,25 @@
 # Summarize Page
 Summarize Page (or Universal Summarizer as it's also called) is a way to summarize any page, video or podcast (given a transcript).
 
-There are currently four ways to summarize a page:
+There are several ways to summarize a page:
 
-1. Directly in the search results
-2. Via bang
-3. Via API
-4. On a [dedicated page](https://kagi.com/summarizer/index.html), independent of a previous search
-
-All, apart from the API, are free for every paid Kagi user.
+1. On the [Universal Summarizer site](https://kagi.com/summarizer/)
+2. Via the Browser Extensions:
+  - [For Chrome](https://chromewebstore.google.com/detail/kagi-summarizer/dpaefegpjhgeplnkomgbcmmlffkijbgp)
+  - [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)
+3. Directly in the search results
+4. Via the !sum [Bang](../features/bangs.md)
+5. Using [Orion browser](https://kagi.com/orion/) (available for Apple devices).
+6. Via the [Summarizer API](../api/summarizer.md)
 
 Summarize Page is made using Kagi's own, in-house models. There are currently three models in use:
-1. Agnes (Consumer-grade, accessible via the web or API)
-2. Cecil (Consumer-grade, currently API-only)
-2. Muriel (Enterprise-grade, currently API-only)
+- Cecil (Consumer-grade, accessible via the website, browser extension or API. Unlimited use via website or browser extension is included with your Kagi membership)
+- Agnes (Consumer-grade, accessible via the browser extension or API)
+- Muriel (Enterprise-grade, accessible via the browser extension or API)
+
+## Universal Summarizer landing page
+
+There's <https://kagi.com/summarizer> where you can enter the URL of any web page, PDF, PPTX, MP3, video etc that you want to have summarized.
 
 ## In search results
 
@@ -27,7 +33,7 @@ Once complete you will see the individual page summary appear below the result.
 
 After reading the summary you can even choose to proceed to [Discuss this document](./ask-questions.md).
 
-## Via bang
+## Via Bang
 
 Quickly summarize any page using the [bang `!sum`](../features/bangs.md#universal-summarizer).
 
@@ -58,9 +64,5 @@ As mentioned at the start, two models are offered in the API. As for the differe
 > 3. Safety benefits and risks: Balancing the potential benefits of language models in AI safety with the risks associated with their misuse.
 >
 > In conclusion, the paper highlights the improved performance of large-scale language models like Gopher in various tasks and emphasizes the importance of addressing challenges related to toxicity, bias, and AI safety.
-
-## Universal Summarizer landing page
-
-There's <https://kagi.com/summarizer> where you can enter the URL of any page, PDF, PPTX, MP3, video etc that you want to have summarized.
 
 ![Universal Summarizer landing page](media/universal-summarizer_landing_page.png){data-zoomable}
