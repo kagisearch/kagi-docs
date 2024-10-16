@@ -24,7 +24,11 @@ In the early days of Google, in 1998, its founders emphasized the importance of 
 >
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
-Unfortunately, this is exactly how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result. In many ways, Google made a pivot from "organizing the world's information" to "organizing the world's ads" and we believe that this leads to a sub-optimal experience for the end user.
+Unfortunately, this is exactly how it played out, and over the last 20 years we proceeded to witness the [great detoriation of web and search](https://blog.kagi.com/age-pagerank-over) as a result. In many ways, Google made a pivot from "organizing the world's information" to "organizing the world's ads" and we believe that this leads to a sub-optimal experience for the end user. 
+
+This shift towards ad-driven models has fundamentally changed the nature of the web. Users no longer pay for services with money, but instead with their time, lost productivity, and even behavioral changes. Information is now mined for advertising purposes, compromising the quality of the content and the search experience itself.
+
+**Google is only "free" if your time has no value.** Every ad, every clickbait result, every distraction costs the user time that could be spent more meaningfully, leaving the web cluttered with information designed to serve advertisers, not users.
 
 ## The numbers tell a tale
 
