@@ -29,11 +29,10 @@ If you don't hear back quickly, it's not personal - we're just working through a
 
 **Head of Marketing**
 
-- Innovative Marketing Strategy: Develop and execute creative, non-traditional marketing strategies that highlight Kagi's unique ad-free, privacy-focused search engine.
-- Brand Positioning and Storytelling: Strengthen Kagi's brand identity through compelling storytelling that emphasizes our commitment to providing a user-centric, ad-free search experience.
-- Community Engagement and Growth: Drive user acquisition and retention through grassroots marketing, partnerships, influencer collaborations, and community-building activities, avoiding digital ads to maintain our ad-free pedigree.
-- Collaborative Campaigns: Work closely with product, engineering, and customer support teams to align marketing initiatives with Kagi’s core values and enhance the overall user experience.
-- Performance Measurement and Optimization: Utilize data-driven insights to measure the effectiveness of marketing campaigns, continuously refine strategies, and ensure impactful and sustainable growth.
+- Innovative marketing strategies: Develop and execute creative, non-traditional marketing strategies that highlight Kagi's unique ad-free, privacy-focused search engine.
+- Brand positioning and storytelling: Strengthen Kagi's brand identity through compelling storytelling that emphasizes our commitment to providing a user-centric, ad-free search experience.
+- Community engagement and growth: Drive user acquisition and retention through grassroots marketing, partnerships, influencer collaborations, and community-building activities, avoiding digital ads to maintain our ad-free pedigree.
+- Collaborative campaigns: Work closely with product, engineering, and customer support teams to align marketing initiatives with Kagi’s core values and enhance the overall user experience.
 
 
 **Core Back-end Team**
