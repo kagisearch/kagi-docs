@@ -10,3 +10,8 @@ This is a free API endpoint.
 
 https://kagi.com/api/v1/smallweb/feed/
 
+#### Parameters
+
+Field | Type     | Required | Description
+------|----------|----------|-----------
+limit | number   | no       | Limit the number of entries returned.
