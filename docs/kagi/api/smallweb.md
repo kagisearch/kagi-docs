@@ -10,3 +10,6 @@ This is a free API endpoint.
 
 https://kagi.com/api/v1/smallweb/feed/
 
+## Query Parameters
+
+You can optionally pass a `?limit=<n>` query parameter to the endpoint to limit the `n` number of entries returned. Some feed reader clients may be unable to subscribe to the un-limited feed in its 25MiB+ entirety so this is a helpful workaround.
