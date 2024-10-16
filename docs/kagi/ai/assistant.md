@@ -14,6 +14,7 @@ The Assistant by Kagi combines the unparalleled results of Kagi Search with the 
 - Applying Kagi Search [Lenses](../features/lenses.md) and [Personalized Results](../features/website-info-personalized-results.md) to the Assistant searches
 - Switch between multiple threads from a single window
 - Saving Assistant threads
+- Uploading files to use as context
 - Altering the Assistant configuration within the thread
 	- For example, you can ask the initial question with web access enabled, and then disable it for subsequent questions!
 	 - It is also possible to switch to a different LLM in the middle of a thread
@@ -55,6 +56,40 @@ In other words, threads added to Quick Access will also be deleted after 24 hour
 
 You can also **preserve** threads with the star symbol, located to the left of the thread title.
 Preserved threads do not expire.
+
+## Uploading Files to Assistant
+
+The Assistant by Kagi supports file uploads, allowing you to provide additional context or information for your queries.
+
+This can be useful for tasks like:
+
+- Summarizing a document
+- Extracting key insights from a report
+- Analyzing data in a spreadsheet
+- Describing an image
+- Distilling main points from an audio file
+
+To upload a file:
+
+1. Click the paperclip icon in the prompt input box.
+2. Select the file or image you wish to upload.
+3. Provide a prompt with instructions to process the file or leave blank to summarize it.
+
+Important considerations for file uploads:
+
+**File size limit:** The maximum file size for uploads is 8MB.
+**Processing time:** Larger files may take a few moments to process.
+**Context retention:** Uploaded file content remains in the conversation context for subsequent messages.
+
+The Assistant supports various file formats across different categories:
+
+| File Type | Supported Formats |
+|:--|:--|
+| Text | txt, text, md |
+| Rich Format | pdf, docx, pptx |
+| Spreadsheets | csv, tsv, xlsx, json, jsonl |
+| Image | jpg, jpeg, png, gif, tiff, tif, webp |
+| Audio | 3gpp, aa, aac, aax, act, aiff, amr, ape, au, awb, dct, dss, dvf, flac, gsm, iklax, ivs, m4a, m4b, m4p, mp4, mmf, mp3, mpc, msv, ogg, opus, ra, rm, sln, tta, vox, wav, wma, wvpla |
 
 ## Custom Instructions
 
