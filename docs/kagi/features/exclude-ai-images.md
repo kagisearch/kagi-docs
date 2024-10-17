@@ -12,7 +12,7 @@ By default, [Kagi Image Search](https://kagi.com/images) downranks images from w
 
 ## Labeling AI-generated images
 
-In addition to our downranking, we have implemented an AI image labeling system. This feature adds a small badge or icon to thumbnails that are likely to be AI-generated content. The label helps users quickly identify potential AI images without completely removing them from search results. 
+In addition to downranking, we have implemented an AI image labeling system. This feature adds a small badge or icon to thumbnails that are likely to be AI-generated content. The label helps users quickly identify potential AI images without completely removing them from search results. 
 
 ![Kagi AI Image Label](./media/image_search_ai_label.png){width=720px data-zoomable}
 
