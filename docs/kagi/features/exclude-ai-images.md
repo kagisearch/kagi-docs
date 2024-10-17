@@ -4,29 +4,31 @@ As AI-generated images become increasingly prevalent across the web, many users 
 
 At Kagi, we understand the importance of delivering high-quality, relevant search results. Our AI Image Filter feature is designed to address this challenge, giving users more control over the content they see and prioritizing authentic imagery in search results.
 
-## Downranking
+## Downranking AI-generated images
 
 By default, [Kagi Image Search](https://kagi.com/images) downranks images from websites with a high proportion of AI-generated content. 
 
 ![Kagi vs Google AI-generated images](./media/kagi_vs_google_image_search.png){width=720px data-zoomable}
 
-## AI image labeling
+## Labeling AI-generated images
 
 In addition to our downranking, we have implemented an AI image labeling system. This feature adds a small badge or icon to thumbnails that are likely to be AI-generated content. The label helps users quickly identify potential AI images without completely removing them from search results. 
 
-![Kagi AI Image Label](./media/image_search_ai_label.png){width=720px data-zoomable}## AI Image filter
+![Kagi AI Image Label](./media/image_search_ai_label.png){width=720px data-zoomable}
 
-## AI image filtering
+## Filtering AI-generated images
 
 You can use the AI images filter to completely exclude websites with AI-generated images from your search results.
 
 <video src="./media/exclude_ai_images_filter.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture alt="Kagi Image Search - Exclude AI Images Filter" />
 
-##  Block them yourself
+##  Block websites in image search results
 
-Note that, since there is currently no reliable way to automatically identify AI-generated images, this feature relies on the website's reputation rather than analyzing individual images. As a result, some AI-generated content may still appear in the results.
+Note that, since there is currently no reliable way to automatically identify AI-generated images with good enough precision, this feature relies on the website's reputation rather than analyzing individual images. As a result, some AI-generated content may still appear in the results.
 
-If you detect a website with AI imagery that slipped through our filter, you can decide to lower or completely block it off your search results, using our existing [search personalization feature](./website-info-personalized-results.md).
+If you detect a website with AI or low quality imagery that slipped through our filter, you can lower or completely block it off in your search results, using our [search personalization feature](./website-info-personalized-results.md).
+
+Click on shield icon in your image search results, the same as you already can do in web search results.
 
 ![Kagi Image search personalization](./media/block_domain.gif)
 
