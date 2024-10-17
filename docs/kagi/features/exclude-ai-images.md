@@ -1,6 +1,6 @@
 # Exclude AI-Generated Images
 
-Kagi's Image Search automatically downranks images from websites with a high proportion of AI-generated content.
+[Kagi Image Search](https://kagi.com/images) automatically downranks images from websites with a high proportion of AI-generated content.
 
 ![Kagi vs Google AI-generated images](./media/kagi_vs_google_image_search.png){width=600px data-zoomable}
 
@@ -22,8 +22,6 @@ Our decision to offer this feature aligns with our [philosophy on AI integration
 
 2. **Authenticity and emotional resonance**: While AI-generated images can be impressive, they often lack the depth, creativity, and emotional connection of human-created art. This feature aims to surface more authentic and meaningful images that reflect genuine human experiences and perspectives.
 
-3. **Responsible AI use**: We believe in using AI tools responsibly without overly relying on them. By offering the option to exclude AI-generated content from external sources, we support access to information that aligns with preferences for human-created content.
-
-4. **User empowerment**: By offering this option, we're enabling our users to make informed decisions about the content they consume, while also encouraging a web ecosystem that values human creativity and authenticity.
+3. **User empowerment**: By offering this option, we're enabling our users to make informed decisions about the content they consume, while also encouraging a web ecosystem that values human creativity and authenticity.
 
 We acknowledge that our current method of filtering based on website reputation isn't perfect. However, it represents our pragmatic approach to addressing a complex issue.
