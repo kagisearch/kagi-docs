@@ -34,4 +34,4 @@ Click on shield icon in your image search results, the same as you already can d
 
 ## Our approach to AI-generated images
 
-The decision to implement this feature and have it turned on by default is based on our [AI integration philosophy](../why-kagi/ai-philosophy.md) and very clear and direct [user feedback](https://kagifeedback.org/d/4972-ability-to-filter-out-obvious-ai-image-websites-from-image-search). As always, help us improve Kagi for everyone by [sending feedback](https:/kagifeedback.org).
+The decision to implement this feature and have it turned on by default is based on our [AI integration philosophy](../why-kagi/ai-philosophy.md) and direct [user feedback](https://kagifeedback.org/d/4972-ability-to-filter-out-obvious-ai-image-websites-from-image-search). As always, help us improve Kagi for everyone by [sending feedback](https:/kagifeedback.org).
