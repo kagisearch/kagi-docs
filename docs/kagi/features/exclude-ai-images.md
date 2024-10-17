@@ -1,6 +1,6 @@
 # Exclude AI-Generated Images
 
-Kagi's Image Search automatically downranks images from websites with a high proportion of AI-generated content.
+[Kagi Image Search](https://kagi.com/images) automatically downranks images from websites with a high proportion of AI-generated content.
 
 ![Kagi Assistant - Research](./media/kagi_vs_google_image_search.png){width=500px data-zoomable}
 
