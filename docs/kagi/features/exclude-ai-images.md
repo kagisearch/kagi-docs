@@ -6,7 +6,7 @@ At Kagi, we understand the importance of delivering high-quality, relevant searc
 
 ## Downranking AI-generated images
 
-By default, [Kagi Image Search](https://kagi.com/images) downranks images from websites with a high proportion of AI-generated content. 
+By default, [Kagi Image Search](https://kagi.com/images) downranks images from websites with a high proportion of AI-generated content. Try the example search [here](https://kagi.com/images?q=baby+cat).
 
 ![Kagi vs Google AI-generated images](./media/kagi_vs_google_image_search.png){width=720px data-zoomable}
 
