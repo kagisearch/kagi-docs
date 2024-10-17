@@ -22,7 +22,7 @@ You can use the AI images filter to completely exclude websites with AI-generate
 
 <video src="./media/exclude_ai_images_filter.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture alt="Kagi Image Search - Exclude AI Images Filter" />
 
-##  Block websites in image search results
+##  You are in control: Block websites in image search results
 
 Note that, since there is currently no reliable way to automatically identify AI-generated images with good enough precision, this feature relies on the website's reputation rather than analyzing individual images. As a result, some AI-generated content may still appear in the results.
 
