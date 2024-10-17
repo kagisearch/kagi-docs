@@ -1,27 +1,35 @@
-# Exclude AI-Generated Images
+# AI Image Filter for Search Results
 
-[Kagi Image Search](https://kagi.com/images) automatically downranks images from websites with a high proportion of AI-generated content.
+As AI-generated images become increasingly prevalent across the web, many users find their image search results cluttered with artificial content. This can be particularly frustrating when searching for authentic, human-created images or specific real-world references.
+
+At Kagi, we understand the importance of delivering high-quality, relevant search results. Our AI Image Filter feature is designed to address this challenge, giving users more control over the content they see and prioritizing authentic imagery in search results.
+
+## Downranking
+
+By default, [Kagi Image Search](https://kagi.com/images) downranks images from websites with a high proportion of AI-generated content. 
 
 ![Kagi vs Google AI-generated images](./media/kagi_vs_google_image_search.png){width=720px data-zoomable}
 
-If you scroll down to the bottom of the page, you will see an **AI** label in all images that were flagged as AI-generated.
+## AI image labeling
 
-![Kagi AI Image Label](./media/image_search_ai_label.png){width=720px data-zoomable}
+In addition to our downranking, we have implemented an AI image labeling system. This feature adds a small badge or icon to thumbnails that are likely to be AI-generated content. The label helps users quickly identify potential AI images without completely removing them from search results. 
 
-If you prefer to completely exclude websites with AI-generated images from your search results, you can use the **AI Images** filter.
+![Kagi AI Image Label](./media/image_search_ai_label.png){width=720px data-zoomable}## AI Image filter
+
+## AI image filtering
+
+You can use the AI images filter to completely exclude websites with AI-generated images from your search results.
 
 <video src="./media/exclude_ai_images_filter.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture alt="Kagi Image Search - Exclude AI Images Filter" />
 
+##  Block them yourself
+
 Note that, since there is currently no reliable way to automatically identify AI-generated images, this feature relies on the website's reputation rather than analyzing individual images. As a result, some AI-generated content may still appear in the results.
 
-## Our Approach to AI-Generated Images
+If you detect a website with AI imagery that slipped through our filter, you can decide to lower or completely block it off your search results, using our existing [search personalization feature](./website-info-personalized-results.md).
 
-Our decision to offer this feature aligns with our [philosophy on AI integration](../why-kagi/ai-philosophy.md) and stems from several key considerations:
+![Kagi Image search personalization](./media/block_domain.gif)
 
-1. **Factual accuracy**: AI-generated images, like text-based AI content, can sometimes be misleading or inaccurate. By allowing users to filter out AI-generated images, we help prioritize content that is more likely to be grounded in real-world information and human creativity.
+## Our approach to AI-generated images
 
-2. **Authenticity and emotional resonance**: While AI-generated images can be impressive, they often lack the depth, creativity, and emotional connection of human-created art. This feature aims to surface more authentic and meaningful images that reflect genuine human experiences and perspectives.
-
-3. **User empowerment**: By offering this option, we're enabling our users to make informed decisions about the content they consume, while also encouraging a web ecosystem that values human creativity and authenticity.
-
-We acknowledge that our current method of filtering based on website reputation isn't perfect. However, it represents our pragmatic approach to addressing a complex issue.
+The decision to implement this feature is based on our [AI integration philosophy](../why-kagi/ai-philosophy.md) and direct [user feedback](https://kagifeedback.org/d/4972-ability-to-filter-out-obvious-ai-image-websites-from-image-search). 
