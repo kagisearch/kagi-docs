@@ -244,7 +244,7 @@ For feature requests and bug reports, please visit [kagifeedback.org](https://ka
 
 ## Where can I find examples of Custom CSS created by other users?
 
-Please check out [Custom CSS](../features/custom-css.md). Users looking for more could also ask in [Kagi Discord](https://kagi.com/discord) for more custom CSS.
+Please check out [Custom CSS](../features/custom-css.md). Users looking for more could also ask in the [Kagi Discord](https://kagi.com/discord).
 
 ## Does Kagi support crypto / anonymous payments?
 
