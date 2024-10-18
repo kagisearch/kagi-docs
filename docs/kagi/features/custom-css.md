@@ -2,11 +2,9 @@
 
 [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings?p=custom_css).
 
-> Custom CSS does not apply to Settings pages, and is limited to 10,000 characters.
+Custom CSS does not apply to Settings pages, and is currently limited to 20,000 characters --- including whitespace.
 
 Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
-
-Here's a proofread and improved version of the support page:
 
 ## User Themes
 
@@ -318,7 +316,7 @@ by rasti
 
 <br>
 
-You can collaborate on themes in the **\#appearance** channel on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
+You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
 

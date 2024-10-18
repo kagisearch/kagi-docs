@@ -87,7 +87,8 @@ We are confident that Kagi will help you amplify your search abilities, become m
 
 ## Why should I pay for search?
 
-The [age of ads is over](https://blog.kagi.com/age-pagerank-over). With Kagi, users pay for searches and get a superior product compared to the "free", ad-supported, search engines.
+The [age of ads is over](https://blog.kagi.com/age-pagerank-over).
+With Kagi, users pay for searches and receive a superior product compared to "free," ad supported search engines.
 
 Read our full article on [why pay for search](../why-kagi/why-pay-for-search.md).
 
@@ -97,18 +98,20 @@ Beyond using this knowledge base, you have several options:
 
 - We have a [feedback forum](https://kagifeedback.org) for bug reports and feature requests.
 - We have a [Discord server](https://kagi.com/discord) where you can provide general feedback and directly communicate with our community.
-- You can email [support@kagi.com](mailto:support@kagi.com) for help. Before emailing, please see if your issue has been addressed on this knowledge base or the [feedback forum](https://kagifeedback.org).
+- You can email [support@kagi.com](mailto:support@kagi.com) for help. Before emailing, please see if your issue has been addressed in this knowledge base or the [feedback forum](https://kagifeedback.org).
 
 ## How do I set Kagi as my default search engine?
 
-You can install a free browser extension or manually configure your browser to use Kagi Search. Check out our [documentation](../getting-started/setting-default.md) for details.
+You can install a free browser extension or manually configure your browser to use Kagi Search.
+Check out our [documentation](../getting-started/setting-default.md) for details.
 
 <a name="kagi-better-results"></a>
 ## Why does Kagi return so few results?
 
-Kagi only shows you actually relevant search results, so you may be confused when Kagi returns 57 results and another, ad supported, search engine returns 2.6 million results.  This is, in part, because ad supported search engines have different incentives and want you to stay on their site longer, going through pages and pages of results, etc., as every interaction is another opportunity to serve ads.
+Kagi only shows you actually relevant search results, so you may be confused when Kagi returns 57 results and another, ad supported, search engine returns 2.6 million results.
+This is, in part, because ad supported search engines have different incentives and want you to stay on their site longer, going through pages and pages of results, as every interaction is another opportunity to serve ads.
 
-Kagi, on the other hand, tries to find what you are looking for, show it in top 3 results, and only show you truly relevant, non-duplicate, results.
+Kagi, conversely, strives to deliver the most relevant, unique results within the top three.
 
 <a name="using-login-token"></a>
 ## Can I use Kagi in private browser sessions or if I am deleting my cookies? {#using-login-token}
@@ -164,7 +167,7 @@ Please refer to [Kagi search sources](../search-details/search-sources.md).
 
 ## How fast is Kagi Search?
 
-We are...ahem...[fast](../search-details/search-speed.md).
+We are --- ahem --- [fast](../search-details/search-speed.md).
 
 ## How do Kagi's features compare to other search engines?
 
@@ -215,7 +218,7 @@ We also empower our members with powerful tools like [domain preferences](../fea
 ## How does Kagi help protect my privacy?
 ”Free” search engines have two ways to make money – get more users or sell more ads per user. The easiest, fastest way is to mine more data to sell ads more effectively. Many search-engine companies have buckled under investor pressure, leading us to the online privacy issues we have today.
 
-Paid models like Kagi only make money when users pay us, and users only pay when they receive great value. We offer superior result quality, features, speed and of course privacy. If we compromise on any of these points, we lose users. Therefore we have to offer a better product that includes the best possible privacy.
+Paid models like Kagi only make money when users pay us, and users only pay when they receive great value. We offer superior result quality, features, speed and, of course, privacy. If we compromise on any of these points, we lose users. Therefore we have to offer a better product that includes the best possible privacy.
 
 We designed our product to give you a good answer and get you on your way instead of forcing you to wade through a swamp of results that have leeches lurking under the surface.
 
@@ -233,7 +236,7 @@ If you discover potential security issues on our platform, please notify our [se
 
 ## How do I join Kagi’s Discord server?
 
-The Kagi beta Discord server is a great way to provide feedback and have direct communication with our team.
+The Kagi Discord server is a great way to provide feedback and have direct communication with our team.
 
 You can join this server at [kagi.com/discord](https://kagi.com/discord).
 
@@ -241,7 +244,7 @@ For feature requests and bug reports, please visit [kagifeedback.org](https://ka
 
 ## Where can I find examples of Custom CSS created by other users?
 
-Check [Custom CSS](../features/custom-css.md). Also check [Kagi Discord](https://kagi.com/discord) server which has an #appearance channel where people are sharing custom CSS examples.
+Please check out [Custom CSS](../features/custom-css.md). Users looking for more could also ask in the [Kagi Discord](https://kagi.com/discord).
 
 ## Does Kagi support crypto / anonymous payments?
 
@@ -278,7 +281,7 @@ Yes, as long as you do not cancel you will have the previous discount applied.
 If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
 
 ## I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?
-What sets Kagi apart is our fundamentally different, user-centric approach, that prioritizes the interest of our members and alignment of incentives. It’s worth noting that all of Kagi’s growth has been organic, without any expenditure on marketing or customer acquisition, attesting to the inherent value and trust our user base places in us. We invite you to review our [live stats](https://kagi.com/stats) for a transparent view of our steady progress.
+What sets Kagi apart is our fundamentally different, user-centric approach that prioritizes the interest of our members and alignment of incentives. It’s worth noting that all of Kagi’s growth has been organic, without any expenditure on marketing or customer acquisition, attesting to the inherent value and trust our user base places in us. We invite you to review our [live stats](https://kagi.com/stats) for a transparent view of our steady progress.
 
 ## How can I use the credit I added to my account to purchase one of the plans?
 Please visit [Billing Settings](https://kagi.com/settings?p=billing) and choose one of the plans. You will be redirected to Stripe and your available credits will be used to cover the plan price.
@@ -321,8 +324,9 @@ Unfortunately, our hosting provider (GCP) is known to block some VPN IP addresse
 
 ## Why do I get better results for local searches with Google?
 
-The reason is that Google knows where you are (since it tracks you across apps/devices), who you are and your past search history.
-When you search for 'dog and pony' Google may know it is the name of your local pub because you searched for it before, or recorded your location at that place through your phone, while Kagi does not so it shows you animal results instead.
+Google often returns personalized results because it tracks your location, identity, and search history across apps and devices.
+For example, a search for 'dog and pony' might return your local pub if you've searched for it before or if Google has recorded your presence there via your phone.
+Kagi, on the other hand, doesn't track this information and therefore returns more generic results, such as those related to animals.
 
 <a name="personal-account-for-work"></a>
 ## Can I use my personal account for work? {#personal-account-for-work}
@@ -349,4 +353,4 @@ After updating your address, you can return to the [Kagi sign-up page](https://k
 
 If you are experiencing issues, please [open a ticket](https://kagifeedback.org/) with as much detail as possible, and we will review it ASAP.
 
-For other inquiries or simply to connect, you can email support@kagi.com.
+For other inquiries or simply to connect, you can email [support@kagi.com](mailto:support@kagi.com).
