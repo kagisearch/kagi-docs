@@ -62,31 +62,6 @@ What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R
 Given a QWERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 ```
 
-```
-section .data
-    a dd 0
-    b dd 0
-
-section .text
-    global _start
-
-_start:
-    mov eax, [a]
-    add eax, [b]
-    mov [a], eax
-    mov eax, [a]
-    sub eax, [b]
-    mov [b], eax
-    mov eax, [a]
-    sub eax, [b]
-    mov [a], eax
-
-    mov eax, 60
-    xor edi, edi
-    syscall
-
-What does this program do, in one sentence?
-```
 
 
 ## LLM Pricing comparison
