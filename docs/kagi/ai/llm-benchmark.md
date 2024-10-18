@@ -100,7 +100,7 @@ The table below is updated to the best of our abilities, feel free to submit cha
 |------------------------------------|----------------|-----------------------|------------------------|
 | o1-preview                         | -              | 15                    | 60                     |
 | o1-mini                            | -              | 3                     | 12                     |
-| **GPT-4o**                         | 128K           | 5                     | 15                     |
+| **GPT-4o**                         | 128K           | 2.5                   | 10                     |
 | **GPT-4o mini**                    | 128K           | 0.15                  | 0.60                   |
 | **GPT-4-Turbo**                    | 128K           | 10                    | 30                     |
 | GPT-4 (8k)                         | 8K             | 30                    | 60                     |
