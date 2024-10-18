@@ -11,15 +11,15 @@ Last updated **Oct 18, 2024**.
 
 | Model | Accuracy (%)| Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |------------------------------------------|----------|--------|----------------|--------------------|--------------------|
-| OpenAI **gpt-4o** | 54 | 5889 | 0.11922 | 1.08 | 50.49 |
+| OpenAI **gpt-4o** | 56 | 5889 | 0.11922 | 1.08 | 50.49 |
 | Together **meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo** | 50 | 7767  | 0.07136  | 2.00    | 46.49 |  
 | OpenAI **o1-mini** | 50 | 29820| 0.37716 | 4.35 | n/a |
 | OpenAI **o1-preview** | 48 | 38440| 2.40306 | 9.29 | n/a |
 | Anthropic **claude-3.5-sonnet-20240620** | 46 | 6595 | 0.12018 | 2.54 | 48.90 |
+| OpenRouter **nvidia/llama-3.1-nemotron-70b-instruct** | 44 | 11989 | 0.00700 | 5.71 | 26.81 |
 | Mistral **large-latest** | 44 | 5097 | 0.06787 | 3.08 | 18.03 |
-| OpenRouter **nvidia/llama-3.1-nemotron-70b-instruct** | 42 | 11989 | 0.00700 | 5.71 | 26.81 |
+| OpenAI **gpt-4o-mini** | 42 | 6029 | 0.00451 | 1.64 | 36.92 |
 | Groq **llama-3.1-70b-versatile** | 40 | 5190 | 0.00781 | 0.71 | 81.62 |
-| OpenAI **gpt-4o-mini** | 40 | 6029 | 0.00451 | 1.64 | 36.92 |
 | OpenRouter **x-ai/grok-2** | 40 | 6917 | 0.10141 | 2.47 | 41.15 |
 | OpenRouter **nousresearch/hermes-3-llama-3.1-405b:free** | 40 | 6075 | 0.00000 | 3.93 | 19.05 |
 | Reka **reka-core** | 36 | 6966 | 0.12401 | 6.21 | 17.56 |
