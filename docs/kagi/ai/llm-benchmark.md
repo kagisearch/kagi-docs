@@ -19,10 +19,10 @@ Last updated **Oct 18, 2024**.
 | Mistral **large-latest** | 44 | 5097 | 0.06787 | 3.08 | 18.03 |
 | OpenRouter **nvidia/llama-3.1-nemotron-70b-instruct** | 42 | 11989 | 0.00700 | 5.71 | 26.81 |
 | Groq **llama-3.1-70b-versatile** | 40 | 5190 | 0.00781 | 0.71 | 81.62 |
+| OpenAI **gpt-4o-mini** | 40 | 6029 | 0.00451 | 1.64 | 36.92 |
 | OpenRouter **x-ai/grok-2** | 40 | 6917 | 0.10141 | 2.47 | 41.15 |
 | OpenRouter **nousresearch/hermes-3-llama-3.1-405b:free** | 40 | 6075 | 0.00000 | 3.93 | 19.05 |
 | Reka **reka-core** | 36 | 6966 | 0.12401 | 6.21 | 17.56 |
-| OpenAI **gpt-4o-mini** | 34 | 6029 | 0.00451 | 1.64 | 36.92 |
 | DeepSeek **deepseek-chat** | 32 | 7310 | 0.00304 | 4.81 | 17.20 |
 | Anthropic **claude-3-haiku-20240307** | 28 | 5642 | 0.00881 | 1.33 | 55.46 |
 | Groq **llama-3.1-8b-instant** | 28 | 6628 | 0.00085 | 2.26 | 82.02 |
