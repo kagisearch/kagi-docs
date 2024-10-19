@@ -9,15 +9,16 @@ next:
 
 Feel free to email our customer support at [support@kagi.com](mailto:support@kagi.com). 
 
-Or, email Kagi CEO, Vladimir Prelovac, at [vlad@kagi.com](mailto:vlad@kagi.com).
+Alternatively, you can email Kagi CEO, Vladimir Prelovac, at [vlad@kagi.com](mailto:vlad@kagi.com).
 
 ## Kagi Community
 
 We have a [Kagi Community Discord server](https://kagi.com/discord) where you can join our community for real-time discussion about the product and chat with other Kagi users.
 
-Please use the **#introduce-yourself** channel to say hello and let everyone know a bit about you.
+Please use the **#introduce-yourself** channel to say hello and let everyone know a bit about yourself.
+You can also share your initial thoughts on Kagi search in this channel or create a more detailed post in the **#kagi-chat** channel.
 
-We'd also love to hear your initial thoughts about Kagi Search on the **#first-impressions** channel.
+We are always eager to hear what new users think of Kagi.
 
 To make specific feature requests or bug reports, please use our [Kagi Search feedback forum](https://kagifeedback.org) rather than Discord.
 
