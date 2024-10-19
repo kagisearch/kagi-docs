@@ -4,28 +4,40 @@
 - [Default Blocklists](#default_blocklists)
 - [Custom Blocklists](#custom_blocklists)
 - [Updating Blocklists](#updating_blocklists)
-- [Adding Blocklists](#adding_blocklists)
+- [Adding Blocklists on macOS](#adding_blocklists_macos)
+- [Adding Blocklists on iOS](#adding_blocklists_ios)
 - [Impact of Number of Blocking Rules on Performance](#performance_chart)
 - [Third-Party Blocklists](#third_party_blocklists)
 - [Regional Blocklists](#regional_blocklists)
-- [Personal Filters](#personal_filters)
+- [Custom Filters](#custom-filters-customfilters)
 - [Blocklist Syntax](#blocklist-syntax)
 - [Contributing to Blocklists](#contributing_blocklists)
 
 <a id="default_blocklists"></a>
 ## Default Blocklists {#default_blocklists}
 
-To protect you from most ads and trackers, Orion for Mac includes the following blocklists by default:
-- EasyList (Enabled)
-- EasyPrivacy (Enabled)
+Orion includes the following blocklists by default. 
+The blocklists in **bold** are enabled by default and provide sufficient protection against most ads and trackers.
+- **EasyList**
+- **EasyPrivacy**
+- **d3Host List by d3ward**
+- Hagezi Light DNS Blocklist
 - Fanboy's Annoyance (Disabled)
+- Hagezi Pro Plus Mini
+- Privacy Essentials
+- Block third-party fonts
 
-You can enable or disable these blocklists in **Orion** > **Settings** > **Privacy**, then click the **Show Filter Lists** button.
+On macOS, you can enable or disable these blocklists in **Orion** > **Settings** > **Privacy**, then click the **Manage Filter Lists...** button.
+
+On iOS, the blocklists can be managed in the settings: **⋯** > **Settings** > Scroll down to **Content Blocker** and tap **Manage**.
 
 <a id="custom_blocklists"></a>
 ## Custom Blocklists {#custom_blocklists}
 
-Orion for Mac allows you to customize it's ad blocker by using custom blocklists. Blocklists are lists of domains that are known to serve ads, trackers, malware and other annoyances. Orion checks web page requests against these lists and blocks any requests to the listed domains. This prevents ads from being displayed and trackers from following you around.
+In addition to the default blocklists, Orion allows you to customize its ad blocker by using custom blocklists. 
+Blocklists are lists of domains that are known to serve ads, trackers, malware and other annoyances.
+Orion checks web page requests against these lists and blocks any requests to the listed domains.
+This prevents ads from being displayed and trackers from following you around.
 
 
 <a id="updating_blocklists"></a>
@@ -33,17 +45,25 @@ Orion for Mac allows you to customize it's ad blocker by using custom blocklists
 
 Blocklists are constantly updated as new ad/tracking domains appear. List maintainers work to identify and add new ad-serving domains as they pop up.
 
-To manually update blocklists, go to **Orion** > **Settings** > **Privacy** and click **Update Now**. Wait for the "Processing update" message to disappear.
+On macOS, to manually update blocklists, go to **Orion** > **Settings** > **Privacy** and click **Update Now**.
+Wait for the "Processing update" message to disappear.
 
-<img src="./media/blocklists_update_now.png" width="500" alt="Blocklists - Update Now"><br />
+On iOS, blocklists can be updated in the settings: **⋯** > **Settings** > Scroll down to **Content Blocker** and tap **Update Now**.
 
-<img src="./media/blocklists_procesing_update.png" width="500" alt="Blocklists - Processing Update"><br />
+<img src="./media/blocklists_update_now.png" width="500" alt="Orion macOS Blocklists - Update Now"><br />
 
+<img src="./media/blocklists_processing_update.png" width="500" alt="Orion macOS Blocklists - Processing Update"><br />
 
-<a id="adding_blocklists"></a>
-## Adding Blocklists {#adding_blocklists}
+<img src="./media/ios_blocklists_update_now.png" width="500" alt="Orion iOS Blocklists - Update Now"><br />
 
-To add a blocklist to Orion, go to **Orion** > **Settings** > **Privacy** and click the **Show Filter Lists** button. Please note that Orion is compatible with Adblock Plus style blocklists.
+<img src="./media/ios_blocklists_processing_update.png" width="500" alt="Orion iOS Blocklists - Processing Update"><br />
+
+<a id="adding_blocklists_macos"></a>
+## Adding Blocklists on macOS {#adding_blocklists_macos}
+
+To add a blocklist to Orion on macOS, go to **Orion** > **Settings** > **Privacy** and click the **Manage Filter Lists...** button.
+
+Please note that Orion is compatible with Adblock Plus style blocklists.
 
 <img src="./media/blocklists_settings_menu.png" width="500" alt="Blocklists - Settings Menu"><br />
 
@@ -58,6 +78,34 @@ Then, paste the URL of the blocklist you wish to add and click the **Add** butto
 <img src="./media/blocklists_custom_url.png" width="500" alt="Blocklists - Custom URL"><br />
 
 <img src="./media/blocklists_done.png" width="500" alt="Blocklists - Done"><br />
+
+<a id="adding_blocklists_ios"></a>
+## Adding Blocklists on iOS {#adding_blocklists_ios}
+
+To add a blocklist to Orion on iOS, go to **⋯** > **Settings** > Scroll down to **Content Blocker** and tap **Manage** > **Add New**.
+
+Before following the steps, it is advised to have the blocklist URL already copied to your clipboard.
+Please note that Orion is compatible with Adblock Plus style blocklists.
+
+<img src="./media/ios_blocklists_settings_menu.png" width="500" alt="iOS Blocklists - Settings Menu"><br />
+<img src="./media/ios_blocklists_settings_menu2.png" width="500" alt="iOS Blocklists - Settings Menu step 2"><br />
+
+Scroll down to the **Content Blocker** section of the settings and tap **Manage**.
+
+<img src="./media/ios_blocklists_show_filter_lists.png" width="500" alt="iOS Blocklists - Show Filter Lists"><br />
+
+In the **Manage Content Blocker** window, click the **Add New** button.
+
+<img src="./media/ios_blocklists_add_blocklist.png" width="500" alt="iOS Blocklists - Add Blocklist"><br />
+
+Then, paste the URL of the blocklist you wish to add and tap the **Done** button in the top right corner of the window.
+Finally, tap **Done** in the Manage Content Blocker window.
+
+The Custom Filter Name field can have any name you see fit.
+
+<img src="./media/ios_blocklists_custom_url.png" width="500" alt="iOS Blocklists - Custom URL"><br />
+
+<img src="./media/ios_blocklists_done.png" width="500" alt="iOS Blocklists - Done"><br />
 
 
 <a id="performance_chart"></a>
@@ -235,13 +283,20 @@ ROList (Romanian) <br>
 </details>
 
 
-<a id="personal_filters"></a>
-## Personal Filters {#personal_filters}
+<a id="custom_filters"></a>
+## Custom Filters {#custom_filters}
 
-Orion allows you to create your own filters directly in Orion Settings. You can enable this feature in **Orion** > **Settings** > **Privacy** > **Show Filter Lists**, then check the **Custom Filters** checkbox and specify the rules in the text area.
+Orion allows you to create your own filters directly in Orion Settings.
 
-<img src="./media/blocklists_personal_filters.png" width="500" alt="Blocklists - Personal Filters"><br />
+On macOS, you can enable this feature in **Orion** > **Settings** > **Privacy** > **Manage Filter Lists**, then check the **Custom Filters** checkbox, and specify the rules in the text area.
 
+On iOS, custom filters can be added in the **Manage Content Blocker** window.
+For example, users wishing to block ads on reddit could add `reddit.com##.promotedlink` into this section.
+Once finished, tap **Done** in the top right corner of the window.
+
+<img src="./media/blocklists_personal_filters.png" width="500" alt="Blocklists - Custom Filters"><br />
+
+<img src="./media/ios_blocklists_custom_filters.png" width="500" alt="iOS Blocklists - Custom Filters"><br />
 
 <a id="blocklist-syntax"></a>
 ## Blocklist Syntax {#blocklist-syntax}

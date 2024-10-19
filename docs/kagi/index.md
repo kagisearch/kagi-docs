@@ -1,6 +1,6 @@
 # Welcome to Kagi Search Help!
 
-Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](/kagi/getting-started/index.md) and [FAQs](/kagi/faq/faq.md) are great places to begin. If you can’t find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at **support@kagi.com**.
+Welcome to Kagi Search Help! If you're new to Kagi Search, our [Quick Start](/kagi/getting-started/index.md) and [FAQs](/kagi/faq/faq.md) are great places to begin. If you cannot find an answer to your Kagi question, [ask the community](https://kagi.com/discord) or email us at support@kagi.com.
 
 To send a bug report or a feature suggestion, you can use [KagiFeedback.org](https://kagifeedback.org).
 
@@ -10,7 +10,8 @@ You can access our documentation in several ways:
 - Click or tap the magnifying glass icon at the top of the screen and do a search.
 - Use the **!help** [bang](/kagi/features/bangs.md) in Kagi Search. For example, searching in Kagi for [!help setting Kagi as default search engine](https://kagi.com/search?q=!help%20setting%20kagi%20as%20default%20search%20engine) will show you results containing our default search documentation.
 
-Feedback about this Kagi Search documentation can be shared on our [Discord server](https://kagi.com/discord) in the **\#documentation** channel. We would love to hear your thoughts on anything we can fix or improve.
+Feedback about this Kagi Search documentation can be shared on our [Discord server](https://kagi.com/discord). 
+We would love to hear your thoughts on anything we can fix or improve.
 
 ## About Kagi Search
 
