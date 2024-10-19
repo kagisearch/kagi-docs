@@ -22,7 +22,7 @@ The blocklists in **bold** are enabled by default and provide sufficient protect
 - **EasyPrivacy**
 - **d3Host List by d3ward**
 - Hagezi Light DNS Blocklist
-- Fanboy's Annoyance (Disabled)
+- Fanboy's Annoyance
 - Hagezi Pro Plus Mini
 - Privacy Essentials
 - Block third-party fonts
