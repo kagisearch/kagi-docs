@@ -143,7 +143,7 @@ The Assistant provides access to the following LLMs:
 	- GPT 4 Turbo
 	- GPT 4o
 - Mistral AI
-	- Mistral Nemo
+	- Mistral Pixtral
 	- Mistral Large
 - Google
 	- Gemini Pro
