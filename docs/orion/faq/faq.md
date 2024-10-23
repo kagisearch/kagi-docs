@@ -224,9 +224,9 @@ Orion blocks both first-party and third-party ads, trackers and other annoyances
 
 <a name="oss"></a>
 ## Is Orion open-source? {#oss} 
-We’re working on it! We’ve begun with some of [our components](https://github.com/OrionBrowser) and intend to open more in the future. 
+We're working on it! We've started with some of [our components](https://github.com/OrionBrowser) and intend to open more in the future.
 
-Forking WebKit, porting hundreds of APIs and writing a browser app from scratch has been challenging for our small team. Properly maintaining an open-source project takes time and resources we’re short on at the moment, so if you want to contribute at this time, please consider becoming active on [orionfeedback.org](https://orionfeedback.org/).
+Forking WebKit, porting hundreds of APIs, and writing a browser app from scratch has been challenging for our small team. Properly maintaining an open-source project takes time and resources that we are currently short on. If you would like to contribute, please consider becoming active on [orionfeedback.org](https://orionfeedback.org/).
 
 <a name="ossprivacy"></a>
 ## Is Orion truly safe if it’s not open-source? {#ossprivacy}
