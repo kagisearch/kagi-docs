@@ -23,9 +23,9 @@ You can use the **AI images** filter to completely exclude websites with AI-gene
 <video src="./media/exclude_ai_images_filter.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture alt="Kagi Image Search - Exclude AI Images Filter" />
 
 The **AI images** filter has three options:
-- **Any**: This is the default behavior. Include all images but downrank AI-generated results.
-- **None**: Exclude AI-generated results.
-- **Only**: Only include AI-generated results.
+- **Any**: This is the default behavior. Includes all images but downranks AI-generated results.
+- **None**: Excludes AI-generated results.
+- **Only**: Only includes AI-generated results.
 
 You can also use the `ai:only` and `ai:none` search operators to only include AI-generated images, and exclude all AI-generated images, respectively.
 
