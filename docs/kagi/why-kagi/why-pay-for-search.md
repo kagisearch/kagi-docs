@@ -17,6 +17,7 @@ Every dollar spent makes your search results:
 
 > "**The goals of the advertising business model do not always correspond to providing quality search to users... advertising funded search engines will be inherently biased towards the advertisers and away from the needs of the consumers.**"
 >
+> 
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
 They predicted this crisis. Then Google transformed from organizing the world's information to organizing the world's ads. The result? A [great deterioration of web and search](https://dkb.io/post/DEPR_google-search-is-dying) that affects us all.
