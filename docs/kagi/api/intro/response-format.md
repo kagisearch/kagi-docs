@@ -17,11 +17,12 @@ error | array  | [Error Object](#error-object), if an error occurred
 
 ## Request Metadata
 
-Field | Type   | Description
-------|--------|-----------
-id    | string | Request ID
-node  | string | Server node name
-ms    | int    | Request duration, in milliseconds
+Field          | Type   | Description
+---------------|--------|-----------
+id             | string | Request ID
+node           | string | Server node name
+ms             | int    | Request duration, in milliseconds
+api\_balance   | float  | Remaining API Balance, in dollars
 
 ## Error Object
 
@@ -52,24 +53,23 @@ From the [Execute Search](../endpoints/making_requests.md) endpoint:
 ```json
 {
   "meta": {
-    "id": "2a5b8993-d1bf-468b-9766-5afa50727bd4",
-    "node": "us-east",
-    "ms": 500
+    "id": "ec420bfd904acf489f741494c87a50e7",
+    "node": "us-central1",
+    "ms": 231,
+    "api_balance": 123.456
   },
   "data": [
     {
       "t": 0,
-      "rank": 1,
-      "url": "https://kagi.com",
-      "title": "Kagi Search",
-      "snippet": "Let's fetch!",
+      "url": "https://kagi.com/",
+      "title": "Kagi Search - A Premium Search Engine",
+      "snippet": "Better search results with no ads. Welcome to Kagi (pronounced kah-gee), a paid search engine that gives power back to the user."
     },
     {
       "t": 0,
-      "rank": 2,
-      "url": "https://browser.kagi.com",
+      "url": "https://kagi.com/orion",
       "title": "Orion Browser by Kagi",
-      "snippet": "Incredible performance. Total Protection.",
+      "snippet": "Orion offers native support for many Firefox and Chrome browser extensions allowing access to the world's largest eco-system of browser extensions. ",
     }
   ]
 }
@@ -87,7 +87,8 @@ From the [Execute Search](../endpoints/making_requests.md) endpoint:
   "meta": {
     "id": "bcbf11d2-1afa-4e72-a0ee-2d9079d1d332",
     "node": "us-east",
-    "ms": 0
+    "ms": 0,
+    "api_balance": 123.456
   },
   "data": null,
   "error": [
