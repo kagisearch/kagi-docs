@@ -4,11 +4,12 @@
 
 <video src="./media/assistant.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-The Assistant by Kagi combines the unparalleled results of Kagi Search with the latest large language models (LLM), making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of!
+The Assistant by Kagi combines top large language models (LLM) with (optional) results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! And all included in a single subscription!
+
 
 ## Features
 
-- Access to the latest and most performant large language models from OpenAI, Anthropic, Mistral, and Google
+- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google and Mistral
 - Multiple [custom assistants](#custom-assistants)
 - The ability to control whether the Assistant has web access (powered by Kagi Search).
 - Applying Kagi Search [Lenses](../features/lenses.md) and [Personalized Results](../features/website-info-personalized-results.md) to the Assistant searches
@@ -37,6 +38,10 @@ You can either type your prompt or use voice input by pressing the microphone sy
 You can choose which LLM you wish to use by opening the dropdown menu just left of the prompt field.
 
 Assistant's web access can be toggled via the button below the prompt field.
+
+## What model to choose
+
+We maintain [Kagi LLM benchmarking Project](./llm-benchmark.md) to measure the model quality in various scenarios.
 
 ## Threads
 
