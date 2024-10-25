@@ -6,16 +6,16 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Oct 18, 2024**.
+Last updated **Oct 24, 2024**.
 
 
 | Model | Accuracy (%)| Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |------------------------------------------|----------|--------|----------------|--------------------|--------------------|
-| OpenAI **gpt-4o** | 56 | 5889 | 0.11922 | 1.08 | 50.49 |
+| OpenAI **gpt-4o** | 52 | 5889 | 0.11922 | 1.08 | 50.49 |
 | Together **meta-llama/Meta-Llama-3.1-405B-Instruct-Turbo** | 50 | 7767  | 0.07136  | 2.00    | 46.49 |  
 | OpenAI **o1-mini** | 50 | 29820| 0.37716 | 4.35 | n/a |
+| Anthropic **claude-3.5-sonnet-202410220** | 48 | 6595 | 0.12018 | 2.54 | 48.90 |
 | OpenAI **o1-preview** | 48 | 38440| 2.40306 | 9.29 | n/a |
-| Anthropic **claude-3.5-sonnet-20240620** | 46 | 6595 | 0.12018 | 2.54 | 48.90 |
 | OpenRouter **nvidia/llama-3.1-nemotron-70b-instruct** | 44 | 11989 | 0.00700 | 5.71 | 26.81 |
 | Mistral **large-latest** | 44 | 5097 | 0.06787 | 3.08 | 18.03 |
 | OpenAI **gpt-4o-mini** | 42 | 6029 | 0.00451 | 1.64 | 36.92 |
