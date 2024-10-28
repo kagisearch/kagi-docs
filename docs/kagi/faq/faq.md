@@ -215,6 +215,8 @@ What we maintain is a strict search-quality bias. We downrank web pages that con
 
 We also empower our members with powerful tools like [domain preferences](../features/website-info-personalized-results.md) and [lenses](../features/lenses.md) to help them shape their search results in any way they prefer.
 
+Read more about our approach to [information access](../search-details/search-quality.md#search-neutrality-and-information-access).
+
 ## How does Kagi help protect my privacy?
 ”Free” search engines have two ways to make money – get more users or sell more ads per user. The easiest, fastest way is to mine more data to sell ads more effectively. Many search-engine companies have buckled under investor pressure, leading us to the online privacy issues we have today.
 
