@@ -24,13 +24,13 @@ Other search engines may also show an inflated number of results available. The 
 
 We feel our approach is in line with our values. In the unlikely event of not finding what you are looking for in the available results, you can always modify the query slightly to get the new results.
 
-## Information access, censorship and biases
+## Search neutrality and information access
 
 As a search engine, Kagi is used to find a wide variety of information to inform and improve its users' lives. There is, however, a wide variety of content online that some may find distasteful, problematic, or immoral.
 
 This raises difficult questions about whether Kagi should censor information found on the open web or augment results with messaging to inform users they may be making poor choices.
 
-We do not censor information and we take our responsibility to serve our users and society seriously. Our purpose is to provide comprehensive and diverse search results to users worldwide. We utilize various data sources based on a rigorous evaluation process that considers result quality, economic costs, latency, legal terms, privacy requirements, and technical feasibility.
+We do not censor information and we take our responsibility to serve our users and society seriously. Our purpose is to provide comprehensive and diverse search results to users worldwide.
 
 When evaluating these types of decisions we use the following principles:
 
