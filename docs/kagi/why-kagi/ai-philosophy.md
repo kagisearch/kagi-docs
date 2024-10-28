@@ -8,7 +8,7 @@ From an information retrieval point of view, relevant to our context of a search
 
 2. LLMs are not intelligent in the human sense. They have no understanding of the actual physical world. They do not have their own genuine opinions, emotions, or sense of self. We must avoid attributing human-like qualities to these systems or thinking of them as having human-level abilities. They are limited AI technologies. (*In a way, they are similar to how a wheel can get us from point A to point B, sometimes much more efficiently than human body can, but it lacks the ability to plan and the agility of human body to get us everywhere a human body can*)
 
-These limitations required us to pause and reflect on the impact on search experience, before incoporating this new technology for our customers. As a result, we came up with an AI integration philosophy that is guided by these principles:
+These limitations required us to pause and reflect on the impact on search experience, before incorporating this new technology for our customers. As a result, we came up with an AI integration philosophy that is guided by these principles:
 
 1. **AI should be used in closed, defined context relevant to search** (don't make a therapist inside the search engine, for example)  
 2. **AI should be used to enhance the search experience, not to create it or replace it** (meaning AI is opt-in and on-demand, similar to how we use JavaScript in Kagi, where search still works perfectly fine when JS is disabled in the browser)  

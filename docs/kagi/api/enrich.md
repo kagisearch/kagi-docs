@@ -252,7 +252,7 @@ curl -v \
       "rank": 28,
       "url": "https://web.archive.org/web/20201108115652/https://m.signalvnoise.com/microsoft--i-forgive-you/",
       "title": "Microsoft, I forgive you! - Signal v. Noise",
-      "snippet": "And perversely enough, that’s exactly what is setting it free to try harder, try again, and make an impression with a crowd that’s no longer dispositioned to reject the effort because Microsoft is the big bad wolf. It’s bizarre, but I actually want to see a resurgent, strong Microsoft. Yes, I know they’ve been pining for it, so here it is: Microsof..",
+      "snippet": "And perversely enough, that’s exactly what is setting it free to try harder, try again, and make an impression with a crowd that’s no longer dispositioned to reject the effort because Microsoft is the big bad wolf. It’s bizarre, but I actually want to see a resurgent, strong Microsoft. Yes, I know they’ve been pining for it, so here it is: Microsoft..",
       "published": "2020-11-08T11:56:52Z"
     }
   ]
