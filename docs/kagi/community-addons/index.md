@@ -1,4 +1,4 @@
-# Community Add-owns
+# Community Add-ons
 
 Members of the Kagi community have brought Kagi to their favorite tools!
 You can find a list below of integrations that our users have contributed to other products, or built themselves.
