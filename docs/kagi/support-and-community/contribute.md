@@ -8,6 +8,6 @@ The Kagi user community is a vibrant, diverse, and passionate group that plays a
 - **Contribute to Kagi documentation**: Help us in enhancing our documentation. Each page on our site is editable; feel free to add or amend content using the link at the bottom of each page. Contributions are typically merged on the same day.
 - **Translation**: Assist in [translating Kagi](./contribute_translations.md) into other languages, helping us reach a wider audience globally.
 - **Work on Kagi open-source projects**: If you are interested in open-source projects, we have a [range of projects](./open-source.md) you can contribute to.
-- **Develop add-owns**: Use your creativity and skills to develop [add-owns for Kagi](../community-addons/index.md), enhancing its functionality and user experience.
+- **Develop add-ons**: Use your creativity and skills to develop [add-ons for Kagi](../community-addons/index.md), enhancing its functionality and user experience.
 
 We often reward our contributors with special perks, such as previews of new features and involving them in important decisions. To avail these perks, make sure to join our [Discord community](https://kagi.com/discord).
