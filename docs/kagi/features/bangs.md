@@ -114,15 +114,14 @@ zm   | Zambia
 - **!fgpt** \<query> - Invoke FastGPT with the query
 - **!quick** \<search terms> - Search & open "Quick Answer"
 
-### Kagi Assistant bangs
+### The Assistant bangs
 
-> **Note:** Kagi Assistant is currently in open beta and available to Ultimate plan members. If you are not part of the beta, these bangs will not work as described below.
+> **Note:** The Assistant is available in our Ultimate plan.
 
-- **!fast** \<query> - Fast Assistant. Kagi search coupled with a fast AI model. Optimized for speed, while not sacrificing quality.
-- **!expert** \<query> - Expert Assistant. Multiple Kagi searches (and external services) together with the best available AI model for the highest accuracy and comprehensive responses.
-- **!code** \<query> - Code Assistant. Tuned for programming tasks and uses a powerful AI model for programming.
-- **!chat** \<query> - Chat Assistant. Allows direct access to a variety of large language models for creative tasks.
-- **!custom** \<query> - Custom Assistant. Allows you to further customize one of the existing modes.
+You can quickly access Assistant from Kagi Search by using the following bangs:
+`!asst`, `!as`, `!chat`, `!assistant` , `!llm`, `!expert` and `!fast`
+
+You can also access the **Code** Custom Assistant with the `!code` bang.
 
 ### Search on external websites
 
