@@ -162,7 +162,7 @@ You can learn more about how these models compare in the [Kagi LLM Benchmarking 
 ## Bangs
 
 You can quickly access Assistant from Kagi Search by using the following [bangs](../features/bangs.md):
-`!asst`, `!as`, `!chat`, `!assistant` , `!llm`, `!expert` and `!fast`
+`!ai`, `!chat`, `!assistant` , `!llm`, `!asst`, `!as`, `!expert` and `!fast`
 
 You can also access the **Code** Custom Assistant with the `!code` bang.
 
