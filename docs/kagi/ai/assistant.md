@@ -90,11 +90,13 @@ The Assistant supports various file formats across different categories:
 
 | File Type | Supported Formats |
 |:--|:--|
-| Text | txt, text, md |
+| Text | txt, text, md (and other text-based formats) |
 | Rich Format | pdf, docx, pptx |
 | Spreadsheets | csv, tsv, xlsx, json, jsonl |
 | Image | jpg, jpeg, png, gif, tiff, tif, webp |
 | Audio | 3gpp, aa, aac, aax, act, aiff, amr, ape, au, awb, dct, dss, dvf, flac, gsm, iklax, ivs, m4a, m4b, m4p, mp4, mmf, mp3, mpc, msv, ogg, opus, ra, rm, sln, tta, vox, wav, wma, wvpla |
+
+Note: Unsupported formats may be treated as binary files.
 
 ## Custom Instructions
 
