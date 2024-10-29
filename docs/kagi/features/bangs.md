@@ -119,7 +119,7 @@ zm   | Zambia
 > **Note:** The Assistant is available in our Ultimate plan.
 
 You can quickly access Assistant from Kagi Search by using the following bangs:
-`!asst`, `!as`, `!chat`, `!assistant` , `!llm`, `!expert` and `!fast`
+`!ai`, `!chat`, `!assistant` , `!llm`, `!asst`, `!as`, `!expert` and `!fast`
 
 You can also access the **Code** Custom Assistant with the `!code` bang.
 
