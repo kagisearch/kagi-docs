@@ -5,6 +5,8 @@ One of the things that makes Kagi unique is our initiative to surface recent res
 ## Identifying Small Web Content
 When clicking the shield icon next to any search result, Small Web content is distinguished by an image of Doggo appearing in the details window.
 
+![Doggo - Small Web Result](./media/doggo_kagis_index_result.png){width=622px data-zoomable}
+
 ## Recent Content Promotion
 Recent content from Small Web sites appears prominently in search results for 7 days after publication. This ensures fresh, relevant perspectives from independent creators are easily discoverable, especially valuable for current topics and discussions.
 
