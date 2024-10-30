@@ -1,6 +1,6 @@
 # Custom Assistants
 
-The Assistant’s Custom Assistants allow you to create specialized LLM personalities tailored to your specific needs, preferences, and use cases.
+[The Assistant](./assistant.md)’s Custom Assistants allow you to create specialized LLM personalities tailored to your specific needs, preferences, and use cases.
 
 ## Creating a Custom Assistant
 
