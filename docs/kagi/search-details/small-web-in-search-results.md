@@ -11,7 +11,7 @@ When clicking the shield icon next to any search result, Small Web content is di
 ![Doggo - Small Web Result](./media/doggo_kagis_index_result.png){width=622px data-zoomable}
 
 ## Surfacing content from the Small Web
-We are commited to surfacing content from the Small Web in our search reuslts, which makes Kagi uniquely different to any other search engine out there. It is not only part of our mission to humanize the web but we genuinly feel that this improves the quality of search results and discoverability of high quality, relevant content.
+We are commited to surfacing content from the Small Web in our search results, which makes Kagi uniquely different to any other search engine out there. It is not only part of our mission to humanize the web but we genuinly feel that this improves the quality of search results and discoverability of high quality, relevant content.
 
 ## Evergreen content
 While our focus with Small Web is on the recent content, we also have an index for evergreen content. High-quality evergreen content continues to appear in relevant searches, weighted appropriately based on search context and user needs.
