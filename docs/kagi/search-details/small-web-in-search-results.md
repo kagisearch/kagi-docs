@@ -16,3 +16,5 @@ We are commited to surfacing content from the Small Web in our search reuslts, w
 ## Evergreen content
 While our focus with Small Web is on the recent content, we also have an index for evergreen content. High-quality evergreen content continues to appear in relevant searches, weighted appropriately based on search context and user needs.
 
+## Related Repository
+Visit the [Kagi Small Web Repository](https://github.com/kagisearch/smallweb) on GitHub to explore and contribute to the lists of small web sites and YouTube channels that Kagi uses to surface unique, recent content. You can suggest new feeds, recommend changes, and help expand the small web community there.
