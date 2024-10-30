@@ -1,17 +1,18 @@
-# Small Web in Search Results
+# Small Web in search results
 
-One of the things that makes Kagi unique is our initiative to surface recent results from the [Small Web](https://blog.kagi.com/small-web) (a curated list of personal blogs and websites, as well as YouTube channels). Here's how it integrates with Kagi search results:
+One of the things that makes Kagi unique is our initiative to surface recent results from the [Small Web](https://blog.kagi.com/small-web) (a curated list of personal blogs and websites, as well as YouTube channels). Check the web interface for browsing [Kagi Small Web](https://kagi.com/smallweb).
 
-## Identifying Small Web Content
+## Small Web purpose
+Small Web surfaces authentic content from independent creators who regularly share their expertise, experiences, and insights through their personal blogs and websites. By focusing on genuine, non-commercial content, it helps you discover thoughtful perspectives from individual voices across the internet, enhancing the diversity and quality of your search results.
+
+## Identifying Small Web content in your search results
 When clicking the shield icon next to any search result, Small Web content is distinguished by an image of Doggo appearing in the details window.
 
 ![Doggo - Small Web Result](./media/doggo_kagis_index_result.png){width=622px data-zoomable}
 
-## Recent Content Promotion
-Recent content from Small Web sites appears prominently in search results for 7 days after publication. This ensures fresh, relevant perspectives from independent creators are easily discoverable, especially valuable for current topics and discussions.
+## Surfacing content from the Small Web
+We are commited to surfacing content from the Small Web in our search reuslts, which makes Kagi uniquely different to any other search engine out there. It is not only part of our mission to humanize the web but we genuinly feel that this improves the quality of search results and discoverability of high quality, relevant content.
 
-## Evergreen Content
-While the focus is on recent content, older Small Web content may remain searchable through Kagi's index. High-quality evergreen content continues to appear in relevant searches, weighted appropriately based on search context and user needs.
+## Evergreen content
+While our focus with Small Web is on the recent content, we also have an index for evergreen content. High-quality evergreen content continues to appear in relevant searches, weighted appropriately based on search context and user needs.
 
-## Small Web Purpose
-Small Web surfaces authentic, personal content from independent creators who regularly share their expertise, experiences, and insights. By focusing on genuine, non-commercial content, it helps you discover thoughtful perspectives from individual voices across the internet, enhancing the diversity and quality of your search results.
