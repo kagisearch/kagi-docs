@@ -1,4 +1,4 @@
-# How is Small Web used in Kagi results?
+# Small Web in Search Results
 
 One of the things that makes Kagi unique is our initiative to surface recent results from the [Small Web](https://blog.kagi.com/small-web) (a curated list of personal blogs and websites, as well as YouTube channels). Here's how it integrates with Kagi search results:
 
