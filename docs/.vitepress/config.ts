@@ -176,6 +176,7 @@ function sidebarKagi() {
                         { text: 'Sources', link: '/kagi/search-details/search-sources' },
                         { text: 'Quality', link: '/kagi/search-details/search-quality' },
                         { text: 'Speed', link: '/kagi/search-details/search-speed' },
+                        { text: 'Small Web in Search Results', link: '/kagi/search-details/small-web-in-search-results' },
                     ]
                 },
                 { text: 'AI Philosophy', link: '/kagi/why-kagi/ai-philosophy' },
