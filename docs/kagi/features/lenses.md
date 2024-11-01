@@ -24,17 +24,20 @@ Lenses do not yet support image or video searches.
 
 Kagi offers several prebuilt lenses. The following are available by default:
 
-- **Forums**: search forums from around the Web.
+- **Forums**: search forums from around the web.
 - **Programming**: official programming language websites and forums.
-- **World News**: recent information from a selection of global news outlets across the globe.
-- **Academic**: searches academic domains.
-- **PDF**: search for PDF files.
-- **Kagi Help and Feedback**: search Kagi's documentation and feedback websites.
+- **News 360**: offers a 360-degree perspective on news impacting the globe.
+- **Fediverse Forums**: search Lemmy and kbin fediverse forums.
+- **Usenet/Archive**: search Usenet Archives and Archive.org non-web collections.
+- **Academic**: searches education (.edu) domains.
+- **PDFs**: search for PDF files.
+- **Kagi Documentation**: searches help.kagi.com, blog.kagi.com, kagifeedback.org, and orionfeedback.org.
 
 The following lenses need to be activated from the [Lenses](https://kagi.com/settings?p=lenses) settings.
 
+- **Cyber Security**: search cyber security news websites.
 - **Small Web**: results that favor noncommercial domains and topics.
-- **Recipes**: common sense recipes from sites with no ads.
+- **Recipes**: recipes without spam from high-quality (English) recipe sites.
 
 ## Lens Example
 
