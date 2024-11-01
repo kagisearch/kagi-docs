@@ -47,6 +47,18 @@ Remember that well-crafted instructions lead to more accurate and useful respons
 
 Select your Custom Assistant from the model-selection dropdown menu below the prompt bar to begin interaction.
 
+## URL Parameter for Custom Assistants
+
+You can specify a custom assistant by adding a `profile` parameter to the URL, using either the name (in lowercase, hyphenated format) or the UUID of your custom assistant.
+
+For instance, if you want to use a specific custom assistant, locate its UUID by navigating to your [Custom Assistants settings page](https://kagi.com/settings?p=assistant), and copy the long UUID found in the URL when editing the assistant. You can then create a custom bang template, like:
+
+```
+/assistant?q=%s&profile=c03f3098-9ead-408f-93f0-407a77e697db
+```
+
+This setup will direct the request to your specified assistant.
+
 ## Default Custom Assistants
 
 The Assistant comes with carefully pre-configured assistants designed to enhance your productivity.
