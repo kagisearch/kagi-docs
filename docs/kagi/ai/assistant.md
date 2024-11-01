@@ -166,23 +166,11 @@ You can quickly access Assistant from Kagi Search by using the following [bangs]
 
 You can also access the **Code** Custom Assistant with the `!code` bang.
 
-For this addition, a natural location would be right after the **LLMs Available in The Assistant** section, adding a clear explanation on the use of the `profile` parameter to select a specific LLM, like `gpt-4o` or `claude3.5`. Here's the updated content for that section:
-
 ## URL Parameter for Model Selection
 
 You can specify a particular model in the Assistant's URL by including a `profile` parameter.
-`https://kagi.com/assistant?profile=gpt_4o&q={{{s}}}`
+`https://kagi.com/assistant?profile=gpt_4o&q=%s`
 The available model names include: `gpt_4o` `gpt_4o_mini` `gpt_4` `gpt_4_turbo` `claude_3_haiku` `claude_3_opus` `claude_3_sonnet` `code` `gemini_pro` `llama-3-405b` `mistral_pixtral` `mistral_large`
-
-### Example Usage:
-
-To use GPT-4o specifically, you can configure your request with:
-
-```
-/assistant?q=%s&profile=gpt-4o
-```
-
-For custom assistants, you can use the UUID by navigating to the Assistant settings page, selecting the assistant to view its URL, and copying the UUID. Replace `profile=UUID-HERE` in your bang URL with this UUID to direct the request to your custom assistant.
 
 ## Availability
 
