@@ -4,16 +4,16 @@
 
 <video src="./media/assistant.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-The Assistant by Kagi combines top large language models (LLM) with (optional) results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! And all included in a single subscription!
+The Assistant by Kagi combines top large language models (LLM) with (optional) results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! All this is included in a single subscription!
 
 
 ## Features
 
-- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google and Mistral
+- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google, and Mistral
 - Multiple [custom assistants](#custom-assistants)
-- The ability to control whether the Assistant has web access (powered by Kagi Search).
+- The ability to control whether the Assistant has web access (powered by Kagi Search)
 - Applying Kagi Search [Lenses](../features/lenses.md) and [Personalized Results](../features/website-info-personalized-results.md) to the Assistant searches
-- Switch between multiple threads from a single window
+- Switch between multiple threads within a single window
 - Saving Assistant threads
 - Uploading files to use as context
 - Altering the Assistant configuration within the thread
@@ -27,7 +27,7 @@ The Assistant by Kagi combines top large language models (LLM) with (optional) r
 
 ## Privacy
 
-When you use the Assistant by Kagi, your data is never used to train AI models, and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity (can be adjusted in [settings](https://kagi.com/settings/?p=assistant)).
+When you use the Assistant by Kagi, your data is never used to train AI models, and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/?p=assistant).
 
 ## Using the Assistant
 
@@ -35,11 +35,11 @@ The Assistant can be accessed via the Control Center located in the top right co
 
 When you first access the Assistant, you will be greeted by a familiar-looking landing page, allowing you to get right into using it.
 You can either type your prompt or use voice input by pressing the microphone symbol.
-You can choose which LLM you wish to use by opening the dropdown menu just left of the prompt field.
+You can choose which LLM you wish to use by opening the dropdown menu just below the prompt field.
 
-Assistant's web access can be toggled via the button below the prompt field.
+The Assistant's web access can be toggled via the button below the prompt field.
 
-## What model to choose
+## Which model to choose
 
 We maintain [Kagi LLM benchmarking Project](./llm-benchmark.md) to measure the model quality in various scenarios.
 
@@ -57,7 +57,7 @@ Please note that the thread saving setting is applied **when the thread is creat
 Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread.
 
 The Quick Access feature can be used to better organize your threads but it will not influence the thread saving setting.
-In other words, threads added to Quick Access will also be deleted after 24 hours unless you have chosen otherwise in the settings.
+In other words, threads added to Quick Access will also be deleted after 24 hours, unless you have chosen otherwise in the settings.
 
 You can also **preserve** threads with the star symbol, located to the left of the thread title.
 Preserved threads do not expire.
@@ -145,15 +145,15 @@ The Assistant provides access to the following LLMs:
 	- Claude 3.5 Sonnet
 	- Claude 3 Opus
 - OpenAI
-	- GPT 3.5 Turbo
 	- GPT 4
 	- GPT 4 Turbo
 	- GPT 4o
+	- GPT 4o Mini
 - Mistral AI
 	- Mistral Pixtral
 	- Mistral Large
 - Google
-	- Gemini Pro
+	- Gemini 1.5 Pro
 - Meta
 	- Llama 3.1 405B
 
@@ -186,9 +186,6 @@ If you are on a different plan you can upgrade from the [Billing Settings](https
 We also offer an Ultimate upgrade for Family Plans, you can upgrade from the [Family Management](https://kagi.com/settings?p=account_members) page.
 
 ## FAQ
-
-**Q**: Does the Assistant have file upload capability?
-**A**: The Assistant will have file upload capabilities very soon (work in progress). In the meantime, you can continue to use the [legacy Assistant](https://kagi.com/v1_assistant).
 
 **Q**: What is Kagi’s stance about using LLMs in search?
 **A**: We are continue to relentlessly focus on the core search experience and build thoughtfully integrated features on top of it. Read more about it in our [AI Integration Philosophy](../why-kagi/ai-philosophy.md) page.
