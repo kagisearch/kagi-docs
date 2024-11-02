@@ -5,12 +5,10 @@ next:
 ---
 # Jobs at Kagi Search
 
-**We receive a high volume of applications, which means our response times can be slow.**
-
 We review every application, but this takes time.
 To increase your chances of a timely response:
 
-- Put real effort into your application
+- Put effort like you mean it into your application
 - Clearly demonstrate why you're a strong fit for the role
 - Be detailed, but get to the point. Quality over quantity.
 
