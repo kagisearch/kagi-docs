@@ -31,7 +31,7 @@ When you use the Assistant by Kagi, your data is never used to train AI models, 
 
 ## Using the Assistant
 
-The Assistant can be accessed via the Control Center located in the top right corner of all Kagi pages or by clicking on the link in the top right corner of the Kagi homepage. [The direct link](https://kagi.com/assistant) to the Assistant can also be used. 
+The Assistant can be accessed via the Control Center located in the top right corner of all Kagi pages or by clicking on the link in the top right corner of the Kagi homepage. [The direct link](https://kagi.com/assistant) to the Assistant can also be used.
 
 When you first access the Assistant, you will be greeted by a familiar-looking landing page, allowing you to get right into using it.
 You can either type your prompt or use voice input by pressing the microphone symbol.
@@ -166,11 +166,17 @@ You can quickly access Assistant from Kagi Search by using the following [bangs]
 
 You can also access the **Code** Custom Assistant with the `!code` bang.
 
-## URL Parameter for Model Selection
+## URL Parameters
 
 You can specify a particular model in the Assistant's URL by including a `profile` parameter.
-`https://kagi.com/assistant?profile=gpt_4o&q=%s`
-The available model names include: `gpt_4o` `gpt_4o_mini` `gpt_4` `gpt_4_turbo` `claude_3_haiku` `claude_3_opus` `claude_3_sonnet` `code` `gemini_pro` `llama-3-405b` `mistral_pixtral` `mistral_large`
+`https://kagi.com/assistant?profile=gpt-4o&q=%s`
+The available model names include: `gpt-4`, `gpt-4-turbo`, `gpt-4o`, `gpt-4o-mini`, `gemini-pro`, `mistral-nemo`, `mistral-large`, `claude-3-haiku`, `claude-3-sonnet`, `claude-3-opus`, `llama-3-405b`, `code`
+
+This can also be used with custom assistants, as described on the [custom assistant documentation](./custom-assistants.md#url-parameters).
+
+The `internet` parameter can be used to turn on and off internet access, set to `true` to enable, anything else to disable. This overrides the internet setting of the profile used.
+
+The `lens` parameter can be used to set the lens if internet access is enabled. The value of this is the lowercase format of the lens name, for example, `https://kagi.com/assistant?lens=programming&q=%s`.
 
 ## Availability
 

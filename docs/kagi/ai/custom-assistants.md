@@ -47,9 +47,9 @@ Remember that well-crafted instructions lead to more accurate and useful respons
 
 Select your Custom Assistant from the model-selection dropdown menu below the prompt bar to begin interaction.
 
-## URL Parameter for Custom Assistants
+## URL Parameters
 
-You can specify a custom assistant by adding a `profile` parameter to the URL, using either the name (in lowercase, hyphenated format) or the UUID of your custom assistant.
+You can specify a custom assistant by adding a `profile` parameter to the URL, using either the name (in lowercase format) or the UUID of your custom assistant.
 
 For instance, if you want to use a specific custom assistant, locate its UUID by navigating to your [Custom Assistants settings page](https://kagi.com/settings?p=assistant), and copy the long UUID found in the URL when editing the assistant. You can then create a custom bang template, like:
 
@@ -58,6 +58,8 @@ For instance, if you want to use a specific custom assistant, locate its UUID by
 ```
 
 This setup will direct the request to your specified assistant.
+
+More information about assistant URL parameters can be found in the [assistant documentation](./assistant.md#url-parameters)
 
 ## Default Custom Assistants
 
@@ -120,4 +122,3 @@ Here are a few example configurations you can use to get started. You can also v
 | Internet Access | Enabled (for current events) |
 | Lens | World News |
 | Instructions | Analyze current events with balanced perspective. Provide context for news developments. Focus on factual reporting and multiple viewpoints. Summarize key points clearly. |
-
