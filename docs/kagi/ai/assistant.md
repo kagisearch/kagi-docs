@@ -170,13 +170,13 @@ You can also access the **Code** Custom Assistant with the `!code` bang.
 
 You can specify a particular model in the Assistant's URL by including a `profile` parameter.
 `https://kagi.com/assistant?profile=gpt-4o&q=%s`
-The available model names include: `gpt-4`, `gpt-4-turbo`, `gpt-4o`, `gpt-4o-mini`, `gemini-pro`, `mistral-nemo`, `mistral-large`, `claude-3-haiku`, `claude-3-sonnet`, `claude-3-opus`, `llama-3-405b`, `code`
+The available model names include: `gpt-4`, `gpt-4-turbo`, `gpt-4o`, `gpt-4o-mini`, `gemini-pro`, `mistral-nemo`, `mistral-large`, `claude-3-haiku`, `claude-3-sonnet`, `claude-3-opus`, `llama-3-405b`, `code`.
 
 This can also be used with custom assistants, as described on the [custom assistant documentation](./custom-assistants.md#url-parameters).
 
 The `internet` parameter can be used to turn on and off internet access, set to `true` to enable, anything else to disable. This overrides the internet setting of the profile used.
 
-The `lens` parameter can be used to set the lens if internet access is enabled. The value of this is the lowercase format of the lens name, for example, `https://kagi.com/assistant?lens=programming&q=%s`.
+The `lens` parameter can be used to set the lens if internet access is enabled. The value of this is the lowercase format of the lens name, for example, `https://kagi.com/assistant?lens=programming&q=%s` will use the Programming lens.
 
 ## Availability
 

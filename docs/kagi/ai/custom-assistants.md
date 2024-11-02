@@ -59,7 +59,7 @@ For instance, if you want to use a specific custom assistant, locate its UUID by
 
 This setup will direct the request to your specified assistant.
 
-More information about assistant URL parameters can be found in the [assistant documentation](./assistant.md#url-parameters)
+More information about assistant URL parameters can be found in the [assistant documentation](./assistant.md#url-parameters).
 
 ## Default Custom Assistants
 
