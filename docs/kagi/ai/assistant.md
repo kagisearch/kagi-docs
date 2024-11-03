@@ -4,8 +4,9 @@
 
 <video src="./media/assistant.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-The Assistant by Kagi combines top large language models (LLM) with (optional) results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! All this is included in a single subscription!
+The Assistant by Kagi combines top large language models (LLM) with optional results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! All this is included in a single subscription!
 
+>**NOTE:** The Assistant is currently available to users with the [Kagi Ultimate plan](../plans/ultimate-plan.md).
 
 ## Features
 
@@ -41,17 +42,17 @@ The Assistant's web access can be toggled via the button below the prompt field.
 
 ## Which model to choose
 
-We maintain [Kagi LLM benchmarking Project](./llm-benchmark.md) to measure the model quality in various scenarios.
+We maintain the [Kagi LLM Benchmarking Project](./llm-benchmark.md) to measure model quality in various scenarios.
 
 ## Threads
 
 The Assistant supports threads, allowing you to keep your bagel topping ideas separate from your weekend projects.
 
 The search bar enables you to search for that one elusive thread.
-Currently the search only looks through your thread titles.
+Currently, the search only looks through your thread titles.
 
 By default threads are kept for 24 hours after the last message.
-If keeping threads alive permanently better fits your workflow, this setting can be adjusted in [Assistant Settings](https://kagi.com/settings/?p=assistant).
+If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/?p=assistant).
 Please note that the thread saving setting is applied **when the thread is created**.
 
 Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread.
@@ -86,7 +87,7 @@ Important considerations for file uploads:
 **Processing time:** Larger files may take a few moments to process.
 **Context retention:** Uploaded file content remains in the conversation context for subsequent messages.
 
-The Assistant supports various file formats across different categories:
+The Assistant supports various file formats across different categories, including:
 
 | File Type | Supported Formats |
 |:--|:--|
@@ -187,5 +188,5 @@ We also offer an Ultimate upgrade for Family Plans, you can upgrade from the [Fa
 
 ## FAQ
 
-**Q**: What is Kagi’s stance about using LLMs in search?
-**A**: We are continue to relentlessly focus on the core search experience and build thoughtfully integrated features on top of it. Read more about it in our [AI Integration Philosophy](../why-kagi/ai-philosophy.md) page.
+**Q**: What is Kagi’s stance about using LLMs in search?\
+**A**: We continue to relentlessly focus on the core search experience and build thoughtfully integrated features on top of it. Read more about it in our [AI Integration Philosophy](../why-kagi/ai-philosophy.md) page.
