@@ -54,7 +54,7 @@ If you press **?** on your keyboard (**shift + /**) while in search results, Kag
 <a name="search-operators-1"></a>
 ## Search Operators {#search-operators-1}
 
-**filetype:** — Returns only search results that match a particular file extension, for example: [us census 1860 filetype:pdf](https://kagi.com/search?q=us+census+1860+filetype%3Apdf). The filetypes available in Kagi Search come from anonymized queries of the available [Google filetypes](https://developers.google.com/search/docs/crawling-indexing/indexable-file-types) and [Bing filetypes](https://blogs.bing.com/webmaster/2012/10/19/advanced-query-operators-filetype-ext-understanding-the-differences/). (Bing does not provide a filetypes list.)
+**filetype:** — Returns only search results that match a particular file extension, for example: [us census 1860 filetype:pdf](https://kagi.com/search?q=us+census+1860+filetype%3Apdf). The filetypes available in Kagi Search come from anonymized queries of the available [Google filetypes](https://developers.google.com/search/docs/crawling-indexing/indexable-file-types).
 
 **site:** — Returns only search results from a particular website, for example: [best in show dog site:akc.org](https://kagi.com/search?q=best+in+show+dog+site%3Aakc.org)
 
