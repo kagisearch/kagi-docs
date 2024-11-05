@@ -11,7 +11,7 @@ Last updated **Nov 4, 2024**.
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |-----------------------------|---------------|--------|----------------|------------------|-------------------|
 | **Anthropic** Claude-3.5-sonnet-20241022 | 43.33 | 9633 | 0.16649 | 2.38 | 55.53 |
-| **OpenAI** o1-mini | 41.67 | 42874 | 0.53454 | 4.62 | 161.59 |
+| **OpenAI** o1-mini | 41.67 | 42874 | 0.53454 | 4.62 | n/a |
 | **Anthropic** Claude-3.5-haiku-20241022 | 40.00 | 9738 | 0.05605 | 1.84 | 66.92 |
 | **OpenAI** gpt-4o | 40.00 | 11172 | 0.12801 | 1.59 | 49.90 |
 | **OpenRouter** nvidia/llama-3.1-nemotron-70b-instruct | 38.33 | 17413 | 0.00951 | 10.52 | 18.35 |
