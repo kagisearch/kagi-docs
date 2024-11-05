@@ -23,9 +23,9 @@ You can easily set or change Orion's default search engine at any time.
 <a name="macos_default_search"></a>
 ### macOS
 
-1. Click the **Orion** menu and choose **Preferences**.
+1. Click the **Orion** menu and choose **Settings**.
 
-<img src="./media/macos_prefs_menu.png" width="300" alt="macOS Preferences"><br />
+<img src="./media/macos_settings_menu.png" width="300" alt="macOS Settings"><br />
 
 2. Click the **Search** tab.
 3. You can choose your preferred "Search engine" from the list.
