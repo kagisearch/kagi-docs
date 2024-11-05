@@ -10,13 +10,13 @@ If you're having trouble using the Fastmail web app in Orion, the steps below ma
 
 <img src="../media/macos_fastmail_compatibility.png" width="300" alt="Compatibility Mode for Fastmail on macOS"><br />
 
-3. Enable Compatibility Mode for **www.fastmailusercontent.com** in Preferences:
-   1.  Click the **Orion** menu and click **Preferences**.
+3. Enable Compatibility Mode for **www.fastmailusercontent.com** in Settings:
+   1.  Click the **Orion** menu and click **Settings**.
    2.  Click the **Websites** tab.
    3.  Choose **Compatibility Mode** from the list of options.
    4.  Click the **+** icon.
    5.  Type or paste **www.fastmailusercontent.com** into the text field and click **Add**.
-   6. You will see the addition reflected in your Preferences.
+   6. You will see the addition reflected in your Settings.
 
 <img src="../media/compatibility_plus_button.png" width="500" alt="Compatibility Mode + Button"><br />
 
