@@ -17,6 +17,7 @@ You can control a number of settings related to the current website:
 
 - Enable or disable [Compatibility Mode](../troubleshooting/troubleshooting-webpage-issues.md#orion-compatibility-mode)
 - Enable or disable [Content Blockers](../privacy-and-security/protecting-privacy.md)
+- Enable or disable Intelligent Tracking Prevention
 - Block or unblock [Web Fonts](https://www.howtogeek.com/730585/what-is-a-web-font/)
 - Enable or disable [Cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
 - Enable or disable [Reader Mode](reader-mode.md)
@@ -28,7 +29,7 @@ You can control a number of settings related to the current website:
  - Block or Allow **Pop-up Windows**
  - Set the [User Agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) to a web browser or custom User Agent String of your choice
  - Set whether the check of the [SSL Certificate](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/) for the website must be [Strict](https://www.techslang.com/definition/what-is-strict-ssl/)
- - Control whether the website is set to **Allow** access, **Deny** access, or **Ask** for access to your **Camera**, **Microphone**, **Screen Sharing**, **Location**, and **Notifications**
+ - Control whether the website is set to **Allow** access, **Deny** access, or **Ask** for access to your **Camera**, **Microphone**, **Screen Sharing**, **Location**, **Notifications**, **Downloads**, and **External Apps**
 
 <a name="iOS"></a>
 ## iOS Website Settings {#iOS}
