@@ -13,3 +13,7 @@ Perks of the Ultimate plan include discounted access to the [Universal Summarize
 ## Annual Pricing Discount
 
 For a 10% discount in pricing you can pay annually.
+
+## Add-on for Family Plans
+
+Organizers of Family or Duo Plans can upgrade individual users to Ultimate features through the [Family Management](https://kagi.com/settings?p=account_members) page.
