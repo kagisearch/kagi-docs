@@ -23,7 +23,7 @@ The next time you visit that website, Orion will show you the list of saved pass
 
 ![macOS Fill Password](./media/macos_passwords_2_fill_password.png){width=500px data-zoomable}
 
-Orion also allows you to manage your saved passwords. To access the Passwords window, go to the **Window** menu and click on **Passwords**.
+Orion also allows you to manage your saved passwords. To access the Passwords window, go to the **Tools** menu and click on **Passwords**.
 
 ![macOS Passwords Menu](./media/macos_passwords_3_passwords_menu.png){width=500px data-zoomable}
 
@@ -72,17 +72,22 @@ To sync Orion passwords across devices, perform these steps <u>on each device</u
 <a name="syncing_passwords_macos"></a>
 ### macOS {#syncing_passwords_macos}
 
-1. Click the Apple menu (), click **System Preferences**, and click **Apple ID**.
+1. Click the Apple menu (), click **System Settings**.
    - If you're using macOS 3.14 (Mojave), you don't need to click Apple ID.
    
-![Open macOS System Preferences](./media/macos_open_system_prefs_menu.png){width=300px data-zoomable}
+![Open macOS System Settings](./media/macos_open_system_settings_menu.png){width=300px data-zoomable}
 
-![Open macOS System Preferences](./media/macos_appleid_button.png){width=500px data-zoomable}
+2. Open **iCloud**.
 
+![Open macOS System Settings](./media/macos_appleid_button.png){width=500px data-zoomable}
 
-2. In your iCloud/Apple ID settings, check the **Keychain** box if it isn't already checked.
+3. Open **Passwords**.
 
-![Open macOS System Preferences](./media/macos_icloud_keychain.png){width=500px data-zoomable}
+![Open macOS System Settings](./media/macos_appleid_passwords.png){width=500px data-zoomable}
+
+4. Enable **Sync this Mac**.
+
+![Open macOS System Settings](./media/macos_icloud_keychain.png){width=300px data-zoomable}
 
 <a name="syncing_passwords_ios"></a>
 ### iOS {#syncing_passwords_ios}
