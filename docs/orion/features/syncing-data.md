@@ -14,9 +14,9 @@ To sync Orion tabs, bookmarks, and reading lists across devices, perform these s
 <a name="syncing_macos"></a>
 ## macOS  {#syncing_macos}
 
-1. In Orion, use the **Orion** menu to open Preferences.
+1. In Orion, use the **Orion** menu to open Settings.
 
-<img src="./media/macos_orion_prefs_menu.png" width="300" alt="Open Orion Preferences"><br />
+<img src="./media/macos_orion_settings_menu.png" width="300" alt="Open Orion Settings"><br />
 
 2. Click the **Sync** tab and check the box for **Enable cross-device sync of your tabs, bookmarks, and reading list**.
 
