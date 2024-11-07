@@ -9,7 +9,7 @@
 - **Context-aware translation**: Preserves meaning, tone, and style of original text
 - **Translation options**: 
   - Web page translation
-  - Text selection translation
+  - Text translation
 - **Privacy-focused**: Your translations are processed securely without storing personal data
 
 ## Benefits
