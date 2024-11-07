@@ -121,21 +121,20 @@ And here's a one-liner that will let you fuzzy search your history using fzf
 ```
 sqlite3 ~/Library/Application\ Support/Orion/Defaults/history 'SELECT DISTINCT url FROM history_items' | fzf --ansi --multi | sed 's#.*\(https*://\)#\1#' | xargs open
 ```
-### Migrating Settings and Data of Orion Browser
+### Migrating and Syncing Settings and Data of Orion Browser
 
 Copy Orion settings from one Mac to another
 > Copy ~/Library/Preferences/com.kagi.kagimacOS.plist to the same location on another Mac.
 
-Tool for migrating Orion (production) settings and data to Orion RC
-
-[Orion Migration Tool](https://github.com/cybercitizen7/orion-migration)
-
-
-### Syncing settings to Orion RC (Release Candidate)
 If you are just getting started with Orion RC and would like to copy over your settings/configuration, you can use this command:
 ```
 cp -r ~/Library/Application\ Support/Orion ~/Library/Application\ Support/Orion\ RC
 ```
+
+If the above command does not import all of your data (profiles, extensions, etc.), try using the following tool:
+
+[Tool to migrate Orion settings and data to Orion RC](https://github.com/cybercitizen7/orion-migration)
+
 
 ### Change start page wallpaper to custom image
 To change to a custom wallpaper run this command with correct path to picture you want to change it to
