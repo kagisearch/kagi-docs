@@ -13,11 +13,11 @@ In Orion, Tab Groups are also called Named Windows. You can [sync](syncing-data.
 <a name="macos_tab_groups"></a>
 ## macOS Tab Groups {#macos_tab_groups}
 
-Simply use the **Rename** command in the windows menu to give the current window a name, such as "Work".
+Tab Groups can be accessed and edited through the windows menu.
 
-<img src="./media/macos_windows_menu_rename.png" width="300" alt="macOS Windows Menu Rename"><br />
+<img src="./media/macos_windows_menu.png" width="300" alt="macOS Windows Menu"><br />
 
-<img src="./media/macos_windows_rename_title.png" width="300" alt="macOS Rename Title"><br />
+<img src="./media/macos_windows_menu_edit.png" width="300" alt="macOS Windows Menu Edit"><br />
 
 The Tab Group will now sync in Orion across all of your devices where [syncing](syncing-data.md) is enabled.
 
