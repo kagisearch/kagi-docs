@@ -30,7 +30,7 @@ You can disable the content blocking or tracker prevention for a specific site u
 
 To disable Orion's content blocking or tracking prevention globally:
 
-1. In Orion, click the **Orion** menu and choose **Preferences**.
+1. In Orion, click the **Orion** menu and choose **Settings**.
 2. Click the **Websites** tab.
 3. Click  **Content Blockers** or **Tracking Protection** in the list of options.
 4. Set "Default settings for all websites" to **Off**.
