@@ -2,7 +2,7 @@
 
 ![Kagi Assistant - Research](./media/kagi_translate.png){width=700px data-zoomable}
 
-**Kagi Translate** is a powerful language translation service that supports 244 languages. It combines advanced language models to deliver accurate, context-aware translations while maintaining privacy.
+**Kagi Translate** is a powerful language translation tool that supports 244 languages. It combines advanced language models to deliver accurate, context-aware translations while maintaining privacy.
 
 ## Key Features
 - **Comprehensive Language Support**: Translate between 244 languages
