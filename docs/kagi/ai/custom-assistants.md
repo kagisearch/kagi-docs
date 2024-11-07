@@ -20,59 +20,6 @@
 	- Context Window
 - **Response Instructions**: Define how your assistant should interact (1500 characters max)
 
-## Using Custom Assistants
-
-Select your Custom Assistant from the model-selection dropdown menu below the prompt bar to begin interaction.
-
-## Example Configurations
-
-Here are a few example configurations you can use to get started. You can also visit [Anthropic’s Prompt Library](https://docs.anthropic.com/en/prompt-library/library) for more useful prompts.
-
-### Professional Writer Assistant
-```markdown
-Name: Writing Pro
-Bang: !write
-Internet Access: Enabled (for current writing trends and examples)
-Lens: Entire Internet
-Instructions: Respond in a professional tone with clear, concise language. Focus on grammar, style, and clarity. Provide constructive feedback on writing samples. When appropriate, suggest improvements while maintaining the original message's intent.
-```
-
-### Coding Mentor
-```markdown
-Name: Code Guide
-Bang: !code
-Internet Access: Enabled (for documentation and best practices)
-Lens: Programming
-Instructions: Explain programming concepts clearly with practical examples. Use best practices and modern conventions. Include comments in code examples. Focus on readability and maintainability. Highlight potential pitfalls and optimization opportunities.
-```
-
-### Academic Researcher
-```markdown
-Name: Research Aid
-Bang: !research
-Internet Access: Enabled (for current research and papers)
-Lens: Academic
-Instructions: Provide comprehensive, academic-style responses with clear citations. Focus on peer-reviewed sources when available. Present balanced viewpoints on complex topics. Highlight key findings and methodologies.
-```
-
-### Recipe Helper
-```markdown
-Name: Chef Assistant
-Bang: !chef
-Internet Access: Enabled (for recipes and cooking techniques)
-Lens: Recipes
-Instructions: Provide clear, step-by-step cooking instructions. Focus on practical cooking tips, ingredient substitutions, and technique explanations. Include serving sizes and preparation times.
-```
-
-### News Analyst
-```markdown
-Name: News Guide
-Bang: !news
-Internet Access: Enabled (for current events)
-Lens: World News
-Instructions: Analyze current events with balanced perspective. Provide context for news developments. Focus on factual reporting and multiple viewpoints. Summarize key points clearly.
-```
-
 ## Tips for Effective Instructions
 
 - Be specific about desired tone and style
@@ -95,3 +42,83 @@ Instructions: Analyze current events with balanced perspective. Provide context 
 5. Update settings as your needs change
 
 Remember that well-crafted instructions lead to more accurate and useful responses. Take time to think about your specific needs and how to communicate them effectively.
+
+## Using Custom Assistants
+
+Select your Custom Assistant from the model-selection dropdown menu below the prompt bar to begin interaction.
+
+## URL Parameters
+
+You can specify a custom assistant by adding a `profile` parameter to the URL, using either the name (in lowercase format) or the UUID of your custom assistant.
+
+For instance, if you want to use a specific custom assistant, locate its UUID by navigating to your [Custom Assistants settings page](https://kagi.com/settings?p=assistant), and copy the long UUID found in the URL when editing the assistant. You can then create a custom bang template, like:
+
+```
+/assistant?q=%s&profile=c03f3098-9ead-408f-93f0-407a77e697db
+```
+
+This setup will direct the request to your specified assistant.
+
+More information about assistant URL parameters can be found in the [assistant documentation](./assistant.md#url-parameters).
+
+## Default Custom Assistants
+
+The Assistant comes with carefully pre-configured assistants designed to enhance your productivity.
+
+### Code Assistant
+Powered by the best AI model for programming tasks and equipped with web access, the Code Assistant excels at:
+
+- Writing efficient, clean code
+- Debugging and troubleshooting
+- Providing practical coding solutions
+
+Simply use the ```!code``` shortcut or select "Code" from the model dropdown to access this specialized assistant. Whether you're debugging a tricky issue, learning a new programming language, or seeking to optimize your code, the Code Assistant is your go-to programming companion.
+
+## Example Custom Configurations
+
+Here are a few example configurations you can use to get started. You can also visit [Anthropic’s Prompt Library](https://docs.anthropic.com/en/prompt-library/library) for more useful prompts.
+
+### Professional Writer Assistant
+| Setting | Value |
+|---------|-------|
+| Name | Writing Pro |
+| Bang | !write |
+| Internet Access | Enabled (for current writing trends and examples) |
+| Lens | Entire Internet |
+| Instructions | Respond in a professional tone with clear, concise language. Focus on grammar, style, and clarity. Provide constructive feedback on writing samples. When appropriate, suggest improvements while maintaining the original message's intent. |
+
+### Coding Mentor
+| Setting | Value |
+|---------|-------|
+| Name | Code Guide |
+| Bang | !code |
+| Internet Access | Enabled (for documentation and best practices) |
+| Lens | Programming |
+| Instructions | Explain programming concepts clearly with practical examples. Use best practices and modern conventions. Include comments in code examples. Focus on readability and maintainability. Highlight potential pitfalls and optimization opportunities. |
+
+### Academic Researcher
+| Setting | Value |
+|---------|-------|
+| Name | Research Aid |
+| Bang | !research |
+| Internet Access | Enabled (for current research and papers) |
+| Lens | Academic |
+| Instructions | Provide comprehensive, academic-style responses with clear citations. Focus on peer-reviewed sources when available. Present balanced viewpoints on complex topics. Highlight key findings and methodologies. |
+
+### Recipe Helper
+| Setting | Value |
+|---------|-------|
+| Name | Chef Assistant |
+| Bang | !chef |
+| Internet Access | Enabled (for recipes and cooking techniques) |
+| Lens | Recipes |
+| Instructions | Provide clear, step-by-step cooking instructions. Focus on practical cooking tips, ingredient substitutions, and technique explanations. Include serving sizes and preparation times. |
+
+### News Analyst
+| Setting | Value |
+|---------|-------|
+| Name | News Guide |
+| Bang | !news |
+| Internet Access | Enabled (for current events) |
+| Lens | World News |
+| Instructions | Analyze current events with balanced perspective. Provide context for news developments. Focus on factual reporting and multiple viewpoints. Summarize key points clearly. |

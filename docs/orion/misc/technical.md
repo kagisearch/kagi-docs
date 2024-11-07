@@ -50,7 +50,7 @@ Location of History
 ~/Library/Application\ Support/Orion/Defaults/history
 ```
 
-Location of Orion Settings
+Location of Orion Settings (includes Pinned Tabs)
 ```
 ~/Library/Preferences/com.kagi.kagimacOS.plist
 ```

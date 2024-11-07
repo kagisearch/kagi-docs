@@ -37,6 +37,7 @@ Libraries created by Kagi users and third parties.
 
 - [kagigo for Go - FastGPT & Universal Summarizer](https://github.com/httpjamesm/kagigo)
 - [kagi-api](https://crates.io/crates/kagi-api) for Rust
+- [kagi-dotnet](https://github.com/patchoulish/kagi-dotnet) for C#/.NET
 
 ## Beta Status
 
