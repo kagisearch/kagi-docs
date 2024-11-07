@@ -1,6 +1,6 @@
 # Notes
 
-Orion Notes allow you to easily store ideas and information without having to switch to another app, notes are stored locally on your computer. To use Notes simply click on the **Tools** menu and choose **Notes** or press **Command-I** to open Notes in a new tab, you can then double click to edit the note. When you are done, press **Command-Enter** to save your changes and exit edit mode.
+Orion Notes allow you to easily store ideas and information without having to switch to another app, notes are stored locally on your computer. To use Notes simply click on the **Tools** menu and choose **Notes** or press **Control-Command-I** to open Notes in a new tab, you can then double click to edit the note. When you are done, press **Command-Enter** to save your changes and exit edit mode.
 
 <img src="./media/macos_notes.png" width="500" alt="Using Orion Notes"><br />
 
