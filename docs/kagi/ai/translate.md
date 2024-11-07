@@ -19,8 +19,6 @@
 - **Versatility**: Handles everything from short phrases to entire web pages
 - **Privacy**: Your translation data remains secure and private
 
----
-
 ## How to Use
 
 ### Text Translation
