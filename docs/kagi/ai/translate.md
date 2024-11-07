@@ -43,3 +43,11 @@ Option 2:
 2. Use the bookmarklet for:
    - Translating selected text: Select text, then click bookmarklet
    - Translating entire page: Click bookmarklet without selecting text
+
+### URL Parameters
+
+If you want to create custom [Bangs](../features/bangs.md), integrate it into your favorite launcher, or any other automation, you can use the following URL parameter format:
+
+```
+https://translate.kagi.com/?text=kagi&source=Japanese&target=English
+```
