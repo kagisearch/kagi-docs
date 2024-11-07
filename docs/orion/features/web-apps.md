@@ -2,7 +2,7 @@
 
 Orion has a powerful feature that allows you to create dedicated apps for any website, letting you fully immerse in them without distractions. Web apps will have their own icon in your Dock and in the Finder.
 
-To create a web app simply open the website you want to create the app for, then go to the **Tools** menu and select **Install This Site as an App**, this will bring up a modal where you can enter a name for the app. When you are ready, press the **Create** button.
+To create a web app simply open the website you want to create the app for, then go to the **Tools** menu and select **Install This Site as an App**. This will bring up a modal where you can enter a name for the app. When you are ready, press the **Create** button.
 
 <img src="./media/macos_web_apps_install_menu.png" width="500" alt="Install Web App Menu"><br />
 

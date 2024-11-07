@@ -7,14 +7,14 @@ On Orion for macOS, all media with sound is automatically stopped by default. Th
 To configure auto-play settings:
 
 1. Click the **Orion** menu.
-2. Click **Preferences**.
+2. Click **Settings**.
 
-<img src="./media/macos_orion_prefs_menu.png" width="300" alt="Orion Preferences Menu Option"><br />
+<img src="./media/macos_orion_settings_menu.png" width="300" alt="Orion Settings Menu Option"><br />
 
-3. Click the **Websites** tab of Preferences.
+3. Click the **Websites** tab of Settings.
 4. Click on **Auto Play** from the list of settings on the left of the window.
 
-<img src="./media/macos_auto_play_settings.png" width="500" alt="Orion Preferences Menu Option"><br />
+<img src="./media/macos_auto_play_settings.png" width="500" alt="Orion Settings Menu Option"><br />
 
 There is a **Default settings for all websites** option at the top right of the window that can be set to:
 

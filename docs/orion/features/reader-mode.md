@@ -38,11 +38,11 @@ While in Reader Mode, you can use the icon on the right side of the address bar 
 
 <img src="./media/macos_reader_options.png" width="500" alt="macOS Reader Options"><br />
 
-You can view and manage the Reader Mode settings for all websites in Orion's Preferences.
+You can view and manage the Reader Mode settings for all websites in Orion's Settings.
 
- <img src="./media/macos_prefs_menu.png" width="300" alt="macOS Preferences Menu"><br />
+ <img src="./media/macos_orion_settings_menu.png" width="300" alt="macOS Settings Menu"><br />
  
-  <img src="./media/macos_reader_mode_preferences.png" width="500" alt="macOS Reader Mode Preferences"><br />
+  <img src="./media/macos_reader_mode_preferences.png" width="500" alt="macOS Reader Mode Settings"><br />
 
 <a name="ios_reader_mode"></a>
 ## iOS Reader Mode {#ios_reader_mode}

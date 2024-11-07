@@ -20,7 +20,7 @@ For example, let's create a YouTube Quick Search bookmark:
 <img src="./media/macos_add_bookmark_window.png" width="500" alt="Adding a Bookmark"><br />
 
 2. In the window that appears, make several changes:
-  - Under the **"Add this page to:""** menu, choose whether you want the new bookmark saved to **Favorites** or some other location.
+  - Under the **"Add this page to:"** label, choose whether you want the new bookmark saved to **Favorites** or some other location.
   - Change the Title of the bookmark from "cats - YouTube" to a broader search title of your choice, such as "YouTube Search".
   - Click the **More Options** button.
   

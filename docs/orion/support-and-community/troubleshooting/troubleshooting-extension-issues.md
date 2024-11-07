@@ -24,5 +24,5 @@ Here are some extra things you can do to help us debug this:
 - Copy console errors from current active tab (in case its related to tab communication or content script)
 - Store URL for web-extension
 - Specify exactly what things are not working
-- Video and screenshot will be good contains comparison with chrome and firefox browser where its working perfectly
+- Provide video or screenshot demonstrating extension working as expected with a chrome of firefox browser
 

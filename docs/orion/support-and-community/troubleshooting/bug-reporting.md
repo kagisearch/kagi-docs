@@ -11,15 +11,15 @@ included, and how it helps us!
 ## Describe Your Issue
 
 1. **Steps to reproduce**. This is the most important piece of information
-for any bug report. lease include a clear list of instructions to reproduce the issue, even if you think it may be obvious.
-If we can not reproduce the problem, we are not able to fix it.
+for any bug report. Please include a clear list of instructions to reproduce the issue, even if you think it may be obvious.
+If we cannot reproduce the problem, we are not able to fix it.
 
 **Important note**: Most likely cause of problems on web pages is Content blocking
 and Web extension. You can rule out both quickly by enabling [Compatibility mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode).
 
 The second most likely cause of issues is WebKit, Orion's rendering engine.
 This is why we will ask you to check if the same problems exists in Safari
-browser. If it does it is most likely caused be WebKit and this can be more
+browser. If it does, it is most likely caused by WebKit and this can be more
 difficult for us to fix. In this case, you are encouraged to [submit a bug
 report to WebKit](https://webkit.org/reporting-bugs/).
 
@@ -27,7 +27,7 @@ report to WebKit](https://webkit.org/reporting-bugs/).
 [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/)
 if this available and applicable to you.
 
-2. **Expected behavior** - What did you expect will happen? Indicating how
+2. **Expected behavior**. What did you expect would happen? Indicating how
 other browsers behave may be useful. Use a screenshot/video to make your
 point if needed.
 
@@ -35,7 +35,7 @@ point if needed.
 
 ## Give Us Some Context
 
-1. **Orion, OS version; hardware type**. What is the version of Orion, your
+1. **Orion and OS version; hardware type**. What is the version of Orion, your
 system and what hardware you are running. You can copy this from Orion ->
 About menu if unsure. There is a lot of debug information available in Help
 -> Copy Debug Info to Clipboard that can be useful to us.
@@ -50,7 +50,7 @@ About menu if unsure. There is a lot of debug information available in Help
 
 Sometimes there are a few things you can do to help us narrow down certain issues. Depending on the problem, you can try:
 
-- Turn on [Compatibility mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode)
+- Turning on [Compatibility mode](./troubleshooting-webpage-issues.md#orion-compatibility-mode)
 - Disabling all browser extensions
 - Restarting Orion
 

@@ -9,10 +9,10 @@ If you have problems syncing between devices try the following in order:
         - Open `Settings/Apple ID/iCloud/Apps Using iCloud/Show All` and toggle off and on the button beside Orion
     - MacOS
         - Open `Settings/Apple ID/iCloud/iCloud Drive/Apps Syncing to iCloud Drive - Options` and uncheck and check the box beside Orion
-1. Toggle Sync in Preferences
+1. Toggle Sync in Settings
     - MacOS
-        1. Use the **Orion** menu to open Preferences.
-        <img src="../../features/media/macos_orion_prefs_menu.png" width="300" alt="Open Orion Preferences"><br />
+        1. Use the **Orion** menu to open Settings.
+        <img src="../../features/media/macos_orion_settings_menu.png" width="300" alt="Open Orion Settings"><br />
         1. Click the **Sync** tab and find the box for **Enable cross-device sync of your tabs, bookmarks, and reading list**. Turn it off and then back on.
         <img src="../../features/media/macos_orion_sync_tab.png" width="500" alt="Orion Sync Tab"><br />
     - iOS / iPadOS

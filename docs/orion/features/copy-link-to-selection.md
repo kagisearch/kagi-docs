@@ -14,6 +14,6 @@ To use this feature:
 
 When you or someone else opens the generated link, the web page will load with the originally selected text highlighted in yellow. This makes it easy to find the relevant section of the page.
 
-The links to selection that you generate can be shared with people using Orion, Safari, Google Chrome, and other Chromium-based browsers such as Microsoft Edge, Opera, and Vivaldi. You can also open links to selection generated in these browsers.
+The links to selections that you generate can be shared with people using Orion, Safari, Google Chrome, and other Chromium-based browsers such as Microsoft Edge, Opera, and Vivaldi. You can also open links to selections generated in these browsers.
 
 Give it a try the next time you need to share or save a link to a specific part of a web page. This handy feature can save time and make collaboration easier.
