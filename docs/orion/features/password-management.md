@@ -54,7 +54,8 @@ If you want to use your Safari passwords in Orion, you will need to import the p
 
 Orion on macOS can import your passwords from Safari 15+ on macOS. These versions of Safari ship with macOS 12 (Monterey) and newer. They are also available on macOS 11 (Big Sur) through the [Safari Technology Preview](https://developer.apple.com/safari/download/).
 
-1. Open Safari and select **File** > **Export** > **Passwords** and select a location to save the passwords file.
+1. Open Safari and select **File** > **Export** > **Passwords** and select a location to save the passwords file. Note that this file will be saved without encryption so
+choose the location appropriately and consider deleting it once import is complete.
 
 2. In Orion, click the **File** menu, choose **Import From**, and select **Safari**.
 
@@ -65,6 +66,8 @@ Orion on macOS can import your passwords from Safari 15+ on macOS. These version
 ![Safari Import](./media/macos_safari_import.png){width=300px data-zoomable}
 
 4. Select the passwords file you exported in step 1.
+
+![Safari Import](./media/macos_safari_import_csv.png){width=300px data-zoomable}
 
 <a name="syncing_passwords"></a>
 ## Syncing Passwords in Orion {#syncing_passwords}
