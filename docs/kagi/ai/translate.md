@@ -49,5 +49,5 @@ Option 2:
 If you want to create custom [Bangs](../features/bangs.md), integrate it into your favorite launcher, or any other automation, you can use the following URL parameter format:
 
 ```
-https://translate.kagi.com/?text=kagi&source=Japanese&target=English
+https://translate.kagi.com/?text=%s&source=Japanese&target=English
 ```
