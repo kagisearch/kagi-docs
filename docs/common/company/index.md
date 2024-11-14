@@ -26,6 +26,7 @@ We also have a number of other initiatives (we call them 'treats') such as:
 - [FastGPT](https://kagi.com/fastgpt)
 - [Open-source projects](https://github.com/kagisearch)
 - [Kagi APIs](https://help.kagi.com/kagi/api/overview.html)
+- [Kagi Translate](https://blog.kagi.com/kagi-translate)
 
 Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The Age of Pagerank is Over](https://blog.kagi.com/age-pagerank-over) blog post, which serves as our manifesto.
 
