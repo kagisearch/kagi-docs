@@ -10,16 +10,6 @@ Unlike other competing Map services that track your location to serve you ads, K
 
 We (optionally) support two [methods for setting your location](#enabling_geolocation): setting it manually or automatic detection, but in both cases it will only be stored in your browser storage and not in our servers.
 
-## Kagi Basemap Options
-
-![Kagi Maps - Basemaps](./media/kagi_maps_basemap_selection.gif){data-zoomable}
-
-A basemap is the underlying map that provides the background and context for the data layers you add on top of it. Kagi Maps offers three basemap options to suit your preferences and needs:
-
-- **Apple Maps**. This is the default basemap and currently offers the most features, such as driving directions.
-- **Kagi Basemap**. Provides greater detail, readability, and map comprehension by using 3d landmarks, trees, shadows and improved labeling.
-- **OpenStreetMap**. An open-source, community-driven basemap optimized for speed and a lightweight map search experience.
-
 ## Kagi Maps 3D View
 
 If you are using the Kagi Basemap, you can tilt the map into a 3D view in two ways:
