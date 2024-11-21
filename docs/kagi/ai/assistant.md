@@ -146,8 +146,6 @@ The Assistant provides access to the following LLMs:
 	- Claude 3.5 Sonnet
 	- Claude 3 Opus
 - OpenAI
-	- GPT 4
-	- GPT 4 Turbo
 	- GPT 4o
 	- GPT 4o Mini
 - Mistral AI
