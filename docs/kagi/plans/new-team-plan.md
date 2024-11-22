@@ -11,7 +11,7 @@ Choose between Professional and Ultimate tiers for your team members, unlocking 
 - Pay only for active users
 - Centralized billing and management
 - Shared search customizations ([Personalized Results](../features/website-info-personalized-results.md#personalized-results) and [Lenses](../features/lenses.md))
-- Kagi’s unique privacy and security
+- Kagi’s unique [privacy](../privacy/privacy-protection.md) and security
 - Access to [The Assistant](../ai/assistant.md), which brings premium LLM models in an easy-to-use interface (Ultimate tier).
 
 ## Getting started
