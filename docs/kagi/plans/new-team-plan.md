@@ -1,6 +1,6 @@
 # Kagi Team plan
 
-![Kagi Team plan](./media/team_plan_01_pricing.png)
+![Kagi Team plan](./media/team_plan_01_pricing.png){data-zoomable}
 
 The Kagi Team plans empower organizations with premium, ad-free search capabilities while maintaining complete privacy and control.
 Choose between Professional and Ultimate tiers for your team members, unlocking powerful tools like The Assistant for LLM-powered research,
@@ -18,7 +18,7 @@ Summarizer for quick content analysis, and shared search customizations—all ma
 
 ### Step 1: Sign up
 
-![Kagi Team plan - sign up](./media/team_plan_02_sign_up.png)
+![Kagi Team plan - sign up](./media/team_plan_02_sign_up.png){data-zoomable}
 
 1. Visit the [Team plan pricing](https://kagi.com/pricing?plan=team) page and click **Get Started**
 2. Enter your business email address (free email providers are not supported)
@@ -26,7 +26,7 @@ Summarizer for quick content analysis, and shared search customizations—all ma
 
 ### Step 2: Create team
 
-![Kagi Team plan - create team](./media/team_plan_03_create_team.png)
+![Kagi Team plan - create team](./media/team_plan_03_create_team.png){data-zoomable}
 
 1. Enter your team name
 2. Click **Create** to continue
@@ -37,7 +37,7 @@ You can add members individually or in bulk:
 
 **Individual invites**:
 
-![Kagi Team plan - individual invites](./media/team_plan_04_invite_members.png)
+![Kagi Team plan - individual invites](./media/team_plan_04_invite_members.png){data-zoomable}
 
 1. Enter the team member's email (must match your domain)
 2. Select Professional or Ultimate plan
@@ -45,7 +45,7 @@ You can add members individually or in bulk:
 
 **Bulk invites**:
 
-![Kagi Team plan - bulk invites](./media/team_plan_04_invite_members_bulk.png)
+![Kagi Team plan - bulk invites](./media/team_plan_04_invite_members_bulk.png){data-zoomable}
 
 1. Click **Bulk Add**
 2. Select the plan type from the dropdown
@@ -82,7 +82,7 @@ Our Team plans are paid monthly in advance.
 
 ### Managing members
 
-![Kagi Team plan - managing members](./media/team_plan_07_members_page_cropped.png)
+![Kagi Team plan - managing members](./media/team_plan_07_members_page_cropped.png){data-zoomable}
 
 From the Members tab, Admins and Managers can:
 - View member status
@@ -92,7 +92,7 @@ From the Members tab, Admins and Managers can:
 
 ### Billing management
 
-![Kagi Team plan - managing members](./media/team_plan_08_billing_cropped.png)
+![Kagi Team plan - managing members](./media/team_plan_08_billing_cropped.png){data-zoomable}
 
 Admins can:
 - View usage analytics
@@ -102,7 +102,7 @@ Admins can:
 
 ### Analytics Dashboard
 
-![Kagi Team plan - managing members](./media/team_plan_10_analytics_cropped.png)
+![Kagi Team plan - managing members](./media/team_plan_10_analytics_cropped.png){data-zoomable}
 
 The Analytics page provides valuable insights into your team's Kagi usage:
 
@@ -119,7 +119,7 @@ The Analytics page provides valuable insights into your team's Kagi usage:
 
 ### Account settings
 
-![Kagi Team plan - account settings](./media/team_plan_09_account_cropped.png)
+![Kagi Team plan - account settings](./media/team_plan_09_account_cropped.png){data-zoomable}
 
 The Account page provides the following options:
 
