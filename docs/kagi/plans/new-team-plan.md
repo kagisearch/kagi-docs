@@ -1,10 +1,10 @@
-# Kagi Team plan
+# Kagi Team plans
 
 ![Kagi Team plan](./media/team_plan_01_pricing.png){data-zoomable}
 
-The Kagi Team plans empower organizations with premium, ad-free search capabilities while maintaining complete privacy and control.
-Choose between Professional and Ultimate tiers for your team members, unlocking powerful tools like The Assistant for LLM-powered research,
-Summarizer for quick content analysis, and shared search customizations—all managed through a centralized billing and administration portal.
+Our [Kagi Team plans](https://kagi.com/pricing?plan=team) empower organizations with premium, ad-free search capabilities while maintaining complete privacy and control.
+Choose between Professional and Ultimate tiers for your team members, unlocking powerful tools like [The Assistant](../ai/assistant.md) for LLM-powered research,
+[Summarizer](../ai/summarize-page.md) for quick content analysis, and shared search customizations—all managed through a centralized billing and administration portal.
 
 **Key benefits**:
 - Flexible per-member plan assignment
@@ -161,7 +161,7 @@ Team members can share custom search configurations by using our Lens feature:
 - Secure payment processing through Stripe
 
 ### Pricing
-- Professional tier: $10/month per member. Includes unlimited searches, and access to FastGPT, Summarizer and Kagi Translate
+- Professional tier: $10/month per member. Includes unlimited searches, and access to [FastGPT](../ai/fastgpt.md), [Summarizer](../ai/summarize-page.md) and [Kagi Translate](../ai/translate.md)
 - Ultimate tier: $25/month per member. Includes everything in Professional plus access to [The Assistant](../ai/assistant.md).
 - Flexible assignment: Mix and match tiers for different team members
 
