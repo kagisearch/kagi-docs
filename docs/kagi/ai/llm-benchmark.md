@@ -6,23 +6,21 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Nov 4, 2024**.
+Last updated **Nov , 2024**.22
+
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |-----------------------------|---------------|--------|----------------|------------------|-------------------|
-| **Anthropic** Claude-3.5-sonnet-20241022 | 43.33 | 9633 | 0.16649 | 2.38 | 55.53 |
-| **OpenAI** o1-mini | 41.67 | 42874 | 0.53454 | 4.62 | n/a |
-| **Anthropic** Claude-3.5-haiku-20241022 | 40.00 | 9738 | 0.05605 | 1.84 | 66.92 |
-| **OpenAI** gpt-4o | 40.00 | 11172 | 0.12801 | 1.59 | 49.90 |
-| **OpenRouter** nvidia/llama-3.1-nemotron-70b-instruct | 38.33 | 17413 | 0.00951 | 10.52 | 18.35 |
-| **OpenRouter** x-ai/grok-beta | 35.59 | 12187 | 0.21690 | 3.29 | 43.34 |
-| **Together** Meta-Llama-3.1-405B-Instruct-Turbo | 35.00 | 13306 | 0.10075 | 2.45 | 40.44 |
-| **OpenAI** gpt-4-turbo | 30.00 | 11460 | 0.40902 | 3.17 | 34.01 |
-| **Groq** llama-3.1-70b-versatile | 30.00 | 10879 | 0.01344 | 1.85 | 80.75 |
-| **OpenAI** gpt-4o-mini | 20.00 | 13181 | 0.00884 | 1.58 | 82.08 |
-| **OpenRouter** meta-llama/llama-3.2-3b-instruct | 18.33 | 13003 | 0.00081 | 0.89 | 94.52 |
-| **OpenAI** gpt-3.5-turbo | 8.33 | 4136 | 0.02132 | 0.72 | 59.10 |
-| **Anthropic** Claude-3-haiku-20240307 | 8.33 | 10387 | 0.01481 | 1.24 | 118.84 |
+| **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
+| **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
+| **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
+| **Together** Meta-Llama-3.1-405B-Instruct-Turbo | 32.26 | 12315 | 0.09648 | 2.33 | 33.77 |
+| **Groq** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
+| **Google** gemini-1.5-flash | 22.58 | 6806 | 0.00962 | 0.66 | 77.93 |
+| **OpenAI** gpt-4o-mini | 16.13 | 13363 | 0.00901 | 1.53 | 66.41 |
+| **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
+
+
 
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
