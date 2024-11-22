@@ -92,13 +92,11 @@ From the Members tab, Admins and Managers can:
 
 ### Billing management
 
-![Kagi Team plan - managing members](./media/team_plan_08_billing_cropped.png){data-zoomable}
+![Kagi Team plan - billing management](./media/team_plan_08_billing_cropped.png){data-zoomable}
 
 Admins can:
-- View usage analytics
-- Download invoices
 - Manage payment methods
-- Track active/inactive users
+- Download invoices
 
 ### Analytics Dashboard
 
