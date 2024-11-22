@@ -133,7 +133,7 @@ The Account page provides the following options:
 - Organization settings management
 - Domain management
 
-> **Important**: Deleting a team will:
+**Important**: Deleting a team will:
 - Return all members to Trial status
 - Remove all shared resources (Lenses and Personalized Results)
 - Cancel team-wide customizations
@@ -189,13 +189,13 @@ After the first month, you'll only be charged for:
 
 ## FAQ
 
-**Q: Can I mix Professional and Ultimate plans?**
+**Q: Can I mix Professional and Ultimate plans?**  
 A: Yes, each team member can be assigned either plan type.
 
-**Q: When do inactive members get billed?**
+**Q: When do inactive members get billed?**  
 A: Inactive members aren't billed after the second month. Billing resumes upon next usage.
 
-**Q: What happens to existing individual accounts?**
+**Q: What happens to existing individual accounts?**  
 A: When joining a team, individual subscriptions are cancelled and merged into the team plan.
 
 
