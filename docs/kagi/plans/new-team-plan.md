@@ -98,13 +98,13 @@ Admins can:
 - Manage payment methods
 - Download invoices
 
-### Analytics Dashboard
+### Analytics dashboard
 
 ![Kagi Team plan - managing members](./media/team_plan_10_analytics_cropped.png){data-zoomable}
 
 The Analytics page provides valuable insights into your team's Kagi usage:
 
-**Usage Overview**:
+**Usage overview**:
 - Real-time count of active and inactive members
 - 28-day usage metrics for each team member
 - Search and AI interaction statistics
@@ -121,12 +121,12 @@ The Analytics page provides valuable insights into your team's Kagi usage:
 
 The Account page provides the following options:
 
-**For Team Members**:
+**For team members**:
 - View current role and permissions
 - Leave team option
 - Access team-wide resources
 
-**For Organizers**:
+**For organizers**:
 - Team deletion capability
 - Organization settings management
 - Domain management
@@ -151,9 +151,9 @@ Team members can share custom search configurations by using our Lens feature:
 2. Check "Share with Team"
 3. Save to make available to all members
 
-## Billing Details
+## Billing details
 
-### Payment Structure
+### Payment structure
 - Monthly billing with centralized payment management
 - Single consolidated invoice for all team members
 - Secure payment processing through Stripe
@@ -163,7 +163,7 @@ Team members can share custom search configurations by using our Lens feature:
 - Ultimate tier: $25/month per member. Includes everything in Professional plus access to [The Assistant](../ai/assistant.md).
 - Flexible assignment: Mix and match tiers for different team members
 
-### Active Member Billing
+### Active member billing
 We optimize your costs by only charging for active usage:
 - Active members are billed monthly in advance
 - Team admin is automatically considered active upon team creation
@@ -171,12 +171,12 @@ We optimize your costs by only charging for active usage:
 - Members become inactive after one full billing cycle without usage
 - Inactive members can resume usage at any time with no additional setup
 
-### Mid-Month Changes
+### Mid-month changes
 - Plan changes are calculated immediately
 - Adjustments (credits or charges) appear on your next monthly invoice
 - Pro-rated charges apply for mid-month plan changes
 
-### Initial Setup
+### Initial setup
 Your first invoice includes:
 - Team admin subscription
 - Pre-payment for invited members
