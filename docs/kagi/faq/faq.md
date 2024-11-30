@@ -69,7 +69,7 @@ Kagi is currently [Kagi Search](https://kagi.com), a fast, private search engine
 
 ## How do you pronounce Kagi?
 
-Kagi is pronounced as Kah-gee. You can also listen to it [here](https://www.youtube.com/watch?v=ig4VTr0rt4Q).
+Kagi is pronounced as Kah-gee, with the "g" sounding like the "g" in "gift." You can also listen to it [here](https://www.youtube.com/watch?v=ig4VTr0rt4Q).
 
 ## What is the name of Kagi mascot?
 
