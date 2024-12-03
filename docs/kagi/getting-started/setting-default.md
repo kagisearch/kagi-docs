@@ -18,7 +18,7 @@
   - [Private Session link (use Kagi in private windows without logging in)](#private_session)
   - [Chromium-Based Browsers (Chrome, Edge, Brave, Vivaldi, Arc...)](#chromium_browsers)
     - [Desktop](#chromium_desktop)
-    - [Mobile](#chromium_mobile)
+    - [Mobile (iOS/Android)](#chromium_mobile)
   - [Firefox-Based Browsers](#firefox_browsers)
     - [Desktop](#firefox_desktop)
     - [Android Mobile](#firefox_android_mobile)
@@ -232,7 +232,7 @@ Note: Opera is no longer compatible as it is restricting users from using altern
 
 
 <a name="chromium_mobile"></a>
-#### Mobile {#chromium_mobile}
+#### Mobile (iOS/Android) {#chromium_mobile}
 
 1. Open [https://kagi.com](https://kagi.com), log in, and submit a search.
 2. Open your browser’s settings. Choose **Search engine**.
