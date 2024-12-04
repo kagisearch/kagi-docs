@@ -29,7 +29,7 @@
 Already created your account? Let's get you set up:
 
 1. **Install the Kagi extension**  
-Download our [browser extension](https://kagi.com/getextension) for your desktop browser (Chrome, Firefox, Safari, Edge, or other).
+Download our [browser extension](https://kagi.com/getextension) for your desktop browser (Chrome, Firefox, Safari, Edge, or other). It is the easiest way to make Kagi your default search engine.
 2. **Get Kagi on mobile**  
 For Android users, download our [mobile app](https://play.google.com/store/apps/details?id=com.kagi.search&hl=en) (iOS app coming soon).
 3. **Make Kagi your default**  
