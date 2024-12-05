@@ -134,7 +134,7 @@ The Account page provides the following options:
 - Remove all shared resources (Lenses and Personalized Results)
 - Cancel team-wide customizations
 
-## Shared features
+## Team collaboration
 
 ### Personalized results
 Domain preferences are automatically shared team-wide:
