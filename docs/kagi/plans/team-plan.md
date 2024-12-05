@@ -140,7 +140,7 @@ The Account page provides the following options:
 
 ![Kagi Team plan - Personalized Results](./media/team_plan_11_personalized_results_cropped.png){data-zoomable}
 
-Domain preferences are automatically shared team-wide:
+Domain preferences set through the [Personalized Results](../features/website-info-personalized-results.md#personalized-results) feature are automatically shared team-wide:
 - Blocked domains
 - Lowered domains
 - Raised domains
