@@ -137,6 +137,9 @@ The Account page provides the following options:
 ## Team collaboration
 
 ### Personalized results
+
+![Kagi Team plan - Personalized Results](./media/team_plan_11_personalized_results_cropped.png){data-zoomable}
+
 Domain preferences are automatically shared team-wide:
 - Blocked domains
 - Lowered domains
