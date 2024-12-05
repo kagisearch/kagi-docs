@@ -147,10 +147,14 @@ Domain preferences are automatically shared team-wide:
 - Pinned domains
 
 ### Team lenses
-Team members can share custom search configurations by using our Lens feature:
-1. Create a new Lens
-2. Check "Share with Team"
-3. Save to make available to all members
+
+![Kagi Team plan - Lenses](./media/team_plan_12_lenses_cropped_part1.png){data-zoomable}
+
+Team members can share custom search configurations by using our [Lenses](../features/lenses.md) feature:
+1. Create a [new Lens](https://kagi.com/settings/?p=create_lens)
+2. Click on **Advanced Options**
+3. Check **Share with Team**
+4. **Save** to make available to all members
 
 ## Billing details
 
