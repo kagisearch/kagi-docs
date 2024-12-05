@@ -140,17 +140,21 @@ The Account page provides the following options:
 
 ![Kagi Team plan - Personalized Results](./media/team_plan_11_personalized_results_cropped.png){data-zoomable}
 
-Domain preferences are automatically shared team-wide:
+Domain preferences set through the [Personalized Results](../features/website-info-personalized-results.md#personalized-results) feature are automatically shared team-wide:
 - Blocked domains
 - Lowered domains
 - Raised domains
 - Pinned domains
 
 ### Team lenses
-Team members can share custom search configurations by using our Lens feature:
-1. Create a new Lens
-2. Check "Share with Team"
-3. Save to make available to all members
+
+![Kagi Team plan - Lenses](./media/team_plan_12_lenses_cropped_part1.png){data-zoomable}
+
+Team members can share custom search configurations by using our [Lenses](../features/lenses.md) feature:
+1. Create a [new Lens](https://kagi.com/settings/?p=create_lens)
+2. Click on **Advanced Options**
+3. Check **Share with Team**
+4. **Save** to make available to all members
 
 ## Billing details
 
