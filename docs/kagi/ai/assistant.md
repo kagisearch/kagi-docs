@@ -111,7 +111,9 @@ You can, for instance, instruct the Assistant to be more succinct or to consider
 You can create Custom Assistants in the [Assistant Settings](https://kagi.com/settings?p=assistant).
 It is possible to customize the LLM, settings (the use of web access, lenses, and personalized results), and the instructions for each Custom Assistant.
 
-The Assistant comes with a **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 3.5 Sonnet and has web access.
+The Assistant comes with a built-in **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 3.5 Sonnet and has web access.
+
+For more details, refer to the [Custom Assistants](./custom-assistants.md) page.
 
 ## Keyboard Shortcuts {#keyboard-shortcuts}
 
@@ -166,7 +168,7 @@ You can quickly access the Kagi Assistant from Kagi Search using the following [
 
 - `!chat`: This bang accesses the Kagi Assistant with internet access turned off.
 
-- `!code`: Use this bang to access the **Code** Custom Assistant, which is tailored for coding-related queries.
+- `!code`: Use this bang to access the built-in **Code** Custom Assistant, which is tailored for coding-related queries.
 
 - `!ki`: This bang accesses the Kagi Assistant with the Ki profile, providing a specialized interaction.
 
