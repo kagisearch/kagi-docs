@@ -55,7 +55,7 @@ By default threads are kept for 24 hours after the last message.
 If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/?p=assistant).
 Please note that the thread saving setting is applied **when the thread is created**.
 
-Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread.
+Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread. When you download a thread, it is saved as a `.txt` file containing only the most recent path, which is the sequence of messages from your latest interaction in that thread. This path reflects the latest direction the conversation took based on your inputs.
 
 The Quick Access feature can be used to better organize your threads but it will not influence the thread saving setting.
 In other words, threads added to Quick Access will also be deleted after 24 hours, unless you have chosen otherwise in the settings.
