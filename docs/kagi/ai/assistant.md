@@ -144,19 +144,26 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 The Assistant provides access to the following LLMs:
 
 - Anthropic
-	- Claude 3 Haiku
 	- Claude 3.5 Sonnet
-	- Claude 3 Opus
+	-Claude 3 Opus
+	- Claude 3 Haiku
 - OpenAI
 	- GPT 4o
-	- GPT 4o Mini
+	- GPT 4o mini
 - Mistral AI
 	- Mistral Pixtral
 	- Mistral Large
 - Google
-	- Gemini 1.5 Pro
+	- Gemini Pro
 - Meta
+	- Llama 3.3 70B
 	- Llama 3.1 405B
+- Qwen
+	- Qwen QwQ 32b
+
+For our platform, Llama and Qwen models are hosted by Fireworks.ai. The other models are accessed through APIs provided by their respective companies.
+
+In either case, none of these the data you submit is contractually allowed to be used for training purposes.
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
 
