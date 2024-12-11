@@ -123,4 +123,4 @@ Orion has its own implementation of the entire WebExtensions APIs collection. Di
 <a name="safari"></a>
 ## Safari Extensions Support
 
-Unfortunately, Apple uses closed, proprietary APIs for Safari extensions rather than open WebExtensions APIs. So, it is not possible to use Safari extensions with Orion or any non-Safari browser.
+As of beta 0.99.130, Orion supports Safari web extensions. Install Safari web extensions directly in Orion (Tools -> Extensions -> Install from Disk).
