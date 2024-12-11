@@ -145,16 +145,16 @@ The Assistant provides access to the following LLMs:
 
 - Anthropic
 	- Claude 3.5 Sonnet
-	-Claude 3 Opus
+	- Claude 3 Opus
 	- Claude 3 Haiku
 - OpenAI
 	- GPT 4o
-	- GPT 4o mini
+	- GPT 4o Mini
 - Mistral AI
 	- Mistral Pixtral
 	- Mistral Large
 - Google
-	- Gemini Pro
+	- Gemini 1.5 Pro
 - Meta
 	- Llama 3.3 70B
 	- Llama 3.1 405B
