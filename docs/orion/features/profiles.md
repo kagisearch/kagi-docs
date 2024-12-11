@@ -36,13 +36,3 @@ You can access this setting by following these steps:
 2. From the General tab, select your desired option in the **Open External Links In** dropdown.
 
 ![Orion - Open External Links in Last/Default Profile](./media/open_external_links_in_last_or_default_profile.gif){data-zoomable}
-
-## Open a Specific Profile in Raycast
-
-Orion creates a new app for each profile (eg. "Orion - Work.app"), contained within its own folder in `~/Applications/Orion/Orion Profiles/`. To make these profile-apps accessible from the Raycast launcher,
-1. Open Raycast settings
-2. Select the "Applications" extension group, under the Extensions tab
-3. Click on "Add Directories"
-4. Add all the *subdirectories* of `~/Applications/Orion/Orion Profiles/` (adding `Orion Profiles` itself does nothing)
-
-These instructions should generally work for similar launcher apps, if they have the capability to add directories in a similar manner.
