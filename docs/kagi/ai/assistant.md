@@ -165,17 +165,17 @@ You can learn more about how these models compare in the [Kagi LLM Benchmarking 
 
 ## Bangs
 
-You can quickly access the Kagi Assistant from Kagi Search using the following [bangs](../features/bangs.md):
+You can quickly access The Assistant using the following [bangs](../features/bangs.md):
 
-- `!ai`, `!as`, `!assistant`, `!research`, `!answer`, `!discuss`, `!expert`, `!llm`, `!custom`, and `!asst`: These bangs direct you to the general Kagi Assistant interface for various types of queries.
+- `!ai`, `!as`, `!assistant`, `!research`, `!answer`, `!discuss`, `!expert`, `!llm`, `!custom`, and `!asst`: These bangs direct you to the general Assistant interface for various types of queries.
 
-- `!chat`: This bang accesses the Kagi Assistant with internet access turned off.
+- `!chat`: This bang accesses The Assistant with internet access turned off.
 
 - `!code`: Use this bang to access the built-in **Code** Custom Assistant, which is tailored for coding-related queries.
 
-- `!ki`: This bang accesses the Kagi Assistant with the Ki profile, providing a specialized interaction.
+- `!ki`: This bang accesses The Assistant with the Ki profile, providing a specialized interaction.
 
-Each bang is designed to optimize your search experience by directing you to the most appropriate version of the Kagi Assistant for your needs.
+Each bang is designed to optimize your search experience by directing you to the most appropriate version of The Assistant for your needs.
 
 ## URL Parameters
 
