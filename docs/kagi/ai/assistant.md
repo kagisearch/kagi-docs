@@ -55,7 +55,7 @@ By default threads are kept for 24 hours after the last message.
 If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/?p=assistant).
 Please note that the thread saving setting is applied **when the thread is created**.
 
-Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread. When you download a thread, it is saved as a `.txt` file containing only the most recent path, which is the sequence of messages from your latest interaction in that thread. This path reflects the latest direction the conversation took based on your inputs.
+Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread.
 
 The Quick Access feature can be used to better organize your threads but it will not influence the thread saving setting.
 In other words, threads added to Quick Access will also be deleted after 24 hours, unless you have chosen otherwise in the settings.
@@ -160,10 +160,6 @@ The Assistant provides access to the following LLMs:
 	- Llama 3.1 405B
 - Qwen
 	- Qwen QwQ 32b
-
-For our platform, Llama and Qwen models are hosted by Fireworks.ai. The other models are accessed through APIs provided by their respective companies.
-
-In either case, none of these the data you submit is contractually allowed to be used for training purposes.
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
 
