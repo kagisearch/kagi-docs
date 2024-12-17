@@ -1,4 +1,4 @@
-# Integrating Kagi with Other Applications
+# Integrating Orion with Other Applications
 
 Orion can be integrated with other applications, such as launchers.
 
