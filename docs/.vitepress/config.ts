@@ -364,6 +364,7 @@ function sidebarOrion() {
                         { text: 'Installing Orion', link: '/orion/getting-started/installing-orion' },
                         { text: 'Importing Data From Other Browsers', link: '/orion/getting-started/importing' },
                         { text: 'Default Search Engine', link: '/orion/getting-started/search-engine' },
+                        { text: 'Application Integrations', link: '/orion/getting-started/application-integrations' },
                     ]
                 },
                 {
