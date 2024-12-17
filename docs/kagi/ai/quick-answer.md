@@ -16,6 +16,6 @@ Kagi AI Quick Answer benefits from constant feedback, be sure to use the feedbac
 
 ## Disabling Auto Quick Answer
 
-If you prefer to just browse through search results instead of getting instant answers to queries ending with a question mark, you can now disable Auto Quick Answer. Simply go to the [Search Settings](https://kagi.com/settings?p=search) page, and turn off the Auto Quick Answer toggle.
+If you prefer to just browse through search results instead of getting instant answers to queries ending with a question mark, you can now disable Auto Quick Answer. Simply go to the [Search Settings](https://kagi.com/settings?p=ai) page, and turn off the Auto Quick Answer toggle.
 
 ![Auto Quick Answer Toggle](./media/quick_answer_toggle.gif){data-zoomable}
