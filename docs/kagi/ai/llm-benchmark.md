@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Dec 6, 2024**
+Last updated **Dec 17, 2024**
 
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
@@ -20,6 +20,7 @@ Last updated **Dec 6, 2024**
 | **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
 | **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | n/a |
 | **Meta** llama-3.1-405B-Instruct-Turbo | 32.26 | 12315 | 0.09648 | 2.33 | 33.77 |
+| **Microsoft** phi-4 14B | 32.26 | 17724 | n/a | n/a | n/a |
 | **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
 | **Amazon** Nova-Lite | 24.19 | 16325 | 0.00431 | 2.29 | 87.93 |
 | **Google** gemini-1.5-flash | 22.58 | 6806 | 0.00962 | 0.66 | 77.93 |
@@ -27,6 +28,9 @@ Last updated **Dec 6, 2024**
 | **Qwen** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
 | **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
 | **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
+| **TII** Falcon3 7B | 9.68 | 18574 | n/a | n/a | n/a |
+
+
 
 
 
