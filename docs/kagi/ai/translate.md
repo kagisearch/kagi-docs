@@ -6,17 +6,267 @@
 
 ## Key features
 - **Comprehensive language support**: Translate between 244 languages
+  <details>
+    <summary><b>See list of supported languages</b></summary>
+    <ul>
+      <li>Abkhaz</li>
+      <li>Acehnese</li>
+      <li>Acholi</li>
+      <li>Afar</li>
+      <li>Afrikaans</li>
+      <li>Albanian</li>
+      <li>Alur</li>
+      <li>Amharic</li>
+      <li>Arabic</li>
+      <li>Armenian</li>
+      <li>Assamese</li>
+      <li>Avar</li>
+      <li>Awadhi</li>
+      <li>Aymara</li>
+      <li>Azerbaijanic</li>
+      <li>Balinese</li>
+      <li>Baluchi</li>
+      <li>Bambara</li>
+      <li>Baoulé</li>
+      <li>Bashkir</li>
+      <li>Basque</li>
+      <li>Batak Karo</li>
+      <li>Batak Simalungun</li>
+      <li>Batak Toba</li>
+      <li>Belarusian</li>
+      <li>Bemba</li>
+      <li>Bengali</li>
+      <li>Betawi</li>
+      <li>Bhojpuri</li>
+      <li>Bikol</li>
+      <li>Bosnian</li>
+      <li>Breton</li>
+      <li>Bulgarian</li>
+      <li>Buryat</li>
+      <li>Cantonese</li>
+      <li>Catalan</li>
+      <li>Cebuano</li>
+      <li>Chamorro</li>
+      <li>Chechen</li>
+      <li>Chichewa</li>
+      <li>Chinese (Simplified)</li>
+      <li>Chinese (Traditional)</li>
+      <li>Chuukese</li>
+      <li>Chuvash</li>
+      <li>Corsican</li>
+      <li>Crimean Tatar</li>
+      <li>Croatian</li>
+      <li>Czech</li>
+      <li>Danish</li>
+      <li>Dari</li>
+      <li>Dhivehi</li>
+      <li>Dinka</li>
+      <li>Dogri</li>
+      <li>Dombe</li>
+      <li>Dutch</li>
+      <li>Dyula</li>
+      <li>Dzongkha</li>
+      <li>English</li>
+      <li>Esperanto</li>
+      <li>Estonian</li>
+      <li>Ewe</li>
+      <li>Faroese</li>
+      <li>Fijian</li>
+      <li>Filipino</li>
+      <li>Finnish</li>
+      <li>Fon</li>
+      <li>French</li>
+      <li>Frisian</li>
+      <li>Friulian</li>
+      <li>Fulani</li>
+      <li>Ga</li>
+      <li>Galician</li>
+      <li>Georgian</li>
+      <li>German</li>
+      <li>Greek</li>
+      <li>Guarani</li>
+      <li>Gujarati</li>
+      <li>Haitian Creole</li>
+      <li>Hakha Chin</li>
+      <li>Hausa</li>
+      <li>Hawaiian</li>
+      <li>Hebrew</li>
+      <li>Hiligaynon</li>
+      <li>Hindi</li>
+      <li>Hmong</li>
+      <li>Hungarian</li>
+      <li>Hunsrik</li>
+      <li>Iban</li>
+      <li>Icelandic</li>
+      <li>Igbo</li>
+      <li>Ilocano</li>
+      <li>Indonesian</li>
+      <li>Irish</li>
+      <li>Italian</li>
+      <li>Jamaican Patois</li>
+      <li>Japanese</li>
+      <li>Javanese</li>
+      <li>Jingpo</li>
+      <li>Kalaallisut</li>
+      <li>Kannada</li>
+      <li>Kanuri</li>
+      <li>Kapampangan</li>
+      <li>Kazakh</li>
+      <li>Khasi</li>
+      <li>Khmer</li>
+      <li>Kiga</li>
+      <li>Kikongo</li>
+      <li>Kinyarwanda</li>
+      <li>Kituba</li>
+      <li>Kokborok</li>
+      <li>Komi</li>
+      <li>Konkani</li>
+      <li>Korean</li>
+      <li>Krio</li>
+      <li>Kurdish (Kurmanji)</li>
+      <li>Kurdish (Sorani)</li>
+      <li>Kyrgyz</li>
+      <li>Lao</li>
+      <li>Latgalian</li>
+      <li>Latin</li>
+      <li>Latvian</li>
+      <li>Ligurian</li>
+      <li>Limburgish</li>
+      <li>Lingala</li>
+      <li>Lithuanian</li>
+      <li>Lombard</li>
+      <li>Luganda</li>
+      <li>Luo</li>
+      <li>Luxembourgish</li>
+      <li>Macedonian</li>
+      <li>Madurese</li>
+      <li>Maithili</li>
+      <li>Makassar</li>
+      <li>Malagasy</li>
+      <li>Malay</li>
+      <li>Malay (Jawi)</li>
+      <li>Malayalam</li>
+      <li>Maltese</li>
+      <li>Mam</li>
+      <li>Manx</li>
+      <li>Maori</li>
+      <li>Marathi</li>
+      <li>Marshallese</li>
+      <li>Marwadi</li>
+      <li>Mauritian Creole</li>
+      <li>Meadow Mari</li>
+      <li>Meiteilon (Manipuri)</li>
+      <li>Minang</li>
+      <li>Mizo</li>
+      <li>Mongolian</li>
+      <li>Myanmar (Burmese)</li>
+      <li>Nahuatl (Eastern Huasteca)</li>
+      <li>Ndau</li>
+      <li>Ndebele (South)</li>
+      <li>Nepalbhasa (Newari)</li>
+      <li>Nepali</li>
+      <li>NKo</li>
+      <li>Norwegian</li>
+      <li>Nuer</li>
+      <li>Occitan</li>
+      <li>Odia (Oriya)</li>
+      <li>Oromo</li>
+      <li>Ossetian</li>
+      <li>Pangasinan</li>
+      <li>Papiamento</li>
+      <li>Pashto</li>
+      <li>Persian</li>
+      <li>Polish</li>
+      <li>Portuguese (Brazil)</li>
+      <li>Portuguese (Portugal)</li>
+      <li>Punjabi (Gurmukhi)</li>
+      <li>Punjabi (Shahmukhi)</li>
+      <li>Quechua</li>
+      <li>Qʼeqchiʼ</li>
+      <li>Romani</li>
+      <li>Romanian</li>
+      <li>Rundi</li>
+      <li>Russian</li>
+      <li>Sami (North)</li>
+      <li>Samoan</li>
+      <li>Sango</li>
+      <li>Sanskrit</li>
+      <li>Santali</li>
+      <li>Scots Gaelic</li>
+      <li>Sepedi</li>
+      <li>Serbian</li>
+      <li>Sesotho</li>
+      <li>Seychellois Creole</li>
+      <li>Shan</li>
+      <li>Shona</li>
+      <li>Sicilian</li>
+      <li>Silesian</li>
+      <li>Sindhi</li>
+      <li>Sinhala</li>
+      <li>Slovak</li>
+      <li>Slovenian</li>
+      <li>Somali</li>
+      <li>Spanish</li>
+      <li>Sundanese</li>
+      <li>Susu</li>
+      <li>Swahili</li>
+      <li>Swati</li>
+      <li>Swedish</li>
+      <li>Tahitian</li>
+      <li>Tajik</li>
+      <li>Tamazight</li>
+      <li>Tamazight (Tifinagh)</li>
+      <li>Tamil</li>
+      <li>Tatar</li>
+      <li>Telugu</li>
+      <li>Tetum</li>
+      <li>Thai</li>
+      <li>Tibetan</li>
+      <li>Tigrinya</li>
+      <li>Tiv</li>
+      <li>Tok Pisin</li>
+      <li>Tongan</li>
+      <li>Tsonga</li>
+      <li>Tswana</li>
+      <li>Tulu</li>
+      <li>Tumbuka</li>
+      <li>Turkish</li>
+      <li>Turkmen</li>
+      <li>Tuvan</li>
+      <li>Twi</li>
+      <li>Udmurt</li>
+      <li>Ukrainian</li>
+      <li>Urdu</li>
+      <li>Uyghur</li>
+      <li>Uzbek</li>
+      <li>Venda</li>
+      <li>Venetian</li>
+      <li>Vietnamese</li>
+      <li>Waray</li>
+      <li>Welsh</li>
+      <li>Wolof</li>
+      <li>Xhosa</li>
+      <li>Yakut</li>
+      <li>Yiddish</li>
+      <li>Yoruba</li>
+      <li>Yucatec Maya</li>
+      <li>Zapotec</li>
+      <li>Zulu</li>
+    </ul>
+  </details>
 - **Context-aware translation**: Preserves meaning, tone, and style of original text
-- **Translation options**: 
+- **Translation options**:
   - Web page translation
   - Text translation
 - **Privacy-focused**: Your translations are processed securely without storing personal data
 
 ## Benefits
-- **Accuracy**: Advanced language models ensure precise translations
+- **Accuracy**: Advanced language models ensure precise translations (*see note below*)
 - **Natural results**: Localizes idioms and cultural references appropriately
 - **Versatility**: Handles everything from short phrases to entire web pages
 - **Privacy**: Your translation data remains secure and private
+
+*Note: The quality of translations can vary depending on the language pair. Less common languages may experience lower performance, while more common languages typically yield better results.*
 
 ## How to use
 
@@ -51,3 +301,7 @@ If you want to create custom [Bangs](../features/bangs.md), integrate it into yo
 ```
 https://translate.kagi.com/?text=%s&source=Japanese&target=English
 ```
+
+## Important notes
+
+- **Media Titles**: Kagi Translate tends to use "official" translations for well-known media titles, which may differ significantly from literal translations. For instance, the Japanese manga title "Sousou no Frieren" is translated as "Frieren: Beyond Journey's End," reflecting the commercially accepted version rather than the literal "Funeral Frieren."
