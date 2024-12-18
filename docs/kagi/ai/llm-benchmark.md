@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Dec 17, 2024**
+Last updated **Dec 18, 2024**
 
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
@@ -14,6 +14,7 @@ Last updated **Dec 17, 2024**
 | **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 | n/a |
 | **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
 | **Meta** llama-3.3-70b-versatile | 43.55 | 15145 | 0.01689 | 2.46 | 85.80 |
+| **Google** gemini-exp-1206 | 43.55 | 8350 | 0.41909 | 3.73 | 23.25 |
 | **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
 | **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
