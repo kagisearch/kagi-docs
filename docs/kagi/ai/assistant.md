@@ -28,7 +28,7 @@ The Assistant by Kagi combines top large language models (LLM) with optional res
 
 ## Privacy
 
-When you use the Assistant by Kagi, your data is never used to train AI models, and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/?p=assistant).
+When you use the Assistant by Kagi, your data is never used to train AI models (not by us or by the LLM providers), and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/?p=assistant).
 
 ## Using the Assistant
 
@@ -111,7 +111,9 @@ You can, for instance, instruct the Assistant to be more succinct or to consider
 You can create Custom Assistants in the [Assistant Settings](https://kagi.com/settings?p=assistant).
 It is possible to customize the LLM, settings (the use of web access, lenses, and personalized results), and the instructions for each Custom Assistant.
 
-The Assistant comes with a **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 3.5 Sonnet and has web access.
+The Assistant comes with a built-in **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 3.5 Sonnet and has web access.
+
+For more details, refer to the [Custom Assistants](./custom-assistants.md) page.
 
 ## Keyboard Shortcuts {#keyboard-shortcuts}
 
@@ -142,9 +144,9 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 The Assistant provides access to the following LLMs:
 
 - Anthropic
-	- Claude 3 Haiku
 	- Claude 3.5 Sonnet
 	- Claude 3 Opus
+	- Claude 3 Haiku
 - OpenAI
 	- GPT 4o
 	- GPT 4o Mini
@@ -154,16 +156,26 @@ The Assistant provides access to the following LLMs:
 - Google
 	- Gemini 1.5 Pro
 - Meta
+	- Llama 3.3 70B
 	- Llama 3.1 405B
+- Qwen
+	- Qwen QwQ 32b
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
 
 ## Bangs
 
-You can quickly access Assistant from Kagi Search by using the following [bangs](../features/bangs.md):
-`!ai`, `!chat`, `!assistant` , `!llm`, `!asst`, `!as`, `!expert` and `!fast`
+You can quickly access The Assistant using the following [bangs](../features/bangs.md):
 
-You can also access the **Code** Custom Assistant with the `!code` bang.
+- `!ai`, `!as`, `!assistant`, `!research`, `!answer`, `!discuss`, `!expert`, `!llm`, `!custom`, and `!asst`: These bangs direct you to the general Assistant interface for various types of queries.
+
+- `!chat`: This bang accesses The Assistant with internet access turned off.
+
+- `!code`: Use this bang to access the built-in **Code** Custom Assistant, which is tailored for coding-related queries.
+
+- `!ki`: This bang accesses The Assistant with the Ki profile, providing a specialized interaction.
+
+Each bang is designed to optimize your search experience by directing you to the most appropriate version of The Assistant for your needs.
 
 ## URL Parameters
 
