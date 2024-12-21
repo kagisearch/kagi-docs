@@ -19,7 +19,7 @@ Last updated **Dec 21, 2024**
 | **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
 | **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
-| **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 37.10 | 12315 | 0.09648 | 2.33 | 33.77 |
+| **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 35.48 | 12315 | 0.09648 | 2.33 | 33.77 |
 | **Meta** llama-3.3-70b-versatile (Groq) | 33.87 | 15008 | 0.01680 | 0.63 | 220.90|
 | **Microsoft** phi-4 14B (local) | 32.26 | 17724 | n/a | n/a | n/a |
 | **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
