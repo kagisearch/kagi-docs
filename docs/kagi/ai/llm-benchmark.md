@@ -37,7 +37,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |-----------------------------|---------------|--------|----------------|------------------|-------------------|
-| **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61%  | 52323 | 2.26607 | 4.67 | n/a |
+| **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61  | 52323 | 2.26607 | 4.67 | n/a |
 | **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 | n/a |
 | **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | n/a |
 
