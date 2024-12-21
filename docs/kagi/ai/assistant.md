@@ -143,19 +143,19 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 
 The Assistant provides access to the following LLMs:
 
-| Provider     | Model             | ID                                                   |
-|-------------|-------------------|------------------------------------------------------|
-| Anthropic   | Claude 3.5 Sonnet | [claude-3.5-sonnet](https://kagi.com/assistant?profile=claude-3-sonnet) |
-| Anthropic   | Claude 3 Opus     | [claude-3-opus](https://kagi.com/assistant?profile=claude-3-opus)         |
-| Anthropic   | Claude 3 Haiku    | [claude-3-haiku](https://kagi.com/assistant?profile=claude-3-haiku)       |
-| OpenAI      | GPT 4o            | [gpt-4o](https://kagi.com/assistant?profile=gpt-4o)                       |
-| OpenAI      | GPT 4o Mini       | [gpt-4o-mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
-| Mistral AI  | Mistral Pixtral   | [mistral-nemo](https://kagi.com/assistant?profile=mistral-nemo)           |
-| Mistral AI  | Mistral Large     | [mistral-large](https://kagi.com/assistant?profile=mistral-large)         |
-| Google      | Gemini 1.5 Pro    | [gemini-pro](https://kagi.com/assistant?profile=gemini-pro)               |
-| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span> | Llama 3.3 70B     | [llama-3-70b](https://kagi.com/assistant?profile=llama-3-70b)             |
-| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span> | Llama 3.1 405B    | [llama-3-405b](https://kagi.com/assistant?profile=llama-3-405b)           |
-| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Alibaba</span>        | Qwen QwQ 32b      | [qwen-qwq-32b](https://kagi.com/assistant?profile=qwen-qwq-32b)           |
+| Provider    | Model                                                                     |
+|-------------|---------------------------------------------------------------------------|
+| Anthropic   | [Claude 3.5 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)   |
+| Anthropic   | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)         |
+| Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)       |
+| OpenAI      | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                       |
+| OpenAI      | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
+| Mistral AI  | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)        |
+| Mistral AI  | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)         |
+| Google      | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)           |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)   |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b) |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Alibaba</span> | [Qwen QwQ 32b](https://kagi.com/assistant?profile=qwen-qwq-32b)   |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
