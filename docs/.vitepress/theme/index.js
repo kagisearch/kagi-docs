@@ -1,5 +1,6 @@
 import DefaultTheme from "vitepress/theme";
 import queryHack from "../custom_scripts/search_query_hack";
+import { handleSort } from "../custom_scripts/sort";
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
 import mediumZoom from 'medium-zoom';
@@ -9,6 +10,7 @@ export default {
   ...DefaultTheme,
   enhanceApp({ app }) {
     queryHack();
+    handleSort();
   },
   setup() {
     const route = useRoute();

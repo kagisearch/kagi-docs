@@ -1,2 +1,15 @@
 @import "theme";
 @import "custom_code";
+
+.sortable-table {
+  th {
+    cursor: pointer;
+  }
+  th[data-sort-asc="true"]::after {
+    content: " ↑";
+  }
+
+  th[data-sort-asc="false"]::after {
+    content: " ↓";
+  }
+}
