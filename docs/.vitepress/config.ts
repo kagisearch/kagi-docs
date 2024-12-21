@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { SearchPlugin } from 'kagi-sidekick-vitepress'
+import { markdownItJsonTablePlugin } from './custom_scripts/markdownItJsonTablePlugin'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -12,6 +13,11 @@ export default defineConfig({
         ['link', { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5" }],
         ['meta', { name: "msapplication-TileColor", content: "#ffffff" }],
     ],
+    markdown: {
+      config: (md) => {
+        md.use(markdownItJsonTablePlugin)
+      },
+    },
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [

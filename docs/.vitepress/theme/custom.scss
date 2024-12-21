@@ -1,2 +1,10 @@
 @import "theme";
 @import "custom_code";
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.select-none {
+  user-select: none;
+}

@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@docsearch/js": "^3.6.0",
+    "@tanstack/vue-table": "^8.20.5",
     "esbuild": "^0.21.5",
     "kagi-sidekick-vitepress": "^0.0.1-alpha.15",
     "medium-zoom": "^1.1.0",

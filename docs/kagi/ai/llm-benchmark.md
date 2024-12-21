@@ -8,33 +8,172 @@ The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemp
 
 Last updated **Dec 18, 2024**
 
-
-| Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
-|-----------------------------|---------------|--------|----------------|------------------|-------------------|
-| **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 | n/a |
-| **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
-| **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
-| **Meta** llama-3.3-70b-versatile | 43.55 | 15145 | 0.01689 | 2.46 | 85.80 |
-| **Google** gemini-exp-1206 | 43.55 | 8350 | 0.41909 | 3.73 | 23.25 |
-| **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
-| **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
-| **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
-| **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | n/a |
-| **Meta** llama-3.1-405B-Instruct-Turbo | 32.26 | 12315 | 0.09648 | 2.33 | 33.77 |
-| **Microsoft** phi-4 14B | 32.26 | 17724 | n/a | n/a | n/a |
-| **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
-| **Amazon** Nova-Lite | 24.19 | 16325 | 0.00431 | 2.29 | 87.93 |
-| **Google** gemini-1.5-flash | 22.58 | 6806 | 0.00962 | 0.66 | 77.93 |
-| **Amazon** Nova-Micro | 22.58 | 16445 | 0.00253 | 1.97 | 106.47 |
-| **Qwen** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
-| **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
-| **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
-| **TII** Falcon3 7B | 9.68 | 18574 | n/a | n/a | n/a |
-
-
-
-
-
+```json:table
+{
+  "fields": [
+    { "key": "model", "label": "Model", "sortable": true },
+    { "key": "accuracy", "label": "Accuracy (%)", "sortable": true },
+    { "key": "tokens", "label": "Tokens", "sortable": true },
+    { "key": "totalCost", "label": "Total Cost ($)", "sortable": true },
+    { "key": "medianLatency", "label": "Median Latency (s)", "sortable": true },
+    { "key": "speed", "label": "Speed (tokens/sec)", "sortable": true }
+  ],
+  "items": [
+    {
+      "model": "Qwen QWQ-32B",
+      "accuracy": "50.00",
+      "tokens": "45293",
+      "totalCost": "0.02835",
+      "medianLatency": "15.46",
+      "speed": "n/a"
+    },
+    {
+      "model": "OpenAI gpt-4o",
+      "accuracy": "48.39",
+      "tokens": "10371",
+      "totalCost": "0.12033",
+      "medianLatency": "2.07",
+      "speed": "48.31"
+    },
+    {
+      "model": "Anthropic Claude-3.5-sonnet-20241022",
+      "accuracy": "43.55",
+      "tokens": "9869",
+      "totalCost": "0.17042",
+      "medianLatency": "2.69",
+      "speed": "50.13"
+    },
+    {
+      "model": "Meta llama-3.3-70b-versatile",
+      "accuracy": "43.55",
+      "tokens": "15145",
+      "totalCost": "0.01689",
+      "medianLatency": "2.46",
+      "speed": "85.80"
+    },
+    {
+      "model": "Google gemini-exp-1206",
+      "accuracy": "43.55",
+      "tokens": "8350",
+      "totalCost": "0.41909",
+      "medianLatency": "3.73",
+      "speed": "23.25"
+    },
+    {
+      "model": "Mistral Large-2411",
+      "accuracy": "41.94",
+      "tokens": "12500",
+      "totalCost": "0.09042",
+      "medianLatency": "3.07",
+      "speed": "38.02"
+    },
+    {
+      "model": "Amazon Nova-Pro",
+      "accuracy": "40.32",
+      "tokens": "15160",
+      "totalCost": "0.05426",
+      "medianLatency": "3.08",
+      "speed": "60.42"
+    },
+    {
+      "model": "Anthropic Claude-3.5-haiku-20241022",
+      "accuracy": "37.10",
+      "tokens": "9695",
+      "totalCost": "0.05593",
+      "medianLatency": "2.08",
+      "speed": "56.60"
+    },
+    {
+      "model": "OpenAI o1-mini",
+      "accuracy": "37.10",
+      "tokens": "42965",
+      "totalCost": "0.53978",
+      "medianLatency": "5.24",
+      "speed": "n/a"
+    },
+    {
+      "model": "Meta llama-3.1-405B-Instruct-Turbo",
+      "accuracy": "32.26",
+      "tokens": "12315",
+      "totalCost": "0.09648",
+      "medianLatency": "2.33",
+      "speed": "33.77"
+    },
+    {
+      "model": "Microsoft phi-4 14B",
+      "accuracy": "32.26",
+      "tokens": "17724",
+      "totalCost": "n/a",
+      "medianLatency": "n/a",
+      "speed": "n/a"
+    },
+    {
+      "model": "Meta llama-3.1-70b-versatile",
+      "accuracy": "30.65",
+      "tokens": "12622",
+      "totalCost": "0.01495",
+      "medianLatency": "1.42",
+      "speed": "82.35"
+    },
+    {
+      "model": "Amazon Nova-Lite",
+      "accuracy": "24.19",
+      "tokens": "16325",
+      "totalCost": "0.00431",
+      "medianLatency": "2.29",
+      "speed": "87.93"
+    },
+    {
+      "model": "Google gemini-1.5-flash",
+      "accuracy": "22.58",
+      "tokens": "6806",
+      "totalCost": "0.00962",
+      "medianLatency": "0.66",
+      "speed": "77.93"
+    },
+    {
+      "model": "Amazon Nova-Micro",
+      "accuracy": "22.58",
+      "tokens": "16445",
+      "totalCost": "0.00253",
+      "medianLatency": "1.97",
+      "speed": "106.47"
+    },
+    {
+      "model": "Qwen Qwen-2.5-72B",
+      "accuracy": "20.97",
+      "tokens": "8616",
+      "totalCost": "0.07606",
+      "medianLatency": "9.08",
+      "speed": "10.08"
+    },
+    {
+      "model": "OpenAI gpt-4o-mini",
+      "accuracy": "19.35",
+      "tokens": "13363",
+      "totalCost": "0.00901",
+      "medianLatency": "1.53",
+      "speed": "66.41"
+    },
+    {
+      "model": "Anthropic Claude-3-haiku-20240307",
+      "accuracy": "9.68",
+      "tokens": "10296",
+      "totalCost": "0.01470",
+      "medianLatency": "1.44",
+      "speed": "108.38"
+    },
+    {
+      "model": "TII Falcon3 7B",
+      "accuracy": "9.68",
+      "tokens": "18574",
+      "totalCost": "n/a",
+      "medianLatency": "n/a",
+      "speed": "n/a"
+    }
+  ]
+}
+```
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
 
