@@ -6,14 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Dec 18, 2024**
-
-### Reasoning models
-
-| Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
-|-----------------------------|---------------|--------|----------------|------------------|-------------------|
-| **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 | n/a |
-| **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | n/a |
+Last updated **Dec 21, 2024**
 
 
 ### General purpose models
@@ -22,13 +15,13 @@ Last updated **Dec 18, 2024**
 |-----------------------------|---------------|--------|----------------|------------------|-------------------|
 | **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
 | **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
-| **Meta** llama-3.3-70b-versatile | 43.55 | 15145 | 0.01689 | 2.46 | 85.80 |
 | **Google** gemini-exp-1206 | 43.55 | 8350 | 0.41909 | 3.73 | 23.25 |
 | **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
 | **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
-| **Meta** llama-3.1-405B-Instruct-Turbo | 32.26 | 12315 | 0.09648 | 2.33 | 33.77 |
-| **Microsoft** phi-4 14B | 32.26 | 17724 | n/a | n/a | n/a |
+| **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 37.10 | 12315 | 0.09648 | 2.33 | 33.77 |
+| **Meta** llama-3.3-70b-versatile (Groq) | 33.87 | 15008 | 0.01680 | 0.63 | 220.90|
+| **Microsoft** phi-4 14B (local) | 32.26 | 17724 | n/a | n/a | n/a |
 | **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
 | **Amazon** Nova-Lite | 24.19 | 16325 | 0.00431 | 2.29 | 87.93 |
 | **Google** gemini-1.5-flash | 22.58 | 6806 | 0.00962 | 0.66 | 77.93 |
@@ -36,7 +29,17 @@ Last updated **Dec 18, 2024**
 | **Qwen** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
 | **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
 | **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
-| **TII** Falcon3 7B | 9.68 | 18574 | n/a | n/a | n/a |
+| **TII** Falcon3 7B (local) | 9.68 | 18574 | n/a | n/a | n/a |
+
+### Reasoning models
+
+Reasoning models are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
+
+| Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
+|-----------------------------|---------------|--------|----------------|------------------|-------------------|
+| **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61%  | 52323 | 2.26607 | 4.67 | n/a |
+| **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 | n/a |
+| **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | n/a |
 
 
 
