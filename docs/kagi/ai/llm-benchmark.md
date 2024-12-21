@@ -16,6 +16,8 @@ Last updated **Dec 18, 2024**
 | **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | n/a |
 
 
+### General purpose models
+
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |-----------------------------|---------------|--------|----------------|------------------|-------------------|
 | **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
