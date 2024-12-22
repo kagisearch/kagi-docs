@@ -1,6 +1,5 @@
 import DefaultTheme from "vitepress/theme";
 import queryHack from "../custom_scripts/search_query_hack";
-import { handleSort } from "../custom_scripts/sort";
 import GenericTable from '../components/GenericTable.vue'
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
@@ -11,7 +10,6 @@ export default {
   ...DefaultTheme,
   enhanceApp({ app }) {
     queryHack();
-    handleSort();
     app.component("GenericTable", GenericTable)
   },
   setup() {
