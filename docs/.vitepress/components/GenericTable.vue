@@ -55,10 +55,17 @@ import {
 /**
  * Props:
  * - tableData: {
- *     fields: [{ key: string, label: string, sortable?: boolean }, ...],
- *     items:  [{ key1: value1, key2: value2, ... }, ...]
- *   }
- */
+ *   "fields": [
+ *     { "key": "a", "label": "AA", "sortable": true },
+ *     { "key": "b", "label": "BB" },
+ *     { "key": "c", "label": "CC" }
+ *   ],
+ *   "items": [
+ *     { "a": "11", "b": "22", "c": "33" },
+ *     { "a": "211", "b": "222", "c": "233" }
+ *   ]
+ * }
+ **/
 const props = defineProps({
   tableData: {
     type: Object,
