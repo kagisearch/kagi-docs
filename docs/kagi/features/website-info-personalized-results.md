@@ -43,7 +43,7 @@ You can also apply Personalization in image search results by clicking the shiel
 
 ![Kagi Image search personalization](./media/block_domain.gif)
 
-Kagi Search allows you to block entire domains as part of its ranking tools, but it doesn’t currently support advanced blocking methods like wildcards (e.g., `*://*.example.com/*`) or regular expressions (e.g., `/example\.(net|org)/`) – for these advanced options, the [uBlacklist](https://github.com/iorate/ublacklist?tab=readme-ov-file#ublacklist) browser extension offers these capabilities and integrates with Kagi.
+Kagi Search allows you to block entire domains as part of its ranking tools, but it doesn’t currently support advanced blocking methods like path wildcards (e.g., `*://example.com/path/*`) or regular expressions (e.g., `/example\.(net|org)/`) – for these advanced options, the [uBlacklist](https://github.com/iorate/ublacklist?tab=readme-ov-file#ublacklist) browser extension offers these capabilities and integrates with Kagi.
 
 ## Domain Leaderboard
 
