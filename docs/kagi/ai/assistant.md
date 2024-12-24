@@ -143,23 +143,20 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 
 The Assistant provides access to the following LLMs:
 
-- Anthropic
-	- Claude 3.5 Sonnet
-	- Claude 3 Opus
-	- Claude 3 Haiku
-- OpenAI
-	- GPT 4o
-	- GPT 4o Mini
-- Mistral AI
-	- Mistral Pixtral
-	- Mistral Large
-- Google
-	- Gemini 1.5 Pro
-- Meta
-	- Llama 3.3 70B
-	- Llama 3.1 405B
-- Qwen
-	- Qwen QwQ 32b
+| Provider    | Model                                                                     |
+|-------------|---------------------------------------------------------------------------|
+| Anthropic   | [Claude 3.5 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)   |
+| Anthropic   | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)         |
+| Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)       |
+| OpenAI      | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                       |
+| OpenAI      | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
+| Mistral AI  | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)        |
+| Mistral AI  | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)         |
+| Google      | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)           |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)   |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b) |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Alibaba</span> | [Qwen QwQ 32b](https://kagi.com/assistant?profile=qwen-qwq-32b)   |
+
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
 
@@ -181,7 +178,7 @@ Each bang is designed to optimize your search experience by directing you to the
 
 You can specify a particular model in the Assistant's URL by including a `profile` parameter.
 `https://kagi.com/assistant?profile=gpt-4o&q=%s`
-The available model names include: `gpt-4`, `gpt-4-turbo`, `gpt-4o`, `gpt-4o-mini`, `gemini-pro`, `mistral-nemo`, `mistral-large`, `claude-3-haiku`, `claude-3-sonnet`, `claude-3-opus`, `llama-3-405b`, `code`.
+The available model names can be found in the table above.
 
 This can also be used with custom assistants, as described on the [custom assistant documentation](./custom-assistants.md#url-parameters).
 
