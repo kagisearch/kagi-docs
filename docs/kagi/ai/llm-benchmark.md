@@ -254,7 +254,7 @@ The table below is updated to the best of our abilities, feel free to submit cha
 {
   "fields": [
     { "key": "llm", "label": "LLM", "sortable": true },
-    { "key": "contextLength", "label": "Context Length", "sortable": true },
+    { "key": "contextLength", "label": "Context Length", "sortable": false },
     { "key": "pricePerInput", "label": "Price per input ($/M)", "sortable": true },
     { "key": "pricePerOutput", "label": "Price per output ($/M)", "sortable": true }
   ],
