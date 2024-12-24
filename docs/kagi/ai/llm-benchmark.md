@@ -4,9 +4,11 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 ## LLM Benchmarks
 
-The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
+The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting.
 
-Last updated **Dec 18, 2024**
+Last updated **Dec 21, 2024**
+
+### General purpose models
 
 ```json:table
 {
@@ -175,6 +177,49 @@ Last updated **Dec 18, 2024**
 }
 ```
 
+### Reasoning models
+
+Reasoning models are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
+
+```json:table
+{
+  "fields": [
+    { "key": "model", "label": "Model", "sortable": true },
+    { "key": "accuracy", "label": "Accuracy (%)", "sortable": true },
+    { "key": "tokens", "label": "Tokens", "sortable": true },
+    { "key": "totalCost", "label": "Total Cost ($)", "sortable": true },
+    { "key": "medianLatency", "label": "Median Latency (s)", "sortable": true },
+    { "key": "speed", "label": "Speed (tokens/sec)", "sortable": true }
+  ],
+  "items": [
+    {
+      "model": "Google gemini-2.0-flash-thinking-exp-1219",
+      "accuracy": "51.61",
+      "tokens": "52323",
+      "totalCost": "2.26607",
+      "medianLatency": "4.67",
+      "speed": "n/a"
+    },
+    {
+      "model": "Qwen QWQ-32B",
+      "accuracy": "50.00",
+      "tokens": "45293",
+      "totalCost": "0.02835",
+      "medianLatency": "15.46",
+      "speed": "n/a"
+    },
+    {
+      "model": "OpenAI o1-mini",
+      "accuracy": "37.10",
+      "tokens": "42965",
+      "totalCost": "0.53978",
+      "medianLatency": "5.24",
+      "speed": "n/a"
+    }
+  ]
+}
+```
+
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
 
 This approach measures the models' potential and adaptability, with some bias towards features essential for [LLM features in Kagi Search](./assistant.md) (mostly around reasoning and instruction following capabilities, see examples below).
@@ -199,50 +244,206 @@ What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R
 Given a QWERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 ```
 
-
-
 ## LLM Pricing comparison
 
-In addition to quality and speed, we are also interested in the cost of using contemporary LLMs. 
+In addition to quality and speed, we are also interested in the cost of using contemporary LLMs.
 
 The table below is updated to the best of our abilities, feel free to submit changes by editing this page.
 
-
-| LLM                                | Context Length | Price per input ($/M) | Price per output ($/M) |
-|------------------------------------|----------------|-----------------------|------------------------|
-| o1-preview                         | -              | 15                    | 60                     |
-| o1-mini                            | -              | 3                     | 12                     |
-| **GPT-4o**                         | 128K           | 2.5                   | 10                     |
-| **GPT-4o mini**                    | 128K           | 0.15                  | 0.60                   |
-| **GPT-4-Turbo**                    | 128K           | 10                    | 30                     |
-| GPT-4 (8k)                         | 8K             | 30                    | 60                     |
-| **GPT-4 (32k)**                    | 32K            | 60                    | 120                    |
-| **GPT-3.5-Turbo**                  | 16K            | 0.5                   | 1.5                    |
-| **Claude 3 Haiku**                 | 200K           | 0.25                  | 1.25                   |
-| Claude 3.5 Haiku                   | 200K           | 1                     | 5                      |
-| **Claude 3.5 Sonnet**              | 200K           | 3                     | 15                     |
-| **Claude 3 Opus**                  | 200K           | 15                    | 75                     |
-| **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                | 10.50/21               |
-| Gemini 1.5 Flash (128K/1M)         | 1M             | 0.075/0.15            | 0.3/0.6                |
-| **Mistral Small**                  | 8K             | 2                     | 6                      |
-| **Mistral Medium**                 | 8K             | 2.7                   | 8.1                    |
-| **Mistral Large**                  | 8K             | 8                     | 24                     |
-| Reka Core                          | 128K           | 10                    | 25                     |
-| Reka Flash                         | 128K           | 0.8                   | 2                      |
-| Reka Edge                          | 128K           | 0.4                   | 1                      |
-| Cohere Command R+                  | 128K           | 3                     | 15                     |
-| Cohere Command R                   | 128K           | 0.50                  | 1.50                   |
-| Groq Llama 3 70B                   | 8K             | 0.59                  | 0.79                   |
-| Groq Llama 3 8B                    | 8K             | 0.05                  | 0.10                   |
-| Groq Mixtral 8x7B                  | 32K            | 0.27                  | 0.27                   |
-| Groq Gemma 7B                      | 8K             | 0.10                  | 0.10                   |
-| nvidia/llama-3.1-nemotron-70b-instruct | 131K           | 0.35                  | 0.40                   |
-| x-ai/grok-2                    | 32K            | 5.0                   | 10.0                   |
-| nousresearch/hermes-3-llama-3.1-405b:free | 8K             | 0.0                   | 0.0                    |
-| liquid/lfm-40b                 | 32K            | 0.0                   | 0.0                    |
+```json:table
+{
+  "fields": [
+    { "key": "llm", "label": "LLM", "sortable": true },
+    { "key": "contextLength", "label": "Context Length", "sortable": true },
+    { "key": "pricePerInput", "label": "Price per input ($/M)", "sortable": true },
+    { "key": "pricePerOutput", "label": "Price per output ($/M)", "sortable": true }
+  ],
+  "items": [
+    {
+        "llm": "o1-preview",
+        "contextLength": "-",
+        "pricePerInput": 15,
+        "pricePerOutput": 60
+    },
+    {
+        "llm": "o1-mini",
+        "contextLength": "-",
+        "pricePerInput": 3,
+        "pricePerOutput": 12
+    },
+    {
+        "llm": "GPT-4o",
+        "contextLength": "128K",
+        "pricePerInput": 2.5,
+        "pricePerOutput": 10
+    },
+    {
+        "llm": "GPT-4o mini",
+        "contextLength": "128K",
+        "pricePerInput": 0.15,
+        "pricePerOutput": 0.60
+    },
+    {
+        "llm": "GPT-4-Turbo",
+        "contextLength": "128K",
+        "pricePerInput": 10,
+        "pricePerOutput": 30
+    },
+    {
+        "llm": "GPT-4 (8k)",
+        "contextLength": "8K",
+        "pricePerInput": 30,
+        "pricePerOutput": 60
+    },
+    {
+        "llm": "GPT-4 (32k)",
+        "contextLength": "32K",
+        "pricePerInput": 60,
+        "pricePerOutput": 120
+    },
+    {
+        "llm": "GPT-3.5-Turbo",
+        "contextLength": "16K",
+        "pricePerInput": 0.5,
+        "pricePerOutput": 1.5
+    },
+    {
+        "llm": "Claude 3 Haiku",
+        "contextLength": "200K",
+        "pricePerInput": 0.25,
+        "pricePerOutput": 1.25
+    },
+    {
+        "llm": "Claude 3.5 Haiku",
+        "contextLength": "200K",
+        "pricePerInput": 1,
+        "pricePerOutput": 5
+    },
+    {
+        "llm": "Claude 3.5 Sonnet",
+        "contextLength": "200K",
+        "pricePerInput": 3,
+        "pricePerOutput": 15
+    },
+    {
+        "llm": "Claude 3 Opus",
+        "contextLength": "200K",
+        "pricePerInput": 15,
+        "pricePerOutput": 75
+    },
+    {
+        "llm": "Gemini 1.5 Pro (128K/1M)",
+        "contextLength": "1M",
+        "pricePerInput": "3.50/7",
+        "pricePerOutput": "10.50/21"
+    },
+    {
+        "llm": "Gemini 1.5 Flash (128K/1M)",
+        "contextLength": "1M",
+        "pricePerInput": "0.075/0.15",
+        "pricePerOutput": "0.3/0.6"
+    },
+    {
+        "llm": "Mistral Small",
+        "contextLength": "8K",
+        "pricePerInput": 2,
+        "pricePerOutput": 6
+    },
+    {
+        "llm": "Mistral Medium",
+        "contextLength": "8K",
+        "pricePerInput": 2.7,
+        "pricePerOutput": 8.1
+    },
+    {
+        "llm": "Mistral Large",
+        "contextLength": "8K",
+        "pricePerInput": 8,
+        "pricePerOutput": 24
+    },
+    {
+        "llm": "Reka Core",
+        "contextLength": "128K",
+        "pricePerInput": 10,
+        "pricePerOutput": 25
+    },
+    {
+        "llm": "Reka Flash",
+        "contextLength": "128K",
+        "pricePerInput": 0.8,
+        "pricePerOutput": 2
+    },
+    {
+        "llm": "Reka Edge",
+        "contextLength": "128K",
+        "pricePerInput": 0.4,
+        "pricePerOutput": 1
+    },
+    {
+        "llm": "Cohere Command R+",
+        "contextLength": "128K",
+        "pricePerInput": 3,
+        "pricePerOutput": 15
+    },
+    {
+        "llm": "Cohere Command R",
+        "contextLength": "128K",
+        "pricePerInput": 0.50,
+        "pricePerOutput": 1.50
+    },
+    {
+        "llm": "Groq Llama 3 70B",
+        "contextLength": "8K",
+        "pricePerInput": 0.59,
+        "pricePerOutput": 0.79
+    },
+    {
+        "llm": "Groq Llama 3 8B",
+        "contextLength": "8K",
+        "pricePerInput": 0.05,
+        "pricePerOutput": 0.10
+    },
+    {
+        "llm": "Groq Mixtral 8x7B",
+        "contextLength": "32K",
+        "pricePerInput": 0.27,
+        "pricePerOutput": 0.27
+    },
+    {
+        "llm": "Groq Gemma 7B",
+        "contextLength": "8K",
+        "pricePerInput": 0.10,
+        "pricePerOutput": 0.10
+    },
+    {
+        "llm": "nvidia/llama-3.1-nemotron-70b-instruct",
+        "contextLength": "131K",
+        "pricePerInput": 0.35,
+        "pricePerOutput": 0.40
+    },
+    {
+        "llm": "x-ai/grok-2",
+        "contextLength": "32K",
+        "pricePerInput": 5.0,
+        "pricePerOutput": 10.0
+    },
+    {
+        "llm": "nousresearch/hermes-3-llama-3.1-405b:free",
+        "contextLength": "8K",
+        "pricePerInput": 0.0,
+        "pricePerOutput": 0.0
+    },
+    {
+        "llm": "liquid/lfm-40b",
+        "contextLength": "32K",
+        "pricePerInput": 0.0,
+        "pricePerOutput": 0.0
+    }
+  ]
+}
+```
 
 [Kagi Assistant](./assistant.md) provides access to all the models in bold. Usage is included in your Kagi subscription.
-
 
 ## Credits
 
