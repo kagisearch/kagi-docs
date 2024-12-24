@@ -56,7 +56,7 @@ import {
  * Props:
  * - tableData: {
  *   "fields": [
- *     { "key": "a", "label": "AA", "sortable": true },
+ *     { "key": "a", "label": "AA", "sortable": true, "format": { notation: "compact", compactDisplay: "short" } },
  *     { "key": "b", "label": "BB" },
  *     { "key": "c", "label": "CC" }
  *   ],
@@ -80,6 +80,13 @@ const columns = computed(() => {
     header: field.label,
     // Enable sorting only if the field has 'sortable: true'
     enableSorting: field.sortable === true,
+    cell: (info) => {
+      const value = info.getValue();
+      if (field.format && !isNaN(value)) {
+        return new Intl.NumberFormat("en-US", field.format).format(value);
+      }
+      return value;
+    },
   }));
 });
 

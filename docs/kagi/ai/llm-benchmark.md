@@ -22,14 +22,6 @@ Last updated **Dec 21, 2024**
   ],
   "items": [
     {
-      "model": "Qwen QWQ-32B",
-      "accuracy": "50.00",
-      "tokens": "45293",
-      "totalCost": "0.02835",
-      "medianLatency": "15.46",
-      "speed": "n/a"
-    },
-    {
       "model": "OpenAI gpt-4o",
       "accuracy": "48.39",
       "tokens": "10371",
@@ -44,14 +36,6 @@ Last updated **Dec 21, 2024**
       "totalCost": "0.17042",
       "medianLatency": "2.69",
       "speed": "50.13"
-    },
-    {
-      "model": "Meta llama-3.3-70b-versatile",
-      "accuracy": "43.55",
-      "tokens": "15145",
-      "totalCost": "0.01689",
-      "medianLatency": "2.46",
-      "speed": "85.80"
     },
     {
       "model": "Google gemini-exp-1206",
@@ -86,23 +70,23 @@ Last updated **Dec 21, 2024**
       "speed": "56.60"
     },
     {
-      "model": "OpenAI o1-mini",
-      "accuracy": "37.10",
-      "tokens": "42965",
-      "totalCost": "0.53978",
-      "medianLatency": "5.24",
-      "speed": "n/a"
-    },
-    {
-      "model": "Meta llama-3.1-405B-Instruct-Turbo",
-      "accuracy": "32.26",
+      "model": "Meta llama-3.1-405B-Instruct-Turbo  (Together.ai)",
+      "accuracy": "35.48",
       "tokens": "12315",
       "totalCost": "0.09648",
       "medianLatency": "2.33",
       "speed": "33.77"
     },
     {
-      "model": "Microsoft phi-4 14B",
+      "model": "Meta llama-3.3-70b-versatile (Groq)",
+      "accuracy": "33.87",
+      "tokens": "15008",
+      "totalCost": "0.01680",
+      "medianLatency": "0.63",
+      "speed": "220.90"
+    },
+    {
+      "model": "Microsoft phi-4 14B (local)",
       "accuracy": "32.26",
       "tokens": "17724",
       "totalCost": "n/a",
@@ -166,7 +150,7 @@ Last updated **Dec 21, 2024**
       "speed": "108.38"
     },
     {
-      "model": "TII Falcon3 7B",
+      "model": "TII Falcon3 7B (local)",
       "accuracy": "9.68",
       "tokens": "18574",
       "totalCost": "n/a",
@@ -175,6 +159,7 @@ Last updated **Dec 21, 2024**
     }
   ]
 }
+
 ```
 
 ### Reasoning models
@@ -218,6 +203,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
     }
   ]
 }
+
 ```
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
@@ -254,193 +240,219 @@ The table below is updated to the best of our abilities, feel free to submit cha
 {
   "fields": [
     { "key": "llm", "label": "LLM", "sortable": true },
-    { "key": "contextLength", "label": "Context Length", "sortable": false },
-    { "key": "pricePerInput", "label": "Price per input ($/M)", "sortable": true },
-    { "key": "pricePerOutput", "label": "Price per output ($/M)", "sortable": true }
+    {
+      "key": "contextLength",
+      "label": "Context Length",
+      "sortable": true,
+      "format": { "notation": "compact", "compactDisplay": "short" }
+    },
+    {
+      "key": "pricePerInput",
+      "label": "Price per input ($/M)",
+      "sortable": true
+    },
+    {
+      "key": "pricePerOutput",
+      "label": "Price per output ($/M)",
+      "sortable": true
+    }
   ],
   "items": [
     {
-        "llm": "o1-preview",
-        "contextLength": "-",
-        "pricePerInput": 15,
-        "pricePerOutput": 60
+      "llm": "o1-preview",
+      "contextLength": "-",
+      "pricePerInput": 15,
+      "pricePerOutput": 60
     },
     {
-        "llm": "o1-mini",
-        "contextLength": "-",
-        "pricePerInput": 3,
-        "pricePerOutput": 12
+      "llm": "o1-mini",
+      "contextLength": "-",
+      "pricePerInput": 3,
+      "pricePerOutput": 12
     },
     {
-        "llm": "GPT-4o",
-        "contextLength": "128K",
-        "pricePerInput": 2.5,
-        "pricePerOutput": 10
+      "llm": "GPT-4o",
+      "contextLength": "128000",
+      "pricePerInput": 2.5,
+      "pricePerOutput": 10
     },
     {
-        "llm": "GPT-4o mini",
-        "contextLength": "128K",
-        "pricePerInput": 0.15,
-        "pricePerOutput": 0.60
+      "llm": "GPT-4o mini",
+      "contextLength": "128000",
+      "pricePerInput": 0.15,
+      "pricePerOutput": 0.6
     },
     {
-        "llm": "GPT-4-Turbo",
-        "contextLength": "128K",
-        "pricePerInput": 10,
-        "pricePerOutput": 30
+      "llm": "GPT-4-Turbo",
+      "contextLength": "128000",
+      "pricePerInput": 10,
+      "pricePerOutput": 30
     },
     {
-        "llm": "GPT-4 (8k)",
-        "contextLength": "8K",
-        "pricePerInput": 30,
-        "pricePerOutput": 60
+      "llm": "GPT-4 (8K)",
+      "contextLength": "8000",
+      "pricePerInput": 30,
+      "pricePerOutput": 60
     },
     {
-        "llm": "GPT-4 (32k)",
-        "contextLength": "32K",
-        "pricePerInput": 60,
-        "pricePerOutput": 120
+      "llm": "GPT-4 (32K)",
+      "contextLength": "32000",
+      "pricePerInput": 60,
+      "pricePerOutput": 120
     },
     {
-        "llm": "GPT-3.5-Turbo",
-        "contextLength": "16K",
-        "pricePerInput": 0.5,
-        "pricePerOutput": 1.5
+      "llm": "GPT-3.5-Turbo",
+      "contextLength": "16000",
+      "pricePerInput": 0.5,
+      "pricePerOutput": 1.5
     },
     {
-        "llm": "Claude 3 Haiku",
-        "contextLength": "200K",
-        "pricePerInput": 0.25,
-        "pricePerOutput": 1.25
+      "llm": "Claude 3 Haiku",
+      "contextLength": "200000",
+      "pricePerInput": 0.25,
+      "pricePerOutput": 1.25
     },
     {
-        "llm": "Claude 3.5 Haiku",
-        "contextLength": "200K",
-        "pricePerInput": 1,
-        "pricePerOutput": 5
+      "llm": "Claude 3.5 Haiku",
+      "contextLength": "200000",
+      "pricePerInput": 1,
+      "pricePerOutput": 5
     },
     {
-        "llm": "Claude 3.5 Sonnet",
-        "contextLength": "200K",
-        "pricePerInput": 3,
-        "pricePerOutput": 15
+      "llm": "Claude 3.5 Sonnet",
+      "contextLength": "200000",
+      "pricePerInput": 3,
+      "pricePerOutput": 15
     },
     {
-        "llm": "Claude 3 Opus",
-        "contextLength": "200K",
-        "pricePerInput": 15,
-        "pricePerOutput": 75
+      "llm": "Claude 3 Opus",
+      "contextLength": "200000",
+      "pricePerInput": 15,
+      "pricePerOutput": 75
     },
     {
-        "llm": "Gemini 1.5 Pro (128K/1M)",
-        "contextLength": "1M",
-        "pricePerInput": "3.50/7",
-        "pricePerOutput": "10.50/21"
+      "llm": "Gemini 1.5 Pro (1M)",
+      "contextLength": "1000000",
+      "pricePerInput": "7",
+      "pricePerOutput": "21"
     },
     {
-        "llm": "Gemini 1.5 Flash (128K/1M)",
-        "contextLength": "1M",
-        "pricePerInput": "0.075/0.15",
-        "pricePerOutput": "0.3/0.6"
+      "llm": "Gemini 1.5 Flash (1M)",
+      "contextLength": "1000000",
+      "pricePerInput": "0.15",
+      "pricePerOutput": "0.6"
     },
     {
-        "llm": "Mistral Small",
-        "contextLength": "8K",
-        "pricePerInput": 2,
-        "pricePerOutput": 6
+      "llm": "Gemini 1.5 Pro (128K)",
+      "contextLength": "128000",
+      "pricePerInput": "3.5",
+      "pricePerOutput": "10.5"
     },
     {
-        "llm": "Mistral Medium",
-        "contextLength": "8K",
-        "pricePerInput": 2.7,
-        "pricePerOutput": 8.1
+      "llm": "Gemini 1.5 Flash (128K)",
+      "contextLength": "128000",
+      "pricePerInput": "0.075",
+      "pricePerOutput": "0.3"
     },
     {
-        "llm": "Mistral Large",
-        "contextLength": "8K",
-        "pricePerInput": 8,
-        "pricePerOutput": 24
+      "llm": "Mistral Small",
+      "contextLength": "8000",
+      "pricePerInput": 2,
+      "pricePerOutput": 6
     },
     {
-        "llm": "Reka Core",
-        "contextLength": "128K",
-        "pricePerInput": 10,
-        "pricePerOutput": 25
+      "llm": "Mistral Medium",
+      "contextLength": "8000",
+      "pricePerInput": 2.7,
+      "pricePerOutput": 8.1
     },
     {
-        "llm": "Reka Flash",
-        "contextLength": "128K",
-        "pricePerInput": 0.8,
-        "pricePerOutput": 2
+      "llm": "Mistral Large",
+      "contextLength": "8000",
+      "pricePerInput": 8,
+      "pricePerOutput": 24
     },
     {
-        "llm": "Reka Edge",
-        "contextLength": "128K",
-        "pricePerInput": 0.4,
-        "pricePerOutput": 1
+      "llm": "Reka Core",
+      "contextLength": "128000",
+      "pricePerInput": 10,
+      "pricePerOutput": 25
     },
     {
-        "llm": "Cohere Command R+",
-        "contextLength": "128K",
-        "pricePerInput": 3,
-        "pricePerOutput": 15
+      "llm": "Reka Flash",
+      "contextLength": "128000",
+      "pricePerInput": 0.8,
+      "pricePerOutput": 2
     },
     {
-        "llm": "Cohere Command R",
-        "contextLength": "128K",
-        "pricePerInput": 0.50,
-        "pricePerOutput": 1.50
+      "llm": "Reka Edge",
+      "contextLength": "128000",
+      "pricePerInput": 0.4,
+      "pricePerOutput": 1
     },
     {
-        "llm": "Groq Llama 3 70B",
-        "contextLength": "8K",
-        "pricePerInput": 0.59,
-        "pricePerOutput": 0.79
+      "llm": "Cohere Command R+",
+      "contextLength": "128000",
+      "pricePerInput": 3,
+      "pricePerOutput": 15
     },
     {
-        "llm": "Groq Llama 3 8B",
-        "contextLength": "8K",
-        "pricePerInput": 0.05,
-        "pricePerOutput": 0.10
+      "llm": "Cohere Command R",
+      "contextLength": "128000",
+      "pricePerInput": 0.5,
+      "pricePerOutput": 1.5
     },
     {
-        "llm": "Groq Mixtral 8x7B",
-        "contextLength": "32K",
-        "pricePerInput": 0.27,
-        "pricePerOutput": 0.27
+      "llm": "Groq Llama 3 70B",
+      "contextLength": "8000",
+      "pricePerInput": 0.59,
+      "pricePerOutput": 0.79
     },
     {
-        "llm": "Groq Gemma 7B",
-        "contextLength": "8K",
-        "pricePerInput": 0.10,
-        "pricePerOutput": 0.10
+      "llm": "Groq Llama 3 8B",
+      "contextLength": "8000",
+      "pricePerInput": 0.05,
+      "pricePerOutput": 0.1
     },
     {
-        "llm": "nvidia/llama-3.1-nemotron-70b-instruct",
-        "contextLength": "131K",
-        "pricePerInput": 0.35,
-        "pricePerOutput": 0.40
+      "llm": "Groq Mixtral 8x7B",
+      "contextLength": "32000",
+      "pricePerInput": 0.27,
+      "pricePerOutput": 0.27
     },
     {
-        "llm": "x-ai/grok-2",
-        "contextLength": "32K",
-        "pricePerInput": 5.0,
-        "pricePerOutput": 10.0
+      "llm": "Groq Gemma 7B",
+      "contextLength": "8000",
+      "pricePerInput": 0.1,
+      "pricePerOutput": 0.1
     },
     {
-        "llm": "nousresearch/hermes-3-llama-3.1-405b:free",
-        "contextLength": "8K",
-        "pricePerInput": 0.0,
-        "pricePerOutput": 0.0
+      "llm": "nvidia/llama-3.1-nemotron-70b-instruct",
+      "contextLength": "131000",
+      "pricePerInput": 0.35,
+      "pricePerOutput": 0.4
     },
     {
-        "llm": "liquid/lfm-40b",
-        "contextLength": "32K",
-        "pricePerInput": 0.0,
-        "pricePerOutput": 0.0
+      "llm": "x-ai/grok-2",
+      "contextLength": "32000",
+      "pricePerInput": 5,
+      "pricePerOutput": 10
+    },
+    {
+      "llm": "nousresearch/hermes-3-llama-3.1-405b:free",
+      "contextLength": "8000",
+      "pricePerInput": 0,
+      "pricePerOutput": 0
+    },
+    {
+      "llm": "liquid/lfm-40b",
+      "contextLength": "32000",
+      "pricePerInput": 0,
+      "pricePerOutput": 0
     }
   ]
 }
+
 ```
 
 [Kagi Assistant](./assistant.md) provides access to all the models in bold. Usage is included in your Kagi subscription.
