@@ -42,33 +42,34 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, watchEffect } from "vue";
+import { ref, computed, PropType, h } from "vue";
 import {
   FlexRender,
-  createTable,
   useVueTable,
   getSortedRowModel,
   getCoreRowModel,
   SortingState,
 } from "@tanstack/vue-table";
 
-/**
- * Props:
- * - tableData: {
- *   "fields": [
- *     { "key": "a", "label": "AA", "sortable": true, "format": { notation: "compact", compactDisplay: "short" } },
- *     { "key": "b", "label": "BB" },
- *     { "key": "c", "label": "CC" }
- *   ],
- *   "items": [
- *     { "a": "11", "b": "22", "c": "33" },
- *     { "a": "211", "b": "222", "c": "233" }
- *   ]
- * }
- **/
+type FormatConfig =
+  | {
+      type: "highlight";
+      tokens: string[];
+    }
+  | ({
+      type: "numeric";
+    } & Intl.NumberFormatOptions);
 const props = defineProps({
   tableData: {
-    type: Object,
+    type: Object as PropType<{
+      fields: Array<{
+        key: string;
+        label: string;
+        sortable?: boolean;
+        format?: FormatConfig;
+      }>;
+      items: Array<Record<string, unknown>>;
+    }>,
     required: true,
   },
 });
@@ -80,11 +81,35 @@ const columns = computed(() => {
     header: field.label,
     // Enable sorting only if the field has 'sortable: true'
     enableSorting: field.sortable === true,
-    cell: (info) => {
-      const value = info.getValue();
-      if (field.format && !isNaN(value)) {
+    cell: (c) => {
+      const value = c.getValue();
+
+      // Handle numeric formatting
+      if (field.format?.type === "numeric" && !isNaN(value)) {
         return new Intl.NumberFormat("en-US", field.format).format(value);
       }
+
+      // Handle highlight formatting
+      if (field.format?.type === "highlight" && field.format.tokens) {
+        // Split the text by tokens and create spans for highlighted parts
+        const text = String(value);
+        const tokens = field.format.tokens;
+
+        // Create array of text parts and highlighted tokens
+        const parts = text.split(new RegExp(`(${tokens.join("|")})\\s`));
+
+        return h(
+          "span",
+          {},
+          parts.map((part) => {
+            if (tokens.includes(part)) {
+              return h("span", { class: "highlight" }, `${part} `);
+            }
+            return part;
+          }),
+        );
+      }
+
       return value;
     },
   }));

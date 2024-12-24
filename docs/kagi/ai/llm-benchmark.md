@@ -12,8 +12,26 @@ Last updated **Dec 21, 2024**
 
 ```json:table
 {
-  "fields": [
-    { "key": "model", "label": "Model", "sortable": true },
+"fields": [
+    {
+      "key": "model",
+      "label": "Model",
+      "sortable": true,
+      "format": {
+        "type": "highlight",
+        "tokens": [
+          "OpenAI",
+          "Google",
+          "Anthropic",
+          "Meta",
+          "Mistral",
+          "Microsoft",
+          "Amazon",
+          "TII",
+          "Qwen"
+        ]
+      }
+    },
     { "key": "accuracy", "label": "Accuracy (%)", "sortable": true },
     { "key": "tokens", "label": "Tokens", "sortable": true },
     { "key": "totalCost", "label": "Total Cost ($)", "sortable": true },
@@ -169,7 +187,15 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 ```json:table
 {
   "fields": [
-    { "key": "model", "label": "Model", "sortable": true },
+    {
+      "key": "model",
+      "label": "Model",
+      "sortable": true,
+      "format": {
+        "type": "highlight",
+        "tokens": ["OpenAI", "Google", "Qwen"]
+      }
+    },
     { "key": "accuracy", "label": "Accuracy (%)", "sortable": true },
     { "key": "tokens", "label": "Tokens", "sortable": true },
     { "key": "totalCost", "label": "Total Cost ($)", "sortable": true },
@@ -203,7 +229,6 @@ Reasoning models are optimized for multi-step reasoning and often produce better
     }
   ]
 }
-
 ```
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
@@ -244,7 +269,7 @@ The table below is updated to the best of our abilities, feel free to submit cha
       "key": "contextLength",
       "label": "Context Length",
       "sortable": true,
-      "format": { "notation": "compact", "compactDisplay": "short" }
+      "format": { "type": "numeric", "notation": "compact", "compactDisplay": "short" }
     },
     {
       "key": "pricePerInput",
