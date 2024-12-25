@@ -2,8 +2,7 @@
 
 The Search API gives programmable access to Kagi's premium search results.
 
-> **NOTE:** The Search API is in closed beta and is currently available to Kagi Business (Team) plan.
-> This is currently $19/mo plus search API cost (2.5c per search). Please reach out to support@kagi.com for invite.
+> **NOTE:** The Search API is in closed beta and available upon request. Please reach out to support@kagi.com for invite.
 >
 > We plan to release this API to all Kagi members after the beta period.
 
