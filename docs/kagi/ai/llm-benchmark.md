@@ -4,47 +4,232 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 ## LLM Benchmarks
 
-The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
+The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting.
 
 Last updated **Dec 21, 2024**
 
-
 ### General purpose models
 
-| Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
-|-----------------------------|---------------|--------|----------------|------------------|-------------------|
-| **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
-| **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
-| **Google** gemini-exp-1206 | 43.55 | 8350 | 0.41909 | 3.73 | 23.25 |
-| **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
-| **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
-| **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
-| **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 35.48 | 12315 | 0.09648 | 2.33 | 33.77 |
-| **Meta** llama-3.3-70b-versatile (Groq) | 33.87 | 15008 | 0.01680 | 0.63 | 220.90|
-| **Microsoft** phi-4 14B (local) | 32.26 | 17724 | n/a | n/a | n/a |
-| **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
-| **Amazon** Nova-Lite | 24.19 | 16325 | 0.00431 | 2.29 | 87.93 |
-| **Google** gemini-1.5-flash | 22.58 | 6806 | 0.00962 | 0.66 | 77.93 |
-| **Amazon** Nova-Micro | 22.58 | 16445 | 0.00253 | 1.97 | 106.47 |
-| **Qwen** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
-| **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
-| **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
-| **TII** Falcon3 7B (local) | 9.68 | 18574 | n/a | n/a | n/a |
+```json:table
+{
+"fields": [
+    {
+      "key": "model",
+      "label": "Model",
+      "sortable": true,
+      "format": {
+        "type": "highlight",
+        "tokens": [
+          "OpenAI",
+          "Google",
+          "Anthropic",
+          "Meta",
+          "Mistral",
+          "Microsoft",
+          "Amazon",
+          "TII",
+          "Qwen"
+        ]
+      }
+    },
+    { "key": "accuracy", "label": "Accuracy (%)", "sortable": true },
+    { "key": "tokens", "label": "Tokens", "sortable": true },
+    { "key": "totalCost", "label": "Total Cost ($)", "sortable": true },
+    { "key": "medianLatency", "label": "Median Latency (s)", "sortable": true },
+    { "key": "speed", "label": "Speed (tokens/sec)", "sortable": true }
+  ],
+  "items": [
+    {
+      "model": "OpenAI gpt-4o",
+      "accuracy": "48.39",
+      "tokens": "10371",
+      "totalCost": "0.12033",
+      "medianLatency": "2.07",
+      "speed": "48.31"
+    },
+    {
+      "model": "Anthropic Claude-3.5-sonnet-20241022",
+      "accuracy": "43.55",
+      "tokens": "9869",
+      "totalCost": "0.17042",
+      "medianLatency": "2.69",
+      "speed": "50.13"
+    },
+    {
+      "model": "Google gemini-exp-1206",
+      "accuracy": "43.55",
+      "tokens": "8350",
+      "totalCost": "0.41909",
+      "medianLatency": "3.73",
+      "speed": "23.25"
+    },
+    {
+      "model": "Mistral Large-2411",
+      "accuracy": "41.94",
+      "tokens": "12500",
+      "totalCost": "0.09042",
+      "medianLatency": "3.07",
+      "speed": "38.02"
+    },
+    {
+      "model": "Amazon Nova-Pro",
+      "accuracy": "40.32",
+      "tokens": "15160",
+      "totalCost": "0.05426",
+      "medianLatency": "3.08",
+      "speed": "60.42"
+    },
+    {
+      "model": "Anthropic Claude-3.5-haiku-20241022",
+      "accuracy": "37.10",
+      "tokens": "9695",
+      "totalCost": "0.05593",
+      "medianLatency": "2.08",
+      "speed": "56.60"
+    },
+    {
+      "model": "Meta llama-3.1-405B-Instruct-Turbo  (Together.ai)",
+      "accuracy": "35.48",
+      "tokens": "12315",
+      "totalCost": "0.09648",
+      "medianLatency": "2.33",
+      "speed": "33.77"
+    },
+    {
+      "model": "Meta llama-3.3-70b-versatile (Groq)",
+      "accuracy": "33.87",
+      "tokens": "15008",
+      "totalCost": "0.01680",
+      "medianLatency": "0.63",
+      "speed": "220.90"
+    },
+    {
+      "model": "Microsoft phi-4 14B (local)",
+      "accuracy": "32.26",
+      "tokens": "17724",
+      "totalCost": "n/a",
+      "medianLatency": "n/a",
+      "speed": "n/a"
+    },
+    {
+      "model": "Meta llama-3.1-70b-versatile",
+      "accuracy": "30.65",
+      "tokens": "12622",
+      "totalCost": "0.01495",
+      "medianLatency": "1.42",
+      "speed": "82.35"
+    },
+    {
+      "model": "Amazon Nova-Lite",
+      "accuracy": "24.19",
+      "tokens": "16325",
+      "totalCost": "0.00431",
+      "medianLatency": "2.29",
+      "speed": "87.93"
+    },
+    {
+      "model": "Google gemini-1.5-flash",
+      "accuracy": "22.58",
+      "tokens": "6806",
+      "totalCost": "0.00962",
+      "medianLatency": "0.66",
+      "speed": "77.93"
+    },
+    {
+      "model": "Amazon Nova-Micro",
+      "accuracy": "22.58",
+      "tokens": "16445",
+      "totalCost": "0.00253",
+      "medianLatency": "1.97",
+      "speed": "106.47"
+    },
+    {
+      "model": "Qwen Qwen-2.5-72B",
+      "accuracy": "20.97",
+      "tokens": "8616",
+      "totalCost": "0.07606",
+      "medianLatency": "9.08",
+      "speed": "10.08"
+    },
+    {
+      "model": "OpenAI gpt-4o-mini",
+      "accuracy": "19.35",
+      "tokens": "13363",
+      "totalCost": "0.00901",
+      "medianLatency": "1.53",
+      "speed": "66.41"
+    },
+    {
+      "model": "Anthropic Claude-3-haiku-20240307",
+      "accuracy": "9.68",
+      "tokens": "10296",
+      "totalCost": "0.01470",
+      "medianLatency": "1.44",
+      "speed": "108.38"
+    },
+    {
+      "model": "TII Falcon3 7B (local)",
+      "accuracy": "9.68",
+      "tokens": "18574",
+      "totalCost": "n/a",
+      "medianLatency": "n/a",
+      "speed": "n/a"
+    }
+  ]
+}
+
+```
 
 ### Reasoning models
 
 Reasoning models are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
 
-| Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
-|-----------------------------|---------------|--------|----------------|------------------|-------------------|
-| **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61  | 52323 | 2.26607 | 4.67 | n/a |
-| **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 | n/a |
-| **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | n/a |
-
-
-
-
-
+```json:table
+{
+  "fields": [
+    {
+      "key": "model",
+      "label": "Model",
+      "sortable": true,
+      "format": {
+        "type": "highlight",
+        "tokens": ["OpenAI", "Google", "Qwen"]
+      }
+    },
+    { "key": "accuracy", "label": "Accuracy (%)", "sortable": true },
+    { "key": "tokens", "label": "Tokens", "sortable": true },
+    { "key": "totalCost", "label": "Total Cost ($)", "sortable": true },
+    { "key": "medianLatency", "label": "Median Latency (s)", "sortable": true },
+    { "key": "speed", "label": "Speed (tokens/sec)", "sortable": true }
+  ],
+  "items": [
+    {
+      "model": "Google gemini-2.0-flash-thinking-exp-1219",
+      "accuracy": "51.61",
+      "tokens": "52323",
+      "totalCost": "2.26607",
+      "medianLatency": "4.67",
+      "speed": "n/a"
+    },
+    {
+      "model": "Qwen QWQ-32B",
+      "accuracy": "50.00",
+      "tokens": "45293",
+      "totalCost": "0.02835",
+      "medianLatency": "15.46",
+      "speed": "n/a"
+    },
+    {
+      "model": "OpenAI o1-mini",
+      "accuracy": "37.10",
+      "tokens": "42965",
+      "totalCost": "0.53978",
+      "medianLatency": "5.24",
+      "speed": "n/a"
+    }
+  ]
+}
+```
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
 
@@ -70,50 +255,232 @@ What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R
 Given a QWERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 ```
 
-
-
 ## LLM Pricing comparison
 
-In addition to quality and speed, we are also interested in the cost of using contemporary LLMs. 
+In addition to quality and speed, we are also interested in the cost of using contemporary LLMs.
 
 The table below is updated to the best of our abilities, feel free to submit changes by editing this page.
 
+```json:table
+{
+  "fields": [
+    { "key": "llm", "label": "LLM", "sortable": true },
+    {
+      "key": "contextLength",
+      "label": "Context Length",
+      "sortable": true,
+      "format": { "type": "numeric", "notation": "compact", "compactDisplay": "short" }
+    },
+    {
+      "key": "pricePerInput",
+      "label": "Price per input ($/M)",
+      "sortable": true
+    },
+    {
+      "key": "pricePerOutput",
+      "label": "Price per output ($/M)",
+      "sortable": true
+    }
+  ],
+  "items": [
+    {
+      "llm": "o1-preview",
+      "contextLength": "-",
+      "pricePerInput": 15,
+      "pricePerOutput": 60
+    },
+    {
+      "llm": "o1-mini",
+      "contextLength": "-",
+      "pricePerInput": 3,
+      "pricePerOutput": 12
+    },
+    {
+      "llm": "GPT-4o",
+      "contextLength": "128000",
+      "pricePerInput": 2.5,
+      "pricePerOutput": 10
+    },
+    {
+      "llm": "GPT-4o mini",
+      "contextLength": "128000",
+      "pricePerInput": 0.15,
+      "pricePerOutput": 0.6
+    },
+    {
+      "llm": "GPT-4-Turbo",
+      "contextLength": "128000",
+      "pricePerInput": 10,
+      "pricePerOutput": 30
+    },
+    {
+      "llm": "GPT-4 (8K)",
+      "contextLength": "8000",
+      "pricePerInput": 30,
+      "pricePerOutput": 60
+    },
+    {
+      "llm": "GPT-4 (32K)",
+      "contextLength": "32000",
+      "pricePerInput": 60,
+      "pricePerOutput": 120
+    },
+    {
+      "llm": "GPT-3.5-Turbo",
+      "contextLength": "16000",
+      "pricePerInput": 0.5,
+      "pricePerOutput": 1.5
+    },
+    {
+      "llm": "Claude 3 Haiku",
+      "contextLength": "200000",
+      "pricePerInput": 0.25,
+      "pricePerOutput": 1.25
+    },
+    {
+      "llm": "Claude 3.5 Haiku",
+      "contextLength": "200000",
+      "pricePerInput": 1,
+      "pricePerOutput": 5
+    },
+    {
+      "llm": "Claude 3.5 Sonnet",
+      "contextLength": "200000",
+      "pricePerInput": 3,
+      "pricePerOutput": 15
+    },
+    {
+      "llm": "Claude 3 Opus",
+      "contextLength": "200000",
+      "pricePerInput": 15,
+      "pricePerOutput": 75
+    },
+    {
+      "llm": "Gemini 1.5 Pro (1M)",
+      "contextLength": "1000000",
+      "pricePerInput": "7",
+      "pricePerOutput": "21"
+    },
+    {
+      "llm": "Gemini 1.5 Flash (1M)",
+      "contextLength": "1000000",
+      "pricePerInput": "0.15",
+      "pricePerOutput": "0.6"
+    },
+    {
+      "llm": "Gemini 1.5 Pro (128K)",
+      "contextLength": "128000",
+      "pricePerInput": "3.5",
+      "pricePerOutput": "10.5"
+    },
+    {
+      "llm": "Gemini 1.5 Flash (128K)",
+      "contextLength": "128000",
+      "pricePerInput": "0.075",
+      "pricePerOutput": "0.3"
+    },
+    {
+      "llm": "Mistral Small",
+      "contextLength": "8000",
+      "pricePerInput": 2,
+      "pricePerOutput": 6
+    },
+    {
+      "llm": "Mistral Medium",
+      "contextLength": "8000",
+      "pricePerInput": 2.7,
+      "pricePerOutput": 8.1
+    },
+    {
+      "llm": "Mistral Large",
+      "contextLength": "8000",
+      "pricePerInput": 8,
+      "pricePerOutput": 24
+    },
+    {
+      "llm": "Reka Core",
+      "contextLength": "128000",
+      "pricePerInput": 10,
+      "pricePerOutput": 25
+    },
+    {
+      "llm": "Reka Flash",
+      "contextLength": "128000",
+      "pricePerInput": 0.8,
+      "pricePerOutput": 2
+    },
+    {
+      "llm": "Reka Edge",
+      "contextLength": "128000",
+      "pricePerInput": 0.4,
+      "pricePerOutput": 1
+    },
+    {
+      "llm": "Cohere Command R+",
+      "contextLength": "128000",
+      "pricePerInput": 3,
+      "pricePerOutput": 15
+    },
+    {
+      "llm": "Cohere Command R",
+      "contextLength": "128000",
+      "pricePerInput": 0.5,
+      "pricePerOutput": 1.5
+    },
+    {
+      "llm": "Groq Llama 3 70B",
+      "contextLength": "8000",
+      "pricePerInput": 0.59,
+      "pricePerOutput": 0.79
+    },
+    {
+      "llm": "Groq Llama 3 8B",
+      "contextLength": "8000",
+      "pricePerInput": 0.05,
+      "pricePerOutput": 0.1
+    },
+    {
+      "llm": "Groq Mixtral 8x7B",
+      "contextLength": "32000",
+      "pricePerInput": 0.27,
+      "pricePerOutput": 0.27
+    },
+    {
+      "llm": "Groq Gemma 7B",
+      "contextLength": "8000",
+      "pricePerInput": 0.1,
+      "pricePerOutput": 0.1
+    },
+    {
+      "llm": "nvidia/llama-3.1-nemotron-70b-instruct",
+      "contextLength": "131000",
+      "pricePerInput": 0.35,
+      "pricePerOutput": 0.4
+    },
+    {
+      "llm": "x-ai/grok-2",
+      "contextLength": "32000",
+      "pricePerInput": 5,
+      "pricePerOutput": 10
+    },
+    {
+      "llm": "nousresearch/hermes-3-llama-3.1-405b:free",
+      "contextLength": "8000",
+      "pricePerInput": 0,
+      "pricePerOutput": 0
+    },
+    {
+      "llm": "liquid/lfm-40b",
+      "contextLength": "32000",
+      "pricePerInput": 0,
+      "pricePerOutput": 0
+    }
+  ]
+}
 
-| LLM                                | Context Length | Price per input ($/M) | Price per output ($/M) |
-|------------------------------------|----------------|-----------------------|------------------------|
-| o1-preview                         | -              | 15                    | 60                     |
-| o1-mini                            | -              | 3                     | 12                     |
-| **GPT-4o**                         | 128K           | 2.5                   | 10                     |
-| **GPT-4o mini**                    | 128K           | 0.15                  | 0.60                   |
-| **GPT-4-Turbo**                    | 128K           | 10                    | 30                     |
-| GPT-4 (8k)                         | 8K             | 30                    | 60                     |
-| **GPT-4 (32k)**                    | 32K            | 60                    | 120                    |
-| **GPT-3.5-Turbo**                  | 16K            | 0.5                   | 1.5                    |
-| **Claude 3 Haiku**                 | 200K           | 0.25                  | 1.25                   |
-| Claude 3.5 Haiku                   | 200K           | 1                     | 5                      |
-| **Claude 3.5 Sonnet**              | 200K           | 3                     | 15                     |
-| **Claude 3 Opus**                  | 200K           | 15                    | 75                     |
-| **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                | 10.50/21               |
-| Gemini 1.5 Flash (128K/1M)         | 1M             | 0.075/0.15            | 0.3/0.6                |
-| **Mistral Small**                  | 8K             | 2                     | 6                      |
-| **Mistral Medium**                 | 8K             | 2.7                   | 8.1                    |
-| **Mistral Large**                  | 8K             | 8                     | 24                     |
-| Reka Core                          | 128K           | 10                    | 25                     |
-| Reka Flash                         | 128K           | 0.8                   | 2                      |
-| Reka Edge                          | 128K           | 0.4                   | 1                      |
-| Cohere Command R+                  | 128K           | 3                     | 15                     |
-| Cohere Command R                   | 128K           | 0.50                  | 1.50                   |
-| Groq Llama 3 70B                   | 8K             | 0.59                  | 0.79                   |
-| Groq Llama 3 8B                    | 8K             | 0.05                  | 0.10                   |
-| Groq Mixtral 8x7B                  | 32K            | 0.27                  | 0.27                   |
-| Groq Gemma 7B                      | 8K             | 0.10                  | 0.10                   |
-| nvidia/llama-3.1-nemotron-70b-instruct | 131K           | 0.35                  | 0.40                   |
-| x-ai/grok-2                    | 32K            | 5.0                   | 10.0                   |
-| nousresearch/hermes-3-llama-3.1-405b:free | 8K             | 0.0                   | 0.0                    |
-| liquid/lfm-40b                 | 32K            | 0.0                   | 0.0                    |
+```
 
 [Kagi Assistant](./assistant.md) provides access to all the models in bold. Usage is included in your Kagi subscription.
-
 
 ## Credits
 

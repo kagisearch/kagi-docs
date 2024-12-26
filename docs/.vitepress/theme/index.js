@@ -1,5 +1,6 @@
 import DefaultTheme from "vitepress/theme";
 import queryHack from "../custom_scripts/search_query_hack";
+import GenericTable from '../components/GenericTable.vue'
 import { onMounted, watch, nextTick } from 'vue';
 import { useRoute } from 'vitepress';
 import mediumZoom from 'medium-zoom';
@@ -9,6 +10,7 @@ export default {
   ...DefaultTheme,
   enhanceApp({ app }) {
     queryHack();
+    app.component("GenericTable", GenericTable)
   },
   setup() {
     const route = useRoute();
