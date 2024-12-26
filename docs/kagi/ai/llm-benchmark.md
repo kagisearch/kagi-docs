@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Dec 21, 2024**
+Last updated **Dec 26, 2024**
 
 
 ### General purpose models
@@ -16,6 +16,7 @@ Last updated **Dec 21, 2024**
 | **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
 | **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
 | **Google** gemini-exp-1206 | 43.55 | 8350 | 0.41909 | 3.73 | 23.25 |
+| **DeepSeek** chat V3 | 41.94 | 22381 | 0.00719 | 4.04  | 63.82 |
 | **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
 | **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
@@ -30,6 +31,8 @@ Last updated **Dec 21, 2024**
 | **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
 | **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
 | **TII** Falcon3 7B (local) | 9.68 | 18574 | n/a | n/a | n/a |
+
+
 
 ### Reasoning models
 
