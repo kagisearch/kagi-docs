@@ -186,6 +186,9 @@ The `internet` parameter can be used to turn on and off internet access, set to 
 
 The `lens` parameter can be used to set the lens if internet access is enabled. The value of this is the lowercase format of the lens name, for example, `https://kagi.com/assistant?lens=programming&q=%s` will use the Programming lens.
 
+Here is an example of a URL that disables internet access, uses the **Claude 3 Haiku** model, and applies the **Programming lens**:  
+```https://kagi.com/assistant?profile=claude-3-haiku&internet=false&lens=programming&q=%s```
+
 ## Availability
 
 The Assistant is available to all Kagi Ultimate members.
