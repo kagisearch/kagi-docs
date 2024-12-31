@@ -8,7 +8,7 @@ Kagi is proud to make our services available through the Tor Network, adding an 
 You can access Kagi via the following Onion link:
 
 ```
-http://kagistgoiznc622f3pxhm73qyyhn2mmp4pivbvdezhpdb3ocsnv7w5ad.onion/ 
+http://kagi2pv5bdcxxqla5itjzje2cgdccuwept5ub6patvmvn3qgmgjd6vid.onion/ 
 ```
 
 If you are just getting started with Tor, you can read our setup guide below to learn more.
@@ -35,5 +35,5 @@ For detailed setup instructions, refer to the Tor Project's [User Manual](https:
 Once you have the Tor Browser set up, follow these steps to access our search capabilities:
 
 1. Open the Tor Browser.
-2. Enter our onion link in the address bar: `http://kagistgoiznc622f3pxhm73qyyhn2mmp4pivbvdezhpdb3ocsnv7w5ad.onion/` 
+2. Enter our onion link in the address bar: `http://kagi2pv5bdcxxqla5itjzje2cgdccuwept5ub6patvmvn3qgmgjd6vid.onion/` 
 3. Use our search functionality as you would on the regular web.
