@@ -37,3 +37,6 @@ Once you have the Tor Browser set up, follow these steps to access our search ca
 1. Open the Tor Browser.
 2. Enter our onion link in the address bar: `http://kagi2pv5bdcxxqla5itjzje2cgdccuwept5ub6patvmvn3qgmgjd6vid.onion/` 
 3. Use our search functionality as you would on the regular web.
+
+## Limitations
+1. Login with AppGooMicroHub not working
