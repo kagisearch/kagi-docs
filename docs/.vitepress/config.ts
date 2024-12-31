@@ -193,6 +193,7 @@ function sidebarKagi() {
                         { text: 'Quick Start', link: '/kagi/getting-started/' },
                         { text: 'Set Kagi as Your Default Search Engine', link: '/kagi/getting-started/setting-default' },
                         { text: 'Application Integrations', link: '/kagi/getting-started/application-integrations' },
+                        { text: 'Accessing via Tor', link: '/kagi/getting-started/accessing-via-tor' },
                     ]
                 },
                 {
@@ -365,6 +366,7 @@ function sidebarOrion() {
                         { text: 'Importing Data From Other Browsers', link: '/orion/getting-started/importing' },
                         { text: 'Default Search Engine', link: '/orion/getting-started/search-engine' },
                         { text: 'Application Integrations', link: '/orion/getting-started/application-integrations' },
+                        { text: 'Accessing via Tor', link: '/kagi/getting-started/accessing-via-tor' },
                     ]
                 },
                 {
