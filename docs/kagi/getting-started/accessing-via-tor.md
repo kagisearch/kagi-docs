@@ -1,14 +1,24 @@
 # Accessing via Tor
 
-We are excited to announce that our search capabilities are now accessible through the Tor network! This guide provides a brief introduction to Tor, instructions on how to set it up, and details on accessing our service.
+> Tor support has just been launched!
+> [We welcome your early feedback.](https://help.kagi.com/kagi/support-and-community/)
 
+Kagi is proud to make our services available through the Tor Network, adding an extra layer of privacy for our users.
+
+You can access Kagi via the following Onion link:
+
+```
+http://kagistgoiznc622f3pxhm73qyyhn2mmp4pivbvdezhpdb3ocsnv7w5ad.onion/ 
+```
+
+If you are just getting started with Tor, you can read our setup guide below to learn more.
 
 ## What is Tor?
 
-Tor (The Onion Router) is a privacy-focused network that enables anonymous communication by routing your internet traffic through a series of servers (nodes). It is widely used to enhance privacy and bypass censorship.
+Tor (The Onion Router) is a privacy-focused network that enables anonymous communication by routing your internet traffic through a series of servers (nodes).
+It is widely used to enhance privacy and bypass censorship.
 
 For more information, visit the official Tor Project website: [What is Tor?](https://www.torproject.org/about/overview).
-
 
 ## Setting Up Tor
 
@@ -20,22 +30,10 @@ To access our service via Tor, you need to install the Tor Browser. Follow these
 
 For detailed setup instructions, refer to the Tor Project's [User Manual](https://tb-manual.torproject.org/).
 
-
 ## Accessing Kagi
 
 Once you have the Tor Browser set up, follow these steps to access our search capabilities:
 
-| Step | Action                                                                 |
-|------|------------------------------------------------------------------------|
-| 1    | Open the Tor Browser.                                                  |
-| 2    | Enter our onion link in the address bar: `http://kagistgoiznc622f3pxhm73qyyhn2mmp4pivbvdezhpdb3ocsnv7w5ad.onion/ ` |
-| 3    | Use our search functionality as you would on the regular web.          |
-
-
-
-## Reporting Issues
-
-This is a new feature, and we value your feedback! If you encounter any issues or have suggestions, please reach out through support@kagi.com, our [Discord server](https://kagi.com/discord) or [KagiFeedback.org](https://kagifeedback.org).
-
-Thank you for helping us improve!
-
+1. Open the Tor Browser.
+2. Enter our onion link in the address bar: `http://kagistgoiznc622f3pxhm73qyyhn2mmp4pivbvdezhpdb3ocsnv7w5ad.onion/` 
+3. Use our search functionality as you would on the regular web.
