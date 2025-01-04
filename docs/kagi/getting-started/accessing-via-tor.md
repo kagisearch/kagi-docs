@@ -39,4 +39,4 @@ Once you have the Tor Browser set up, follow these steps to access our search ca
 3. Use our search functionality as you would on the regular web.
 
 ## Limitations
-1. Third-party sign in not working (redirecting to kagi.com instead of the .onion link)
+1. Apple sign in does not work due to Apple not supporting onion links for redirects.
