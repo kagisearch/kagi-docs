@@ -127,7 +127,7 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 | &#8984; + Shift + E | Edit Last Message |
 | &#8984; + Shift + Backspace | Delete Current Thread |
 | &#8984; + / | Focus Prompt Box |
-| &#8963; + ? | Show Keyboard Shortcuts |
+| &#8984; + . | Show Keyboard Shortcuts |
 
 | PC Shortcut | Action |
 |:--|:--|
@@ -137,7 +137,7 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 | Ctrl + Shift + E | Edit Last Message |
 | Ctrl + Shift + Backspace | Delete Current Thread |
 | Ctrl + / | Focus Prompt Box |
-| Ctrl + ? | Show Keyboard Shortcuts |
+| Ctrl + . | Show Keyboard Shortcuts |
 
 ## LLMs Available in The Assistant
 
