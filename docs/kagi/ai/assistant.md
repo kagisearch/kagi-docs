@@ -159,6 +159,7 @@ The Assistant provides access to the following LLMs:
 | Amazon  | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)        |
 | Amazon  | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)         |
 
+<!-- NOTE: The LLM's listed here should match the bolded LLM's in the table at [LLM Pricing comparison](./llm-benchmark.md#llm-pricing-comparison) -->
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
 

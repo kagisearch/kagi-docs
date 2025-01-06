@@ -93,7 +93,7 @@ The table below is updated to the best of our abilities, feel free to submit cha
 | **GPT-4 (32k)**                    | 32K            | 60                    | 120                    |
 | **GPT-3.5-Turbo**                  | 16K            | 0.5                   | 1.5                    |
 | **Claude 3 Haiku**                 | 200K           | 0.25                  | 1.25                   |
-| Claude 3.5 Haiku                   | 200K           | 1                     | 5                      |
+| Claude 3.5 Haiku      | 200K           | 1                     | 5                      |
 | **Claude 3.5 Sonnet**              | 200K           | 3                     | 15                     |
 | **Claude 3 Opus**                  | 200K           | 15                    | 75                     |
 | **Gemini 1.5 Pro** (128K/1M)       | 1M             | 3.50/7                | 10.50/21               |
@@ -114,6 +114,8 @@ The table below is updated to the best of our abilities, feel free to submit cha
 | x-ai/grok-2                    | 32K            | 5.0                   | 10.0                   |
 | nousresearch/hermes-3-llama-3.1-405b:free | 8K             | 0.0                   | 0.0                    |
 | liquid/lfm-40b                 | 32K            | 0.0                   | 0.0                    |
+
+<!-- NOTE: the bolded LLM's in this table should match [LLMs Available in The Assistant](./assistant.md#llms-available-in-the-assistant) -->
 
 [Kagi Assistant](./assistant.md) provides access to all the models in bold. Usage is included in your Kagi subscription.
 
