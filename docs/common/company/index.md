@@ -39,9 +39,10 @@ We hope that our work impacts people's lives in some small way for the better. T
 ## Contact
 
 Kagi Inc.\
-Palo Alto, CA, USA\
-Email: vlad@kagi.com\
-Phone: 650 535-2700
+548 Market St\
+San Francisco, CA 94104-5401\
+Email: vlad@kagi.com (CEO)\
+Email: support@kagi.com (Support)
 
 ## What Does "Kagi" Mean?
 
