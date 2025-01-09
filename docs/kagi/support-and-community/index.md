@@ -23,7 +23,7 @@ We are always eager to hear what new users think of Kagi.
 To make specific feature requests or bug reports, please use our [Kagi Search feedback forum](https://kagifeedback.org) rather than Discord.
 
 ## Social Media
-- [KagiHQ on Twitter](https://twitter.com/KagiHQ)
+- [KagiHQ on X](https://twitter.com/KagiHQ)
 
 - [KagiHQ on Mastodon](https://mastodon.social/@KagiHQ)
 
