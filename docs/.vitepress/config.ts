@@ -230,6 +230,7 @@ function sidebarKagi() {
                         { text: 'Kagi Translate', link: '/kagi/ai/translate' },
                         { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
                         { text: 'Kagi LLM Benchmarking Project', link: '/kagi/ai/llm-benchmark' },
+                        { text: 'LLMs & Privacy', link: '/kagi/ai/llms-privacy' },
                     ]
                 },
                 {
