@@ -44,16 +44,7 @@ The Assistant's web access can be toggled via the button below the prompt field.
 
 We maintain the [Kagi LLM Benchmarking Project](./llm-benchmark.md) to measure model quality in various scenarios.
 
-Another important aspect is the privacy policy of the model provider. We put together the following table for easy comparison:
-
-| Model                                                            | Model Provider             | Trains on User Data via API | Data Retention for API             | Privacy Policy / FAQ |
-|:--|:--|:--|:--|:--|
-| Claude 3 Haiku / Claude 3.5 Sonnet / Claude 3 Opus               | Anthropic                  | No                          | 30 days (flagged prompts: 2 years) | [Privacy Policy](https://www.anthropic.com/legal/privacy) [FAQ](https://privacy.anthropic.com/en/articles/7996866-how-long-do-you-store-personal-data)       |
-| GPT 4o / GPT 4o mini                                             | OpenAI                     | No                          | 30 days                            | [Privacy Policy](https://openai.com/enterprise-privacy/)       |
-| Mistral Pixtral / Mistral Large                                  | Mistral AI                 | No                          | 30 days                            | [Privacy Policy](https://mistral.ai/terms/)       |
-| Gemini Pro                                                       | Google                     | No                          | 24 hours                           | [Privacy Policy](https://cloud.google.com/vertex-ai/generative-ai/docs/data-governance#prediction)       |
-| Nova Lite / Nova Pro                                             | Amazon                     | No                          | Not stored                         | [Privacy Policy](https://docs.aws.amazon.com/bedrock/latest/userguide/) [FAQ](https://docs.aws.amazon.com/nova/latest/userguide/responsible-use.html)       |
-| Llama 3.3 70B / Llama 3.1 405B / Qwen QwQ 32b / DeepSeek Chat V3 | Fireworks.ai / Together.ai | No                          | Not stored                         | [Fireworks.ai Privacy Policy](https://fireworks.ai/privacy-policy) [Fireworks.ai FAQ](https://docs.fireworks.ai/guides/security_compliance/data_handling) [Together.ai Privacy Policy](https://www.together.ai/privacy)       |
+Another important aspect is the privacy policy of the model provider. See our [LLM Privacy Comparison](./llms-privacy.md) for a detailed overview of how each provider handles your data.
 
 ## Threads
 
