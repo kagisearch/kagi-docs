@@ -316,6 +316,27 @@ by rasti
 
 <br>
 
+
+
+### Kagi Catppuccin Mocha
+
+by [jcrabapple](https://github.com/jcrabapple/)  
+
+[**Get it**](https://repo.jcrabapple.com/jcrabapple/82208449e52b434a8e695c8124fa3f79)
+
+| ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+
+
+<br>
+
+---
+
+<br>
+
+
+
 You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
