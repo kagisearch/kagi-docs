@@ -3,6 +3,9 @@
 You're already paying for search.
 Just not with money.
 
+![Kagi_Comic_5](https://github.com/user-attachments/assets/fd9c57f0-b971-4a71-b2a8-b920ddfb72b6)
+
+
 ## The hidden price tag
 
 In 2022, advertisers spent **$185.35 billion** to influence your search results. By 2028, they'll spend **$261 billion**. This isn't just numbers - it's an arms race for your attention.
@@ -21,6 +24,7 @@ Every dollar spent makes your search results:
 > — [The Anatomy of a Large-Scale Hypertextual Web Search Engine](http://infolab.stanford.edu/pub/papers/google.pdf), Sergey Brin and Lawrence Page, 1998
 
 They predicted this crisis. Then Google transformed from organizing the world's information to organizing the world's ads. The result? A [great deterioration of web and search](https://dkb.io/post/DEPR_google-search-is-dying) that affects us all.
+
 
 ## The true cost in numbers
 
