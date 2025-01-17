@@ -439,6 +439,7 @@ function sidebarOrion() {
                     link: '/orion/privacy-and-security/ad-tracking-blocking',
                     items: [
                         { text: 'Configure Ad & Tracking Blocking', link: '/orion/privacy-and-security/ad-tracking-blocking' },
+			{ text: 'Orion and Ad-blocking Tests', link: '/orion/privacy-and-security/adblock-tests' },
                         { text: 'Respecting Privacy', link: '/orion/privacy-and-security/respecting-privacy' },
                         { text: 'Protecting Privacy', link: '/orion/privacy-and-security/protecting-privacy' },
                         { text: 'Preventing Fingerprinting', link: '/orion/privacy-and-security/preventing-fingerprinting' },

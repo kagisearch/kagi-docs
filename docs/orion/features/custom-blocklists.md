@@ -18,13 +18,12 @@
 
 Orion includes the following blocklists by default. 
 The blocklists in **bold** are enabled by default and provide sufficient protection against most ads and trackers.
-- **EasyList**
-- **EasyPrivacy**
-- **d3Host List by d3ward**
+- **AdGuard Base filter (Optimized)**
+- **AdGuard Tracking Protection filter (Optimized)**
+- AdGuard Annoyances Filter (Optimized)
+- AdGuard Social Media filter (Optimized)
 - Hagezi Light DNS Blocklist
-- Fanboy's Annoyance
 - Hagezi Pro Plus Mini
-- Privacy Essentials
 - Block third-party fonts
 
 On macOS, you can enable or disable these blocklists in **Orion** > **Settings** > **Privacy**, then click the **Manage Filter Lists...** button.
