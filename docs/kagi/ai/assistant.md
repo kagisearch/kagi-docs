@@ -44,6 +44,8 @@ The Assistant's web access can be toggled via the button below the prompt field.
 
 We maintain the [Kagi LLM Benchmarking Project](./llm-benchmark.md) to measure model quality in various scenarios.
 
+Another important aspect is the privacy policy of the model provider. See our [LLM Privacy Comparison](./llms-privacy.md) for a detailed overview of how each provider handles your data.
+
 ## Threads
 
 The Assistant supports threads, allowing you to keep your bagel topping ideas separate from your weekend projects.
@@ -127,7 +129,7 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 | &#8984; + Shift + E | Edit Last Message |
 | &#8984; + Shift + Backspace | Delete Current Thread |
 | &#8984; + / | Focus Prompt Box |
-| &#8963; + ? | Show Keyboard Shortcuts |
+| &#8984; + . | Show Keyboard Shortcuts |
 
 | PC Shortcut | Action |
 |:--|:--|
@@ -137,7 +139,7 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 | Ctrl + Shift + E | Edit Last Message |
 | Ctrl + Shift + Backspace | Delete Current Thread |
 | Ctrl + / | Focus Prompt Box |
-| Ctrl + ? | Show Keyboard Shortcuts |
+| Ctrl + . | Show Keyboard Shortcuts |
 
 ## LLMs Available in The Assistant
 
