@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Jan 10, 2025**
+Last updated **Jan 20, 2025**
 
 
 ### General purpose models
@@ -16,7 +16,7 @@ Last updated **Jan 10, 2025**
 | **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
 | **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
 | **Google** gemini-exp-1206 | 43.55 | 8350 | 0.41909 | 3.73 | 23.25 |
-| **DeepSeek** chat V3 | 41.94 | 22381 | 0.00719 | 4.04  | 63.82 |
+| **DeepSeek** Chat V3 | 41.94 | 22381 | 0.00719 | 4.04  | 63.82 |
 | **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
 | **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
@@ -40,8 +40,9 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) |
 |-----------------------------|---------------|--------|----------------|------------------|
+| **Deepseek** R1 | 70.97% | 152944 | 0.33854 | 17.02|
 | **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61  | 52323 | 2.26607 | 4.67 |
-| **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
+| **Deepseek** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 | **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | 
 | **OpenAI** o1 | 35.48 | 48319 | 2.99770 | 14.64 |
 
