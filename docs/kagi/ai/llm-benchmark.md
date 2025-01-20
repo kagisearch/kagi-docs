@@ -40,7 +40,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) |
 |-----------------------------|---------------|--------|----------------|------------------|
-| **Deepseek** R1 | 70.97% | 152944 | 0.33854 | 17.02|
+| **Deepseek** R1 | 70.97 | 152944 | 0.33854 | 17.02|
 | **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61  | 52323 | 2.26607 | 4.67 |
 | **Deepseek** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 | **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | 
