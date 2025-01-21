@@ -1,5 +1,4 @@
 # Bug Bounty Program
-------------------------------------
 
 ## Program Guidelines
 
