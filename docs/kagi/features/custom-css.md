@@ -168,6 +168,24 @@ by [auphone](https://auphone.net/)
 <br>
 
 
+### Kagi Darker
+
+by [realrogue](https://github.com/realrogue/kagi-darker/)  
+
+[**Get it**](https://github.com/realrogue/kagi-darker/releases/)
+
+| ![Kagi Darker Theme](./themes/media/roguedarker_dimages.jpg){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Darker Theme](./themes/media/roguedarker_dsearch.jpg){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Kagi Darker Theme](./themes/media/roguedarker_dsearchcomplete.jpg){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Darker Theme](./themes/media/roguedarker_iphone.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+
+
+<br>
+
+---
+
+<br>
+
+
 ### Slimmed Down Theme
 
 by rasti  
