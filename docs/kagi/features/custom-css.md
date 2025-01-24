@@ -24,9 +24,20 @@ Once applied, the theme will instantly update Kagi's appearance. You can switch 
 
 **Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings?p=appearance) page.
 
+### Kagi Courvix Dark
+by [Jeyso215](https://github.com/jeyso215)
+
+[**Get it**](https://gist.github.com/Jeyso215/76fd67b17d2407aa91a619fabc665887)
+
+| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Courvix Dark Theme](./themes/media/search-home.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Dark Mustard Theme](./themes/media/search-home.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+
+<br>
+
 ### Dark Mustard
 
-by [Josh Ellington](https://github.com/joshellington/)  
+by [Josh Ellington](https://github.com/joshellington/)
 
 [**Get it**](https://gist.github.com/joshellington/51765a15d8f780089619b638fc6aea6b)
 
