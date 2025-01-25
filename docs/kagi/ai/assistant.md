@@ -163,6 +163,7 @@ The Assistant provides access to the following LLMs:
 | DeepSeek | [Chat V3](https://kagi.com/assistant?profile=deepseek)                       |
 | DeepSeek | [R1](https://kagi.com/assistant?profile=deepseek-r1)                         | 
 
+<!-- NOTE: The LLM's listed here should match the bolded LLM's in the table at [LLM Pricing comparison](./llm-benchmark.md#llm-pricing-comparison) -->
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
 
