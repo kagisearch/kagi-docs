@@ -32,6 +32,8 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 <a href="javascript:(function(){window.open('https://kagi.com/discussdoc?url='+encodeURIComponent(location))})()">Discuss Document (new window/tab)</a><br>
 <a href="javascript:location='https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location)">Summarize (same window)</a><br>
 <a href="javascript:(function(){window.open('https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location))})()">Summarize (new window/tab)</a><br>
+<a href="javascript:location='https://translate.kagi.com/'+encodeURIComponent(location)">Translate (same window)</a><br>
+<a href="javascript:(function(){window.open('https://translate.kagi.com/'+encodeURIComponent(location))})()">Translate (new window/tab)</a><br>
 
 ## Firefox Context Menu Add-on
 
