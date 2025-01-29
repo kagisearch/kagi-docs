@@ -16,6 +16,7 @@ Select your browser for set up instructions:
 
 <details>
 <summary>Google Chrome / Microsoft Edge / Brave / Vivaldi / Opera</summary>
+
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. Install the [Kagi Privacy Pass extension](https://chromewebstore.google.com/detail/kagi-privacy-pass/mendokngpagmkejfpmeellpppjgbpdaj?hl=en-US)
 3. For easy access, pin the extension to your browser’s toolbar.
@@ -26,6 +27,7 @@ Select your browser for set up instructions:
 
 <details>
 <summary>Firefox / Tor Browser</summary>
+
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. Install the [Privacy Pass extension](https://addons.mozilla.org/en-US/firefox/addon/kagi-privacy-pass/)
 3. For easy access, pin the extension to your browser’s toolbar.
@@ -37,6 +39,7 @@ Select your browser for set up instructions:
 
 <details>
 <summary>Orion for Mac</summary>
+
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. From your menu bar, go to Orion > Settings > Search.
 3. Make sure Kagi is selected as your search engine.
@@ -48,6 +51,7 @@ Select your browser for set up instructions:
 
 <details>
 <summary>Orion for iOS</summary>
+
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. Tap the three dots at the bottom right corner and select **Settings**.
 3. Tap on **Search**.
@@ -62,6 +66,7 @@ Select your browser for set up instructions:
 
 <details>
 <summary>Safari</summary>
+
 Due to restrictions imposed by Apple, Privacy Pass is not supported in Safari at this time.
 
 If you're looking for a native WebKit-based browsing experience with Privacy Pass support, try [Orion](https://kagi.com/orion/) - it includes Privacy Pass integration out of the box along with zero telemetry, ad-blocking, and many other privacy-focused features.
