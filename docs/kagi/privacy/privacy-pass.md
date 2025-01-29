@@ -74,7 +74,7 @@ If you're looking for a native WebKit-based browsing experience with Privacy Pas
 
 Once installed, the extension will automatically generate tokens in the background. You'll see the Privacy Pass icon in your browser's toolbar, indicating it's ready to use.
 
-## Using Privacy Pass (Chrome)
+## Using Privacy Pass
 
 After installation, Privacy Pass is automatically enabled. You can easily turn it on or off by clicking the extension icon in your browser's toolbar and toggling the **Authenticate via Privacy Pass** option.
 
