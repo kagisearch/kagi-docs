@@ -41,9 +41,11 @@ Select your browser for set up instructions:
 <summary>Orion for Mac</summary>
 
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
-2. From your menu bar, go to Orion > Settings > Search.
+2. From your menu bar, go to **Orion** > **Settings** > **Search**.
 3. Make sure Kagi is selected as your search engine.
 4. Enable the **Show Kagi Privacy Pass on Toolbar** checkbox.
+5. Click the Kagi Privacy Pass extension icon in the toolbar.
+6. Make sure the **Authenticate via Privacy Pass** toggle is enabled.
 
 <video src="./media/kagi_privacy_pass_orion_mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
