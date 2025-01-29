@@ -74,8 +74,6 @@ Due to restrictions imposed by Apple, Privacy Pass is not supported in Safari at
 If you're looking for a native WebKit-based browsing experience with Privacy Pass support, try [Orion](https://kagi.com/orion/) - it includes Privacy Pass integration out of the box along with zero telemetry, ad-blocking, and many other privacy-focused features.
 </details>
 
-Once installed, the extension will automatically generate tokens in the background. You'll see the Privacy Pass icon in your browser's toolbar, indicating it's ready to use.
-
 ## Using Privacy Pass
 
 After installation, Privacy Pass is automatically enabled. You can easily turn it on or off by clicking the extension icon in your browser's toolbar and toggling the **Authenticate via Privacy Pass** option.
