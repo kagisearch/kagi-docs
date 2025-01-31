@@ -46,6 +46,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 | **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 | **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | 
 | **OpenAI** o1 | 35.48 | 48319 | 2.99770 | 14.64 |
+| **OpenAI** o3-mini | 33.33 | 0.22946 | 2.99770 |  6.50  |
 
 
 
