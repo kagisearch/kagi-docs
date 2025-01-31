@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Jan 20, 2025**
+Last updated **Jan 31, 2025**
 
 
 ### General purpose models
@@ -46,7 +46,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 | **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 | **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | 
 | **OpenAI** o1 | 35.48 | 48319 | 2.99770 | 14.64 |
-| **OpenAI** o3-mini | 33.33 | 0.22946 | 2.99770 |  6.50  |
+| **OpenAI** o3-mini | 33.33 | 50866 | 0.22946 |  6.50  |
 
 
 
