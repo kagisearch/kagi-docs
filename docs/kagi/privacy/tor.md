@@ -1,6 +1,6 @@
 # Using Kagi with Tor
 
-The [Tor Project](https://www.torproject.org/) is a set of tools for preserving your privacy online, by routing your internet traffic through multiple volunteer-run relays. The main way to use Tor is through [the Tor Browser](https://www.torproject.org/download/).
+The [Tor Project](https://www.torproject.org/) is a set of tools for preserving your privacy and anonymity online, by routing your internet traffic through multiple volunteer-run relays. The main way to use Tor is through [the Tor Browser](https://www.torproject.org/download/).
 
 Kagi provides an official Tor onion service, which allows access to Kagi directly from the Tor network. Kagi's onion address is:
 
