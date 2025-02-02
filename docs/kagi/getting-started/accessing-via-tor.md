@@ -3,7 +3,7 @@
 > Tor support has just been launched!
 > [We welcome your early feedback.](https://help.kagi.com/kagi/support-and-community/)
 
-Kagi is proud to make our services available through the Tor Network, adding an extra layer of privacy for our users.
+Kagi is proud to make our services available through the Tor Network, adding an extra layer of privacy and anonymity for our users.
 
 You can access Kagi via the following Onion link:
 
@@ -16,7 +16,7 @@ If you are just getting started with Tor, you can read our setup guide below to 
 Tor (The Onion Router) is a privacy-focused network that enables anonymous communication by routing your internet traffic through a series of servers (nodes).
 It is widely used to enhance privacy and bypass censorship.
 
-For more information, visit the official Tor Project website: [What is Tor?](https://www.torproject.org/about/overview).
+For more information, visit the official Tor Project website: [What is Tor?](https://www.torproject.org/about/overview)
 
 ## Setting Up Tor
 
