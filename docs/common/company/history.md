@@ -52,3 +52,5 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 - Kagi becomes a [Public Benefit Corporation (PBC)](https://blog.kagi.com/what-is-next-for-kagi#4)
 - The Assistant by Kagi exits beta and becomes generally available
 - The team is now ~35
+- Kagi launches Kagi Translate
+- Kagi for Teams becomes available
