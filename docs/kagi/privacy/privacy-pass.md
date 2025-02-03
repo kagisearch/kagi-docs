@@ -34,7 +34,9 @@ Select your browser for set up instructions:
 
 <video src="./media/kagi_privacy_pass_firefox.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-**Note for Tor users:** Currently Privacy Pass is only supported via the kagi.com domain name, support for our Onion address will be added in a future update.
+::: warning Note for Tor users
+Currently Privacy Pass is only supported via the kagi.com domain name, support for our Onion address will be added in a future update.
+:::
 </details>
 
 <details>
