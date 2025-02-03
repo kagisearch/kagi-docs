@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **Jan 31, 2025**
+Last updated **February 3, 2025**
 
 
 ### General purpose models
@@ -41,12 +41,14 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) |
 |-----------------------------|---------------|--------|----------------|------------------|
+| **OpenAI** o1 | 74.19 | 85120 | 5.20579 | 13.26 |
 | **Deepseek** R1 | 70.97 | 152944 | 0.33854 | 17.02|
-| **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61  | 52323 | 2.26607 | 4.67 |
+| **OpenAI** o3-mini (high) | 64.52 | 243143 | 1.07707 |  15.99  |
+| **OpenAI** o1-mini | 62.90 | 56219 | 0.69509 |6.30 | 
+| **OpenAI** o3-mini | 62.90 | 102059 | 0.45630 |  17.39  |
+| **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61  | 15626 |  0.72477 | 5.98 |
 | **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
-| **OpenAI** o1-mini | 37.10 | 42965 | 0.53978 | 5.24 | 
-| **OpenAI** o1 | 35.48 | 48319 | 2.99770 | 14.64 |
-| **OpenAI** o3-mini | 33.33 | 50866 | 0.22946 |  6.50  |
+
 
 
 
