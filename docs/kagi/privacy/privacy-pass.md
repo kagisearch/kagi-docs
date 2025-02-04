@@ -6,17 +6,21 @@
 
 ## How does it work?
 
-When you enable Privacy Pass, instead of logging in with your Kagi account for each search, you use special cryptographic tokens. These tokens prove you have the right to use Kagi's services without revealing who you are. This means your searches can't be linked back to your account, providing an additional layer of privacy. Learn more about the technical details in the [blog post](https://blog.kagi.com/kagi-privacy-pass).
+When you enable Privacy Pass, instead of logging in with your Kagi account for each search, you use special cryptographic tokens. These tokens prove you have the right to use Kagi's services without revealing who you are. This means your searches can't be linked back to your account or to each other, providing an additional layer of privacy. Learn more about the technical details in the [blog post](https://blog.kagi.com/kagi-privacy-pass).
 
 ## Getting started
 
 To start using Privacy Pass, you'll need an active Kagi membership (Professional, Ultimate, Family, or Team plan). This feature is currently not available for Starter plan subscribers.
 
+To generate Privacy Pass tokens, you will need to follow the instructions below in a non-private/non-incognito window, or refer to the instructions for the Tor Browser.
+
 Select your browser for set up instructions:
+
 <details>
 <summary>Orion browser</summary>
 
 **macOS**
+
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. From your menu bar, go to **Orion** > **Settings** > **Search**.
 3. Make sure Kagi is selected as your search engine.
@@ -25,7 +29,6 @@ Select your browser for set up instructions:
 6. Make sure the **Authenticate via Privacy Pass** toggle is enabled.
 
 <video src="./media/kagi_privacy_pass_orion_mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
-
 
 **iOS/iPadOS**
 
@@ -53,7 +56,7 @@ Select your browser for set up instructions:
 </details>
 
 <details>
-<summary>Firefox / Tor Browser</summary>
+<summary>Firefox</summary>
 
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. Install the [Privacy Pass extension](https://addons.mozilla.org/en-US/firefox/addon/kagi-privacy-pass/)
@@ -61,12 +64,21 @@ Select your browser for set up instructions:
 
 <video src="./media/kagi_privacy_pass_firefox.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-::: warning Note for Tor users
-Currently Privacy Pass is only supported via the kagi.com domain name, support for our Onion address will be added in a future update.
-:::
 </details>
 
+<details>
+<summary>Tor Browser and "incognito-mode-only" users</summary>
 
+1. First, obtain a Kagi Session Link following these [instructions](https://help.kagi.com/kagi/privacy/private-browser-sessions.html).
+2. Install the [Privacy Pass extension](https://addons.mozilla.org/en-US/firefox/addon/kagi-privacy-pass/), making sure to allow the extension to run in private windows/incognito mode.
+3. For easy access, pin the extension to your browser’s toolbar.
+4. Open the extension popup, and click the settings icon.
+5. Paste your Session Link into the "Session cookie" field, then click on "Save cookie".
+6. Back to the extension popup, click "Generate tokens".
+
+![Kagi Privacy Pass - Tor Browser](./media/kagi_privacy_pass_tor_browser.png){width=700px data-zoomable}
+
+</details>
 
 <details>
 <summary>Safari</summary>
@@ -94,12 +106,14 @@ The extension will automatically manage your tokens, generating new ones when ne
 
 - There's a monthly limit of 2,000 tokens per account to prevent abuse. If you need more tokens in exceptional cases, please contact us at support@kagi.com.
 
-- While using Privacy Pass, your customized settings won't be available since this would make your searches potentially identifiable. However, basic features like theme preferences will still work as they're stored locally in your browser.
+- While using Privacy Pass, your customized settings won't be available since this would make your searches potentially identifiable.
+
+- Similarly, some Kagi services such as Assistant do not support Privacy Pass as of now. To access them, the "Authenticate via Privacy Pass" toggle must be set to off.
 
 ## Troubleshooting
 
 If you see a "Generate more tokens" button, it usually means the extension couldn't generate tokens automatically. This can happen if you were:
-- Not logged into your Kagi account (you have to be in normal browser window, not private window, to generate tokens initially)
+- Not logged into your Kagi account
 - Offline when the extension tried to generate tokens
 - Have reached your monthly token limit
 
