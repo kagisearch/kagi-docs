@@ -13,6 +13,33 @@ When you enable Privacy Pass, instead of logging in with your Kagi account for e
 To start using Privacy Pass, you'll need an active Kagi membership (Professional, Ultimate, Family, or Team plan). This feature is currently not available for Starter plan subscribers.
 
 Select your browser for set up instructions:
+<details>
+<summary>Orion browser</summary>
+
+**macOS**
+1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
+2. From your menu bar, go to **Orion** > **Settings** > **Search**.
+3. Make sure Kagi is selected as your search engine.
+4. Enable the **Show Kagi Privacy Pass on Toolbar** checkbox.
+5. Click the Kagi Privacy Pass extension icon in the toolbar.
+6. Make sure the **Authenticate via Privacy Pass** toggle is enabled.
+
+<video src="./media/kagi_privacy_pass_orion_mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+
+**iOS/iPadOS**
+
+1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
+2. Tap the three dots at the bottom right corner and select **Settings**.
+3. Tap on **Search**.
+4. Enable the **Show Kagi Privacy Pass in Main Menu** toggle.
+5. Tap **Done**.
+2. Tap the three dots at the bottom right corner and select **Kagi Privacy Pass**.
+3. Make sure **Authenticate via Privacy Pass** is enabled.
+
+![Kagi Privacy Pass - Orion for iPhone](./media/kagi_privacy_pass_orion_ios.png){width=700px data-zoomable}
+
+</details>
 
 <details>
 <summary>Google Chrome / Microsoft Edge / Brave / Vivaldi / Opera</summary>
@@ -39,34 +66,7 @@ Currently Privacy Pass is only supported via the kagi.com domain name, support f
 :::
 </details>
 
-<details>
-<summary>Orion for Mac</summary>
 
-1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
-2. From your menu bar, go to **Orion** > **Settings** > **Search**.
-3. Make sure Kagi is selected as your search engine.
-4. Enable the **Show Kagi Privacy Pass on Toolbar** checkbox.
-5. Click the Kagi Privacy Pass extension icon in the toolbar.
-6. Make sure the **Authenticate via Privacy Pass** toggle is enabled.
-
-<video src="./media/kagi_privacy_pass_orion_mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
-
-</details>
-
-<details>
-<summary>Orion for iOS</summary>
-
-1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
-2. Tap the three dots at the bottom right corner and select **Settings**.
-3. Tap on **Search**.
-4. Enable the **Show Kagi Privacy Pass in Main Menu** toggle.
-5. Tap **Done**.
-2. Tap the three dots at the bottom right corner and select **Kagi Privacy Pass**.
-3. Make sure **Authenticate via Privacy Pass** is enabled.
-
-![Kagi Privacy Pass - Orion for iPhone](./media/kagi_privacy_pass_orion_ios.png){width=700px data-zoomable}
-
-</details>
 
 <details>
 <summary>Safari</summary>
@@ -99,8 +99,10 @@ The extension will automatically manage your tokens, generating new ones when ne
 ## Troubleshooting
 
 If you see a "Generate more tokens" button, it usually means the extension couldn't generate tokens automatically. This can happen if you were:
-- Not logged into your Kagi account
+- Not logged into your Kagi account (you have to be in normal browser window, not private window, to generate tokens initially)
 - Offline when the extension tried to generate tokens
 - Have reached your monthly token limit
+
+Also check the [Kagi privacy pass FAQ](https://blog.kagi.com/kagi-privacy-pass#faq).
 
 Simply ensure you're logged in and online, then click the "Generate more tokens" button to try again. If you continue experiencing issues, please reach out to our support team at support@kagi.com.
