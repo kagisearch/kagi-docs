@@ -1,2 +1,10 @@
 @import "theme";
 @import "custom_code";
+
+.medium-zoom-overlay {
+  z-index: 998;
+}
+
+.medium-zoom-image--opened {
+  z-index: 999;
+}
