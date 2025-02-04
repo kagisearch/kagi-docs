@@ -3,8 +3,7 @@
 You're already paying for search.
 Just not with money.
 
-![Kagi_Comic_5](https://github.com/user-attachments/assets/fd9c57f0-b971-4a71-b2a8-b920ddfb72b6)
-
+![Kagi Comic 11](https://github.com/user-attachments/assets/16fd01f2-389d-4193-a0b3-cfe233c56824)
 
 ## The hidden price tag
 
