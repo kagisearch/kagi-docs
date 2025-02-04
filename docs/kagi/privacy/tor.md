@@ -8,10 +8,6 @@ Kagi provides an official Tor onion service, which allows access to Kagi directl
 
 # Using Tor with Privacy Pass
 
-::: warning Note for Tor users
-Currently Privacy Pass is only supported via the kagi.com domain name, support for our Onion address will be added in a future update.
-:::
-
 On its own, Tor will obscure your location by hiding your IP address, which can be useful for preventing your ISP or site providers from tracking you. This isn't particularly useful when using Kagi, since you'd still normally have to be logged into your account, making all your searches theoretically linkable back to a single account.
 
 This is where [Privacy Pass](./privacy-pass.md) comes in: with Tor and Privacy Pass together, Kagi only knows that the search is being issued by a user who previously verified that they have an account authorized to receive tokens, but nothing about the user's account, or where they're located. Follow [the Firefox / Tor Browser instructions](./privacy-pass.html#getting-started) in our Getting Started guide to set up Privacy Pass with the Tor Browser.
