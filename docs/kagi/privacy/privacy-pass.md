@@ -110,6 +110,9 @@ The extension will automatically manage your tokens, generating new ones when ne
 
 - Similarly, some Kagi services such as Assistant do not support Privacy Pass as of now. To access them, the "Authenticate via Privacy Pass" toggle must be set to off.
 
+- When manually setting Kagi as your default search engine, replace the default autosuggest URL with this privacy-enhanced alternative: `https://kagisuggest.com/api/autosuggest?q=%s`
+  - Using this domain prevents browsers from automatically sending your Kagi login cookies with autosuggest requests, which the Privacy Pass extension cannot intercept.
+
 ## Troubleshooting
 
 If you see a "Generate more tokens" button, it usually means the extension couldn't generate tokens automatically. This can happen if you were:
