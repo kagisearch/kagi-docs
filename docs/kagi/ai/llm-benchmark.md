@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **February 3, 2025**
+Last updated **February 5, 2025**
 
 
 ### General purpose models
@@ -22,6 +22,8 @@ Last updated **February 3, 2025**
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
 | **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
 | **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 35.48 | 12315 | 0.09648 | 2.33 | 33.77 |
+| **Google** gemini-2.0-flash |  33.87 | 9932 | 0.02969 | 1.04| 85.80 |
+| **Google**'gemini-2.0-flash-lite-preview-02-05 |  37.10 | 9834 | 0.01325 | 0.70| 126.73 |
 | **Meta** llama-3.3-70b-versatile (Groq) | 33.87 | 15008 | 0.01680 | 0.63 | 220.90|
 | **Microsoft** phi-4 14B (local) | 32.26 | 17724 | n/a | n/a | n/a |
 | **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
@@ -46,7 +48,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 | **OpenAI** o3-mini (high) | 64.52 | 243143 | 1.07707 |  15.99  |
 | **OpenAI** o1-mini | 62.90 | 56219 | 0.69509 |6.30 | 
 | **OpenAI** o3-mini | 62.90 | 102059 | 0.45630 |  17.39  |
-| **Google** gemini-2.0-flash-thinking-exp-1219 | 51.61  | 15626 |  0.72477 | 5.98 |
+| **Google** gemini-2.0-flash-thinking-exp-01-21 | 58.33  | 14433 |  0.67431 | 5.91 |
 | **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 
 
