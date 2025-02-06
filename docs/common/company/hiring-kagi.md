@@ -55,6 +55,13 @@ As a member of the Search Index Team at Kagi, you will play a crucial role in bu
 **macOS/iOS developer**
 - Development of macOS/iOS native apps
 - See also [Orion browser jobs](./hiring-orion.md)
+
+**Core Front-end Team** (we are currently full, check back later)
+- Passion for creating delightful and swift user interfaces. 
+- Proficiency in HTML, CSS, and an understanding that JavaScript can be used sparingly to enhance, not create, product experiences.
+- You are comfortable not using any FE frameworks, and rather like to be in full control of the DOM and as close to browser as possible.
+
+Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-details/search-speed.html), to the point where all functionalities of Kagi Search (except Stripe checkout and Maps) work perfectly without JavaScript. We see JavaScript as a tool to enhance the UX, not create it. 
   
 **Core ML Team**
 - Deep understanding of machine learning tools and technologies, whether in the build/deploy or apply/customize layers.
@@ -78,3 +85,72 @@ To get a sense of some aspects of the position, including the team you would be 
 <a href=
 "https://www.youtube.com/watch?v=DRVY-74lkBA"><img width="400" alt="Kagi community event" src="https://github.com/kagisearch/kagi-docs/assets/4319401/d5aa73a0-871b-40a0-b92d-e135f5cc552a"></a>
 
+
+
+---
+# Filled Positions (we are currently full, check back later)
+
+**Core Back-end Team** (we are currently full, check back later)
+- Advanced knowledge of the Crystal language. 
+- Exceptional problem-solving and coding abilities.
+- Crafting products with care
+
+Our tech lead Zac Nowicki recently gave a talk at Crystal Conf. Zac shares a summary of lessons, technology, ideas, and challenges after building a search engine product from the ground up in Crystal for the past three years. Watch the presentation [here](https://www.youtube.com/watch?v=r7t9xPajjTM&list=PLt-CsM4G1WoadONHl3zPN_Ts5PqH8TgMZ&index=8).
+
+
+**Core Design Team** (we are currently full, check back later)
+- Enthusiasm for diving deep into user feedback and discussions to improve UX.
+- Meticulous attention to detail in UX design.
+- A critical perspective on current search/assistant user interfaces, paired with a desire to revolutionize them.
+
+**Site Reliability Engineer (SRE)** (we are currently full, check back later)
+
+Key Responsibilities:
+- Ensure the reliability, performance, and scalability of Kagi's search engine and related services
+- Define and implement SLOs and SLIs (Service Level Indicators) to measure and maintain system health
+- Collaborate with development teams to design and implement fault-tolerant, resilient, and scalable architectures
+- Conduct thorough postmortems and root cause analyses to identify and prevent recurring issues
+- Automate incident response and remediation processes using tools like Runbooks or Playbooks
+- Implement and maintain comprehensive monitoring, alerting, and logging systems to proactively identify and resolve issues
+- Optimize system performance through capacity planning, load testing, and resource allocation
+- Continuously improve infrastructure and processes through automation, configuration management, and infrastructure as code
+- Participate in on-call rotations to provide rapid incident response and resolution
+- Foster a culture of knowledge sharing, documentation, and collaboration within the organization
+
+Required Skills and Experience:
+- Strong experience with distributed systems, databases, and performance analysis.
+- Proficiency in one or more programming languages such as Go, Python, or Java
+- Solid understanding of containerization technologies like Docker and orchestration platforms like Kubernetes
+- Experience with infrastructure as code tools such as Terraform
+- Knowledge of observability practices and tools like Prometheus, Grafana, ELK stack, or Jaeger
+- Familiarity with chaos engineering principles and tools like Chaos Monkey or Gremlin
+- Understanding of networking concepts, including TCP/IP, DNS, and load balancing
+- Ability to design and implement resilient and scalable systems that can handle high traffic and data volumes
+- Excellent problem-solving and analytical skills to diagnose and resolve complex system issues
+- Strong communication and collaboration abilities to work effectively with cross-functional teams
+
+Preferred Qualifications:
+- Experience with search engine architecture and related technologies
+- Knowledge of database performance tuning and optimization techniques
+- Familiarity with serverless computing platforms like AWS Lambda or Google Cloud Functions
+- Contributions to open-source projects or community involvement in the SRE or DevOps space
+
+As an SRE at Kagi, you will play a critical role in ensuring the reliability, performance, and scalability of our search engine and related services. You will work closely with development teams to design and implement resilient architectures, automate operations, and proactively identify and resolve issues. Your focus will be on maintaining system health, optimizing performance, and continuously improving our infrastructure to support Kagi's growth and innovation in the search industry. You will be part of a collaborative and dynamic team that values knowledge sharing, automation, and data-driven decision-making.
+
+## Part-time opportunities  (we are currently full, check back later)
+
+**Kagi R&D Team** (aka Kagi Labs)
+
+We are deeply committed to fostering a culture of research and development (R&D) at Kagi. Many of our groundbreaking technologies such as the [Universal Summarizer](https://kagi.com/summarizer), [FastGPT](https://kagi.com/fastgpt) or [Small Web](https://kagi.com/smallweb) have their origins in our R&D initiatives. At any time we have 4-5 individuals working on R&D projects, with some eventually transitioning to full-time roles.
+
+We are currently seeking full-stack developers who embody the following qualifications:
+
+- Proficiency in backend development with Python, Ruby, or Node.js, paired with expertise in crafting frontend interfaces using vanilla HTML, CSS, and JS.
+- Ability to dedicate 20 hours per week to R&D projects.
+- A proactive and self-organized working style, capable of thriving in a "fire & forget" mode.
+- A passion for building innovative projects from the ground up.
+- You can demonstrate a history of tinkering with product ideas/hacking projects together.
+
+If you are eager to contribute to cutting-edge projects and grow with a dynamic team, we would be thrilled to hear from you.
+
+Send your CV to [labs@kagi.com](mailto:labs@kagi.com).  We’ll send a test project.
