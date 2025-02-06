@@ -23,22 +23,38 @@ If you don't hear back quickly, it's not personal - we're just working through a
 - Gather community feedback from various channels and convert it into actionable insights
 - Communicate complex ideas in a clear manner, and promote engagement and collaboration in the team
 - Previous experience leading products
-  
 
-**Head of Marketing**
+**Search Index Team**
 
-- Innovative marketing strategies: Develop and execute creative, non-traditional marketing strategies that highlight Kagi's unique ad-free, privacy-focused search engine.
-- Brand positioning and storytelling: Strengthen Kagi's brand identity through compelling storytelling that emphasizes our commitment to providing a user-centric, ad-free search experience.
-- Community engagement and growth: Drive user acquisition and retention through grassroots marketing, partnerships, influencer collaborations, and community-building activities, avoiding digital ads to maintain our ad-free pedigree.
-- Collaborative campaigns: Work closely with product, engineering, and customer support teams to align marketing initiatives with Kagi’s core values and enhance the overall user experience.
+Key Responsibilities:
+- Develop and optimize our web crawling system to efficiently gather high-quality web pages
+- Design and implement robust indexing strategies to store and organize collected data
+- Create and refine ranking algorithms to deliver the most relevant search results
+- Collaborate with the Core ML Team to integrate machine learning techniques into the indexing and ranking processes
+- Monitor and analyze system performance, identifying areas for improvement and implementing optimizations
+- Stay up-to-date with the latest trends and advancements in web crawling, indexing, and ranking technologies
 
+Required Skills and Experience:
+- Strong programming skills in languages such as C++, Java, or Python
+- In-depth knowledge of web crawling techniques, including handling various web page structures, navigation, and content extraction
+- Solid understanding of data structures, algorithms, and information retrieval concepts
+- Experience with distributed computing and large-scale data processing frameworks like Hadoop or Spark
+- Familiarity with search engine architecture and ranking algorithms
+- Ability to analyze and interpret large datasets to derive insights and make data-driven decisions
+- Excellent problem-solving and debugging skills
+- Strong communication and collaboration abilities to work effectively with cross-functional teams
 
-**Core Back-end Team**
-- Advanced knowledge of the Crystal language. 
-- Exceptional problem-solving and coding abilities.
-- Crafting products with care
+Preferred Qualifications:
+- Advanced degree in Computer Science, Information Retrieval, or a related field
+- Prior experience working on search engine technologies at scale
+- Knowledge of natural language processing (NLP) and its applications in search
+- Contributions to open-source projects or research publications in the field of web search
 
-Our tech lead Zac Nowicki recently gave a talk at Crystal Conf. Zac shares a summary of lessons, technology, ideas, and challenges after building a search engine product from the ground up in Crystal for the past three years. Watch the presentation [here](https://www.youtube.com/watch?v=r7t9xPajjTM&list=PLt-CsM4G1WoadONHl3zPN_Ts5PqH8TgMZ&index=8).
+As a member of the Search Index Team at Kagi, you will play a crucial role in building and enhancing our search engine's foundation. Your work will directly impact the quality and relevance of search results delivered to our users. You will have the opportunity to tackle complex challenges, innovate, and contribute to the development of cutting-edge search technologies in a fast-paced startup environment.
+
+**macOS/iOS developer**
+- Development of macOS/iOS native apps
+- See also [Orion browser jobs](./hiring-orion.md)
 
 **Core Front-end Team** (we are currently full, check back later)
 - Passion for creating delightful and swift user interfaces. 
@@ -46,18 +62,48 @@ Our tech lead Zac Nowicki recently gave a talk at Crystal Conf. Zac shares a sum
 - You are comfortable not using any FE frameworks, and rather like to be in full control of the DOM and as close to browser as possible.
 
 Fun fact: At Kagi, we [prioritize speed](https://help.kagi.com/kagi/search-details/search-speed.html), to the point where all functionalities of Kagi Search (except Stripe checkout and Maps) work perfectly without JavaScript. We see JavaScript as a tool to enhance the UX, not create it. 
-
+  
 **Core ML Team**
 - Deep understanding of machine learning tools and technologies, whether in the build/deploy or apply/customize layers.
 - Demonstrable expertise with modern large language models (LLMs), their deployment and/or advanced prompting techniques.
 - Experience in building noteworthy projects utilizing machine learning.
+
+
+## General conditions
+- Flexible working conditions; remote first culture.
+- Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the faint-hearted.
+- Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
+- We are completely user funded. Kagi is currently used by [one town worth of people](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
+
+Send your CV to [work@kagi.com](mailto:work@kagi.com).  We’ll send a test project.
+
+
+## Who you would be working with
+
+To get a sense of some aspects of the position, including the team you would be working with and the business itself, check out the [Kagi Search community event](https://www.youtube.com/watch?v=-BQzZkkpLQ4), recorded live in December 2024 or feel free to join [Kagi discord](https://kagi.com/discord).
+
+<a href=
+"https://www.youtube.com/watch?v=DRVY-74lkBA"><img width="400" alt="Kagi community event" src="https://github.com/kagisearch/kagi-docs/assets/4319401/d5aa73a0-871b-40a0-b92d-e135f5cc552a"></a>
+
+
+
+---
+# Filled Positions (we are currently full, check back later)
+
+**Core Back-end Team** (we are currently full, check back later)
+- Advanced knowledge of the Crystal language. 
+- Exceptional problem-solving and coding abilities.
+- Crafting products with care
+
+Our tech lead Zac Nowicki recently gave a talk at Crystal Conf. Zac shares a summary of lessons, technology, ideas, and challenges after building a search engine product from the ground up in Crystal for the past three years. Watch the presentation [here](https://www.youtube.com/watch?v=r7t9xPajjTM&list=PLt-CsM4G1WoadONHl3zPN_Ts5PqH8TgMZ&index=8).
+
 
 **Core Design Team** (we are currently full, check back later)
 - Enthusiasm for diving deep into user feedback and discussions to improve UX.
 - Meticulous attention to detail in UX design.
 - A critical perspective on current search/assistant user interfaces, paired with a desire to revolutionize them.
 
-**Site Reliability Engineer (SRE)**
+**Site Reliability Engineer (SRE)** (we are currently full, check back later)
 
 Key Responsibilities:
 - Ensure the reliability, performance, and scalability of Kagi's search engine and related services
@@ -91,52 +137,7 @@ Preferred Qualifications:
 
 As an SRE at Kagi, you will play a critical role in ensuring the reliability, performance, and scalability of our search engine and related services. You will work closely with development teams to design and implement resilient architectures, automate operations, and proactively identify and resolve issues. Your focus will be on maintaining system health, optimizing performance, and continuously improving our infrastructure to support Kagi's growth and innovation in the search industry. You will be part of a collaborative and dynamic team that values knowledge sharing, automation, and data-driven decision-making.
 
-  
-**Search Index Team**
-
-Key Responsibilities:
-- Develop and optimize our web crawling system to efficiently gather high-quality web pages
-- Design and implement robust indexing strategies to store and organize collected data
-- Create and refine ranking algorithms to deliver the most relevant search results
-- Collaborate with the Core ML Team to integrate machine learning techniques into the indexing and ranking processes
-- Monitor and analyze system performance, identifying areas for improvement and implementing optimizations
-- Stay up-to-date with the latest trends and advancements in web crawling, indexing, and ranking technologies
-
-Required Skills and Experience:
-- Strong programming skills in languages such as C++, Java, or Python
-- In-depth knowledge of web crawling techniques, including handling various web page structures, navigation, and content extraction
-- Solid understanding of data structures, algorithms, and information retrieval concepts
-- Experience with distributed computing and large-scale data processing frameworks like Hadoop or Spark
-- Familiarity with search engine architecture and ranking algorithms
-- Ability to analyze and interpret large datasets to derive insights and make data-driven decisions
-- Excellent problem-solving and debugging skills
-- Strong communication and collaboration abilities to work effectively with cross-functional teams
-
-Preferred Qualifications:
-- Advanced degree in Computer Science, Information Retrieval, or a related field
-- Prior experience working on search engine technologies at scale
-- Knowledge of natural language processing (NLP) and its applications in search
-- Contributions to open-source projects or research publications in the field of web search
-
-As a member of the Search Index Team at Kagi, you will play a crucial role in building and enhancing our search engine's foundation. Your work will directly impact the quality and relevance of search results delivered to our users. You will have the opportunity to tackle complex challenges, innovate, and contribute to the development of cutting-edge search technologies in a fast-paced startup environment.
-
-
-
-**macOS/iOS developer**
-- Development of macOS/iOS native apps
-- See also [Orion browser jobs](./hiring-orion.md)
-
-
-  
-**General conditions**
-- Flexible working conditions; remote first culture.
-- Our journey is filled with exciting challenges and ever-evolving processes. It's a bit of a rollercoaster, not for the faint-hearted.
-- Our ambition is enormous, going against industry giants with a very small team. You will work a lot.
-- We are completely user funded. Kagi is currently used by [one town worth of people](https://kagi.com/stats). Do not expect VC backed/big-tech salary. Do expect equity as a part of compensation.
-
-Send your CV to [work@kagi.com](mailto:work@kagi.com).  We’ll send a test project.
-
-## Part-time opportunities
+## Part-time opportunities  (we are currently full, check back later)
 
 **Kagi R&D Team** (aka Kagi Labs)
 
@@ -153,10 +154,3 @@ We are currently seeking full-stack developers who embody the following qualific
 If you are eager to contribute to cutting-edge projects and grow with a dynamic team, we would be thrilled to hear from you.
 
 Send your CV to [labs@kagi.com](mailto:labs@kagi.com).  We’ll send a test project.
-
-## Who you would be working with
-
-To get a sense of some aspects of the position, including the team you would be working with and the business itself, check out the [Kagi Search community event](https://www.youtube.com/watch?v=DRVY-74lkBA), recorded live in December 2023 in [Kagi discord](https://kagi.com/discord).
-
-<a href=
-"https://www.youtube.com/watch?v=DRVY-74lkBA"><img width="400" alt="Kagi community event" src="https://github.com/kagisearch/kagi-docs/assets/4319401/d5aa73a0-871b-40a0-b92d-e135f5cc552a"></a>
