@@ -15,7 +15,6 @@ Last updated **February 7, 2025**
 |-----------------------------|---------------|--------|----------------|------------------|-------------------|
 | **Google** gemini-2.0-pro-exp-02-05 | 60.78 | 6420 | 0.32164 | 1.72 | 51.25 |
 | **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
-| **Deepseek** r1-distill-llama-70b (Groq) | 46.77 | 43517 | 0.04686 | 2.60 | 260.41 |
 | **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
 | **Google** gemini-exp-1206 | 43.55 | 8350 | 0.41909 | 3.73 | 23.25 |
 | **DeepSeek** Chat V3 | 41.94 | 22381 | 0.00719 | 4.04  | 63.82 |
@@ -51,6 +50,8 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 | **OpenAI** o3-mini | 62.90 | 102059 | 0.45630 |  17.39  |
 | **Google** gemini-2.0-flash-thinking-exp-01-21 | 58.33  | 14433 |  0.67431 | 5.91 |
 | **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
+| **Deepseek** r1-distill-llama-70b (Groq) | 46.77 | 43517 | 0.04686 | 2.60 | 260.41 |
+
 
 
 
