@@ -19,10 +19,10 @@ Last updated **February 7, 2025**
 | **DeepSeek** Chat V3 | 41.94 | 22381 | 0.00719 | 4.04  | 63.82 |
 | **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
+| **Google** gemini-2.0-flash-lite-preview-02-05 |  38.71 | 9470 | 0.01282 | 0.72| 116.74 |
 | **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
+| **Google** gemini-2.0-flash |  37.10 | 10366 | 0.01852 | 1.04| 83.24|
 | **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 35.48 | 12315 | 0.09648 | 2.33 | 33.77 |
-| **Google** gemini-2.0-flash |  33.87 | 9932 | 0.02969 | 1.04| 85.80 |
-| **Google**'gemini-2.0-flash-lite-preview-02-05 |  37.10 | 9834 | 0.01325 | 0.70| 126.73 |
 | **Meta** llama-3.3-70b-versatile (Groq) | 33.87 | 15008 | 0.01680 | 0.63 | 220.90|
 | **Microsoft** phi-4 14B (local) | 32.26 | 17724 | n/a | n/a | n/a |
 | **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
