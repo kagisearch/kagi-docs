@@ -29,7 +29,7 @@ Last updated **February 7, 2025**
 | **Amazon** Nova-Lite | 24.19 | 16325 | 0.00431 | 2.29 | 87.93 |
 | **Google** gemini-1.5-flash | 22.58 | 6806 | 0.00962 | 0.66 | 77.93 |
 | **Amazon** Nova-Micro | 22.58 | 16445 | 0.00253 | 1.97 | 106.47 |
-| **Qwen** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
+| **Alibaba** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
 | **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
 | **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
 | **TII** Falcon3 7B (local) | 9.68 | 18574 | n/a | n/a | n/a |
@@ -48,7 +48,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 | **OpenAI** o1-mini | 62.90 | 56219 | 0.69509 |6.30 | 
 | **OpenAI** o3-mini | 62.90 | 102059 | 0.45630 |  17.39  |
 | **Google** gemini-2.0-flash-thinking-exp-01-21 | 58.33  | 14433 |  0.67431 | 5.91 |
-| **Qwen** QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
+| **Alibaba** Qwen QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 | **Deepseek** r1-distill-llama-70b (Groq) | 46.77 | 43517 | 0.04686 | 2.60 | 260.41 |
 
 
