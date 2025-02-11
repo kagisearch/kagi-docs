@@ -1,7 +1,6 @@
 # The real cost of "free" search
 
-You're already paying for search.
-Just not with money.
+Everyone pays for search. The difference is whether you're paying with your attention, time, and private data - or with your wallet.
 
 ![Kagi Comic 11](https://github.com/user-attachments/assets/16fd01f2-389d-4193-a0b3-cfe233c56824)
 
