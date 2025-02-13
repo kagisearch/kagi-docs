@@ -17,6 +17,7 @@ If you created or found a Kagi integration with other products or tools, we woul
 
 - [Kagi Alfred Workflow](https://github.com/david-ros/kagi-alfred-workflow): Collection of custom keywords to instantly open Kagi
 - [FastGPT Alfred Workflow](https://github.com/david-ros/fastgpt-alfred-workflow): Access our [FastGPT API](../api/fastgpt.md) from your desktop using Alfred.
+- [Kagi for Alfred](https://github.com/ljuillerat/alfred-kagi): A powerful Alfred workflow to interact with Kagi Search services
 
 ## PopClip
 
