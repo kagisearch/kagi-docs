@@ -163,6 +163,7 @@ function sidebarKagi() {
                         { text: 'Private Browser Sessions', link: '/kagi/privacy/private-browser-sessions' },
                         { text: 'Two Factor Authentication', link: '/kagi/privacy/two-factor-authentication' },
                         { text: 'Privacy Pass', link: '/kagi/privacy/privacy-pass' },
+                        { text: 'Using Kagi with Tor', link: '/kagi/privacy/tor' },
                         { text: 'Log in with QR Code', link: '/kagi/privacy/log-in-with-qr-code' },
                         { text: 'Content Policy', link: '/kagi/privacy/content-policy' },
                         { text: 'Security', link: '/kagi/privacy/security' },
