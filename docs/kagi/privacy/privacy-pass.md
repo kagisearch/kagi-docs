@@ -122,9 +122,9 @@ The extension will automatically manage your tokens, generating new ones when ne
 - When using Privacy Pass, search personalizations will not be available, as they increase the likelihood of deanonymization.
 
 - Some Kagi products are currently not supported in Privacy Pass mode:
-  - Kagi Translate: to use it, you need to disable authentication via Kagi Privacy Pass. Support for this will be added in the next release.
+  - Kagi Translate and Kagi Maps: to use them, you need to disable authentication via Kagi Privacy Pass. Support for this will be added in the next release.
   - `Summarize page` and `Ask questions about page`: these features are not yet supported in Privacy Pass mode but will be included in the next release.
-  - Kagi Assistant: This feature is not supported in Privacy Pass mode. We are exploring ways to enable it.
+  - Kagi Assistant: This feature is not supported in Privacy Pass mode. We are exploring ways to enable it. To use it, you need to disable authentication via Kagi Privacy Pass.
 
 - When manually setting Kagi as your default search engine, replace the default autosuggest URL with this privacy-enhanced alternative: `https://kagisuggest.com/api/autosuggest?q=%s`
    - Using this domain prevents browsers from automatically sending your Kagi login cookies with autosuggest requests, which the Privacy Pass extension cannot intercept.
