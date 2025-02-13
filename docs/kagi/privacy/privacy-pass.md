@@ -86,6 +86,8 @@ Select your browser for set up instructions:
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. From your homescreen, tap and hold the Kagi app icon.
 3. Select Privacy Pass.
+4. To add the Privacy Pass shortcut to your home screen, press and hold the Privacy Pass option.
+
 
 <video src="./media/kagi_privacy_pass_android_app.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
@@ -117,12 +119,15 @@ The extension will automatically manage your tokens, generating new ones when ne
 
 - There's a monthly limit of 2,000 tokens per account to prevent abuse. If you need more tokens in exceptional cases, please contact us at support@kagi.com.
 
-- While using Privacy Pass, your customized settings won't be available since this would make your searches potentially identifiable.
+- When using Privacy Pass, search personalizations will not be available, as they increase the likelihood of deanonymization.
 
-- Similarly, some Kagi services such as Assistant do not support Privacy Pass as of now. To access them, the "Authenticate via Privacy Pass" toggle must be set to off.
+- Some Kagi products are currently not supported in Privacy Pass mode:
+  - Kagi Translate: to use it, you need to disable authentication via Kagi Privacy Pass. Support for this will be added in the next release.
+  - `Summarize page` and `Ask questions about page`: these features are not yet supported in Privacy Pass mode but will be included in the next release.
+  - Kagi Assistant: This feature is not supported in Privacy Pass mode. We are exploring ways to enable it.
 
 - When manually setting Kagi as your default search engine, replace the default autosuggest URL with this privacy-enhanced alternative: `https://kagisuggest.com/api/autosuggest?q=%s`
-  - Using this domain prevents browsers from automatically sending your Kagi login cookies with autosuggest requests, which the Privacy Pass extension cannot intercept.
+   - Using this domain prevents browsers from automatically sending your Kagi login cookies with autosuggest requests, which the Privacy Pass extension cannot intercept.
 
 ## Troubleshooting
 
