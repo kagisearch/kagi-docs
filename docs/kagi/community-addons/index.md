@@ -48,6 +48,8 @@ Adds a button to the right click context menu on Firefox that allows you to open
 
 [Ask Kagi](https://www.icloud.com/shortcuts/c92d096f37984fe4b756a6ff2eafc795): Ask Kagi's FastGPT AI questions, Siri will read out the result. Great for idle questions in the car! You must insert your own API key, get your API key [here](https://help.kagi.com/kagi/api/fastgpt.html#quick-start) - Credits to [Alex Schuldberg](https://bsky.app/profile/schuldberg.com)
 
+[Talk to Kagi](https://www.dropbox.com/scl/fi/3v7pv92cold4zwfikn0bi/Talk-to-Kagi.shortcut?rlkey=yp3yjoukdpdspa5nmr4rjsig0&e=1&dl=0): an enhanced version of Ask Alex Schuldberg's Ask Kagi that makes use of Siri's native Text-to-Speech, as well as a conversational loop with a limited memory of previous questions for context. Credits to [Jesse Garrison](https://nightlight.io)
+
 ## Script Kit
 
 - [FastGPT for Script Kit](https://scriptkit.com/api/new?name=kagi-fastgpt&url=https://gist.githubusercontent.com/awakenedhaggis/bd9dbf2421325117f7e5c20f62e1c99f/raw/9ab7d843fdfb2bf3b1e3c65e5c4774fe896abc91/kagi-fastgpt.ts): Access our [FastGPT API](../api/fastgpt.md) directly from your desktop using Script Kit.
