@@ -87,7 +87,7 @@ Select your browser for set up instructions:
 2. From your homescreen, tap and hold the Kagi app icon.
 3. Select Privacy Pass.
 
-<video src="./media/kagi_privacy_pass_android_app.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi_privacy_pass_android_app.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 </details>
 
