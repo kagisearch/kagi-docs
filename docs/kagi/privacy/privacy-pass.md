@@ -40,7 +40,7 @@ Select your browser for set up instructions:
 2. Tap the three dots at the bottom right corner and select **Kagi Privacy Pass**.
 3. Make sure **Authenticate via Privacy Pass** is enabled.
 
-<video src="./media/kagi_privacy_pass_orion_ios.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi_privacy_pass_orion_ios.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 </details>
 
