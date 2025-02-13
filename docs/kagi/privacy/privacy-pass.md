@@ -21,6 +21,8 @@ Select your browser for set up instructions:
 
 **macOS**
 
+To use Privacy Pass in [Orion for Mac](https://kagi.com/orion/#download_sec), ensure you have version 0.99.131 or later. Then follow these steps:
+
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. From your menu bar, go to **Orion** > **Settings** > **Search**.
 3. Make sure Kagi is selected as your search engine.
@@ -31,6 +33,8 @@ Select your browser for set up instructions:
 <video src="./media/kagi_privacy_pass_orion_mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 **iOS/iPadOS**
+
+To use Privacy Pass in [Orion for iOS](https://apps.apple.com/us/app/orion-browser-by-kagi/id1484498200), ensure you have version 1.3.17 or later. Then follow these steps:
 
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. Tap the three dots at the bottom right corner and select **Settings**.
@@ -82,6 +86,8 @@ Select your browser for set up instructions:
 
 <details>
 <summary>Kagi Android App</summary>
+
+To use Privacy Pass in the [Kagi app for Android](https://play.google.com/store/apps/details?id=com.kagi.search&hl=en), ensure you have version 0.29 or later. Then follow these steps:
 
 1. First, make sure you're logged into your Kagi account, this is needed to generate Privacy Pass tokens.
 2. From your homescreen, tap and hold the Kagi app icon.
