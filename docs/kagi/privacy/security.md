@@ -8,6 +8,8 @@ The audit found Kagi to be "Highly Secure" with "…no findings of material sign
 
 ## Kagi Bug Bounty Program
 
-If you believe you’ve discovered a security or privacy vulnerability that affects Kagi services or software, please report it to our [security contact](mailto:vlad@kagi.com). We review all eligible research for Kagi Bug Bounty rewards.
+The Kagi Bug Bounty Program is subject to the legal terms and conditions outlined in our [bounty Safe Harbor policy](safe-harbor.md).
 
-The Kagi Bug Bounty Program is subject to the legal terms and conditions outlined in our [bounty Safe Harbor policy](safe-harbor.md). 
+If you believe you’ve discovered a security or privacy vulnerability that affects Kagi services or software, please report it to our [security contact](mailto:security@kagi.com). We review all eligible research for Kagi Bug Bounty rewards.
+
+Follow our [bug bounty program](bug-bounty-program.md) to learn how to report.

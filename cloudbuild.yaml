@@ -22,7 +22,7 @@ steps:
       - 'compute'
       - 'url-maps'
       - 'invalidate-cdn-cache'
-      - 'kagi-prod-urlmap-anycast'
+      - 'kagi-prod-urlmap-anycast-em'
       - '--path'
       - '/*'
       - '--host'

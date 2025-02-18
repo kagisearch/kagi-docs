@@ -60,6 +60,7 @@ next:
 - [Do you have a warrant canary?](#warrant-canary)
 - [Why is the Giropay payment option not available?](#giropay)
 - [I am trying to purchase a subscription, but the field to input my billing address is grayed out and I'm unable to type in it](#billing-address-is-grayed-out)
+- [Will I be charged if I don’t use any searches?](#fair-pricing)
 
 ## What is Kagi {#what-is-kagi}
 
@@ -350,6 +351,10 @@ You can update your address by visiting [Stripe's "Link" management page](https:
 After updating your address, you can return to the [Kagi sign-up page](https://kagi.com/onboarding?p=choose_plan) to complete your subscription purchase. 
 
 **Note:** Remember we only need your country (and zip code if in the US) to determine the appropriate sales tax or VAT.
+
+## Will I be charged if I don’t use any searches? {#fair-pricing}
+
+No, in months where you don't utilize any searches on your plan, we will automatically apply a full credit to your account. This credit will be applied to your next billing cycle, effectively covering your subsequent month's subscription at no additional cost.
 
 ---
 
