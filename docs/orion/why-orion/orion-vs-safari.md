@@ -6,7 +6,7 @@ next:
 
 # Orion vs. Safari
 
-Safari is truly one of the best browsers you can use on macOS, and we’re grateful to Apple for creating such a solid foundation. By basing Orion on Safari’s tech stack, then adding productivity enhancements such as built-in ad-blocking, Orion can provide users with exactly what they need.
+Safari is truly one of the best browsers you can use on macOS, and we’re grateful to Apple for creating such a solid foundation. By basing Orion on Safari’s tech stack and then adding productivity enhancements such as built-in ad-blocking, Orion can provide users with exactly what they need.
 
 You want speed? Orion is currently the fastest Mac browser out there. We built a snappy, lightweight browser around Safari’s WebKit engine to accelerate your web experience.
 

@@ -20,9 +20,9 @@ We only collect the bare necessities to run the service. Please see our [privac
 
 ## Email Address Collection
 
-We tie Kagi Search accounts to email addresses so we can help users with account recovery should they ever need it. Rest assured that all Kagi Searches are anonymized and are never tied to your specific account.
+We tie Kagi Search accounts to email addresses so we can assist users with account recovery should they ever need it. Rest assured that all Kagi Searches are anonymized and are never linked to your specific account.
 
-Note that you can register for Kagi Search with any email address you control. You do not have to use an email address that can easily identify you.
+Please note that you can register for Kagi Search with any email address you control. You do not need to use an email address that can easily identify you.
 
 ## Building Trust
 
