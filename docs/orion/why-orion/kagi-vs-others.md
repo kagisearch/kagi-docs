@@ -6,4 +6,4 @@ Orion is the first browser to have a zero-telemetry policy, meaning it will neve
 
 As a native Mac app, Orion uses macOS components to provide you with the speed, look, and feel of a Mac app along with deep integration of native system technologies.
 
-And, of course, Orion takes its users seriously. Because we are zero telemetry, we design the product based only on what our users tell us. We’re here for you, and we’re doing this together!
+And, of course, Orion takes its users seriously. Because we are zero telemetry, we design the product based only on what our users tell us. We are here for our users, and we are doing this together!

@@ -18,7 +18,7 @@
 
 Orion includes the following blocklists by default. 
 The blocklists in **bold** are enabled by default and provide sufficient protection against most ads and trackers.
-- **Easylist**
+- **EasyList**
 - **EasyPrivacy**
 - Hagezi Light DNS Blocklist
 - Hagezi Pro Plus Mini
@@ -111,7 +111,7 @@ The Custom Filter Name field can have any name you see fit.
 ## Impact of Number of Blocking Rules on Performance {#performance_chart}
 
 Orion's content blocker compiles each blocklist to convert it into native WebKit content blocking rules.
-This results in minimal performance impact, dependening on the number of blocking rules that are active.
+This results in minimal performance impact, depending on the number of blocking rules that are active.
 The following chart illustrates the relationship between Orion's WebKit performance and the number of blocking rules:
 
 <img src="./media/blocklists_rules_performance_chart.png" width="500" alt="Blocklists - Impact of Number of Blocking Rules on Performance"><br />
