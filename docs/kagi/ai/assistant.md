@@ -152,6 +152,7 @@ The Assistant provides access to the following LLMs:
 | Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)       |
 | OpenAI      | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                       |
 | OpenAI      | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
+| OpenAI      | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)             |
 | Mistral AI  | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)        |
 | Mistral AI  | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)         |
 | Google      | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)           |
