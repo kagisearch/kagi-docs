@@ -37,7 +37,7 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 - [Kagi on PeerTube](https://tilvids.com/c/kagi_channel/videos)
 
-- [Kagi on YouTube] (https://www.youtube.com/@KagiInc)
+- [Kagi on YouTube](https://www.youtube.com/@KagiInc)
 
 - [Kagi on Nostr](primal.net/p/npub1xsgymm0ne3vndqpvsvy285qfpu59049t5n5twg9vetmt92cyn95snyzazx)
 
