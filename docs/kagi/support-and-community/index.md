@@ -33,6 +33,14 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 - [KagiHQ on Instagram](https://instagram.com/kagihq)
 
+- [Kagi on Pixelfed](https://pixelfed.social/Kagi)
+
+- [Kagi on PeerTube](https://tilvids.com/c/kagi_channel/videos)
+
+- [Kagi on YouTube] (https://www.youtube.com/@KagiInc)
+
+- [Kagi on Nostr](primal.net/p/npub1xsgymm0ne3vndqpvsvy285qfpu59049t5n5twg9vetmt92cyn95snyzazx)
+
 ## Feedback Forum
 
 You can join [KagiFeedback.org](https://kagifeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address and to the discussion.
