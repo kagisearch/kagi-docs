@@ -48,7 +48,7 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 | **OpenAI** o3-mini (high) | 64.52 | 243143 | 1.07707 |  15.99  |
 | **OpenAI** o1-mini | 62.90 | 56219 | 0.69509 |6.30 | 
 | **OpenAI** o3-mini | 62.90 | 102059 | 0.45630 |  17.39  |
-| **Anthropic** claude-3-7-sonnet-20250219 |  62.90 | 179395 | 2.71853 | 25.90  |
+| **Anthropic** claude-3-7-sonnet-20250219 (8192 thinking budget) |  62.90 | 179395 | 2.71853 | 25.90  |
 | **Google** gemini-2.0-flash-thinking-exp-01-21 | 58.33  | 14433 |  0.67431 | 5.91 |
 | **Alibaba** Qwen QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 | **Deepseek** r1-distill-llama-70b (Groq) | 46.77 | 43517 | 0.04686 | 2.60 | 260.41 |
