@@ -31,6 +31,8 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 - [Kagi on YouTube](https://www.youtube.com/@KagiInc)
 
+- [Kagi on LinkedIn](https://www.linkedin.com/company/kagi-inc/)
+
 - [Kagi.com on Threads](https://threads.net/@kagihq)
 
 - [KagiHQ on Instagram](https://instagram.com/kagihq)
