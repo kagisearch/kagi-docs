@@ -32,7 +32,7 @@ Last updated **February 24, 2025**
 | **Amazon** Nova-Micro | 22.58 | 16445 | 0.00253 | 1.97 | 106.47 |
 | **Alibaba** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
 | **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
-| **Anthropic** Claude-3-haiku-20240307 (8192 thinking budget) | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
+| **Anthropic** Claude-3-haiku-20240307| 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
 | **TII** Falcon3 7B (local) | 9.68 | 18574 | n/a | n/a | n/a |
 
 
