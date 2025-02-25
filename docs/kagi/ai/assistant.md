@@ -10,7 +10,7 @@ The Assistant by Kagi combines top large language models (LLM) with optional res
 
 ## Features
 
-- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google, and Mistral
+- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google, Mistral, Amazon, Alibaba and DeepSeek.
 - Multiple [custom assistants](#custom-assistants)
 - The ability to control whether the Assistant has web access (powered by Kagi Search)
 - Applying Kagi Search [Lenses](../features/lenses.md) and [Personalized Results](../features/website-info-personalized-results.md) to the Assistant searches
