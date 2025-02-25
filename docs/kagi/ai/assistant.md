@@ -147,7 +147,7 @@ The Assistant provides access to the following LLMs:
 
 | Provider    | Model                                                                     |
 |-------------|---------------------------------------------------------------------------|
-| Anthropic   | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet-37)|
+| Anthropic   | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-7-sonnet)|
 | Anthropic   | [Claude 3.5 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)   |
 | Anthropic   | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)         |
 | Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)  
