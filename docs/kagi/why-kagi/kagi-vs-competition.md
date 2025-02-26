@@ -55,7 +55,7 @@ We do not see Kagi as the Google killer. Google's scale and reach are enormous. 
 
 Think of Kagi as a small, premium brand, providing a very different, tailor-made search experience for people who need and appreciate that.
 
-For a deeper dive, we created a video comparing Kagi's results to Google's:
+For a deeper dive, we created a video showcasing the main differences between Kagi and Google:
 
 [![Kagi vs Google](https://github.com/user-attachments/assets/d6ed2b91-920b-4ba1-9c8f-1d6ef5d749a4)](https://www.youtube.com/watch?v=7ZLOBHAtjxk)
 
