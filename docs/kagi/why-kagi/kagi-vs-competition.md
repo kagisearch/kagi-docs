@@ -55,6 +55,11 @@ We do not see Kagi as the Google killer. Google's scale and reach are enormous. 
 
 Think of Kagi as a small, premium brand, providing a very different, tailor-made search experience for people who need and appreciate that.
 
+For a deeper dive, we created a video comparing Kagi's results to Google's:
+
+[![Kagi vs Google](https://github.com/user-attachments/assets/d6ed2b91-920b-4ba1-9c8f-1d6ef5d749a4)](https://www.youtube.com/watch?v=7ZLOBHAtjxk)
+
+
 ## Kagi vs. DuckDuckGo
 
 DuckDuckGo has shown the world that a privacy-first search engine is possible, and we respect this contribution. But its innovation has slowed in the past decade. And, ad-supported business models will always force a company to make compromises and balance between serving users and advertisers. In the end, DuckDuckGo's search product is just ”good enough” (by our standard, sorry, DuckDuckGo!) and has been stagnant for years without any ground-breaking feature development.
