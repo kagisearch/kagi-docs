@@ -4,6 +4,7 @@ Removing advertising from the web is the way forward.
 
 - Ads slow down the web, make using the web unfriendly and intelligence-insulting, affect the way we think and behave and have a devastating effect on children.
 - Tracking co-exists with ads and is a way to gather our personal information, usually without permission or consent, to increase adverting effectiveness.
+- Additionally, ads can pose serious security risks. Malicious advertising, or malvertising, is a growing cybersecurity threat where attackers use online ads to spread malware. 
 
 Kagi Inc. [products](../company/products.md) are free of ads and trackers.
 
