@@ -2,8 +2,7 @@
 
 You can easily share your results, including any image, video, news, and podcast searches by clicking the share icon.
 
-![Share Icon](https://github.com/user-attachments/assets/6b9bad44-7748-4325-a14f-a0579eecb5e7)
-
+![Share-Icon](https://github.com/user-attachments/assets/d2258c39-f87c-4a70-9821-1c0c2047c851)
 
 ## Share from Results Page
 
