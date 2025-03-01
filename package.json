@@ -7,7 +7,7 @@
   "dependencies": {
     "@docsearch/js": "^3.6.0",
     "esbuild": "^0.21.5",
-    "kagi-sidekick-vitepress": "^0.0.1-alpha.15",
+    "kagi-sidekick-vitepress": "^0.0.1-alpha.16",
     "medium-zoom": "^1.1.0",
     "vitepress": "^1.6.3",
     "vitepress-plugin-pagefind": "^0.4.4"
