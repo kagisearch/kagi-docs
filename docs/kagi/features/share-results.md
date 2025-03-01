@@ -1,12 +1,9 @@
 # Sharing Results
 
-Search Results can be easily shared with other Kagi users.
+You can easily share your results, including any image, video, news, and podcast searches by clicking the share icon.
 
-## Share from More
+![Share Icon](https://github.com/user-attachments/assets/6b9bad44-7748-4325-a14f-a0579eecb5e7)
 
-Expand the More menu and select the option from the bottom of the list.
-
-![Share From More](media/share_results_more.png)
 
 ## Share from Results Page
 
