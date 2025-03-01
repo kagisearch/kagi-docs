@@ -1,6 +1,6 @@
 # Sharing Results
 
-You can easily share your results, including any image, video, news, and podcast searches by clicking the share icon.
+You can easily share your results, including image, video, news, and podcast searches by clicking the share icon:
 
 ![Share-Icon](https://github.com/user-attachments/assets/d2258c39-f87c-4a70-9821-1c0c2047c851)
 
