@@ -21,7 +21,7 @@ Kagi offers several individual subscriptions plans.
 
 We offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
 
-You can also bring Kagi to your organization with our teams plan!
+You can also bring Kagi to your organization with our [teams plan](https://kagi.com/teams)!
 
 ## How searches are counted
 
