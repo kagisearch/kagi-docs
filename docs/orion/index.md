@@ -4,7 +4,7 @@ Orion is a free, lightning-fast, privacy-focused WebKit-based browser for Mac, i
 
 **Please note that Orion Docs are in beta and thus are not yet complete.** We haven't documented all of Orion's amazing features yet. But, we will be adding more documentation here over time.
 
-If you're new to Orion, our [Quick Start](./getting-started/quick-start.md) and [FAQ](./faq/faq.md) are great places to begin. Stay up to date with the latest features, improvements, and bug fixes by following [our release notes]((https://kagi.com/orion/updates/orion-release-notes.html). We also encourage you to join our [feedback forums](https://orionfeedback.org/) to report bugs or share your feature suggestions—every submission is greatly appreciated!
+If you're new to Orion, our [Quick Start](./getting-started/quick-start.md) and [FAQ](./faq/faq.md) are great places to begin. Stay up to date with the latest features, improvements, and bug fixes by following [our release notes](https://kagi.com/orion/updates/orion-release-notes.html). We also encourage you to join our [feedback forums](https://orionfeedback.org/) to report bugs or share your feature suggestions—every submission is greatly appreciated!
 
 You can access our documentation in several ways:
 
