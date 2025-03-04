@@ -16,3 +16,8 @@ blocking. Orion is free with an optional paid plan if you want to support its de
 If you cannot use the Orion browser, we recommend installing [uBlock
 Origin](https://ublockorigin.com/) extension for your browser. It is the best ad-blocking extension and is entirely free
 to use.
+
+# How ads badly impact usability
+
+An illustration to demonstrate why Kagi products are designed to offer a cleaner, safer, and ad-free web experience:
+![Kagi Search](https://github.com/user-attachments/assets/d1efa10b-c78d-409a-9fd3-6a209875d79a)
