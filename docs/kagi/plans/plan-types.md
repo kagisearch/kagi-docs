@@ -24,7 +24,7 @@ We offer [Family plans](./family-plan.md) for two or more people. If you have a 
 
 ### Team Plan:
 
-You can also bring Kagi to your organization with our [team plan](https://help.kagi.com/kagi/plans/team-plan.html)! See how [Kagi for Teams](https://kagi.com/teams) can elevate your whole workspace.
+You can also bring Kagi to your organization with our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html)! See how [Kagi for Teams](https://kagi.com/teams) can elevate your whole workspace with powerful search features and universal AI access, while keeping your organization's data private and secure.
 
 ## How searches are counted
 
