@@ -1,6 +1,6 @@
 # Kagi Doggos
 
-![Kagi Doggos](./media/doggos/1_Edin.png){data-zoomable}
+![Kagi Doggos](./media/doggos/1_Edin.png "Kagi Doggo by Edin Pasovic"){data-zoomable}
 
 Here at Kagi, we love our Doggo mascot, and we know our community feels the same way! This March, we’re thrilled to showcase community-created versions of our beloved Doggo on the Kagi search page, and celebrate the creativity and the amazing talent within our community.
 
