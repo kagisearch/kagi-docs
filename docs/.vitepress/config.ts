@@ -11,6 +11,7 @@ export default defineConfig({
         ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png" }],
         ['link', { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5" }],
         ['meta', { name: "msapplication-TileColor", content: "#ffffff" }],
+        ['meta', { property: "og:image", content: "https://help.kagi.com/og-image.png" }],
     ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
