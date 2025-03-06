@@ -307,3 +307,4 @@ https://translate.kagi.com/?text=%s&source=Japanese&target=English
 ## Important notes
 
 - **Media Titles**: Kagi Translate tends to use "official" translations for well-known media titles, which may differ significantly from literal translations. For instance, the Japanese manga title "Sousou no Frieren" is translated as "Frieren: Beyond Journey's End," reflecting the commercially accepted version rather than the literal "Funeral Frieren."
+- **Translation History**: All history is stored locally on your device - we don't save any data on our servers. You can clear your history at any time, or export it as JSON.
