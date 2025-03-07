@@ -23,10 +23,9 @@ Click "Generate API Token".
 
 ## Pricing
 
-The Kagi Search API incurs a search just like it would if you were normally searching on Kagi.
-This counts towards your metered searches and will be billed accordingly.
+The Kagi Search API is priced at $25 for 1000 queries (2.5 cents per search).
 
-Based on the current 2.5c per search cost, Kagi Search API is priced at $25 for 1000 queries. 
+You can add funds to your API balance from the [API Billing panel](https://kagi.com/settings?p=billing_api).
 
 ## SDK
 
