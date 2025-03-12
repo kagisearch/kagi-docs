@@ -1,11 +1,11 @@
 # Kagi Translate
 
-![Kagi Translate](./media/kagi_translate.png){width=700px data-zoomable}
+![Kagi Translate](https://github.com/user-attachments/assets/201bde46-12f1-45a2-8713-8a3d6020d890){width=1036px data-zoomable}
 
-[Kagi Translate](https://translate.kagi.com) is a powerful language translation tool that supports 244 languages. It combines advanced language models to deliver accurate, context-aware translations while maintaining privacy.
+[Kagi Translate](https://translate.kagi.com) is a powerful language translation tool that supports 248 languages. It combines advanced language models to deliver accurate, context-aware translations while maintaining privacy.
 
 ## Key features
-- **Comprehensive language support**: Translate between 244 languages
+- **Comprehensive language support**: Translate between 248 languages
   <details>
     <summary><b>See list of supported languages</b></summary>
     <ul>
@@ -258,6 +258,8 @@
 - **Translation options**:
   - Web page translation
   - Text translation
+  - Translate by voice
+  - Proofreading feature helps identify spelling and grammar issues in any text or web page
 - **Privacy-focused**: Your translations are processed securely without storing personal data
 
 ## Benefits
@@ -305,3 +307,4 @@ https://translate.kagi.com/?text=%s&source=Japanese&target=English
 ## Important notes
 
 - **Media Titles**: Kagi Translate tends to use "official" translations for well-known media titles, which may differ significantly from literal translations. For instance, the Japanese manga title "Sousou no Frieren" is translated as "Frieren: Beyond Journey's End," reflecting the commercially accepted version rather than the literal "Funeral Frieren."
+- **Translation History**: For your privacy, your translation history is stored locally on your device, not on our servers. We never save your data. Translations are stored until you clear your site data. You can manage your history (clear or export as JSON) in the settings.

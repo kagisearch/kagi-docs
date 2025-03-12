@@ -73,8 +73,9 @@ The information may include:
 Clicking on the three dots (...) to the right of each search result will bring a menu with 4 options:
 
 - **More results from this site** will perform the same Kagi search again, but with results limited to the website of your initial result.
+- **Remove results from this site** will perform the same Kagi search again, but with results from that website removed.
 - **Open result in Web Archive** will show you the history of the webpage at the [Wayback Machine](https://archive.org/).
 - **Summarize Page** will use [Universal Summarizer](../ai/summarize-page.md) to give you a summary of the webpage within the search results page.
 - **Ask Questions about Document** will take you to [Kagi Assistant](../ai/assistant.md) and use the webpage as context for asking questions.
 
-![Quick Actions Menu](./media/quick-actions-menu.png){width=675px data-zoomable}
+![Quick Actions Menu](https://github.com/user-attachments/assets/c2ce8112-3015-476d-9d22-b2f85252c59f){data-zoomable}

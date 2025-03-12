@@ -10,7 +10,7 @@ The Assistant by Kagi combines top large language models (LLM) with optional res
 
 ## Features
 
-- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google, and Mistral
+- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google, Mistral, Amazon, Alibaba and DeepSeek.
 - Multiple [custom assistants](#custom-assistants)
 - The ability to control whether the Assistant has web access (powered by Kagi Search)
 - Applying Kagi Search [Lenses](../features/lenses.md) and [Personalized Results](../features/website-info-personalized-results.md) to the Assistant searches
@@ -147,11 +147,13 @@ The Assistant provides access to the following LLMs:
 
 | Provider    | Model                                                                     |
 |-------------|---------------------------------------------------------------------------|
+| Anthropic   | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-7-sonnet)|
 | Anthropic   | [Claude 3.5 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)   |
 | Anthropic   | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)         |
-| Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)       |
+| Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)  
 | OpenAI      | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                       |
 | OpenAI      | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
+| OpenAI      | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)             |
 | Mistral AI  | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)        |
 | Mistral AI  | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)         |
 | Google      | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)           |

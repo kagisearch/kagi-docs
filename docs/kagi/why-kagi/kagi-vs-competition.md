@@ -17,7 +17,7 @@ The table below shows how Kagi stacks up to some of the most popular search engi
 | --- | --- | --- | --- | --- | --- | 
 | Ad-free business model | **Yes** | No | No | No | No | 
 | Has own web index | **[Yes](../search-details/search-sources.html)** | Yes | Yes | No | Yes | 
-| User can block sites in the UI | **Yes** | No | No | No | No | 
+| User can block sites in the UI | **Yes** | No | No | No | Yes | 
 | Zero search telemetry | **Yes** | No | No | No | No | 
 | Anonymises user data | **Yes** | No | No | Yes | Yes | 
 
@@ -54,6 +54,11 @@ Kagi will allow you to discover well-written articles from lesser-known blogs an
 We do not see Kagi as the Google killer. Google's scale and reach are enormous. Google also serves a purpose in the world — it did help enable our modern society to exist, with all its marvels and flaws. Heck, it even enables Kagi to exist!
 
 Think of Kagi as a small, premium brand, providing a very different, tailor-made search experience for people who need and appreciate that.
+
+For a deeper dive, we created a video showcasing the main differences between Kagi and Google:
+
+[![Kagi vs Google](https://github.com/user-attachments/assets/d6ed2b91-920b-4ba1-9c8f-1d6ef5d749a4)](https://www.youtube.com/watch?v=7ZLOBHAtjxk)
+
 
 ## Kagi vs. DuckDuckGo
 

@@ -3,7 +3,8 @@
 Removing advertising from the web is the way forward.
 
 - Ads slow down the web, make using the web unfriendly and intelligence-insulting, affect the way we think and behave, and have a devastating effect on children.
-- Tracking coexists with ads and is a way to gather our personal information, usually without permission or consent, to increase advertising effectiveness.
+- Tracking co-exists with ads and is a way to gather our personal information, usually without permission or consent, to increase advertising effectiveness.
+- Additionally, ads can pose serious security risks. Malicious advertising, or malvertising, is a growing cybersecurity threat where attackers use online ads to spread malware.
 
 Kagi Inc. [products](../company/products.md) are free of ads and trackers.
 
@@ -15,3 +16,8 @@ blocking. Orion is free with an optional paid plan if you want to support its de
 If you cannot use the Orion browser, we recommend installing the [uBlock
 Origin](https://ublockorigin.com/) extension for your browser. It is the best ad-blocking extension and is entirely free
 to use.
+
+# How ads badly impact usability
+
+An illustration to demonstrate why Kagi products are designed to offer a cleaner, safer, and ad-free web experience:
+![Kagi Search](https://github.com/user-attachments/assets/d1efa10b-c78d-409a-9fd3-6a209875d79a)

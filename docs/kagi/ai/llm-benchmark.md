@@ -6,16 +6,18 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **February 7, 2025**
+Last updated **February 27, 2025**
 
 
 ### General purpose models
 
 | Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
 |-----------------------------|---------------|--------|----------------|------------------|-------------------|
+| **OpenAI** gpt-4.5-preview | 69.35 | 14061 | 2.15409 | 8.86 | 11.27  |
 | **Google** gemini-2.0-pro-exp-02-05 | 60.78 | 6420 | 0.32164 | 1.72 | 51.25 |
+| **Anthropic** claude-3-7-sonnet-20250219 |  53.23 | 12196 | 0.20533 | 2.82| 54.12 |
 | **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
-| **Anthropic** Claude-3.5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
+| **Anthropic** claude-3-5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
 | **DeepSeek** Chat V3 | 41.94 | 22381 | 0.00719 | 4.04  | 63.82 |
 | **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
 | **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
@@ -31,7 +33,7 @@ Last updated **February 7, 2025**
 | **Amazon** Nova-Micro | 22.58 | 16445 | 0.00253 | 1.97 | 106.47 |
 | **Alibaba** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
 | **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
-| **Anthropic** Claude-3-haiku-20240307 | 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
+| **Anthropic** Claude-3-haiku-20240307| 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
 | **TII** Falcon3 7B (local) | 9.68 | 18574 | n/a | n/a | n/a |
 
 
@@ -45,10 +47,11 @@ Reasoning models are optimized for multi-step reasoning and often produce better
 | **OpenAI** o1 | 74.19 | 85120 | 5.20579 | 13.26 |
 | **Deepseek** R1 | 70.97 | 152944 | 0.33854 | 17.02|
 | **OpenAI** o3-mini (high) | 64.52 | 243143 | 1.07707 |  15.99  |
+| **Alibaba** Qwen QWQ-32B | 62.96 | 45293 | 0.068 | 5.6 |
 | **OpenAI** o1-mini | 62.90 | 56219 | 0.69509 |6.30 | 
 | **OpenAI** o3-mini | 62.90 | 102059 | 0.45630 |  17.39  |
+| **Anthropic** claude-3-7-sonnet-20250219 (8192 thinking budget) |  62.90 | 179395 | 2.71853 | 25.90  |
 | **Google** gemini-2.0-flash-thinking-exp-01-21 | 58.33  | 14433 |  0.67431 | 5.91 |
-| **Alibaba** Qwen QWQ-32B | 50.00 | 45293 | 0.02835 | 15.46 |
 | **Deepseek** r1-distill-llama-70b (Groq) | 46.77 | 43517 | 0.04686 | 2.60 | 260.41 |
 
 

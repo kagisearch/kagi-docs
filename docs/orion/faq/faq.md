@@ -246,7 +246,7 @@ For the second question, companies that produce popular, free, open-source brows
 ## How will Orion make money? {#business} 
 [Orion+](https://browser.kagi.com/orionplus.html) version allows users to support Orion's development. Will it generate revenue? That's up to you. Regardless, all funding for Orion will come from its users rather than ads, tracking, data monetization or any other indirect method. 
 
-We want Orion to be the number one Mac browser because it uses engineering craftsmanship and attention to detail to provide a superior product experience and unmatched features that work for everyone, from power users to grandmas.
+We want Orion to be the number one Mac browser because it uses engineering craftsmanship and attention to detail to provide a superior product experience and unmatched features that work for everyone, from power users to neophytes.
 
 We believe this project will deliver an experience that its users value enough to support. We believe this enough to promise that we'll never resort to ads or other such funding methods. Orion makes it possible, and you make Orion possible. 
 

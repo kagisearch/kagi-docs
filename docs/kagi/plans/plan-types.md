@@ -6,20 +6,23 @@ next:
 
 # Plan Types
 
-> **Important Notice:** Effective April 11th, 2024, Kagi will begin collecting applicable sales tax/VAT on all new subscription purchases to comply with global tax regulations. For existing members, sales tax/VAT will be applied to your next renewal after April 21st, 2024. Please visit the [FAQ](../faq/sales-tax-vat.md) for more information.
+Kagi offers several subscriptions plans.
 
+![Pricing](https://github.com/user-attachments/assets/527749da-522d-4f1f-9d59-0d05e3867808){data-zoomable}
 
-
-Kagi offers several individual subscriptions plans.
-
-![Individual Plans](media/individual_plans.png){data-zoomable}
-
+### Individual:
 * The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and curious about paid search engines.
 * The **Starter** plan offers 300 searches for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
 * The **Professional** plan offers unlimited searches for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
 * The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches and access to [The Assistant](../ai/assistant.md) for USD $25 per month. This plan offers the most power to the user.
 
-We also offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
+### Family Plan:
+
+We offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
+
+### Team Plan:
+
+You can also bring Kagi to your organization with our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html)! See how [Kagi for Teams](https://kagi.com/teams) can elevate your whole workspace with powerful search features and universal AI access, while keeping your organization's data private and secure.
 
 ## How searches are counted
 
@@ -56,3 +59,7 @@ If you are interested in taking advantage of all the advanced features that Kagi
 ### Understand Your Consumption
 
 Kagi has a feature to check your [current search usage](https://kagi.com/settings?p=consumption) if you are interested in really taking apart your consumption.
+
+### Fair Pricing
+
+In months where you don't utilize any searches on your plan, we will automatically apply a full credit to your account for that month. This credit will be applied to your next billing cycle, effectively covering your subsequent month's subscription at no additional cost.
