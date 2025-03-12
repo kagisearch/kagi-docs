@@ -2,7 +2,7 @@
 
 [Orion+](https://browser.kagi.com/orionplus.html) allows you to support the Orion project and mission.
 
-For a small fee ($5 per month, $50 per year, or $150 for a lifetime subscription), you’ll get:
+For a small fee ($5 per month, $50 per year, or $0for a lifetime subscription), you’ll get:
 
 - Direct communication with the development team
 - The ability to influence the browser’s development
