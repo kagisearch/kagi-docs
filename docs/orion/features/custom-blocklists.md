@@ -20,22 +20,21 @@ Orion includes the following blocklists by default.
 The blocklists in **bold** are enabled by default and provide sufficient protection against most ads and trackers.
 - **EasyList**
 - **EasyPrivacy**
-- **d3Host List by d3ward**
 - Hagezi Light DNS Blocklist
-- Fanboy's Annoyance
 - Hagezi Pro Plus Mini
+- Fanboy's Annoyance
 - Privacy Essentials
 - Block third-party fonts
 
 On macOS, you can enable or disable these blocklists in **Orion** > **Settings** > **Privacy**, then click the **Manage Filter Lists...** button.
 
-On iOS, the blocklists can be managed in the settings: **⋯** > **Settings** > Scroll down to **Content Blocker** and tap **Manage**.
+On iOS, the blocklists can be managed in the settings: **⋯** > **Settings** > Scroll down to the **Content Blockers** section, open it and tap **Manage Content Blocker**.
 
 <a id="custom_blocklists"></a>
 ## Custom Blocklists {#custom_blocklists}
 
 In addition to the default blocklists, Orion allows you to customize its ad blocker by using custom blocklists. 
-Blocklists are lists of domains that are known to serve ads, trackers, malware and other annoyances.
+Blocklists are lists of domains that are known to serve ads, trackers, malware, and other annoyances.
 Orion checks web page requests against these lists and blocks any requests to the listed domains.
 This prevents ads from being displayed and trackers from following you around.
 
@@ -48,7 +47,7 @@ Blocklists are constantly updated as new ad/tracking domains appear. List mainta
 On macOS, to manually update blocklists, go to **Orion** > **Settings** > **Privacy** and click **Update Now**.
 Wait for the "Processing update" message to disappear.
 
-On iOS, blocklists can be updated in the settings: **⋯** > **Settings** > Scroll down to **Content Blocker** and tap **Update Now**.
+On iOS, blocklists can be updated in the settings: **⋯** > **Settings** > Scroll down to the **Content Blockers** section and tap **Update Now**.
 
 <img src="./media/blocklists_update_now.png" width="500" alt="Orion macOS Blocklists - Update Now"><br />
 
@@ -98,7 +97,7 @@ In the **Manage Content Blocker** window, click the **Add New** button.
 
 <img src="./media/ios_blocklists_add_blocklist.png" width="500" alt="iOS Blocklists - Add Blocklist"><br />
 
-Then, paste the URL of the blocklist you wish to add and tap the **Done** button in the top right corner of the window.
+Then, paste the URL of the blocklist you wish to add and tap the **Done** button in the top-right corner of the window.
 Finally, tap **Done** in the Manage Content Blocker window.
 
 The Custom Filter Name field can have any name you see fit.
@@ -111,9 +110,9 @@ The Custom Filter Name field can have any name you see fit.
 <a id="performance_chart"></a>
 ## Impact of Number of Blocking Rules on Performance {#performance_chart}
 
-Orion's content blocker compiles each blocklist to convert it to native WebKit content blocking rules.
-This results in minimal performance impact dependent on the number of blocking rules that are active.
-The following chart illustrates the relationship between Orion's WebKit performance vs the number of blocking rules:
+Orion's content blocker compiles each blocklist to convert it into native WebKit content blocking rules.
+This results in minimal performance impact, depending on the number of blocking rules that are active.
+The following chart illustrates the relationship between Orion's WebKit performance and the number of blocking rules:
 
 <img src="./media/blocklists_rules_performance_chart.png" width="500" alt="Blocklists - Impact of Number of Blocking Rules on Performance"><br />
 
@@ -211,9 +210,10 @@ iam-py-test's The malicious website blocklist - [Info](https://github.com/iam-py
 <a id="regional_blocklists"></a>
 ## Regional Blocklists {#regional_blocklists}
 
-EasyList maintains [supplementary blocklists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) that can improve ad blocking on non-English websites.
+EasyList maintains [supplementary blocklists](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) that can enhance ad blocking on non-English websites.
 
-The list of regional filters is below. Please visit the [EasyList website](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) for more information.
+The list of regional filters is provided below.
+Please visit the [EasyList website](https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html) for more information.
 
 <details><summary>Show filters</summary> <br>
 
@@ -291,7 +291,6 @@ Orion allows you to create your own filters directly in Orion Settings.
 On macOS, you can enable this feature in **Orion** > **Settings** > **Privacy** > **Manage Filter Lists**, then check the **Custom Filters** checkbox, and specify the rules in the text area.
 
 On iOS, custom filters can be added in the **Manage Content Blocker** window.
-For example, users wishing to block ads on reddit could add `reddit.com##.promotedlink` into this section.
 Once finished, tap **Done** in the top right corner of the window.
 
 <img src="./media/blocklists_personal_filters.png" width="500" alt="Blocklists - Custom Filters"><br />
@@ -301,7 +300,9 @@ Once finished, tap **Done** in the top right corner of the window.
 <a id="blocklist-syntax"></a>
 ## Blocklist Syntax {#blocklist-syntax}
 
-Orion follows the Adblock Plus standard for its blocklist syntax, this means any filters created for Adblock Plus are compatible with Orion. You can learn how to create your own blocklists by following the [step-by-step guide](https://adblockplus.org/filter-cheatsheet), or visit the full [blocklist syntax reference](https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters) for more technical details.
+Orion follows the Adblock Plus standard for its blocklist syntax.
+This means any filters created for Adblock Plus are compatible with Orion.
+You can learn how to create your own blocklists by following the [step-by-step guide](https://adblockplus.org/filter-cheatsheet) or visiting the full [blocklist syntax reference](https://help.adblockplus.org/hc/en-us/articles/360062733293-How-to-write-filters) for more technical details.
 
 Note: Snippet filters are not supported.
 
@@ -309,4 +310,5 @@ Note: Snippet filters are not supported.
 <a id="contributing_blocklists"></a>
 ## Contributing to Blocklists {#contributing_blocklists}
 
-Many blocklists are open source and maintained by independent groups and communities. Anyone can submit domains for inclusion in the lists.
+Many blocklists are open-source and maintained by independent groups and communities.
+Anyone can submit domains for inclusion in the lists.
