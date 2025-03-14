@@ -5,7 +5,7 @@ next:
 ---
 # Join Kagi
 
-At Kagi, we're on a mission to humanize the web—making it more accessible, ethical, and centered around individual needs. Founded in 2018 by Vladimir Prelovac in Palo Alto, California, we've grown into a fully remote team of 40 people spanning over 20 countries. In early 2024, we proudly became a Public Benefit Corporation (PBC), reinforcing our commitment to positive societal impact. You can read more about us [here](https://help.kagi.com/kagi/company).
+At Kagi, we're on a mission to humanize the web - making it more accessible, ethical, and centered around individual needs. Founded in 2018 by Vladimir Prelovac in Palo Alto, California, we've grown into a fully remote team of 40 people spanning over 20 countries. In early 2024, we proudly became a Public Benefit Corporation (PBC), reinforcing our commitment to positive societal impact. You can read more about us [here](https://help.kagi.com/kagi/company).
 
 
 ## Why Kagi?
