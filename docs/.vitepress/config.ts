@@ -90,14 +90,7 @@ function sidebarKagi() {
                         { text: 'Products', link: '/kagi/company/products' },
                         { text: 'History', link: '/kagi/company/history' },
                         { text: 'Assets', link: '/kagi/company/assets' },
-                        {
-                            text: 'Jobs', link: '/kagi/company/hiring-kagi',
-                            collapsed: true,
-                            items: [
-                                { text: 'Jobs at Kagi Search', link: '/kagi/company/hiring-kagi' },
-                                { text: 'Jobs at Orion Browser', link: '/kagi/company/hiring-orion' },
-                            ]
-                        },
+			{ text: 'Jobs', link: '/kagi/company/hiring-kagi' },
                         { text: 'Open Source Support', link: '/kagi/company/donations' },
                         { text: 'Contact Us', link: '/kagi/company/contact' },
                     ]
