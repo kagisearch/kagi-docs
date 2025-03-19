@@ -141,7 +141,6 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 - Incomplete CSP
 - X-Frame-Options issues
 - SSL/TLS Configuration
-- Weak cipher suites
 - Protocol vulnerabilities
 - Certificate issues
 - CORS Misconfiguration
