@@ -28,7 +28,7 @@ The Tab Group will now sync in Orion across all of your devices where [syncing](
 
 <img src="./media/ios_tabs_icon.png" width="150" alt="iOS Tabs Icon"><br />
 
-2. Tap the **Tabs** menu at the bottom of your screen. The location and appearance of the menu can vary based on whether you use [Sidecar or Grab tabs](vertical-tabs.md#ios_tab_styles) and how many tabs you have open.
+2. Tap the **Tabs** menu at the bottom of your screen. The location and appearance of the menu can vary based on whether you use [Sidebar or Grid tabs](vertical-tabs.md#ios_tab_styles) and how many tabs you have open.
 
 <img src="./media/ios_tabs_menu_1.png" width="300" alt="iOS Tabs Menu 1"><br />
 
@@ -51,7 +51,7 @@ The Tab Group will now sync in Orion across all of your devices where [syncing](
 
 <img src="./media/ipados_tabs_icon.png" width="300" alt="iPadOS Tabs Icon"><br />
 
-2. Tap the **Tabs** menu at the bottom of your screen. The location and appearance of the menu can vary based on whether you use [Sidecar or Grab tabs](vertical-tabs.md#ipados_tab_styles) and how many tabs you have open. In the menu that appears, tap **New Tab Group from X Tab** (the X will vary based on how many tabs you have open.)
+2. Tap the **Tabs** menu at the bottom of your screen. The location and appearance of the menu can vary based on whether you use [Sidebar or Grid tabs](vertical-tabs.md#ipados_tab_styles) and how many tabs you have open. In the menu that appears, tap **New Tab Group from X Tab** (the X will vary based on how many tabs you have open.)
 
 <img src="./media/ipados_tabs_menu_1.png" width="500" alt="iPadOS Tabs Menu 1"><br />
 
