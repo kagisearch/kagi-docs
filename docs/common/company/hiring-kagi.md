@@ -16,7 +16,11 @@ At Kagi, we're on a mission to humanize the web - making it more accessible, eth
 
 
 ## Current Opportunities
-We're actively seeking passionate individuals to join our dynamic team. Explore our current openings [here](https://kagi.peopleforce.io/careers).
+We're actively seeking passionate individuals to join our dynamic team. 
+
+Explore our current openings [here](https://kagi.peopleforce.io/careers).
+
+When applying, please focus on crafting a compelling cover letter. This document serves as your personal introduction - revealing to us who you are, why you aspire to join Kagi, and what drives your professional journey and what your ambition is. Use this opportunity to articulate your story and demonstrate why your talents would enhance our organization.
 
 ## Life at Kagi
 - Embrace a remote-first culture with flexible working conditions.
