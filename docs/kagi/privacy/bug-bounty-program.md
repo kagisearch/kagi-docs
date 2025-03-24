@@ -162,6 +162,7 @@ The following bugs are unlikely to be eligible for a bounty reward:
 - Scanner-generated reports
 - Third-party vulnerabilities
 - Password complexity issues
+- DNS configuration issues
 - Non-exploitable issues
 - Clickjacking without impact
 - CSRF on public actions
