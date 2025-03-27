@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { SearchPlugin } from 'kagi-sidekick-vitepress'
+import markdownItKatex from '@vscode/markdown-it-katex'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -73,7 +74,12 @@ export default defineConfig({
     ignoreDeadLinks: true,
     sitemap: {
         hostname: 'https://help.kagi.com'
-    }
+    },
+    markdown: {
+        config: (md) => {
+            md.use(markdownItKatex.default, { output: "mathml" });
+        },
+    },
 })
 
 function sidebarKagi() {
