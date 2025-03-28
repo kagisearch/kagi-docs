@@ -36,6 +36,18 @@ We hope that our work impacts people's lives in some small way for the better. T
 >
 > —Vladimir Prelovac
 
+## Contact
+
+Kagi Inc.\
+548 Market St\
+PMB 477946\
+San Francisco, CA 94104-5401\
+Email: vlad@kagi.com (CEO)\
+Email: support@kagi.com (Support)
+
+## Community
+
+Check various ways to become a member and engage with [Kagi user community](https://help.kagi.com/kagi/support-and-community/) including Discord server, social media and feedback forums.
 
 ## What Does "Kagi" Mean?
 
@@ -66,11 +78,4 @@ We simply call him ”Doggo” for now. He's adorable! We have more [assets](htt
 
 <img src="./media/doggo_1.png" width="350" alt="Doggo Kagi Mascot">
 
-## Contact
 
-Kagi Inc.\
-548 Market St\
-PMB 477946\
-San Francisco, CA 94104-5401\
-Email: vlad@kagi.com (CEO)\
-Email: support@kagi.com (Support)
