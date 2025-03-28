@@ -127,7 +127,7 @@ function sidebarKagi() {
                         { text: 'Community Doggos', link: '/kagi/support-and-community/doggos' },
                     ]
                 },
-                { text: 'Frequently Asked Questions', link: '/kagi/faq/sales-tax-vat' },
+                { text: 'Frequently Asked Questions', link: '/kagi/faq/faq' },
                 {
                     text: 'Contribute',
                     collapsed: true,
