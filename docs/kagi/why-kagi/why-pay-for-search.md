@@ -34,6 +34,11 @@ Let's be crystal clear about what "free" really costs:
 
 **Google is only "free" if your time has no value.** Every ad, every clickbait result, every distraction steals minutes of your life you'll never get back.
 
+Moreoever, "free" search engines come at a real cost, not just inconvenience, but financial harm and vulnerability to scams. The business model muddle is real. Illusion of "free" is real. Boston Globe's Aaron Pressman describes the journey that ultimately [led him to Kagi]([url](https://www.bostonglobe.com/2025/04/01/business/google-search-problems-alternatives-kagi/)):
+
+<img width="969" alt="search" src="https://github.com/user-attachments/assets/92418d3d-54e0-422a-9dcb-9c6fe4ef6e7b" />
+
+
 ## The Kagi difference
 
 We built a better way:
