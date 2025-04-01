@@ -169,3 +169,63 @@ The following bugs are unlikely to be eligible for a bounty reward:
 - Version number disclosure
 - Path disclosure
 - Missing nonmandatory DNS records
+
+## Rewards
+
+Here report our valid reports that we have rewared so far. We appreciate your contributions
+that enhance the security and consistency of our services.
+
+**Severus Stalin**
+
+- Email: `***lin@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|HIGH|[Orion Browser] Arbitrary Javascript code Execution |$300|On going|
+|MEDIUM|[Orion Browser] UXSS Vulnerability in Orion Browser |$100|07-03-2025|
+|MEDIUM|[Orion Browser] Improper RTLO Rendering Affecting User Downloads |$100|05-03-2025|
+|MEDIUM|[Orion Browser] Improper Display of Source Information |$100|29-03-2025|
+|LOW |[Kagi Docs] XSS in Kagi ChatBot |$50|22-03-2025|
+|LOW |[Orion Browser] UXSS Vulnerability in Orion Browser |$50|13-03-2025|
+|LOW|[Orion Browser] Addressing Spoofed URL Vulnerability in Browser Domain Display |$50|31-03-2025|
+|LOW|[Orion Browser] Address Bar Impersonation Vulnerability via Data URI |$50|26-03-2025|
+
+
+**Bug Hunter**
+
+- Email: `***av1@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|HIGH |[Kagi Search] Google SSO login token hijackable by a wrapper |$200|29-03-2025|
+
+
+**Cheripally Sathwik**
+
+- Email: `***832@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|HIGH |[Kagi Browser Extension] Npm package confusion |$250|10-03-2025|
+
+**Vinit Lakra**
+
+- Email: `***634@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MEDIUM|[Orion Browser, Android] - Task hijacking leads to account takeover |$100|07-03-2025|
+
+
+**Prajit Sindhkar**
+
+- Email: `***r01@gmail.com `
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MEDIUM|[Kagi Prism] CVE-2024-34351 - Sever Side Request Forgery |$100|24-02-2025|
