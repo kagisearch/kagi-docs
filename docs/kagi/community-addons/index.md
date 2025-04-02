@@ -10,6 +10,7 @@ If you created or found a Kagi integration with other products or tools, we woul
 [Raycast](https://www.raycast.com/) is a extendible launcher application for MacOS.
 
 - [FastGPT for Raycast](https://www.raycast.com/http.james/kagi-fastgpt): Bring the power of our [FastGPT API](../api/fastgpt.md) right to your desktop.
+- [Kagi Search](https://www.raycast.com/fearoffish/kagi-search): Instant search with using the Kagi Search API, with autosuggestions, bang support and access to FastGPT.
 
 ## Alfred
 
