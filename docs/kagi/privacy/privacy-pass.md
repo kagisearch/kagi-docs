@@ -145,3 +145,6 @@ If you see a "Generate more tokens" button, it usually means the extension could
 Also check the [Kagi privacy pass FAQ](https://blog.kagi.com/kagi-privacy-pass#faq).
 
 Simply ensure you're logged in and online, then click the "Generate more tokens" button to try again. If you continue experiencing issues, please reach out to our support team at support@kagi.com.
+
+## Known Issues  
+- Some Android forks allow users to disable "WebView JIT" for enhanced security. However, WebView JIT must remain enabled for the Privacy Pass feature in the Android app to work correctly.
