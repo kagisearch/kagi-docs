@@ -150,20 +150,24 @@ The Assistant provides access to the following LLMs:
 | Anthropic   | [Claude 3.7 Sonnet with extended thinking](https://kagi.com/assistant?profile=claude-3-7-sonnet)|
 | Anthropic   | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)   |
 | Anthropic   | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)         |
-| Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)  
+| Anthropic   | [Claude 3 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)       |
 | OpenAI      | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                       |
+| OpenAI      | [ChatGPT 4o](https://kagi.com/assistant?profile=chatgpt-4o)               |
 | OpenAI      | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
-| OpenAI      | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)             |
+| OpenAI      | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)                     |
 | Mistral AI  | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)        |
 | Mistral AI  | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)         |
+| Google      | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)        |
 | Google      | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)           |
+| Google      | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)  |
 | <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)   |
 | <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b) |
 | <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Alibaba</span> | [Qwen QwQ 32b](https://kagi.com/assistant?profile=qwen-qwq-32b)   |
-| Amazon  | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                     |
-| Amazon  | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                       |
-| DeepSeek | [Chat V3](https://kagi.com/assistant?profile=deepseek)                       |
-| DeepSeek | [R1](https://kagi.com/assistant?profile=deepseek-r1)                         | 
+| Amazon      | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                 |
+| Amazon      | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                   |
+| DeepSeek    | [Chat V3](https://kagi.com/assistant?profile=deepseek)                    |
+| DeepSeek    | [R1](https://kagi.com/assistant?profile=deepseek-r1)                      |
+| DeepSeek    | [R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b)    |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
