@@ -24,7 +24,7 @@ We will be rebuilding the entire benchmark tables shortly with new data and task
 | **Amazon** Nova-Pro                                   | 53.22        | 9881   | 0.013          | 1.04               | 92.34              |
 | **Meta** llama4-maverick-instruct-basic               | 52.29        | 9360   | 0.0129         | 64.75              | 65.87              |
 | **Amazon** Nova-Lite                                  | 50.00        | 9619.5 | 0.0122         | 0.94               | 87.93              |
-| **Mistral** pixtral-12b                               | 48.66        | 9400   | 0.0069         | 3.07               | 150.21             |
+| **Mistral** Nemo                                      | 48.66        | 9400   | 0.0069         | 3.07               | 150.21             |
 | **OpenAI** gpt-4o                                     | 48.39        | 10371  | 0.12033        | 2.07               | 48.31              |
 | **Anthropic** claude-3-5-sonnet-20241022              | 43.55        | 9869   | 0.17042        | 2.69               | 50.13              |
 | **Mistral** Large-2411                                | 41.94        | 12500  | 0.09042        | 3.07               | 38.02              |
