@@ -160,9 +160,11 @@ The Assistant provides access to the following LLMs:
 | Google      | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)        |
 | Google      | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)           |
 | Google      | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)  |
-| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)   |
-| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b) |
-| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Alibaba</span> | [Qwen QwQ 32b](https://kagi.com/assistant?profile=qwen-qwq-32b)   |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick) |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 4 Scout](https://kagi.com/assistant?profile=llama-4-scout)       |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)         |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Meta</span>    | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b)       |
+| <span title="Hosted by Firework AI" style="border-bottom: 1px dotted; cursor: help;">Alibaba</span> | [Qwen QwQ 32b](https://kagi.com/assistant?profile=qwen-qwq-32b)         |
 | Amazon      | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                 |
 | Amazon      | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                   |
 | DeepSeek    | [Chat V3](https://kagi.com/assistant?profile=deepseek)                    |
