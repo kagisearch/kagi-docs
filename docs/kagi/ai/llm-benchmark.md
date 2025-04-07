@@ -6,35 +6,41 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **March 25, 2025**
+Last updated **April 7th, 2025**
 
+
+## NOTE TO USERS
+
+We will be rebuilding the entire benchmark tables shortly with new data and tasks. Some of the older models in this table may be graded unfairly harshly.
 
 ### General purpose models
-
-| Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
-|-----------------------------|---------------|--------|----------------|------------------|-------------------|
-| **OpenAI** gpt-4.5-preview | 69.35 | 14061 | 2.15409 | 8.86 | 11.27  |
-| **Google** gemini-2.0-pro-exp-02-05 | 60.78 | 6420 | 0.32164 | 1.72 | 51.25 |
-| **Anthropic** claude-3-7-sonnet-20250219 |  53.23 | 12196 | 0.20533 | 2.82| 54.12 |
-| **OpenAI** gpt-4o | 48.39 | 10371 | 0.12033 | 2.07 | 48.31 |
-| **Anthropic** claude-3-5-sonnet-20241022 | 43.55 | 9869 | 0.17042 | 2.69 | 50.13 |
-| **DeepSeek** Chat V3 | 41.94 | 22381 | 0.00719 | 4.04  | 63.82 |
-| **Mistral** Large-2411 | 41.94 | 12500 | 0.09042 | 3.07 | 38.02 |
-| **Amazon** Nova-Pro | 40.32 | 15160 | 0.05426 | 3.08 | 60.42 |
-| **Google** gemini-2.0-flash-lite-preview-02-05 |  38.71 | 9470 | 0.01282 | 0.72| 116.74 |
-| **Anthropic** Claude-3.5-haiku-20241022 | 37.10 | 9695 | 0.05593 | 2.08 | 56.60 |
-| **Google** gemini-2.0-flash |  37.10 | 10366 | 0.01852 | 1.04| 83.24|
-| **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 35.48 | 12315 | 0.09648 | 2.33 | 33.77 |
-| **Meta** llama-3.3-70b-versatile (Groq) | 33.87 | 15008 | 0.01680 | 0.63 | 220.90|
-| **Microsoft** phi-4 14B (local) | 32.26 | 17724 | n/a | n/a | n/a |
-| **Meta** llama-3.1-70b-versatile | 30.65 | 12622 | 0.01495 | 1.42 | 82.35 |
-| **Amazon** Nova-Lite | 24.19 | 16325 | 0.00431 | 2.29 | 87.93 |
-| **Google** gemini-1.5-flash | 22.58 | 6806 | 0.00962 | 0.66 | 77.93 |
-| **Amazon** Nova-Micro | 22.58 | 16445 | 0.00253 | 1.97 | 106.47 |
-| **Alibaba** Qwen-2.5-72B | 20.97 | 8616 | 0.07606 | 9.08 | 10.08 |
-| **OpenAI** gpt-4o-mini | 19.35 | 13363 | 0.00901 | 1.53 | 66.41 |
-| **Anthropic** Claude-3-haiku-20240307| 9.68 | 10296 | 0.01470 | 1.44 | 108.38 |
-| **TII** Falcon3 7B (local) | 9.68 | 18574 | n/a | n/a | n/a |
+| Model                                                 | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
+|-------------------------------------------------------|--------------|--------|----------------|--------------------|--------------------|
+| **OpenAI** gpt-4.5-preview                            | 69.35        | 14061  | 2.15409        | 8.86               | 11.27              |
+| **Google** gemini-2.0-pro-exp-02-05                   | 60.78        | 6420   | 0.32164        | 1.72               | 51.25              |
+| **Meta** llama-4-scout-17b-16e-instruct               | 55.56        | 9457   | 0.0122         | 2.17               | 41.22              |
+| **DeepSeek** deepseek-v3-0324                         | 55.09        | 19413  | 0.02517        | 2.04               | 43.53              |
+| **Anthropic** claude-3-7-sonnet-20250219              | 53.23        | 12196  | 0.20533        | 2.82               | 54.12              |
+| **Amazon** Nova-Pro                                   | 53.22        | 9881   | 0.013          | 1.04               | 92.34              |
+| **Meta** llama4-maverick-instruct-basic               | 52.29        | 9360   | 0.0129         | 64.75              | 65.87              |
+| **Amazon** Nova-Lite                                  | 50.00        | 9619.5 | 0.0122         | 0.94               | 87.93              |
+| **Mistral** pixtral-12b                               | 48.66        | 9400   | 0.0069         | 3.07               | 150.21             |
+| **OpenAI** gpt-4o                                     | 48.39        | 10371  | 0.12033        | 2.07               | 48.31              |
+| **Anthropic** claude-3-5-sonnet-20241022              | 43.55        | 9869   | 0.17042        | 2.69               | 50.13              |
+| **Mistral** Large-2411                                | 41.94        | 12500  | 0.09042        | 3.07               | 38.02              |
+| **Google** gemini-2.0-flash-lite-preview-02-05        | 38.71        | 9470   | 0.01282        | 0.72               | 116.74             |
+| **Anthropic** Claude-3.5-haiku-20241022               | 37.10        | 9695   | 0.05593        | 2.08               | 56.60              |
+| **Google** gemini-2.0-flash                           | 37.10        | 10366  | 0.01852        | 1.04               | 83.24              |
+| **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 35.48        | 12315  | 0.09648        | 2.33               | 33.77              |
+| **Meta** llama-3.3-70b-versatile (Groq)               | 33.87        | 15008  | 0.01680        | 0.63               | 220.90             |
+| **Microsoft** phi-4 14B (local)                       | 32.26        | 17724  | n/a            | n/a                | n/a                |
+| **Meta** llama-3.1-70b-versatile                      | 30.65        | 12622  | 0.01495        | 1.42               | 82.35              |
+| **Google** gemini-1.5-flash                           | 22.58        | 6806   | 0.00962        | 0.66               | 77.93              |
+| **Amazon** Nova-Micro                                 | 22.58        | 16445  | 0.00253        | 1.97               | 106.47             |
+| **Alibaba** Qwen-2.5-72B                              | 20.97        | 8616   | 0.07606        | 9.08               | 10.08              |
+| **OpenAI** gpt-4o-mini                                | 19.35        | 13363  | 0.00901        | 1.53               | 66.41              |
+| **Anthropic** Claude-3-haiku-20240307                 | 9.68         | 10296  | 0.01470        | 1.44               | 108.38             |
+| **TII** Falcon3 7B (local)                            | 9.68         | 18574  | n/a            | n/a                | n/a                |
 
 
 
