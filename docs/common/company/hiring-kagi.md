@@ -42,4 +42,4 @@ If you're passionate about shaping the future of search and AI, we'd love to hea
 
 ## Who you would be working with
 
-To get a sense of some aspects of the position, including the team you would be working with and the business itself, check out the [Kagi Search community event](https://www.youtube.com/watch?v=-BQzZkkpLQ4), recorded live in December 2024 or feel free to join [Kagi discord](https://kagi.com/discord).
+To get a sense of some aspects of the position, including the team you would be working with and the business itself, check out the [Kagi Search community event](https://www.youtube.com/watch?v=-BQzZkkpLQ4), recorded live in December 2024 or feel free to join [Kagi Discord](https://kagi.com/discord).
