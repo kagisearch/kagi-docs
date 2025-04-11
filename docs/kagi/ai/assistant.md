@@ -170,6 +170,8 @@ The Assistant provides access to the following LLMs:
 | DeepSeek    | [Chat V3](https://kagi.com/assistant?profile=deepseek)                    |
 | DeepSeek    | [R1](https://kagi.com/assistant?profile=deepseek-r1)                      |
 | DeepSeek    | [R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b) |
+| xAI         | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)             |
+| xAI         | [Grok 3](https://kagi.com/assistant?profile=grok-3)                       |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
