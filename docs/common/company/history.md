@@ -6,7 +6,7 @@ We are not affiliated with the legendary Kagi - the shareware payments platform.
   
 ## Early years
 
-In the first couple of years (2018 - 2019) Kagi was focused on AI technology, driven by the notion that any future search engine will need to have a strong instant question-answering component. We called it "[the last mile of search](https://kagi.ai/last-mile-for-web-search.html)" and this project gave us
+In the first couple of years (2018 - 2019) Kagi was focused on AI technology, driven by the notion that any future search engine will need to have a strong instant question-answering component. We called it "[the last mile of search](https://blog.kagi.com/last-mile-for-web-search)" and this project gave us
 the domain knowledge and expertise used in Kagi Search today. Other experiments like [video question answering](https://vimeo.com/754908681) were built during this period.
 
 In 2019 the [first prototype of Kagi Search](https://vimeo.com/754899234) is made public. It used an unusual MUD-like, command-line mode with powerful features built in.  
@@ -17,7 +17,7 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 
 2018 (The Age of AI)
 
-- Work begins on [Kagi.ai](https://kagi.ai)
+- Work begins on [Kagi.ai](https://web.archive.org/web/20241129140750/https://kagi.ai/)
 - Team size: ~3
 
 2019 (First products)
