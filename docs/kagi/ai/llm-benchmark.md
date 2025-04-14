@@ -20,8 +20,10 @@ We will be rebuilding the entire benchmark tables shortly with new data and task
 | **Google** gemini-2.0-pro-exp-02-05                   | 60.78        | 6420   | 0.32164        | 1.72               | 51.25              |
 | **Meta** llama-4-scout-17b-16e-instruct               | 55.56        | 9457   | 0.0122         | 2.17               | 41.22              |
 | **DeepSeek** deepseek-v3-0324                         | 55.09        | 19413  | 0.02517        | 2.04               | 43.53              |
+| **OpenAI** gpt-4.1              | 54.84        | 17869  | 0.15620        | 2.15               | 88.90              |
 | **Anthropic** claude-3-7-sonnet-20250219              | 53.23        | 12196  | 0.20533        | 2.82               | 54.12              |
-| **Amazon** Nova-Pro                                   | 53.22        | 9881   | 0.013          | 1.04               | 92.34              |
+| **Amazon** Nova-Pro                                   | 53.23        | 9881   | 0.013          | 1.04               | 92.34              |
+| **OpenAI** gpt-4.1-mini         | 53.23        | 17558  | 0.03075        | 1.40       
 | **Meta** llama4-maverick-instruct-basic               | 52.29        | 9360   | 0.0129         | 64.75              | 65.87              |
 | **Amazon** Nova-Lite                                  | 50.00        | 9619.5 | 0.0122         | 0.94               | 87.93              |
 | **Mistral** Nemo                                      | 48.66        | 9400   | 0.0069         | 3.07               | 150.21             |
@@ -35,6 +37,7 @@ We will be rebuilding the entire benchmark tables shortly with new data and task
 | **Meta** llama-3.3-70b-versatile (Groq)               | 33.87        | 15008  | 0.01680        | 0.63               | 220.90             |
 | **Microsoft** phi-4 14B (local)                       | 32.26        | 17724  | n/a            | n/a                | n/a                |
 | **Meta** llama-3.1-70b-versatile                      | 30.65        | 12622  | 0.01495        | 1.42               | 82.35              |
+| **OpenAI** gpt-4.1-nano         | 24.19        | 18869  | 0.00820        | 1.02               | 234.86             |
 | **Google** gemini-1.5-flash                           | 22.58        | 6806   | 0.00962        | 0.66               | 77.93              |
 | **Amazon** Nova-Micro                                 | 22.58        | 16445  | 0.00253        | 1.97               | 106.47             |
 | **Alibaba** Qwen-2.5-72B                              | 20.97        | 8616   | 0.07606        | 9.08               | 10.08              |
