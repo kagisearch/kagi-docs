@@ -183,7 +183,10 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|HIGH|[Orion Browser] Arbitrary Javascript code Execution |$300|On going|
+|HIGH|[Orion Browser] Arbitrary Javascript code Execution |$300|03-04-2025|
+|MEDIUM|[Orion Browser] Address Bar Impersonation |$100|07-04-2025|
+|MEDIUM|[Orion Browser] IDN Homograph Attack |$100|07-04-2025|
+|MEDIUM|[Orion Browser] XSS Attacks via JavaScript in href |$100|07-04-2025|
 |MEDIUM|[Orion Browser] UXSS Vulnerability in Orion Browser |$100|07-03-2025|
 |MEDIUM|[Orion Browser] Improper RTLO Rendering Affecting User Downloads |$100|05-03-2025|
 |MEDIUM|[Orion Browser] Improper Display of Source Information |$100|29-03-2025|
@@ -193,7 +196,7 @@ that enhance the security and consistency of our services.
 |LOW|[Orion Browser] Address Bar Impersonation Vulnerability via Data URI |$50|26-03-2025|
 
 
-**Bug Hunter**
+**Gaura Popalghat**
 
 - Email: `***av1@gmail.com`
 - Valid reports
