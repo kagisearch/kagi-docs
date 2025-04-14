@@ -23,7 +23,7 @@ We will be rebuilding the entire benchmark tables shortly with new data and task
 | **OpenAI** gpt-4.1              | 54.84        | 17869  | 0.15620        | 2.15               | 88.90              |
 | **Anthropic** claude-3-7-sonnet-20250219              | 53.23        | 12196  | 0.20533        | 2.82               | 54.12              |
 | **Amazon** Nova-Pro                                   | 53.23        | 9881   | 0.013          | 1.04               | 92.34              |
-| **OpenAI** gpt-4.1-mini         | 53.23        | 17558  | 0.03075        | 1.40       
+| **OpenAI** gpt-4.1-mini         | 53.23        | 17558  | 0.03075        | 1.40       | 132.20 |
 | **Meta** llama4-maverick-instruct-basic               | 52.29        | 9360   | 0.0129         | 64.75              | 65.87              |
 | **Amazon** Nova-Lite                                  | 50.00        | 9619.5 | 0.0122         | 0.94               | 87.93              |
 | **Mistral** Nemo                                      | 48.66        | 9400   | 0.0069         | 3.07               | 150.21             |
