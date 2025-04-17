@@ -29,6 +29,8 @@ If you have an existing Kagi account and want to upgrade to the Family plan, eve
 
 Adding family members is easy, you can [invite them via email](https://kagi.com/settings?p=account_members) through Kagi. For kids, you can use a username, and an adult will help them log in by getting a verification email.
 
+You can upgrade adult family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
+
 <img src="https://staticmedia.kagi.com/family/add_member.png" >
 <center><em>Invite family members to the plan</em></center>
 

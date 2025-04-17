@@ -12,19 +12,19 @@ Kagi offers several subscriptions plans.
 
 ### Individual:
 * The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and curious about paid search engines.
-* The **Starter** plan offers 300 searches for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
-* The **Professional** plan offers unlimited searches for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
-* The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches and access to [The Assistant](../ai/assistant.md) for USD $25 per month. This plan offers the most power to the user.
+* The **Starter** plan offers 300 searches and AI interactions (standard models) for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
+* The **Professional** plan offers unlimited searches and AI interactions (standard models) for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
+* The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches and AI interactions (premium models) for USD $25 per month. This plan offers the most power to the user.
 
 ### Family Plan:
 
-We offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
+We offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, you can upgrade adult family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
 
 ### Team Plan:
 
 You can also bring Kagi to your organization with our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html)! See how [Kagi for Teams](https://kagi.com/teams) can elevate your whole workspace with powerful search features and universal AI access, while keeping your organization's data private and secure.
 
-## How searches are counted
+## How searches are counted (Starter Plan)
 
 * [Bangs](../features/bangs.md) and search suggestions (while typing) are never counted as searches.
 * Reloading the same search within a short time (~2 minutes) does not count as an additional search.
@@ -32,10 +32,6 @@ You can also bring Kagi to your organization with our [Team plan](https://help.k
 * Loading more results counts as an additional search.
 
 Note that searches do not roll over to the next month; the number of available searches resets each month. Months are counted starting from the date of subscription, and are not necessarily aligned with the months of the year.
-
-## Legacy Subscribers and Early Adopters
-
-For any existing subscribers and early adopters who are interested in how legacy accounts will be used and maintained please refer to the blog post [Unlimited Kagi searches for $10 per month](https://blog.kagi.com/unlimited-searches-for-10).
 
 ## Why Tiered Pricing
 
@@ -53,8 +49,7 @@ If you find that you are consistently running out of searches at the end of each
 
 ### Consider the Ultimate Plan for Advanced Features
 
-If you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan. This gives you access to exclusive and early access to Kagi features and services.
-  * Note: Ultimate Plan users have access to the open beta of the [next generation of tools](../ai/assistant.md) that Kagi is bringing to the web.
+If you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan. This gives you access to premium AI models.
 
 ### Understand Your Consumption
 

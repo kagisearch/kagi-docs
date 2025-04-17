@@ -4,9 +4,9 @@
 
 <video src="./media/assistant.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-The Assistant by Kagi combines top large language models (LLM) with optional results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! All this is included in a single subscription!
+The Assistant by Kagi combines the top large language models (LLMs) with optional results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! All this is included in a single subscription!
 
->**NOTE:** The Assistant is currently available to users with the [Kagi Ultimate plan](../plans/ultimate-plan.md).
+>**NOTE:** We’re excited to [announce](https://blog.kagi.com/assistant-for-all) that Kagi Assistant is now available to all users across all plans, expanding from its previous exclusivity to Ultimate subscribers.
 
 ## Features
 
@@ -28,7 +28,7 @@ The Assistant by Kagi combines top large language models (LLM) with optional res
 
 ## Privacy
 
-When you use the Assistant by Kagi, your data is never used to train AI models (not by us or by the LLM providers), and no account information is shared with the LLM providers. By default, threads expire after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/?p=assistant).
+When you use the Assistant by Kagi, your data is never used to train AI models (not by us or by the LLM providers), and no account information is shared with the LLM providers. By default, threads are deleted after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/?p=assistant).
 
 ## Using the Assistant
 
@@ -53,13 +53,13 @@ The Assistant supports threads, allowing you to keep your bagel topping ideas se
 The search bar enables you to search for that one elusive thread.
 Currently, the search only looks through your thread titles.
 
-By default threads are kept for 24 hours after the last message.
+By default, threads are kept for 24 hours after the last message.
 If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/?p=assistant).
 Please note that the thread saving setting is applied **when the thread is created**.
 
 Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread.
 
-The Quick Access feature can be used to better organize your threads but it will not influence the thread saving setting.
+The Quick Access feature can be used to better organize your threads, but it will not influence the thread saving setting.
 In other words, threads added to Quick Access will also be deleted after 24 hours, unless you have chosen otherwise in the settings.
 
 You can also **preserve** threads with the star symbol, located to the left of the thread title.
@@ -81,25 +81,30 @@ To upload a file:
 
 1. Click the paperclip icon in the prompt input box.
 2. Select the file or image you wish to upload.
-3. Provide a prompt with instructions to process the file or leave blank to summarize it.
+3. Provide a prompt with instructions to process the file or leave it blank to summarize it.
 
 Important considerations for file uploads:
 
-**File size limit:** The maximum file size for uploads is 8MB.
+**File size limit:** The maximum file size for uploads is 16MB.
 **Processing time:** Larger files may take a few moments to process.
 **Context retention:** Uploaded file content remains in the conversation context for subsequent messages.
 
 The Assistant supports various file formats across different categories, including:
 
-| File Type | Supported Formats |
-|:--|:--|
-| Text | txt, text, md (and other text-based formats) |
-| Rich Format | pdf, docx, pptx |
-| Spreadsheets | csv, tsv, xlsx, json, jsonl |
-| Image | jpg, jpeg, png, gif, tiff, tif, webp |
-| Audio | 3gpp, aa, aac, aax, act, aiff, amr, ape, au, awb, dct, dss, dvf, flac, gsm, iklax, ivs, m4a, m4b, m4p, mp4, mmf, mp3, mpc, msv, ogg, opus, ra, rm, sln, tta, vox, wav, wma, wvpla |
+| File Type    | Supported Formats                                                                                                                                                                 |
+| :----------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Text         | txt, text, md (and other text-based formats)                                                                                                                                      |
+| Rich Format  | pdf, docx, pptx                                                                                                                                                                   |
+| Spreadsheets | csv, tsv, xlsx, json, jsonl                                                                                                                                                       |
+| Image        | jpg, jpeg, png, gif, tiff, tif, webp                                                                                                                                              |
+| Audio        | 3gpp, aa, aac, aax, act, aiff, amr, ape, au, awb, dct, dss, dvf, flac, gsm, iklax, ivs, m4a, m4b, m4p, mp4, mmf, mp3, mpc, msv, ogg, opus, ra, rm, sln, tta, vox, wav, wma, wvpla |
 
 Note: Unsupported formats may be treated as binary files.
+
+## Fetching online content
+
+Assistant can fetch webpages and online documents (up to 50 MB) to use them as context for your conversation.
+To use this feature, simply paste the URL in your Assistant conversation (make sure the Entire Web toggle is on).
 
 ## Custom Instructions
 
@@ -121,61 +126,62 @@ For more details, refer to the [Custom Assistants](./custom-assistants.md) page.
 
 The following keyboard shortcuts are available in the Assistant by Kagi on Mac and PC.
 
-| Mac Shortcut | Action |
-|:--|:--|
-| &#8984; + K | New Thread |
-| &#8984; + Shift + S | Toggle Sidebar |
-| &#8984; + Shift + C | Copy Last Response |
-| &#8984; + Shift + E | Edit Last Message |
-| &#8984; + Shift + Backspace | Delete Current Thread |
-| &#8984; + / | Focus Prompt Box |
-| &#8984; + . | Show Keyboard Shortcuts |
+| Mac Shortcut                | Action                  |
+| :-------------------------- | :---------------------- |
+| &#8984; + K                 | New Thread              |
+| &#8984; + Shift + S         | Toggle Sidebar          |
+| &#8984; + Shift + C         | Copy Last Response      |
+| &#8984; + Shift + E         | Edit Last Message       |
+| &#8984; + Shift + Backspace | Delete Current Thread   |
+| &#8984; + /                 | Focus Prompt Box        |
+| &#8984; + .                 | Show Keyboard Shortcuts |
 
-| PC Shortcut | Action |
-|:--|:--|
-| Ctrl + K | New Thread |
-| Ctrl + Shift + S | Toggle Sidebar |
-| Ctrl + Shift + C | Copy Last Response |
-| Ctrl + Shift + E | Edit Last Message |
-| Ctrl + Shift + Backspace | Delete Current Thread |
-| Ctrl + / | Focus Prompt Box |
-| Ctrl + . | Show Keyboard Shortcuts |
+| PC Shortcut              | Action                  |
+| :----------------------- | :---------------------- |
+| Ctrl + K                 | New Thread              |
+| Ctrl + Shift + S         | Toggle Sidebar          |
+| Ctrl + Shift + C         | Copy Last Response      |
+| Ctrl + Shift + E         | Edit Last Message       |
+| Ctrl + Shift + Backspace | Delete Current Thread   |
+| Ctrl + /                 | Focus Prompt Box        |
+| Ctrl + .                 | Show Keyboard Shortcuts |
 
 ## LLMs Available in The Assistant
 
 The Assistant provides access to the following LLMs:
 
-| Developer   | Model                                                                     |
-|-------------|---------------------------------------------------------------------------|
-| Anthropic   | [Claude 3.7 Sonnet with extended thinking](https://kagi.com/assistant?profile=claude-3-7-sonnet)|
-| Anthropic   | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)   |
-| Anthropic   | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)         |
-| Anthropic   | [Claude 3.5 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)     |
-| OpenAI      | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                       |
-| OpenAI      | [ChatGPT 4o](https://kagi.com/assistant?profile=chatgpt-4o)               |
-| OpenAI      | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
-| OpenAI      | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)                     |
-| OpenAI      | [o4 Mini](https://kagi.com/assistant?profile=o4-mini)                     |
-| OpenAI      | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                     |
-| OpenAI      | [GPT 4.1 Mini](https://kagi.com/assistant?profile=gpt-4-1-mini)                     |
-| OpenAI      | [GPT 4.1 Nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                     |
-| Mistral AI  | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)        |
-| Mistral AI  | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)         |
-| Google      | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)       |
-| Google      | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)           |
-| Google      | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)|
-| Meta        | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)           |
-| Meta        | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b)         |
-| Meta        | [Llama 4 Scout](https://kagi.com/assistant?profile=llama-4-scout)         |
-| Meta        | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)   |
-| Alibaba     | [Qwen QwQ 32B](https://kagi.com/assistant?profile=qwen-qwq-32b)           |
-| Amazon      | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                 |
-| Amazon      | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                   |
-| DeepSeek    | [Chat V3](https://kagi.com/assistant?profile=deepseek)                    |
-| DeepSeek    | [R1](https://kagi.com/assistant?profile=deepseek-r1)                      |
-| DeepSeek    | [R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b) |
-| xAI         | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)             |
-| xAI         | [Grok 3](https://kagi.com/assistant?profile=grok-3)                       |
+| Developer  | Model                                                                                            | Plan     |
+| ---------- | ------------------------------------------------------------------------------------------------ | -------- |
+| Anthropic  | [Claude 3.7 Sonnet with extended thinking](https://kagi.com/assistant?profile=claude-3-7-sonnet) | Ultimate |
+| Anthropic  | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)                          | Ultimate |
+| Anthropic  | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)                                | Ultimate |
+| Anthropic  | [Claude 3.5 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)                            | Ultimate |
+| OpenAI     | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                                              | Ultimate |
+| OpenAI     | [ChatGPT 4o](https://kagi.com/assistant?profile=chatgpt-4o)                                      | Ultimate |
+| OpenAI     | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)                                    | All      |
+| OpenAI     | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)                                            | Ultimate |
+| OpenAI     | [o4 Mini](https://kagi.com/assistant?profile=o4-mini)                                            | Ultimate |
+| OpenAI     | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                                            | Ultimate |
+| OpenAI     | [GPT 4.1 Mini](https://kagi.com/assistant?profile=gpt-4-1-mini)                                  | All      |
+| OpenAI     | [GPT 4.1 Nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                                  | All      |
+| Mistral AI | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)                               | All      |
+| Mistral AI | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)                                | Ultimate |
+| Google     | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)                              | All      |
+| Google     | [Gemini 2.5 Flash Preview](https://kagi.com/assistant?profile=gemini-2-5-flash)                  | All      |
+| Google     | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)                                  | Ultimate |
+| Google     | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)                      | Ultimate |
+| Meta       | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)                                  | All      |
+| Meta       | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b)                                | Ultimate |
+| Meta       | [Llama 4 Scout](https://kagi.com/assistant?profile=llama-4-scout)                                | All      |
+| Meta       | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                          | All      |
+| Alibaba    | [Qwen QwQ 32B](https://kagi.com/assistant?profile=qwen-qwq-32b)                                  | Ultimate |
+| Amazon     | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                                        | All      |
+| Amazon     | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                                          | Ultimate |
+| DeepSeek   | [Chat V3](https://kagi.com/assistant?profile=deepseek)                                           | All      |
+| DeepSeek   | [R1](https://kagi.com/assistant?profile=deepseek-r1)                                             | Ultimate |
+| DeepSeek   | [R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b)         | Ultimate |
+| xAI        | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)                                    | Ultimate |
+| xAI        | [Grok 3](https://kagi.com/assistant?profile=grok-3)                                              | Ultimate |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
@@ -215,10 +221,70 @@ Here is an example of a URL that disables internet access, uses the **Claude 3 H
 
 ## Availability
 
-The Assistant is available to all Kagi Ultimate members.
-If you are on a different plan you can upgrade from the [Billing Settings](https://kagi.com/settings?p=billing_plan) page.
+The Assistant is available to all members. However, premium models are only available in our Ultimate plan.
+If you are on a different plan and you need access to these models, you can upgrade from the [Billing Settings](https://kagi.com/settings?p=billing_plan) page.
 
 We also offer an Ultimate upgrade for Family Plans, you can upgrade from the [Family Management](https://kagi.com/settings?p=account_members) page.
+
+## Usage Limits
+
+### Context window limit
+
+The context window refers to how much of the conversation Assistant will take into account to respond to the last message in a conversation.
+
+While we optimize the internals and user experience of the Kagi Assistant, we have limited the number of context tokens but these arbitrary **restrictions will be removed soon**.
+
+The current context window limits are:
+- **32,000 token sliding window** maximum for all conversations
+- **Rolling window of recent exchanges** consisting of:
+  - Your 7 most recent exchanges (14 messages total)
+  - Plus your first exchange (2 messages)
+
+### Input limitations
+
+#### Text input
+
+- **Maximum 100,000 characters** per message
+- Text exceeding this limit will be automatically truncated
+
+#### File uploads
+
+- **Maximum total size: 16 MB** (applies to single or multiple files)
+- **URL content: 50 MB** maximum retrievable size
+
+### Custom Instructions
+
+- **Maximum 5,000 characters** for custom Assistant instructions
+
+### Fair Use Policy
+
+We use a value-based usage system to maintain high-quality service for all users:
+
+- Your monthly plan determines your token usage allowance.
+    - For example, a **$25 monthly plan** provides up to **$25 worth of token usage** across all models.
+- For yearly plans, the monthly token usage allowance is calculated by dividing the annual plan value by 12.
+    - For instance, the **Ultimate yearly plan** allows up to **$22.50 worth of token usage per month**.
+- A **20% margin markup** is included in token usage cost calculations to cover search queries, infrastructure, and development costs.
+    - For example, **$25 token usage** consists of **$20 for raw token costs** and **$5 for operational costs**.
+- Users will receive an in-app reminder as they near their usage limit. If the limit is exceeded, new AI interactions will be disabled until they either renew their plan early or the next billing cycle begins.
+    - **Note:** We will soon introduce the option to purchase top-up credits, allowing you to extend Assistant usage beyond fair-use limits with an amount of your choice. These credits can then also be used for other Kagi products such as the API.
+
+For additional questions about these limitations or policies, please contact our support team.
+
+### Tips to reduce token usage
+
+Here are some suggestions to reduce token usage:
+
+1. Use less expensive models for simple tasks like summarization or basic information extraction. Our [LLM Benchmarking project](https://help.kagi.com/kagi/ai/llm-benchmark.html) page contains cost information for the different models.
+2. Create new threads for unrelated questions rather than continuing in the same conversation.
+3. Be specific and concise in your prompts to get more focused responses.
+4. Use the "Edit Prompt” feature (pencil icon) to refine your question instead of sending multiple clarifications.
+5. Disable web access when you don't need internet information.
+6. Limit file uploads to only what's necessary for your query.
+7. Break complex tasks into smaller, focused questions across multiple threads.
+8. Use custom instructions to request consistently concise responses.
+9. Leverage specialized custom assistants optimized for specific tasks.
+10. Download and delete completed threads to avoid accidentally continuing old conversations.
 
 ## FAQ
 
