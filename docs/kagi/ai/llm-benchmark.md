@@ -10,7 +10,7 @@ Last updated **April 17th, 2025**. We rebuild this table often. We change the be
 
 Note that the costs in this table are heavy on output tokens, due to the nature of the benchmark tasks. These are not representative costs for use of these models as an agent, where the ratio of input to output tokens will be much different.
 
-| model                         | is_reasoning   | accuracy(%)|   time |   cost (¢) |   tokens |   speed (t/s) |
+| model                         | is_reasoning   | accuracy(%)|   time |   cost ($) |   tokens |   speed (t/s) |
 |:------------------------------|:---------------|-----------:|-------:|-----------:|---------:|--------------:|
 | o3                            | Y              |      80.76 |    502 |       0.15 |     6056 |            12 |
 | gemini-2-5-pro                | Y              |      78.35 |    381 |       0.14 |     9905 |            25 |
