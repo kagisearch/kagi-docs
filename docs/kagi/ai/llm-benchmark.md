@@ -12,10 +12,10 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 
 | model                         | is_reasoning   | accuracy(%)|   time |   cost ($) |   tokens |   speed (t/s) |
 |:------------------------------|:---------------|-----------:|-------:|-----------:|---------:|--------------:|
-| o3                            | Y              |      80.76 |    502 |       0.15 |     6056 |            12 |
+| o3                            | Y              |      80.76 |    502 |       2.57 |     6056 |            12 |
 | gemini-2-5-pro                | Y              |      78.35 |    381 |       0.14 |     9905 |            25 |
-| o1                            | Y              |      75.59 |    502 |       0.15 |     3678 |             7 |
-| claude-3-7-extended-thinking  | Y              |      74.24 |    847 |       0.90 |    81931 |            96 |
+| o1                            | Y              |      75.59 |    502 |       6.55 |     3678 |             7 |
+| claude-3-7-extended-thinking  | Y              |      74.24 |    847 |       2.21 |    81931 |            96 |
 | o4-mini                       | Y              |      73.81 |    502 |       0.15 |     4253 |             8 |
 | o3-mini                       | Y              |      71.57 |    502 |       0.15 |    10333 |            20 |
 | qwen-qwq-32b (groq)           | Y              |      71.23 |    763 |       0.11 |   340400 |           446 |
