@@ -49,6 +49,7 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | llama-3-3b                    | N   |      17.58 |    542 |  0.01212 |    24539 |            45 |               1450 |                    3 |
 | mistral-nemo                  | N   |      14.37 |    100 |  0.00128 |     8719 |            87 |              11226 |                   14 |
 
+
 Reasoning models are denoted by the `CoT` column. They are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test and average speed in tokens per second at the time of testing.
@@ -77,7 +78,23 @@ What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R
 Given a QWERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 ```
 
+New Table Attempt:
 
+```json:table
+{
+    "fields" : [
+        {"key": "a", "label": "model", "sortable": true},
+        {"key": "b", "label": "CoT", "sortable": true},
+        {"key": "c", "label": "accuracy", "sortable": true},
+        {"key": "d", "label": "time", "sortable": true},
+    ],
+    "items" : [
+      {"a": "o3", "b": "Y", "c": 76.29, "d": 502},
+      {"a": "claude-3-7-extended-thinking", "b": "Y", "c": 71.34, "d": 847},
+    ],
+    "filter" : true
+}
+```
 
 ## Credits
 
