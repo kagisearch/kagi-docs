@@ -21,7 +21,7 @@ export function vitepressPluginJsonTable() {
                   if (json.fields && json.items) {
                     props += `:fields='${JSON.stringify(json.fields).replace(/'/g, '&#39;')}' `
                     props += `:items='${JSON.stringify(json.items).replace(/'/g, '&#39;')}' `
-                    if (json.filter) {
+                    if (json.filter === true) {  // Check if filter is explicitly true
                       props += `:filter='true' `
                     }
                   } else {
