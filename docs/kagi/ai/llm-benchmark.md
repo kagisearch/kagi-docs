@@ -6,71 +6,48 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi LLM Benchmarking Project uses an unpolluted benchmark to assess contemporary large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, our tests frequently change and are mostly novel, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
 
-Last updated **April 7th, 2025**
+Last updated **April 17th, 2025**. We rebuild this table often. We change the benchmark tasks every update, so scores are not comparable over time.
 
+Note that the costs in this table are heavy on output tokens, due to the nature of the benchmark tasks. These are not representative costs for use of these models as an agent, where the ratio of input to output tokens will be much different.
 
-## NOTE TO USERS
-
-We will be rebuilding the entire benchmark tables shortly with new data and tasks. Some of the older models in this table may be graded unfairly harshly.
-
-### General purpose models
-| Model                                                 | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) | Speed (tokens/sec) |
-|-------------------------------------------------------|--------------|--------|----------------|--------------------|--------------------|
-| **OpenAI** gpt-4.5-preview                            | 69.35        | 14061  | 2.15409        | 8.86               | 11.27              |
-| **Google** gemini-2.0-pro-exp-02-05                   | 60.78        | 6420   | 0.32164        | 1.72               | 51.25              |
-| **Meta** llama-4-scout-17b-16e-instruct               | 55.56        | 9457   | 0.0122         | 2.17               | 41.22              |
-| **DeepSeek** deepseek-v3-0324                         | 55.09        | 19413  | 0.02517        | 2.04               | 43.53              |
-| **OpenAI** gpt-4.1              | 54.84        | 17869  | 0.15620        | 2.15               | 88.90              |
-| **Anthropic** claude-3-7-sonnet-20250219              | 53.23        | 12196  | 0.20533        | 2.82               | 54.12              |
-| **Amazon** Nova-Pro                                   | 53.23        | 9881   | 0.013          | 1.04               | 92.34              |
-| **OpenAI** gpt-4.1-mini         | 53.23        | 17558  | 0.03075        | 1.40       | 132.20 |
-| **Meta** llama4-maverick-instruct-basic               | 52.29        | 9360   | 0.0129         | 64.75              | 65.87              |
-| **Amazon** Nova-Lite                                  | 50.00        | 9619.5 | 0.0122         | 0.94               | 87.93              |
-| **Mistral** Nemo                                      | 48.66        | 9400   | 0.0069         | 3.07               | 150.21             |
-| **OpenAI** gpt-4o                                     | 48.39        | 10371  | 0.12033        | 2.07               | 48.31              |
-| **Anthropic** claude-3-5-sonnet-20241022              | 43.55        | 9869   | 0.17042        | 2.69               | 50.13              |
-| **Mistral** Large-2411                                | 41.94        | 12500  | 0.09042        | 3.07               | 38.02              |
-| **Google** gemini-2.0-flash-lite-preview-02-05        | 38.71        | 9470   | 0.01282        | 0.72               | 116.74             |
-| **Anthropic** Claude-3.5-haiku-20241022               | 37.10        | 9695   | 0.05593        | 2.08               | 56.60              |
-| **Google** gemini-2.0-flash                           | 37.10        | 10366  | 0.01852        | 1.04               | 83.24              |
-| **Meta** llama-3.1-405B-Instruct-Turbo  (Together.ai) | 35.48        | 12315  | 0.09648        | 2.33               | 33.77              |
-| **Meta** llama-3.3-70b-versatile (Groq)               | 33.87        | 15008  | 0.01680        | 0.63               | 220.90             |
-| **Microsoft** phi-4 14B (local)                       | 32.26        | 17724  | n/a            | n/a                | n/a                |
-| **Meta** llama-3.1-70b-versatile                      | 30.65        | 12622  | 0.01495        | 1.42               | 82.35              |
-| **OpenAI** gpt-4.1-nano         | 24.19        | 18869  | 0.00820        | 1.02               | 234.86             |
-| **Google** gemini-1.5-flash                           | 22.58        | 6806   | 0.00962        | 0.66               | 77.93              |
-| **Amazon** Nova-Micro                                 | 22.58        | 16445  | 0.00253        | 1.97               | 106.47             |
-| **Alibaba** Qwen-2.5-72B                              | 20.97        | 8616   | 0.07606        | 9.08               | 10.08              |
-| **OpenAI** gpt-4o-mini                                | 19.35        | 13363  | 0.00901        | 1.53               | 66.41              |
-| **Anthropic** Claude-3-haiku-20240307                 | 9.68         | 10296  | 0.01470        | 1.44               | 108.38             |
-| **TII** Falcon3 7B (local)                            | 9.68         | 18574  | n/a            | n/a                | n/a                |
-
-
-
-### Reasoning models
+| model                         | is_reasoning   | accuracy(%)|   time |   cost (¢) |   tokens |   speed (t/s) |
+|:------------------------------|:---------------|-----------:|-------:|-----------:|---------:|--------------:|
+| o3                            | Y              |      80.76 |    502 |       0.15 |     6056 |            12 |
+| gemini-2-5-pro                | Y              |      78.35 |    381 |       0.14 |     9905 |            25 |
+| o1                            | Y              |      75.59 |    502 |       0.15 |     3678 |             7 |
+| claude-3-7-extended-thinking  | Y              |      74.24 |    847 |       0.18 |    81931 |            96 |
+| o4-mini                       | Y              |      73.81 |    502 |       0.15 |     4253 |             8 |
+| o3-mini                       | Y              |      71.57 |    502 |       0.15 |    10333 |            20 |
+| qwen-qwq-32b (groq)           | Y              |      71.23 |    763 |       0.11 |   340400 |           446 |
+| deepseek-r1                   | Y              |      69.95 |    301 |       0.50 |   101071 |           335 |
+| grok-3-mini                   | N              |      68.67 |    784 |       0.22 |     5822 |             7 |
+| chatgpt-4o                    | N              |      60.92 |    847 |       0.18 |    16250 |            19 |
+| deepseek-r1-distill-llama-70b | Y              |      60.91 |    381 |       0.08 |    91634 |           240 |
+| gpt-4-1                       | N              |      60.72 |   1318 |       0.43 |    15526 |            11 |
+| grok-3                        | N              |      58.55 |    784 |       0.22 |    16723 |            21 |
+| deepseek-chat-v3 (fireworks)  | N              |      56.94 |    301 |       0.02 |    21391 |            71 |
+| llama-4-maverick (groq)       | N              |      54.2  |    542 |       0.13 |    21573 |            39 |
+| gpt-4-1-mini                  | N              |      52.66 |   1318 |       0.43 |    21309 |            16 |
+| mistral-large                 | N              |      49.47 |    100 |       0.21 |    12682 |           126 |
+| claude-3-opus                 | N              |      46.27 |    847 |       0.18 |    11545 |            13 |
+| claude-3-7-sonnet             | Y              |      45.84 |    301 |       0.18 |    10852 |            36 |
+| mistral-small                 | N              |      45.49 |    100 |       0.21 |    12585 |           125 |
+| llama-3-405b                  | N              |      44.44 |    542 |       0.43 |    23255 |            42 |
+| o1-pro                        | Y              |      44.38 |    502 |       0.15 |     2628 |             5 |
+| gemini-flash                  | N              |      43.67 |    381 |       0.14 |     7337 |            19 |
+| llama-3-70b                   | N              |      41.16 |    542 |       0.43 |    19295 |            35 |
+| llama-4-scout (groq)          | N              |      41.16 |    542 |       0.03 |    17873 |            32 |
+| gpt-4-turbo                   | N              |      40.24 |   1318 |       0.43 |    13371 |            10 |
+| gpt-4o-mini                   | N              |      39.5  |    784 |       0.22 |    22813 |            29 |
+| gemini-pro                    | N              |      36.52 |    381 |       0.14 |     6591 |            17 |
+| nova-pro                      | N              |      35    |    100 |       0.21 |    15317 |           153 |
+| claude-3-haiku                | N              |      33.82 |    847 |       0.18 |    10100 |            11 |
+| gpt-4-1-nano                  | N              |      33.04 |   1318 |       0.43 |    19488 |            14 |
+| nova-lite                     | N              |      31.54 |    100 |       0.21 |    16421 |           164 |
+| mistral-nemo                  | N              |      20.12 |    100 |       0.21 |     8719 |            87 |
+| llama-3-3b                    | N              |      19.42 |    542 |       0.43 |    24539 |            45 |
 
 Reasoning models are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
-
-| Model | Accuracy (%) | Tokens | Total Cost ($) | Median Latency (s) |
-|-----------------------------|---------------|--------|----------------|------------------|
-| **Google** gemini-2.5-pro-exp-03-25 | 82.35 | 4559 | - | 6.80 | 11.56 |
-| **OpenAI** o1 | 74.19 | 85120 | 5.20579 | 13.26 |
-| **Deepseek** R1 | 70.97 | 152944 | 0.33854 | 17.02|
-| **OpenAI** o3-mini (high) | 64.52 | 243143 | 1.07707 |  15.99  |
-| **Alibaba** Qwen QWQ-32B | 62.96 | 45293 | 0.068 | 5.6 |
-| **OpenAI** o1-mini | 62.90 | 56219 | 0.69509 |6.30 | 
-| **OpenAI** o3-mini | 62.90 | 102059 | 0.45630 |  17.39  |
-| **Anthropic** claude-3-7-sonnet-20250219 (8192 thinking budget) |  62.90 | 179395 | 2.71853 | 25.90  |
-| **Google** gemini-2.0-flash-thinking-exp-01-21 | 58.33  | 14433 |  0.67431 | 5.91 |
-| **Deepseek** r1-distill-llama-70b (Groq) | 46.77 | 43517 | 0.04686 | 2.60 | 260.41 |
-
-
-
-
-
-
-
-
 
 The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
 
