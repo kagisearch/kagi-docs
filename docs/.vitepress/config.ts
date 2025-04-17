@@ -1,6 +1,15 @@
 import { defineConfig } from 'vitepress'
 import { SearchPlugin } from 'kagi-sidekick-vitepress'
+import { vitepressPluginJsonTable } from './plugins/vitepress-plugin-json-table'
 import markdownItKatex from '@vscode/markdown-it-katex'
+
+export default {
+  markdown: {
+    config: (md) => {
+      vitepressPluginJsonTable().config().markdown.config(md)
+    }
+  }
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -76,10 +85,11 @@ export default defineConfig({
         hostname: 'https://help.kagi.com'
     },
     markdown: {
-        config: (md) => {
-            md.use(markdownItKatex.default, { output: "mathml" });
-        },
+    config: (md) => {
+      vitepressPluginJsonTable().config().markdown.config(md)
+      md.use(markdownItKatex.default, { output: "mathml" })
     },
+  },
 })
 
 function sidebarKagi() {
