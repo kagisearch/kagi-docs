@@ -15,7 +15,7 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | o3                            | Y              |      80.76 |    502 |       0.15 |     6056 |            12 |
 | gemini-2-5-pro                | Y              |      78.35 |    381 |       0.14 |     9905 |            25 |
 | o1                            | Y              |      75.59 |    502 |       0.15 |     3678 |             7 |
-| claude-3-7-extended-thinking  | Y              |      74.24 |    847 |       0.18 |    81931 |            96 |
+| claude-3-7-extended-thinking  | Y              |      74.24 |    847 |       0.90 |    81931 |            96 |
 | o4-mini                       | Y              |      73.81 |    502 |       0.15 |     4253 |             8 |
 | o3-mini                       | Y              |      71.57 |    502 |       0.15 |    10333 |            20 |
 | qwen-qwq-32b (groq)           | Y              |      71.23 |    763 |       0.11 |   340400 |           446 |
@@ -30,7 +30,7 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | gpt-4-1-mini                  | N              |      52.66 |   1318 |       0.43 |    21309 |            16 |
 | mistral-large                 | N              |      49.47 |    100 |       0.21 |    12682 |           126 |
 | claude-3-opus                 | N              |      46.27 |    847 |       0.18 |    11545 |            13 |
-| claude-3-7-sonnet             | Y              |      45.84 |    301 |       0.18 |    10852 |            36 |
+| claude-3-7-sonnet             | Y              |      45.84 |    301 |       0.12 |    10852 |            36 |
 | mistral-small                 | N              |      45.49 |    100 |       0.21 |    12585 |           125 |
 | llama-3-405b                  | N              |      44.44 |    542 |       0.43 |    23255 |            42 |
 | o1-pro                        | Y              |      44.38 |    502 |       0.15 |     2628 |             5 |
