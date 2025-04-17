@@ -155,6 +155,10 @@ The Assistant provides access to the following LLMs:
 | OpenAI      | [ChatGPT 4o](https://kagi.com/assistant?profile=chatgpt-4o)               |
 | OpenAI      | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)             |
 | OpenAI      | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)                     |
+| OpenAI      | [o4 Mini](https://kagi.com/assistant?profile=o4-mini)                     |
+| OpenAI      | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                     |
+| OpenAI      | [GPT 4.1 Mini](https://kagi.com/assistant?profile=gpt-4-1-mini)                     |
+| OpenAI      | [GPT 4.1 Nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                     |
 | Mistral AI  | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)        |
 | Mistral AI  | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)         |
 | Google      | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)       |
