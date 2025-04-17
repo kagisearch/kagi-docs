@@ -78,24 +78,6 @@ What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R
 Given a QWERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 ```
 
-New Table Attempt:
-
-```json:table
-{
-    "fields" : [
-        {"key": "a", "label": "model", "sortable": true},
-        {"key": "b", "label": "CoT", "sortable": true},
-        {"key": "c", "label": "accuracy", "sortable": true},
-        {"key": "d", "label": "time", "sortable": true},
-    ],
-    "items" : [
-      {"a": "o3", "b": "Y", "c": 76.29, "d": 502},
-      {"a": "claude-3-7-extended-thinking", "b": "Y", "c": 71.34, "d": 847},
-    ],
-    "filter" : true
-}
-```
-
 ## Credits
 
 Kagi LLM Benchmarking Project is inspired by [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) and [Aider LLM coding leaderboard](https://aider.chat/docs/leaderboards/).
