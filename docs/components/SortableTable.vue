@@ -14,6 +14,7 @@ const sortAsc = ref(true)
 const filteredData = computed(() => {
   let result = props.items
 
+  // Filter the rows based on the search text across all columns
   if (search.value.trim() && props.filter) {
     const q = search.value.toLowerCase()
     result = result.filter(row =>
@@ -23,6 +24,7 @@ const filteredData = computed(() => {
     )
   }
 
+  // Sorting logic
   if (sortKey.value) {
     result = [...result].sort((a, b) => {
       const x = a[sortKey.value]
@@ -39,29 +41,13 @@ const filteredData = computed(() => {
 
 <template>
   <div class="mb-4 overflow-x-auto">
-    <!-- Mobile Filter Dropdown -->
-    <details class="block sm:hidden mb-2">
-      <summary class="font-semibold cursor-pointer select-none">
-        🔽 Filters
-      </summary>
-      <div class="mt-2">
-        <input
-          v-if="filter"
-          v-model="search"
-          type="text"
-          placeholder="Search..."
-          class="w-full p-2 mt-1 border rounded text-sm"
-        />
-      </div>
-    </details>
-
-    <!-- Desktop Filter Input -->
+    <!-- Global Search Field -->
     <input
       v-if="filter"
       v-model="search"
       type="text"
-      placeholder="Search..."
-      class="hidden sm:block w-full p-2 mb-2 border rounded text-sm"
+      placeholder="Search across all columns..."
+      class="w-full p-2 mb-4 border rounded text-sm"
     />
 
     <!-- Table -->
