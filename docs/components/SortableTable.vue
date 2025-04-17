@@ -58,16 +58,16 @@ const filteredData = computed(() => {
             v-for="field in fields"
             :key="field.key"
             @click="() => {
-              if (sortKey === field.key) sortAsc = !sortAsc
+              if (sortKey.value === field.key) sortAsc.value = !sortAsc.value
               else {
-                sortKey = field.key
-                sortAsc = true
+                sortKey.value = field.key
+                sortAsc.value = true
               }
             }"
             class="cursor-pointer select-none border px-2 py-1 bg-gray-100"
           >
             {{ field.label }}
-            <span v-if="sortKey === field.key">{{ sortAsc ? '↑' : '↓' }}</span>
+            <span v-if="sortKey.value === field.key">{{ sortAsc.value ? '↑' : '↓' }}</span>
           </th>
         </tr>
       </thead>
