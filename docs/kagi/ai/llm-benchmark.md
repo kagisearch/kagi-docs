@@ -15,7 +15,6 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | o3                            | Y              |      76.29 |    502 |  2.57191 |     6056 |            12 |                 29 |                   15 |
 | claude-3-7-extended-thinking  | Y              |      71.34 |    847 |  2.20567 |    81931 |            96 |                 32 |                    8 |
 | gemini-2-5-pro                | Y              |      68.72 |    381 |  0.257   |     9905 |            25 |                267 |                   18 |
-| gemini-2-5-pro-full           | N              |      66.67 |    381 |  0.43184 |     3667 |             9 |                154 |                   17 |
 | qwen-qwq-32b                  | Y              |      65.94 |    763 |  0.11994 |   340400 |           446 |                553 |                    8 |
 | o1                            | Y              |      65.44 |    502 |  6.55213 |     3678 |             7 |                  9 |                   13 |
 | o3-mini                       | Y              |      65.16 |    502 |  0.52675 |    10333 |            20 |                123 |                   12 |
