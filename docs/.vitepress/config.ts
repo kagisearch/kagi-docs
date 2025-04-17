@@ -3,14 +3,6 @@ import { SearchPlugin } from 'kagi-sidekick-vitepress'
 import { vitepressPluginJsonTable } from './plugins/vitepress-plugin-json-table'
 import markdownItKatex from '@vscode/markdown-it-katex'
 
-export default {
-  markdown: {
-    config: (md) => {
-      vitepressPluginJsonTable().config().markdown.config(md)
-    }
-  }
-}
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: "Kagi's Docs",
