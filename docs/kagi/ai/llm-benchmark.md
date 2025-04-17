@@ -50,10 +50,11 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | llama-3-3b                    | N              |      17.58 |    542 |  0.01212 |    24539 |            45 |               1450 |                    3 |
 | mistral-nemo                  | N              |      14.37 |    100 |  0.00128 |     8719 |            87 |              11226 |                   14 |
 
-
 Reasoning models are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
 
-The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test, median response latency and average speed in tokens per second at the time of testing.
+The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test and average speed in tokens per second at the time of testing.
+
+The scores for accuracy per second and accuracy per dollar are normalized accuracy scores for speed and cost. Higher scores are better.
 
 This approach measures the models' potential and adaptability, with some bias towards features essential for [LLM features in Kagi Search](./assistant.md) (mostly around reasoning and instruction following capabilities, see examples below).
 
