@@ -77,11 +77,11 @@ export default defineConfig({
         hostname: 'https://help.kagi.com'
     },
     markdown: {
-    config: (md) => {
-      vitepressPluginJsonTable().config().markdown.config(md)
-      md.use(markdownItKatex.default, { output: "mathml" })
+        config: (md) => {
+        vitepressPluginJsonTable().config().markdown.config(md)
+        md.use(markdownItKatex.default, { output: "mathml" })
+        },
     },
-  },
 })
 
 function sidebarKagi() {

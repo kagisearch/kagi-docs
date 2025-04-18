@@ -19,7 +19,6 @@ export function vitepressPluginJsonTable() {
                   const json = JSON.parse(token.content);
                   let props = '';
 
-                  // --- Validation Added ---
                   if (json && typeof json === 'object' && json.fields && Array.isArray(json.fields) && json.items && Array.isArray(json.items)) {
                     // Ensure fields have key and label
                     if (!json.fields.every(field => field && typeof field.key === 'string' && typeof field.label === 'string')) {
@@ -35,8 +34,6 @@ export function vitepressPluginJsonTable() {
                     if (json.filter === true) {
                       props += `:filter='true' `; // Pass as boolean prop
                     }
-
-                    // Add other potential props here if needed in the future
 
                     return `<div class='vp-json-table-wrapper overflow-x-auto'><SortableTable ${props.trim()}/></div>`;
 
