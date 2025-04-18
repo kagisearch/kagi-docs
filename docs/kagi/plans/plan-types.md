@@ -12,9 +12,9 @@ Kagi offers several subscriptions plans.
 
 ### Individual:
 * The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and curious about paid search engines.
-* The **Starter** plan offers 300 searches and AI interactions (standard models) for USD $5 per month. This plan is suited for users who are new to paid search engines and are looking to own their search experience.
-* The **Professional** plan offers unlimited searches and AI interactions (standard models) for USD $10 per month. This plan is suited for internet professionals and developers who are prolific and advanced search users.
-* The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches and AI interactions (premium models) for USD $25 per month. This plan offers the most power to the user.
+* The **Starter** plan offers 300 searches per month, access to Universal Summarizer and Kagi Translate, plus access to Kagi Assistant (standard models) for USD $5 per month + tax. This plan is perfect for users who are new to paid search engines and are looking to own their search experience.
+* The **Professional** plan offers unlimited searches, unlimited access to Universal Summarizer and Kagi Translate, plus access to Kagi Assistant (standard models) for USD $10 per month + tax. This plan is suited for internet professionals and developers who are prolific and advanced search users.
+* The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches, unlimited access to Universal Summarizer and Kagi Translate, plus access to Kagi Assistant (premium models) for USD $25 per month + tax. This plan delivers the most comprehensive search and AI experience available.
 
 ### Family Plan:
 
