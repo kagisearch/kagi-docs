@@ -77,6 +77,10 @@ export default defineConfig({
     },
     markdown: {
         config: (md) => {
+            // Backport fix from vuejs/vitepress#4082
+            md.renderer.rules.table_open = function (tokens, idx, options, env, self) {
+                return self.renderToken(tokens, idx, options)
+            };
             md.use(markdownItKatex.default, { output: "mathml" });
         },
     },

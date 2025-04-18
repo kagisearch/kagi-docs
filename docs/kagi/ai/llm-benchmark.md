@@ -49,6 +49,7 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | llama-3-3b                    | N   |      17.58 |    542 |  0.01212 |    24539 |            45 |               1450 |                    3 |
 | mistral-nemo                  | N   |      14.37 |    100 |  0.00128 |     8719 |            87 |              11226 |                   14 |
 
+{.sortable}
 
 Reasoning models are denoted by the `CoT` column. They are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
 
