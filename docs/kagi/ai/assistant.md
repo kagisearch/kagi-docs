@@ -166,6 +166,7 @@ The Assistant provides access to the following LLMs:
 | OpenAI     | [GPT 4.1 Nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                                  | All      |
 | Mistral AI | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)                               | All      |
 | Mistral AI | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)                                | Ultimate |
+| Mistral AI | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                | All      |
 | Google     | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)                              | All      |
 | Google     | [Gemini 2.5 Flash Preview](https://kagi.com/assistant?profile=gemini-2-5-flash)                  | All      |
 | Google     | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)                                  | Ultimate |
