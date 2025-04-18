@@ -10,7 +10,7 @@ export function vitepressPluginJsonTable() {
               return `<pre><code class="${options.langPrefix}${tokens[idx].info.trim().split(' ')[0]}">${md.utils.escapeHtml(tokens[idx].content)}</code></pre>`
             });
 
-            // --- Helper: escape string so it is safe inside a single‑quoted HTML attribute ---
+            //  Helper: escape string so it is safe inside a single‑quoted HTML attribute 
             const htmlEscape = (str) => String(str)
               .replace(/&/g, '&amp;')
               .replace(/'/g, '&apos;')
@@ -52,7 +52,7 @@ export function vitepressPluginJsonTable() {
                          console.warn("[vitepress-plugin-json-table] Some invalid field definitions were ignored."); // Log warning if some were filtered
                      }
 
-                    // --- Prop Generation ---
+                    //  Prop Generation 
                     // Use &apos; for single quotes within the attribute value
                     props += `:fields='${htmlEscape(JSON.stringify(processedFields))}' `; // Pass processed fields
                     props += `:items='${htmlEscape(JSON.stringify(json.items))}' `;
@@ -69,11 +69,11 @@ export function vitepressPluginJsonTable() {
                     return `<div class='vp-json-table-wrapper not-prose overflow-x-auto'><SortableTable ${props.trim()}/></div>`;
 
                   } else {
-                    // --- Invalid Structure Error ---
+                    //  Invalid Structure Error 
                     return `<pre>Invalid JSON structure: JSON must be an object containing 'fields' (array) and 'items' (array).</pre>`;
                   }
                 } catch (e) {
-                  // --- Invalid JSON Error ---
+                  //  Invalid JSON Error 
                   return `<pre>Invalid JSON format: ${e.message}</pre>`;
                 }
               }
