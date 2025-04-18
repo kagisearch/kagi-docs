@@ -10,6 +10,14 @@ export function vitepressPluginJsonTable() {
               return `<pre><code class="${options.langPrefix}${tokens[idx].info.trim().split(' ')[0]}">${md.utils.escapeHtml(tokens[idx].content)}</code></pre>`
             });
 
+            // --- Helper: escape string so it is safe inside a single‑quoted HTML attribute ---
+            const htmlEscape = (str) => String(str)
+              .replace(/&/g, '&amp;')
+              .replace(/'/g, '&apos;')
+              .replace(/"/g, '&quot;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;');
+
             md.renderer.rules.fence = (tokens, idx, options, env, self) => {
               const token = tokens[idx];
               const info = token.info.trim();
@@ -46,8 +54,8 @@ export function vitepressPluginJsonTable() {
 
                     // --- Prop Generation ---
                     // Use &apos; for single quotes within the attribute value
-                    props += `:fields='${JSON.stringify(processedFields).replace(/'/g, '&apos;')}' `; // Pass processed fields
-                    props += `:items='${JSON.stringify(json.items).replace(/'/g, '&apos;')}' `;
+                    props += `:fields='${htmlEscape(JSON.stringify(processedFields))}' `; // Pass processed fields
+                    props += `:items='${htmlEscape(JSON.stringify(json.items))}' `;
 
                     // Pass filter prop only if explicitly true
                     if (json.filter === true) {

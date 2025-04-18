@@ -69,6 +69,9 @@ function getFieldDefinition(key) {
   return props.fields.find(field => field.key === key);
 }
 
+// Helper: stable compare that never overflows with Infinity
+const saferCompare = (a, b) => (a < b ? -1 : a > b ? 1 : 0);
+
 // --- Computed Property for Filtered and Sorted Data ---
 const filteredData = computed(() => {
   let result = [...props.items]; // Create a shallow copy
@@ -117,21 +120,23 @@ const filteredData = computed(() => {
 
         // --- Type-Specific Value Processing and Comparison (using extracted valA/valB) ---
         if (multipliers) { // Unit-based types
-          valA = parseUnitValue(valA, multipliers) ?? Number.NEGATIVE_INFINITY;
-          valB = parseUnitValue(valB, multipliers) ?? Number.NEGATIVE_INFINITY;
-          comparisonResult = valA - valB;
+          // Use sentinel Infinity so invalid values go to bottom
+          const bad = sortAsc.value ? Number.POSITIVE_INFINITY : Number.NEGATIVE_INFINITY;
+          valA = parseUnitValue(valA, multipliers) ?? bad;
+          valB = parseUnitValue(valB, multipliers) ?? bad;
+          comparisonResult = saferCompare(valA, valB);
         } else if (fieldType === 'number') { // Plain numbers (including strings)
             const parseAsNumber = (v) => { // v is the extracted value
                 if (typeof v === 'number') return v;
                 if (typeof v === 'string') {
                     const num = parseFloat(String(v).trim().replace(',', '.'));
-                    return !isNaN(num) ? num : Number.NEGATIVE_INFINITY;
+                    return !isNaN(num) ? num : (sortAsc.value ? Infinity : -Infinity);
                 }
-                return Number.NEGATIVE_INFINITY;
+                return sortAsc.value ? Infinity : -Infinity;
             };
             valA = parseAsNumber(valA);
             valB = parseAsNumber(valB);
-            comparisonResult = valA - valB;
+            comparisonResult = saferCompare(valA, valB);
         } else if (fieldType === 'yesno') { // Yes/No/Truthy/Falsy type
             const mapValue = (v) => { // v is the extracted value
                 const lowerV = String(v ?? '').trim().toLowerCase();
@@ -203,7 +208,7 @@ function handleHeaderClick(field) {
               @click="handleHeaderClick(field)"
               :class="[
                 'vp-json-table-th border px-2 py-1 bg-gray-100 text-left',
-                field.sortable !== false ? 'cursor-pointer select-none' : 'select-none'
+                field.sortable !== false ? 'cursor-pointer select-none' : ''
               ]"
               :aria-sort="getAriaSort(field)"
               scope="col"
