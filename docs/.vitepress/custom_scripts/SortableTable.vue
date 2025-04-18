@@ -4,8 +4,7 @@ import {
   computed,
   watch,
   onMounted,
-  nextTick,
-  type PropType,
+  type PropType
 } from 'vue'
 import { watchDebounced, useEventListener } from '@vueuse/core' // VueUse helpers
 
@@ -84,6 +83,8 @@ const props = defineProps({
     default: 'binary',
     validator: (v: string) => ['binary', 'tri'].includes(v),
   },
+  // NEW: external loading signal (e.g. while fetching items)
+  loading: { type: Boolean, default: false },
 })
 
 // Emits
@@ -102,7 +103,9 @@ const normalizedQuery = computed(() =>
 )
 
 const sortStack = ref<SortState[]>([])
-const isFiltering = ref(false) // Loading indicator
+const isFiltering = ref(false) // Loading indicator for debounce
+// Combine external and internal loading sources
+const showSpinner = computed(() => props.loading || isFiltering.value)
 
 // Debounce Search
 
@@ -115,19 +118,14 @@ watchDebounced(
   { debounce: 300, maxWait: 1000 },
 )
 
-// Turn off loading flag once computed finished
-watch(
-  () => debouncedSearch.value,
-  async () => {
-    await nextTick()
-    isFiltering.value = false
-  },
-)
+// Reset filtering flag once the debounced value settles
+watch(() => debouncedSearch.value, () => (isFiltering.value = false))
 
 // Strip html (cached)
 
+// Strip HTML tags from a string.
+//  Caches results for speed and clears when the map exceeds 5 000 entries
 const stripCache: Map<string, string> = new Map()
-// Strip all tags; cache & O(1) eviction
 function stripHtml(raw: unknown): string {
   const s = String(raw ?? '')
   if (!s) return ''
@@ -160,10 +158,13 @@ const defaultCollator = new Intl.Collator()
 const naturalCollator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
 const collatorCache = new Map<string, Intl.Collator>()
 function getCaseInsensitiveCollator(locale?: string) {
-  const k = locale ?? 'default'
-  if (!collatorCache.has(k))
-    collatorCache.set(k, new Intl.Collator(locale, { sensitivity: 'accent' }))
-  return collatorCache.get(k)!
+  const key = locale ?? 'default'
+  let coll = collatorCache.get(key)
+  if (!coll) {
+    coll = new Intl.Collator(locale, { sensitivity: 'accent' })
+    collatorCache.set(key, coll)
+  }
+  return coll
 }
 
 // Parsers
@@ -172,7 +173,7 @@ const sizeMul   = { b: 1, kb: 1024, mb: 1024 ** 2, gb: 1024 ** 3, tb: 1024 ** 4,
 const durMul    = { ns: 1e-9, us: 1e-6, ms: 1e-3,  s: 1, min: 60, h: 3600, d: 86400 }
 const weightMul = { mg: 0.001, g: 1, kg: 1000, t: 1e6 }
 
-// Parse a number with unit suffix (kb, ms, kg …)
+// Parse a numeric string with an explicit unit suffix
 function parseUnitVal(v: unknown, mul: Record<string, number>): number | null {
   if (v == null) return null
   if (typeof v === 'number') return v
@@ -188,7 +189,7 @@ function parseUnitVal(v: unknown, mul: Record<string, number>): number | null {
   return num * mul[unit]
 }
 
-// Parse 12k / 3.4M style abbreviations
+//Convert abbreviations like `12k`, `3.4M` to numbers
 function parseAbbrev(v: unknown): number | null {
   if (v == null) return null
   if (typeof v === 'number') return v
@@ -201,7 +202,7 @@ function parseAbbrev(v: unknown): number | null {
   return n * mul
 }
 
-// Parse currencies with thousands/decimal separators
+// Parse a currency string tolerant of locale separators and symbols
 function parseCurrency(v: unknown): number | null {
   if (v == null) return null
   if (typeof v === 'number') return v
@@ -273,7 +274,7 @@ const cmp: Record<string, CompareStrategy> = {
   },
 }
 
-// Wrap to ensure dir toggle AFTER special‑case handling
+// Compare two cell values then flip for descending order
 function compareCells(a: unknown, b: unknown, def: FieldDefinition | undefined, asc: boolean) {
   const type = def?.type ?? 'string'
   const fn = cmp[type] ?? cmp.string
@@ -371,34 +372,28 @@ function handleHeaderClick(f: FieldDefinition, shift: boolean) {
   if (f.sortable === false) return
   const idx = sortStack.value.findIndex((s) => s.key === f.key)
 
-  // Click without shift
-  if (!shift) {
+  if (!shift) { // single‑column mode
     if (props.sortMode === 'binary') {
-      // Binary: asc⇆desc
       if (idx === 0) sortStack.value = [{ key: f.key, asc: !sortStack.value[0].asc }]
       else sortStack.value = [{ key: f.key, asc: true }]
     } else {
-      // Tri‑state: asc ⇆ desc ⇆ off
       if (idx === 0) {
         if (sortStack.value[0].asc) sortStack.value = [{ key: f.key, asc: false }]
         else sortStack.value = []
       } else sortStack.value = [{ key: f.key, asc: true }]
     }
-    return
-  }
-
-  // Shift‑click (multi‑column)
-  if (idx !== -1) {
-    if (props.sortMode === 'binary') {
-      sortStack.value[idx].asc = !sortStack.value[idx].asc
-      sortStack.value = [...sortStack.value]
+  } else {      // shift → multi‑column mode
+    if (idx !== -1) {
+      if (props.sortMode === 'binary') {
+        sortStack.value[idx].asc = !sortStack.value[idx].asc
+        sortStack.value = [...sortStack.value]
+      } else {
+        if (sortStack.value[idx].asc) sortStack.value[idx].asc = false
+        else sortStack.value.splice(idx, 1)
+      }
     } else {
-      // tri‑state inside stack
-      if (sortStack.value[idx].asc) sortStack.value[idx].asc = false
-      else sortStack.value.splice(idx, 1)
+      sortStack.value.push({ key: f.key, asc: true })
     }
-  } else {
-    sortStack.value.push({ key: f.key, asc: true })
   }
 }
 </script>
@@ -415,10 +410,15 @@ function handleHeaderClick(f: FieldDefinition, shift: boolean) {
       aria-label="Search table data"
     />
 
-    <!-- Loading indicator -->
-    <div v-if="isFiltering" class="text-xs text-gray-500 mb-2">
-      Filtering…
-    </div>
+    <!-- Loading indicator (transition) -->
+    <Transition name="fade" appear>
+      <div
+        v-if="showSpinner"
+        class="text-xs text-gray-500 mb-2"
+      >
+        Loading…
+      </div>
+    </Transition>
 
     <!-- SR live region -->
     <p class="sr-only" aria-live="polite" aria-atomic="true">
@@ -441,6 +441,7 @@ function handleHeaderClick(f: FieldDefinition, shift: boolean) {
       <table
         class="vp-json-table-element min-w-full border-collapse border text-sm"
         aria-live="polite"
+        :aria-busy="showSpinner"
       >
         <caption class="vp-json-table-caption sr-only">
           <slot name="caption">Sortable and filterable data table.</slot>
@@ -531,11 +532,12 @@ function handleHeaderClick(f: FieldDefinition, shift: boolean) {
 .vp-json-table-filter:focus { border-color: var(--vp-c-brand-1); outline: none; box-shadow: 0 0 0 1px var(--vp-c-brand-1); }
 
 .vp-json-table-element { width: 100%; border-radius: 4px; overflow: hidden; border-spacing: 0; border-collapse: separate; border: 1px solid var(--vp-c-divider); }
-.vp-json-table-th { border-bottom: 2px solid var(--vp-c-divider); background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); font-weight: 600; padding: 0.6rem 0.8rem; white-space: nowrap; text-align: left; }
+
+.vp-json-table-th { border-bottom: 2px solid var(--vp-c-divider); background: var(--vp-c-bg-soft); color: var(--vp-c-text-1); font-weight: 600; padding: 0.6rem 0.8rem; white-space: nowrap; text-align: left; vertical-align: middle; }
 .vp-json-table-th:not(:last-child) { border-right: 1px solid var(--vp-c-divider); }
 .vp-json-table-th:last-child, .vp-json-table-td:last-child { border-right: none; }
-
 .vp-json-table-th[tabindex='0']:focus { outline: 2px solid var(--vp-c-brand-1); outline-offset: -2px; }
+.vp-json-table-th:hover:not([aria-sort='none']) { background: var(--vp-c-bg-mute); }
 
 .vp-json-table-td { color: var(--vp-c-text-1); background: var(--vp-c-bg); padding: 0.6rem 0.8rem; border-top: 1px solid var(--vp-c-divider); vertical-align: top; }
 .vp-json-table-td:not(:last-child) { border-right: 1px solid var(--vp-c-divider); }
@@ -549,6 +551,10 @@ function handleHeaderClick(f: FieldDefinition, shift: boolean) {
 .vp-json-table-sort-icon { display: inline-block; width: 1em; text-align: center; margin-left: 4px; color: var(--vp-c-text-2); opacity: 0.6; vertical-align: middle; }
 .vp-json-table-th[aria-sort]:not([aria-sort='none']) .vp-json-table-sort-icon { color: var(--vp-c-text-1); opacity: 1; }
 .vp-json-table-sort-lvl { font-size: 0.6em; margin-left: 2px; color: var(--vp-c-text-2); vertical-align: super; }
+
+/* Fade transition for spinner */
+.fade-enter-active, .fade-leave-active { transition: opacity .15s; }
+.fade-enter-from,   .fade-leave-to     { opacity: 0; }
 
 /* Screen-reader only text */
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border-width: 0; }
