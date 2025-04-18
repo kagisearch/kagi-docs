@@ -20,14 +20,33 @@ export function vitepressPluginJsonTable() {
                   let props = '';
 
                   if (json && typeof json === 'object' && json.fields && Array.isArray(json.fields) && json.items && Array.isArray(json.items)) {
-                    // Ensure fields have key and label
-                    if (!json.fields.every(field => field && typeof field.key === 'string' && typeof field.label === 'string')) {
-                       return `<pre>Invalid JSON structure: Each item in 'fields' array must be an object with 'key' and 'label' strings.</pre>`;
+                    // Process fields: Ensure key/label exist, add defaults for sortable and type
+                    const processedFields = json.fields.map(field => {
+                      // Basic validation for key and label existence
+                      if (!field || typeof field.key !== 'string' || typeof field.label !== 'string') {
+                         console.warn("[vitepress-plugin-json-table] Invalid field structure detected, skipping field:", field); // Log warning
+                         return null; // Mark as invalid for filtering
+                      }
+                      return {
+                        ...field,
+                        // Ensure sortable defaults to true if not explicitly set to false
+                        sortable: field.sortable !== false,
+                        // Ensure type defaults to 'string' if not provided or invalid type
+                        type: typeof field.type === 'string' ? field.type : 'string' // Includes 'number', 'size', 'duration', 'weight', 'yesno' etc.
+                      };
+                    }).filter(field => field !== null); // Remove invalid fields
+
+                    // Check if any valid fields remain after processing
+                    if (processedFields.length === 0 && json.fields.length > 0) {
+                       return `<pre>Invalid JSON structure: No valid 'fields' found. Each field must be an object with 'key' and 'label' strings.</pre>`;
                     }
+                     if (processedFields.length !== json.fields.length) {
+                         console.warn("[vitepress-plugin-json-table] Some invalid field definitions were ignored."); // Log warning if some were filtered
+                     }
 
                     // --- Prop Generation ---
                     // Use &apos; for single quotes within the attribute value
-                    props += `:fields='${JSON.stringify(json.fields).replace(/'/g, '&apos;')}' `;
+                    props += `:fields='${JSON.stringify(processedFields).replace(/'/g, '&apos;')}' `; // Pass processed fields
                     props += `:items='${JSON.stringify(json.items).replace(/'/g, '&apos;')}' `;
 
                     // Pass filter prop only if explicitly true
@@ -35,7 +54,11 @@ export function vitepressPluginJsonTable() {
                       props += `:filter='true' `; // Pass as boolean prop
                     }
 
-                    return `<div class='vp-json-table-wrapper overflow-x-auto'><SortableTable ${props.trim()}/></div>`;
+                    // Add other top-level JSON properties as props if needed in the future
+                    // Example: if (json.someOtherOption) { props += `:some-other-option='${JSON.stringify(json.someOtherOption)}'`; }
+
+                    // Wrap the component for better styling control if needed
+                    return `<div class='vp-json-table-wrapper not-prose overflow-x-auto'><SortableTable ${props.trim()}/></div>`;
 
                   } else {
                     // --- Invalid Structure Error ---
