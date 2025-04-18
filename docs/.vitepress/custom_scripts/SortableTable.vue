@@ -43,6 +43,13 @@ interface SortState {
   asc: boolean
 }
 
+// Interface for initial sort definition (same as SortState)
+interface InitialSortState {
+  key: string
+  asc: boolean
+}
+
+
 // Generic row item
 type Item = Record<string, unknown> & { id?: string | number }
 
@@ -77,14 +84,27 @@ const props = defineProps({
   filterFn: { type: Function as PropType<FilterFunction>, default: null },
   persistState: { type: Boolean, default: false },
   persistenceId: { type: String, default: 'table' },
-  // NEW: choose click‑cycle behaviour → 'binary' = asc⇆desc, 'tri' = asc ⇆ desc ⇆ off
+  // choose click‑cycle behaviour → 'binary' = asc⇆desc, 'tri' = asc ⇆ desc ⇆ off
   sortMode: {
     type: String as PropType<'binary' | 'tri'>,
     default: 'binary',
     validator: (v: string) => ['binary', 'tri'].includes(v),
   },
-  // NEW: external loading signal (e.g. while fetching items)
+  // external loading signal (e.g. while fetching items)
   loading: { type: Boolean, default: false },
+  // Initial sort order
+  initialSort: {
+    type: Array as PropType<InitialSortState[]>,
+    default: () => [], // Default to no initial sort
+    validator: (v: InitialSortState[]) =>
+      Array.isArray(v) &&
+      v.every(
+        (s) =>
+          s &&
+          typeof s.key === 'string' &&
+          typeof s.asc === 'boolean',
+      ),
+  },
 })
 
 // Emits
@@ -300,18 +320,36 @@ watch(debouncedSearch, (v) => { emit('update:filter', v); updateUrlQuery() })
 watch(sortStack, (v) => { emit('update:sort', [...v]); updateUrlQuery() }, { deep: true })
 
 onMounted(() => {
-  if (!props.persistState || typeof window === 'undefined') return
-  const params = new URLSearchParams(window.location.search)
-  const q = params.get(qSearchKey)
-  if (q) { searchInput.value = q; debouncedSearch.value = q }
-  const sortStr = params.get(qSortKey)
-  if (sortStr) {
-    try {
-      const parsed = JSON.parse(sortStr)
-      if (Array.isArray(parsed) && parsed.every((s) => 'key' in s && 'asc' in s)) sortStack.value = parsed
-    } catch { /* ignore */ }
+  let sortAppliedFromPersistence = false // Flag to track if URL state was used
+
+  // Restore persisted state from URL first (if enabled)
+  if (props.persistState && typeof window !== 'undefined') {
+    const params = new URLSearchParams(window.location.search)
+    const q = params.get(qSearchKey)
+    if (q) {
+      searchInput.value = q
+      debouncedSearch.value = q
+    }
+    const sortStr = params.get(qSortKey)
+    if (sortStr) {
+      try {
+        const parsed = JSON.parse(sortStr)
+        if (Array.isArray(parsed) && parsed.every((s) => 'key' in s && 'asc' in s)) {
+          sortStack.value = parsed
+          sortAppliedFromPersistence = true // Mark that we applied sort from URL
+        }
+      } catch { /* ignore malformed value */ }
+    }
+  }
+
+  // Apply initialSort prop ONLY if no sort state was applied from persistence
+  if (!sortAppliedFromPersistence && props.initialSort && props.initialSort.length > 0) {
+    // Validate that the keys exist in the fields definition for robustness? (Optional)
+    // For now, assume valid keys are passed.
+    sortStack.value = [...props.initialSort]
   }
 })
+
 
 // Computed data
 
@@ -376,22 +414,23 @@ function handleHeaderClick(f: FieldDefinition, shift: boolean) {
     if (props.sortMode === 'binary') {
       if (idx === 0) sortStack.value = [{ key: f.key, asc: !sortStack.value[0].asc }]
       else sortStack.value = [{ key: f.key, asc: true }]
-    } else {
-      if (idx === 0) {
-        if (sortStack.value[0].asc) sortStack.value = [{ key: f.key, asc: false }]
-        else sortStack.value = []
-      } else sortStack.value = [{ key: f.key, asc: true }]
+    } else { // tri-state mode
+      if (idx === 0) { // If it's the current primary sort
+        if (sortStack.value[0].asc) sortStack.value = [{ key: f.key, asc: false }] // asc -> desc
+        else sortStack.value = [] // desc -> off
+      } else sortStack.value = [{ key: f.key, asc: true }] // off -> asc
     }
   } else {      // shift → multi‑column mode
-    if (idx !== -1) {
+    if (idx !== -1) { // If key already in stack
       if (props.sortMode === 'binary') {
-        sortStack.value[idx].asc = !sortStack.value[idx].asc
-        sortStack.value = [...sortStack.value]
-      } else {
-        if (sortStack.value[idx].asc) sortStack.value[idx].asc = false
-        else sortStack.value.splice(idx, 1)
+        sortStack.value[idx].asc = !sortStack.value[idx].asc // asc -> desc, desc -> asc
+        sortStack.value = [...sortStack.value] // Trigger reactivity
+      } else { // tri-state mode
+        if (sortStack.value[idx].asc) sortStack.value[idx].asc = false // asc -> desc
+        else sortStack.value.splice(idx, 1) // desc -> remove from stack
+        sortStack.value = [...sortStack.value] // Trigger reactivity
       }
-    } else {
+    } else { // Key not in stack, add it
       sortStack.value.push({ key: f.key, asc: true })
     }
   }
