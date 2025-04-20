@@ -8,3 +8,9 @@
 .medium-zoom-image--opened {
   z-index: 999;
 }
+
+/* Minimal table margins only for tables with the 'minimal-table-margins' class */
+.vp-doc .minimal-table-margins table th,
+.vp-doc .minimal-table-margins table td {
+  padding: 4px 8px;
+}

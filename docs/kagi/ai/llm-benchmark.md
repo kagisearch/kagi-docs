@@ -10,6 +10,8 @@ Last updated **April 17th, 2025**. We rebuild this table often. We change the be
 
 Note that the costs in this table are heavy on output tokens, due to the nature of the benchmark tasks. These are not representative costs for use of these models as an agent, where the ratio of input to output tokens will be much different.
 
+<div class="minimal-table-margins">
+
 | model                         | CoT |   accuracy |   time |     cost |   tokens |   speed (t/s) |   accuracy/$ score |   accuracy/sec score |
 |:------------------------------|:----|-----------:|-------:|---------:|---------:|--------------:|-------------------:|---------------------:|
 | o3                            | Y   |      76.29 |    502 |  2.57191 |     6056 |            12 |                 29 |                   15 |
@@ -50,6 +52,8 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | mistral-nemo                  | N   |      14.37 |    100 |  0.00128 |     8719 |            87 |              11226 |                   14 |
 
 {.sortable}
+
+</div>
 
 Reasoning models are denoted by the `CoT` column. They are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
 
