@@ -3,7 +3,7 @@
 Members of the Kagi community have brought Kagi to their favorite tools!
 You can find a list below of integrations that our users have contributed to other products, or built themselves.
 
-If you created or found a Kagi integration with other products or tools, we would happily welcome a [pull request to this page](https://github.com/kagisearch/kagi-docs/edit/main/kagi/src/support-and-community/open-source.md)!
+If you created or found a Kagi integration with other products or tools, we would happily welcome a [pull request to this page](https://github.com/kagisearch/kagi-docs/edit/main/docs/kagi/community-addons/index.md)!
 
 ## Raycast
 
