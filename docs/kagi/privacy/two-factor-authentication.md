@@ -10,7 +10,7 @@ Kagi’s 2FA implementation is compatible with most authenticator apps, some opt
 
 iOS:
 - [2FAS Authenticator](https://apps.apple.com/us/app/2fas-auth/id1217793794) (Open Source)
-- [Ente Authenticator](https://apps.apple.com/us/app/ente-auth/id6444121398)  
+- [OTP Auth](https://apps.apple.com/us/app/otp-auth/id659877384)  
 - [Google Authenticator](https://apps.apple.com/us/app/google-authenticator/id388497605)  
 - [Microsoft Authenticator](https://apps.apple.com/us/app/microsoft-authenticator/id983156458)  
 
