@@ -68,7 +68,7 @@ It's "Why settle for less?"
 ##  Why quality software isn't free
 > We have become numb to the taste of good software and hypnotized by the idea of "free".
 
-We recommend reading [this article]([url](https://stephango.com/quality-software)) about why quality software deserves your hard‑earned cash. Industrial software from big tech companies are subsidized by advertising, proprietary ecosystems, or enterprise contracts, creating the illusion that software should be cheap or "free". This often comes at the cost of your privacy and quality of the product. In contrast, independent makers like Kagi not only prioritize privacy but also the craftsmanship of our products. We listen and act upon your [feedback](https://kagifeedback.org/) and suggestions, as we're building tools that truly serve you. 
+We recommend reading [this article](https://stephango.com/quality-software) about why quality software deserves your hard‑earned cash. Industrial software from big tech companies are subsidized by advertising, proprietary ecosystems, or enterprise contracts, creating the illusion that software should be cheap or "free". This often comes at the cost of your privacy and quality of the product. In contrast, independent makers like Kagi not only prioritize privacy but also the craftsmanship of our products. We listen and act upon your [feedback](https://kagifeedback.org/) and suggestions, as we're building tools that truly serve you. 
 
 [Start your journey →](https://kagi.com/signup?plan_id=trial)
 
