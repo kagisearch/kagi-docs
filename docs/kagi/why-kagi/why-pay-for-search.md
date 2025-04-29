@@ -36,7 +36,7 @@ Let's be crystal clear about what "free" really costs:
 
 Moreoever, "free" search engines come at a real cost, not just inconvenience, but financial harm and vulnerability to scams. The business model muddle is real. Illusion of "free" is real. Boston Globe's Aaron Pressman describes the journey that ultimately [led him to Kagi](https://www.bostonglobe.com/2025/04/01/business/google-search-problems-alternatives-kagi/):
 
-<img width="969" alt="search" src="https://github.com/user-attachments/assets/92418d3d-54e0-422a-9dcb-9c6fe4ef6e7b" />
+![Boston Globe excerpt](https://github.com/user-attachments/assets/70e7b750-0a1b-4824-a927-86f677a70487)
 
 
 ## The Kagi difference
@@ -48,7 +48,8 @@ We built a better way:
 - Complete privacy protection
 - Tools and features built for users, not advertisers
 
-![Why_pay_for_search](media/why_pay_for_search_kagi.png)
+![Why pay for search](https://github.com/user-attachments/assets/acc400f3-c25a-4bf9-8ed9-1a74eb3e8509)
+
 
 ## Choose your future
 
