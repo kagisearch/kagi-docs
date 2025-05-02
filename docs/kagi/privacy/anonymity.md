@@ -1,14 +1,17 @@
 # Anonymity
 
-We often get asked “how can you respect privacy when I need to login?” (Kagi requires an account because users have to pay to use it),
+At Kagi, your privacy is a priority, and we aim to provide the most user-friendly [privacy policy](https://kagi.com/privacy) of any search engine. However, it’s important to clarify that privacy and anonymity are not the same. While Kagi is designed to respect your privacy, achieving complete anonymity involves additional considerations.
 
-We believe that Kagi has the most user-friendly privacy policy of any search engine out there. However, privacy and anonymity are not the same things.
+We often get asked, "How can Kagi respect privacy if I need to log in?" This is because since Kagi is a paid service, an account is required for billing purposes. However, we’ve designed our system to collect as little information as possible. We also believe Kagi is already anonymous in practice: we require no personal information to create an account. You can use any email address to register including via solutions like [SimpleLogin](https://simplelogin.io/). To hide your payment information, you can use a virtual debit card (such as [PrivacyHQ](https://privacyhq.com)). You can also opt to pay via [cryptocurrency](https://help.kagi.com/kagi/plans/payment-methods.html#using-paypal-and-opennode-with-kagi).
 
-Several users interested in anonymity have [expressed interest in anonymous payment
-methods](https://kagifeedback.org/d/493-enable-anonymous-payments-ala-bitcoinmonero) (usually involving crypto payments).
+Kagi has evolved to provide features for users who wish to maximize their anonymity even further while using Kagi:
 
-Implementing crypto payments remains a challenge as accounting/financial infrastructure requirements for this are more than Kagi can handle at this stage. There is no simple plug-and-play API for crypto like there is one for credit cards (we use Stripe). The complexity of different cryptocurrencies and the missing simple structures for recurring payments make it hard for us to tackle this at this time. It took some other companies (Mullvad comes to mind) more than a decade to come up with a solution for this problem.
+- Anonymously authenticating using the [Privacy Pass](https://blog.kagi.com/kagi-privacy-pass) protocol
+- Accessing our services via an official [Tor onion service](https://help.kagi.com/kagi/privacy/tor.html)
+- Coming soon: [Monero](https://www.getmonero.org) (XMR) payments will be accepted later this year. Monero is a privacy-focused cryptocurrency designed to protect your financial privacy, and is used primarily for anonymous payments.
 
-However we believe Kagi is already anonymous in practice. Kagi requires no personal information to create an account (you can use any email to register including anonymous solutions like
-[SimpleLogin](https://simplelogin.io)). To hide their payment information, one can use a virtual debit card (such as
-[PrivacyHQ](https://privacyhq.com)). And even if you do not jump through these hoops, Kagi has you covered. We do not log searches or associate them with an account, by design - we have no use for it and it would just be a liability for us. There is no simple switch one can flip to enable this in case of a court order.
+# Privacy Philosophy
+
+Our relationship with you is simple: you pay for a service, and we deliver that service. We have zero need to monetize your data and, whenever possible, we choose not to collect or store user data, as it serves no purpose for us and only creates unnecessary risks. Respecting your privacy is also one of the reasons why Kagi is completely ad-free and tracking-free.
+
+In summary, Kagi offers privacy by design and practical anonymity options for those who need them. While we continue to explore ways to improve, we believe Kagi already provides one of the most privacy-respecting search experiences available today. 
