@@ -4,7 +4,7 @@ At Kagi, your privacy is a priority, and we aim to provide the most user-friendl
 
 We often get asked, "How can Kagi respect privacy if I need to log in?" This is because since Kagi is a paid service, an account is required for billing purposes. However, we’ve designed our system to collect as little information as possible. We also believe Kagi is already anonymous in practice: we require no personal information to create an account. You can use any email address to register including via solutions like [SimpleLogin](https://simplelogin.io/). To hide your payment information, you can use a virtual debit card (such as [PrivacyHQ](https://privacyhq.com)). You can also opt to pay via [cryptocurrency](https://help.kagi.com/kagi/plans/payment-methods.html#using-paypal-and-opennode-with-kagi).
 
-Kagi has evolved to provide features for users who wish to maximize their anonymity even further while using Kagi:
+Kagi has evolved to provide features for users who wish to maximize their anonymity even further:
 
 - Anonymously authenticating using the [Privacy Pass](https://blog.kagi.com/kagi-privacy-pass) protocol
 - Accessing our services via an official [Tor onion service](https://help.kagi.com/kagi/privacy/tor.html)
