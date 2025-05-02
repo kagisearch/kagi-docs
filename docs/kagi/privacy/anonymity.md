@@ -2,12 +2,14 @@
 
 At Kagi, your privacy is a priority, and we aim to provide the most user-friendly [privacy policy](https://kagi.com/privacy) of any search engine. However, it’s important to clarify that privacy and anonymity are not the same. While Kagi is designed to respect your privacy, achieving complete anonymity involves additional considerations.
 
-We often get asked, "How can Kagi respect privacy if I need to log in?" This is because since Kagi is a paid service, an account is required for billing purposes. However, we’ve designed our system to collect as little information as possible. We also believe Kagi is already anonymous in practice: we require no personal information to create an account. You can use any email address to register including via solutions like [SimpleLogin](https://simplelogin.io/). To hide your payment information, you can use a virtual debit card (such as [PrivacyHQ](https://privacyhq.com)). You can also opt to pay via [cryptocurrency](https://help.kagi.com/kagi/plans/payment-methods.html#using-paypal-and-opennode-with-kagi).
+We often get asked, "How can Kagi respect privacy if I need to log in?" This is because since Kagi is a paid service, an account is required for billing purposes. However, we’ve designed our system to collect as little information as possible.
 
 Kagi has evolved to provide features for users who wish to maximize their anonymity even further:
 
 - Anonymously authenticating using the [Privacy Pass](https://blog.kagi.com/kagi-privacy-pass) protocol
 - Accessing our services via an official [Tor onion service](https://help.kagi.com/kagi/privacy/tor.html)
+- You can use any email address to register including via solutions like [SimpleLogin](https://simplelogin.io/)
+- You can also opt to pay via [cryptocurrency](https://help.kagi.com/kagi/plans/payment-methods.html#using-paypal-and-opennode-with-kagi)
 - Coming soon: [Monero](https://www.getmonero.org) (XMR) payments will be accepted later this year. Monero is a privacy-focused cryptocurrency designed to protect your financial privacy, and is used primarily for anonymous payments.
 
 # Privacy Philosophy
