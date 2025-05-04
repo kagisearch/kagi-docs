@@ -22,7 +22,7 @@ Note that the costs in this table are heavy on output tokens, due to the nature 
 | o3-mini                       | Y   |      65.16 |    502 |  0.52675 |    10333 |            20 |                123 |                   12 |
 | deepseek-r1                   | Y   |      64.06 |    301 |  1.16229 |   101071 |           335 |                 55 |                   21 |
 | o4-mini                       | Y   |      62.27 |    502 |  0.41746 |     4253 |             8 |                149 |                   12 |
-| grok-3-mini                   | N   |      59.17 |    784 |  0.07626 |     5822 |             7 |                775 |                    7 |
+| grok-3-mini (reasoning: low)  | Y   |      59.17 |    784 |  0.07626 |     5822 |             7 |                775 |                    7 |
 | deepseek-r1-distill-llama-70b | Y   |      54.41 |    381 |  0.40643 |    91634 |           240 |                133 |                   14 |
 | gpt-4-1                       | N   |      54.17 |   1318 |  0.2275  |    15526 |            11 |                238 |                    4 |
 | chatgpt-4o                    | N   |      53.09 |    847 |  0.72127 |    16250 |            19 |                 73 |                    6 |
