@@ -8,7 +8,7 @@ The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess 
 
 Last update: **May 6th, 2025** 
 
-Tasks: *100* 
+Tasks: **100**
 
 Avg. Input Tokens for all tasks: **8861**
 
