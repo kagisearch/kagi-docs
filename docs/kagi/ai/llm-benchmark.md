@@ -18,7 +18,7 @@ Avg. Input Tokens for all tasks: **8861**
 
 | model                          | provider          | accuracy | time | consistency_index | out_tokens |   tps |
 |--------------------------------|-------------------|---------:|-----:|------------------:|-----------:|------:|
-| arcee-ai/maestro-reasoning     | kagi (soon)       |    60.05 | 130k |              0.70 |       400k |  3.00 |
+| arcee-ai/maestro-reasoning     | together          |    60.05 | 130k |              0.70 |       400k |  3.00 |
 | Qwen3-235B-A22B                | kagi (soon)       |    58.58 |  79k |              0.76 |       290k |  3.64 |
 | o3                             | kagi (ultimate)   |    57.34 | 1.6k |              0.72 |        12k |  7.75 |
 | Qwen3-14B                      | kagi (soon)       |    56.15 |  65k |              0.70 |       310k |  4.71 |
