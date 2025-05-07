@@ -16,61 +16,61 @@ Avg. Input Tokens for all tasks: **8861**
 
 <div class="minimal-table-margins">
 
-| model                          | provider          | accuracy | time | consistency_index | out_tokens |   tps |
-|--------------------------------|-------------------|---------:|-----:|------------------:|-----------:|------:|
-| arcee-ai/maestro-reasoning     | kagi (soon)       |    60.05 | 130k |              0.70 |       400k |  3.00 |
-| Qwen3-235B-A22B                | kagi (soon)       |    58.58 |  79k |              0.76 |       290k |  3.64 |
-| o3                             | kagi (ultimate)   |    57.34 | 1.6k |              0.72 |        12k |  7.75 |
-| Qwen3-14B                      | kagi (soon)       |    56.15 |  65k |              0.70 |       310k |  4.71 |
-| o1                             | kagi (deprecated) |    54.17 | 3.7k |              0.83 |       6.3k |  1.69 |
-| claude 3.7 (extended)          | kagi (ultimate)   |    53.28 | 3.7k |              0.70 |       160k | 44.50 |
-| gemini-2-5-pro                 | kagi (ultimate)   |    50.56 |   9k |              0.81 |        15k |  1.68 |
-| o4-mini                        | kagi (all)        |    49.75 | 1.7k |              0.75 |       9.8k |  5.73 |
-| o3-mini                        | kagi (deprecated) |    48.38 |   5k |              0.82 |        16k |  3.15 |
-| deepseek-r1                    | kagi (ultimate)   |    45.51 | 8.5k |              0.74 |       180k | 21.80 |
-| deepseek-r1-distill-llama-70b  | kagi (all)        |    45.34 | 6.9k |              0.77 |       200k | 28.46 |
-| grok-3-mini (reasoning: high)  | kagi (ultimate)   |    43.77 |   3k |              0.65 |        12k |  3.88 |
-| gpt-4-1                        | kagi (ultimate)   |    42.52 | 1.8k |              0.72 |        23k | 12.46 |
-| perplexity/sonar-reasoning-pro | openrouter        |    40.97 | 2.5k |              0.77 |        20k |  7.80 |
-| grok-3                         | kagi (ultimate)   |    39.83 | 5.5k |              0.71 |        35k |  6.25 |
-| gpt-4-1-mini                   | kagi (all)        |    39.36 |  11k |              0.84 |        24k |  2.18 |
-| chatgpt-4o                     | kagi (ultimate)   |    38.05 | 3.2k |              0.73 |        25k |  7.84 |
-| QVQ-72B-preview                | nebius            |    35.82 |  68k |              0.68 |       190k |  2.78 |
-| perplexity/sonar-pro           | openrouter        |    35.78 | 0.4k |              0.78 |        29k | 65.36 |
-| llama-4-maverick               | kagi (ultimate)   |    35.42 | 7.9k |              0.67 |        40k |  5.03 |
-| Llama-3.3-70B-Instruct         | kagi (deprecated) |    33.33 | 2.1k |              0.81 |        24k | 11.30 |
-| microsoft/phi-4-reasoning      | openrouter        |    32.60 |  49k |              0.67 |       180k |  3.73 |
-| microsoft/phi-4-reasoning-plus | openrouter        |    32.35 |  48k |              0.67 |       160k |  3.33 |
-| deepseek v3                    | kagi (all)        |    31.69 | 9.4k |              0.74 |        44k |  4.67 |
-| thedrummer/anubis-pro-105b-v1  | openrouter        |    31.62 | 8.7k |              0.81 |        27k |  3.16 |
-| llama-4-scout                  | kagi (all)        |    31.16 | 9.8k |              0.74 |        36k |  3.65 |
-| llama-3-70b                    | kagi (deprecated) |    30.39 | 1.4k |              0.80 |        40k | 28.05 |
-| cohere/command-a               | openrouter        |    29.66 |  11k |              0.84 |        34k |  2.99 |
-| mistral-large                  | kagi (ultimate)   |    29.36 | 2.5k |              0.88 |        30k | 12.12 |
-| llama-3-405b                   | kagi (deprecated) |    28.92 | 1.5k |              0.88 |        27k | 17.74 |
-| minimax/minimax-01             | openrouter        |    27.45 | 2.2k |              0.84 |        39k | 18.01 |
-| mistral-small-it-0325          | kagi (all)        |    27.45 |  11k |              0.83 |        36k |  3.18 |
-| google/gemma-3-4b-it           | openrouter        |    25.49 | 6.5k |              0.82 |        35k |  5.37 |
-| Qwen2.5-Coder-32B-it           | nebius            |    25.49 |  11k |              0.82 |        25k |  2.28 |
-| arcee-ai/coder-large           | together          |    25.37 |   1k |              0.82 |        25k | 23.70 |
-| arcee-ai/virtuoso-large        | together          |    24.75 |  19k |              0.85 |        51k |  2.73 |
-| gemini-flash                   | kagi (all)        |    24.51 | 0.8k |              0.72 |        13k | 17.35 |
-| gpt-4-1-nano                   | openai            |    24.39 |  11k |              0.70 |        27k |  2.51 |
-| gpt-4o-mini                    | kagi (deprecated) |    24.02 | 6.8k |              0.77 |        20k |  3.01 |
-| gemma-3-27b                    | kagi (all)        |    23.50 | 5.4k |              0.82 |        13k |  2.50 |
-| mixtral-8x22B-it-v0            | nebius            |    23.28 | 4.1k |              0.83 |        22k |  5.32 |
-| mistral-small                  | mistral           |    22.35 | 8.6k |              0.79 |        20k |  2.35 |
-| nova-pro                       | kagi (deprecated) |    21.57 | 1.3k |              0.80 |        18k | 14.44 |
-| liquid/lfm-7b                  | openrouter        |    19.85 | 4.4k |              0.85 |        25k |  5.63 |
-| ai21/jamba-1.6-large           | openrouter        |    19.85 | 8.4k |              0.81 |        20k |  2.43 |
-| phi-4-multimodal-instruct      | openrouter        |    18.63 | 4.5k |              0.86 |        23k |  5.01 |
-| cohere/command-r7b-12-2024     | openrouter        |    18.23 | 3.8k |              0.80 |        29k |  7.71 |
-| gemma2-9b-it                   | groq              |    18.14 |   1k |              0.84 |        14k | 14.14 |
-| llama-3-3b                     | kagi (deprecated) |    17.89 |  26k |              0.85 |        56k |  2.15 |
-| Phi-3.5-mini-instruct          | nebius            |    17.65 | 5.8k |              0.82 |        34k |  5.96 |
-| Phi-3.5-MoE-instruct           | nebius            |    17.33 |  37k |              0.81 |        98k |  2.66 |
-| nova-lite                      | kagi (deprecated) |    17.16 | 5.4k |              0.82 |        27k |  5.01 |
-| liquid/lfm-40b                 | openrouter        |    14.95 | 6.5k |              0.80 |        25k |  3.81 |
+| model                          | provider          | accuracy | time (seconds) | consistency_index | out_tokens |   tps |
+|--------------------------------|-------------------|---------:|---------------:|------------------:|-----------:|------:|
+| arcee-ai/maestro-reasoning     | kagi (soon)       |    60.05 |           130k |              0.70 |       400k |  3.00 |
+| Qwen3-235B-A22B                | kagi (soon)       |    58.58 |            79k |              0.76 |       290k |  3.64 |
+| o3                             | kagi (ultimate)   |    57.34 |           1.6k |              0.72 |        12k |  7.75 |
+| Qwen3-14B                      | kagi (soon)       |    56.15 |            65k |              0.70 |       310k |  4.71 |
+| o1                             | kagi (deprecated) |    54.17 |           3.7k |              0.83 |       6.3k |  1.69 |
+| claude 3.7 (extended)          | kagi (ultimate)   |    53.28 |           3.7k |              0.70 |       160k | 44.50 |
+| gemini-2-5-pro                 | kagi (ultimate)   |    50.56 |             9k |              0.81 |        15k |  1.68 |
+| o4-mini                        | kagi (all)        |    49.75 |           1.7k |              0.75 |       9.8k |  5.73 |
+| o3-mini                        | kagi (deprecated) |    48.38 |             5k |              0.82 |        16k |  3.15 |
+| deepseek-r1                    | kagi (ultimate)   |    45.51 |           8.5k |              0.74 |       180k | 21.80 |
+| deepseek-r1-distill-llama-70b  | kagi (all)        |    45.34 |           6.9k |              0.77 |       200k | 28.46 |
+| grok-3-mini (reasoning: high)  | kagi (ultimate)   |    43.77 |             3k |              0.65 |        12k |  3.88 |
+| gpt-4-1                        | kagi (ultimate)   |    42.52 |           1.8k |              0.72 |        23k | 12.46 |
+| perplexity/sonar-reasoning-pro | openrouter        |    40.97 |           2.5k |              0.77 |        20k |  7.80 |
+| grok-3                         | kagi (ultimate)   |    39.83 |           5.5k |              0.71 |        35k |  6.25 |
+| gpt-4-1-mini                   | kagi (all)        |    39.36 |            11k |              0.84 |        24k |  2.18 |
+| chatgpt-4o                     | kagi (ultimate)   |    38.05 |           3.2k |              0.73 |        25k |  7.84 |
+| QVQ-72B-preview                | nebius            |    35.82 |            68k |              0.68 |       190k |  2.78 |
+| perplexity/sonar-pro           | openrouter        |    35.78 |           0.4k |              0.78 |        29k | 65.36 |
+| llama-4-maverick               | kagi (ultimate)   |    35.42 |           7.9k |              0.67 |        40k |  5.03 |
+| Llama-3.3-70B-Instruct         | kagi (deprecated) |    33.33 |           2.1k |              0.81 |        24k | 11.30 |
+| microsoft/phi-4-reasoning      | openrouter        |    32.60 |            49k |              0.67 |       180k |  3.73 |
+| microsoft/phi-4-reasoning-plus | openrouter        |    32.35 |            48k |              0.67 |       160k |  3.33 |
+| deepseek v3                    | kagi (all)        |    31.69 |           9.4k |              0.74 |        44k |  4.67 |
+| thedrummer/anubis-pro-105b-v1  | openrouter        |    31.62 |           8.7k |              0.81 |        27k |  3.16 |
+| llama-4-scout                  | kagi (all)        |    31.16 |           9.8k |              0.74 |        36k |  3.65 |
+| llama-3-70b                    | kagi (deprecated) |    30.39 |           1.4k |              0.80 |        40k | 28.05 |
+| cohere/command-a               | openrouter        |    29.66 |            11k |              0.84 |        34k |  2.99 |
+| mistral-large                  | kagi (ultimate)   |    29.36 |           2.5k |              0.88 |        30k | 12.12 |
+| llama-3-405b                   | kagi (deprecated) |    28.92 |           1.5k |              0.88 |        27k | 17.74 |
+| minimax/minimax-01             | openrouter        |    27.45 |           2.2k |              0.84 |        39k | 18.01 |
+| mistral-small-it-0325          | kagi (all)        |    27.45 |            11k |              0.83 |        36k |  3.18 |
+| google/gemma-3-4b-it           | openrouter        |    25.49 |           6.5k |              0.82 |        35k |  5.37 |
+| Qwen2.5-Coder-32B-it           | nebius            |    25.49 |            11k |              0.82 |        25k |  2.28 |
+| arcee-ai/coder-large           | together          |    25.37 |             1k |              0.82 |        25k | 23.70 |
+| arcee-ai/virtuoso-large        | together          |    24.75 |            19k |              0.85 |        51k |  2.73 |
+| gemini-flash                   | kagi (all)        |    24.51 |           0.8k |              0.72 |        13k | 17.35 |
+| gpt-4-1-nano                   | openai            |    24.39 |            11k |              0.70 |        27k |  2.51 |
+| gpt-4o-mini                    | kagi (deprecated) |    24.02 |           6.8k |              0.77 |        20k |  3.01 |
+| gemma-3-27b                    | kagi (all)        |    23.50 |           5.4k |              0.82 |        13k |  2.50 |
+| mixtral-8x22B-it-v0            | nebius            |    23.28 |           4.1k |              0.83 |        22k |  5.32 |
+| mistral-small                  | mistral           |    22.35 |           8.6k |              0.79 |        20k |  2.35 |
+| nova-pro                       | kagi (deprecated) |    21.57 |           1.3k |              0.80 |        18k | 14.44 |
+| liquid/lfm-7b                  | openrouter        |    19.85 |           4.4k |              0.85 |        25k |  5.63 |
+| ai21/jamba-1.6-large           | openrouter        |    19.85 |           8.4k |              0.81 |        20k |  2.43 |
+| phi-4-multimodal-instruct      | openrouter        |    18.63 |           4.5k |              0.86 |        23k |  5.01 |
+| cohere/command-r7b-12-2024     | openrouter        |    18.23 |           3.8k |              0.80 |        29k |  7.71 |
+| gemma2-9b-it                   | groq              |    18.14 |             1k |              0.84 |        14k | 14.14 |
+| llama-3-3b                     | kagi (deprecated) |    17.89 |            26k |              0.85 |        56k |  2.15 |
+| Phi-3.5-mini-instruct          | nebius            |    17.65 |           5.8k |              0.82 |        34k |  5.96 |
+| Phi-3.5-MoE-instruct           | nebius            |    17.33 |            37k |              0.81 |        98k |  2.66 |
+| nova-lite                      | kagi (deprecated) |    17.16 |           5.4k |              0.82 |        27k |  5.01 |
+| liquid/lfm-40b                 | openrouter        |    14.95 |           6.5k |              0.80 |        25k |  3.81 |
 
 {.sortable}
 
