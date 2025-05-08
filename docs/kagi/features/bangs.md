@@ -191,3 +191,12 @@ Here is the full list of "feeling lucky" patterns that we support:
 - `! query`
 - `query !`
 - `\query`
+
+## Regex Patterns
+
+For more advanced bang functionality, bangs support parsing the query using a regex pattern whose capture groups can then be used in the template.
+
+For example, the `!ktr` bang has a regex pattern `(\w+)\s+(.*)` and a URL template `https://translate.kagi.com/$1/$2`.
+When called like `!ktr japanese https://blog.kagi.com/kagi-translate`, it redirects to `https://translate.kagi.com/japanese/https://blog.kagi.com/kagi-translate`.
+
+This is a fairly new feature, so we are excited to see what the community builds with it!
