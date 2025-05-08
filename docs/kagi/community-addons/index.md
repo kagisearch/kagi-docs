@@ -65,3 +65,7 @@ Adds a button to the right click context menu on Firefox that allows you to open
 ## 3rd party apps
 
 - [Lensai](https://github.com/FaFre/lensai) browser has **[Kagi Integration](https://github.com/FaFre/lensai/wiki/Kagi-Tools)** integrating Kagi's search, assistant, and summarizer tools within a user-friendly interface.
+
+## Kagi Translate Extension
+
+- [Kagi Translate Extension](https://github.com/mosk-it/kagi-translate-ext) is webextension to translate selected text from selected languages in firefox and Chrome
