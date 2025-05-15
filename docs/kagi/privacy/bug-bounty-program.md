@@ -190,10 +190,13 @@ that enhance the security and consistency of our services.
 |MEDIUM|[Orion Browser] UXSS Vulnerability in Orion Browser |$100|07-03-2025|
 |MEDIUM|[Orion Browser] Improper RTLO Rendering Affecting User Downloads |$100|05-03-2025|
 |MEDIUM|[Orion Browser] Improper Display of Source Information |$100|29-03-2025|
+|MEDIUM|[Orion Browser] XSS Attacks via Search URL Deeplink |$100|21-04-2025|
+|MEDIUM|[Orion Browser] XSS Attacks via Open URL Deeplink |$100|21-04-2025|
 |LOW |[Kagi Docs] XSS in Kagi ChatBot |$50|22-03-2025|
 |LOW |[Orion Browser] UXSS Vulnerability in Orion Browser |$50|13-03-2025|
 |LOW|[Orion Browser] Addressing Spoofed URL Vulnerability in Browser Domain Display |$50|31-03-2025|
 |LOW|[Orion Browser] Address Bar Impersonation Vulnerability via Data URI |$50|26-03-2025|
+|LOW|[Orion Browser] Address Bar Impersonation Vulnerability via File URI |$50|18-04-2025|
 
 
 **Gaura Popalghat**
