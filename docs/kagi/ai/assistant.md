@@ -268,7 +268,7 @@ We use a value-based usage system to maintain high-quality service for all users
 
 - Your monthly plan determines your token usage allowance.
     - For example, a **$25 monthly plan** provides up to **$25 worth of token usage** across all models.
-- For yearly plans, you get access to the full year's worth of token usage at the start of the year.
+- For yearly plans, you get access to the full year's worth of token usage at the start of the plan.
     - For instance, the **Ultimate yearly plan** allows up to **$270 worth of token usage for the entire year**.
 - A **20% margin markup** is included in token usage cost calculations to cover search queries, infrastructure, and development costs.
     - For example, **$25 token usage** consists of **$20 for raw token costs** and **$5 for operational costs**.
