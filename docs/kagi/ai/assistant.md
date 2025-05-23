@@ -181,6 +181,10 @@ The Assistant provides access to the following LLMs:
 | Meta       | [Llama 4 Scout](https://kagi.com/assistant?profile=llama-4-scout)                                     | All      |
 | Meta       | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                               | All      |
 | Alibaba    | [Qwen QwQ 32B](https://kagi.com/assistant?profile=qwen-qwq-32b)                                       | Ultimate |
+| Alibaba    | [Qwen 3 32B](https://kagi.com/assistant?profile=qwen-3-32b)                                           | All      |
+| Alibaba    | [Qwen 3 32B with Thinking](https://kagi.com/assistant?profile=qwen-3-32b-thinking)                    | All      |
+| Alibaba    | [Qwen 3 235B](https://kagi.com/assistant?profile=qwen-3-235b-a22b)                                    | All      |
+| Alibaba    | [Qwen 3 235B with Thinking](https://kagi.com/assistant?profile=qwen-3-235b-a22b-thinking)             | All      |
 | Amazon     | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                                             | All      |
 | Amazon     | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                                               | Ultimate |
 | DeepSeek   | [Chat V3](https://kagi.com/assistant?profile=deepseek)                                                | All      |
