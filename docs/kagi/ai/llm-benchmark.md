@@ -4,13 +4,13 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 ## Kagi Reasoning Benchmark
 
-The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not to be found in training data or "gamed" in finetuning. The taskset those frequently changes, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
+The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not to be found in training data or "gamed" in finetuning. The task set changes over time (mostly getting more difficult) to better represent current state of the art.
 
 Last update: **May 28th, 2025** 
 
 Tasks: **100**
 
-Avg. Input Tokens for all tasks: **10859**
+Input Tokens for all tasks: **10859**
 
 <div class="minimal-table-margins">
 
@@ -83,23 +83,18 @@ Avg. Input Tokens for all tasks: **10859**
 
 </div>
 
-**Note:** Costs in this table are heavy on output tokens, due to the nature of the benchmark tasks. These are not representative costs for use of these models as an agent, where the ratio of input to output tokens will be much different.
+**Model Costs:** Costs in the reasoning benchmark are mostly from the models' output tokens. **This table's cost columne is not representative for input token heavy tasks like web search or retrieval.**
 
-**NOTE:** The table shows models completing >0.95% of 100 Tasks 
+**CoT Tags:** Models that use [reasoning or chain-of-thought](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought) are denoted by the `[CoT]` tag. The `CoT` models produce extra tokens pondering before giving a final answer. This generally produce better results on reasoning benchmarks, at the expense of speed, and the cost of additional tokens.
 
-**NOTE:** Models that use [reasoning or chain-of-thought](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought) are denoted by the `[CoT]` tag. They are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
+For example, `grok-3-mini` uses chain of thought and `grok-3` does not. This is why `grok-3-mini` outperforms is bigger sibling in this benchmark.
 
-The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test and average speed in tokens per second at the time of testing.
+Reasoning models may not be the best choice for all tasks! Pick the model that does the best at what you intend to do. We will be including other benchmark tables (search, tool use, agentic task completion) shortly.
 
-The scores for accuracy per second and accuracy per dollar are normalized accuracy scores for speed and cost. Higher scores are better.
-
-This approach measures the models' potential and adaptability, with some bias towards features essential for [LLM features in Kagi Search](./assistant.md) (mostly around reasoning and instruction following capabilities, see examples below).
-
-As models get more advanced and to prevent leaking test to training data, we periodically update the benchmarks with harder questions to have reasonable distribution of model scores.
 
 # Benchmark Questions
 
-The reasoning benchmark is meant to measure "how smart" models are. We maintain an average failure rate on tasks included, so the task set changes over time.
+The reasoning benchmark is intended to measure the models in their capacity for self-correcting logical mistakes. This is essential for [LLM features in Kagi Search](./assistant.md). 
 
 **Various capabilities** like chess, coding, math:
 
@@ -114,13 +109,13 @@ Given a AZERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 
 **Common traps in model overtraining** on statistical text patterns. 
 
-For instance the mention of `python` trip models up :
+For instance the mention of `python` trip models up  (48% sucess rate):
 
 ```
 Would 3.11 be a bigger number than 3.9 if I used python math libraries to compare?
 ```
 
-This task has a 51% succes rate. It exploits models wanting to give the classic answer to the "Surgeon's son riddle:
+This exploits models wanting to give the classic answer to the "Surgeon's son riddle (51% sucess rate):
 
 ```
 A nurse comes to a surgeon and asks: "Sir, you are a dog. You do not hold a valid medical license. Canines cannot be in an operating room". 
@@ -132,7 +127,7 @@ Why can't the surgeon operate on the boy?
 
 **Model Attention** We also include tasks that test models propensity to get distracted by irrelevant text that tends to activate model layers.
 
-This example task has a 26% success rate on current models:
+The "background text" on this one trips up models with bad context window attention (26% succes rate):
 
 ```
 In this chart, arrows represent actions.
