@@ -16,37 +16,37 @@ Input Tokens for all tasks: **10859**
 
 | model                         |   accuracy (%) |   time_per_task |   cost | output_tokens| tok/s  | provider   |
 |-------------------------------|----------------|-----------------|--------|--------------|--------|------------|
-| o3 [CoT]                      |          78.03 |            1.08 |   2.08 | 6.2k         |   9.25 | kagi (ult) |
-| claude-4-opus [CoT]           |          77.46 |            3.25 |   2.84 | 8.4k         |   9.05 | kagi (ult) |
-| gemini-2-5-pro [CoT]          |          74.03 |            0.94 |   0.19 | 6.9k         |   9.51 | kagi (ult) |
-| arcee-ai/maestro [CoT]        |          72.92 |          105.49 |   0.25 | 170k         |   2.86 | together   |
-| Qwen3-235B-A22B-fp8-tput[CoT] |          72.12 |           58.65 |   0.08 | 120k         |   3.61 | together   |
-| o1 [CoT]                      |          71.73 |            8.49 |   5.11 | 4k           |   3.30 | Deprecated |
-| o1-pro [CoT]                  |          70.92 |           19.90 |  47.64 | 3.8k         |   0.97 | Deprecated |
-| claude-4-sonnet [CoT]         |          68.69 |            2.03 |   0.62 | 8.9k         |  14.38 | kagi (ult) |
-| o4-mini [CoT]                 |          67.79 |           -     |   0.32 | 4.4k         |  -     | kagi       |
-| claude-3-7-sonnet [CoT]       |          65.15 |           -     |   1.81 | 110k         |  -     | Deprecated |
-| qwen-qwq-32b [CoT]            |          64.60 |           -     |   0.87 | 520k         |  -     | kagi (ult) |
-| deepseek-r1 [CoT]             |          64.00 |           -     |   0.97 | 110k         |  -     | kagi (ult) |
-| o3-mini [CoT]                 |          63.37 |           -     |   0.42 | 11k          |  -     | Deprecated |
-| grok-3-mini [CoT-high]        |          62.58 |            1.51 |   0.28 | 12k          |   9.77 | xai        |
-| qwen-3-235b-a22b [CoT]        |          61.03 |            8.44 |   0.06 | 9k           |   3.34 | kagi (ult) |
-| grok-3-mini [CoT-low]         |          60.76 |            1.04 |   0.02 | 4.9k         |   8.16 | kagi (ult) |
+| o3 **[CoT]**                  |          78.03 |            1.08 |   2.08 | 6.2k         |   9.25 | kagi (ult) |
+| claude-4-opus **[CoT]**       |          77.46 |            3.25 |   2.84 | 8.4k         |   9.05 | kagi (ult) |
+| gemini-2-5-pro **[CoT]**      |          74.03 |            0.94 |   0.19 | 6.9k         |   9.51 | kagi (ult) |
+| arcee-ai/maestro **[CoT]**    |          72.92 |          105.49 |   0.25 | 170k         |   2.86 | together   |
+| Qwen3-235B-fp8-tput**[CoT]**  |          72.12 |           58.65 |   0.08 | 120k         |   3.61 | together   |
+| o1 **[CoT]**                  |          71.73 |            8.49 |   5.11 | 4k           |   3.30 | Deprecated |
+| o1-pro **[CoT]**              |          70.92 |           19.90 |  47.64 | 3.8k         |   0.97 | Deprecated |
+| claude-4-sonnet **[CoT]**     |          68.69 |            2.03 |   0.62 | 8.9k         |  14.38 | kagi (ult) |
+| o4-mini **[CoT]**             |          67.79 |           -     |   0.32 | 4.4k         |  -     | kagi       |
+| claude-3-7-sonnet **[CoT]**   |          65.15 |           -     |   1.81 | 110k         |  -     | Deprecated |
+| qwen-qwq-32b **[CoT]**        |          64.60 |           -     |   0.87 | 520k         |  -     | kagi (ult) |
+| deepseek-r1 **[CoT]**         |          64.00 |           -     |   0.97 | 110k         |  -     | kagi (ult) |
+| o3-mini **[CoT]**             |          63.37 |           -     |   0.42 | 11k          |  -     | Deprecated |
+| grok-3-mini **[CoT-high]**    |          62.58 |            1.51 |   0.28 | 12k          |   9.77 | xai        |
+| qwen-3-235b-a22b **[CoT]**    |          61.03 |            8.44 |   0.06 | 9k           |   3.34 | kagi (ult) |
+| grok-3-mini **[CoT-low]**     |          60.76 |            1.04 |   0.02 | 4.9k         |   8.16 | kagi (ult) |
 | claude-4-opus                 |          60.21 |            1.27 |   1.06 | 9.1k         |  24.66 | kagi (ult) |
-| Qwen3-14B [CoT]               |          55.62 |           17.72 |  -     | 140k         |  15.60 | nebius     |
-| perplexity/sonar-pro [CoT]    |          55.21 |            0.46 |   0.11 | 12k          |  66.52 | perplexity |
+| Qwen3-14B **[CoT]**           |          55.62 |           17.72 |  -     | 140k         |  15.60 | nebius     |
+| perplexity/sonar-pro **[CoT]**|          55.21 |            0.46 |   0.11 | 12k          |  66.52 | perplexity |
 | chatgpt-4o                    |          54.80 |           -     |   0.57 | 18k          |  -     | kagi (ult) |
 | gpt-4-1                       |          53.76 |           -     |   0.18 | 17k          |  -     | kagi (ult) |
-| deepseek-r1-distil-llama[CoT] |          52.62 |           -     |   0.33 | 110k         |  -     | kagi (ult) |
+| deepseek-r1-distil **[CoT]**  |          52.62 |           -     |   0.33 | 110k         |  -     | kagi (ult) |
 | claude-4-sonnet               |          52.58 |            0.93 |   0.23 | 10k          |  37.39 | kagi (ult) |
 | deepseek-chat-v3              |          51.95 |           -     |   0.24 | 21k          |  -     | kagi       |
-| qwen-3-30b-a3b [CoT]          |          49.83 |            3.26 |   0.03 | 9.8k         |  10.24 | kagi (ult) |
+| qwen-3-30b-a3b **[CoT]**      |          49.83 |            3.26 |   0.03 | 9.8k         |  10.24 | kagi (ult) |
 | thedrummer/anubis-pro-105b-v1 |          48.96 |            7.96 |   0.02 | 14k          |   3.10 | openrouter |
 | llama-4-maverick              |          48.93 |           -     |   0.03 | 20k          |  -     | kagi (ult) |
 | gpt-4-1-mini                  |          48.80 |           -     |   0.05 | 23k          |  -     | kagi       |
 | grok-3                        |          48.40 |           -     |   0.70 | 16k          |  -     | kagi (ult) |
 | mistral-medium                |          47.20 |            0.68 |   0.05 | 12k          |  53.31 | kagi       |
-| Qwen3-4B [CoT]                |          43.95 |           13.39 |  -     | 19k          |   4.54 | nebius     |
+| Qwen3-4B **[CoT]**            |          43.95 |           13.39 |  -     | 19k          |   4.54 | nebius     |
 | qwen-3-235b-a22b/nothink      |          43.00 |            3.17 |   0.02 | 18k          |  19.25 | kagi (ult) |
 | gpt-4o                        |          42.60 |           -     |   0.22 | 12k          |  -     | kagi (ult) |
 | gemini-2-5-flash [no-think]   |          41.88 |            0.37 |   0.02 | 11k          |  51.54 | kagi       |
