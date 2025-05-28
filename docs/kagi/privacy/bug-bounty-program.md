@@ -136,7 +136,6 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 
 #### Low Severity ($0-$50)
 
-- Security Header Issues
 - Missing HSTS
 - Incomplete CSP
 - X-Frame-Options issues
@@ -166,10 +165,11 @@ The following bugs are unlikely to be eligible for a bounty reward:
 - Non-exploitable issues
 - Clickjacking without impact
 - CSRF on public actions
-- Missing security headers without exploit
 - Version number disclosure
 - Path disclosure
 - Missing nonmandatory DNS records
+- Missing 2FA implementation
+- Security Header Issues
 
 ## Rewards
 
