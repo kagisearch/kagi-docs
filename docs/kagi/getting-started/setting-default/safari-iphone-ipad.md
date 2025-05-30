@@ -1,6 +1,6 @@
 # Setting Kagi as Default on Safari (iPhone/iPad)
 
-Use the [Orion iOS/iPadOS web browser](https://browser.kagi.com), which has native support for Kagi Search.
+Use the [Orion iOS/iPadOS web browser](https://kagi.com/orion/), which has native support for Kagi Search.
 
 If you prefer to use Safari, you can use the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1622835804).
 

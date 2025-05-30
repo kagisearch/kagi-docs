@@ -1,5 +1,11 @@
 # Setting Kagi as Default on Orion (iPhone/iPad)
 
+<br />
+
+<video src="./media/kagi_default_orion.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
+
 1. **Open Orion** and tap the **three-dots (•••) menu** in the bottom-right corner.  
 2. Tap **Settings**.  
 3. Tap **Search**.  
