@@ -86,7 +86,7 @@ Input Tokens for all tasks: **10859**
 
 **CoT Tags:** Models that use [reasoning or chain-of-thought](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought) are denoted by the `[CoT]` tag. The `CoT` models produce extra tokens pondering before giving a final answer. This generally produce better results on reasoning benchmarks, at the expense of speed, and the cost of additional tokens.
 
-For example, `grok-3-mini` uses chain of thought and `grok-3` does not. This is why `grok-3-mini` outperforms is bigger sibling in this benchmark.
+For example, `grok-3-mini` uses chain of thought and `grok-3` does not. This is why `grok-3-mini` outperforms its bigger sibling in this benchmark.
 
 Reasoning models may not be the best choice for all tasks! Pick the model that does the best at what you intend to do. We will be including other benchmark tables (search, tool use, agentic task completion) shortly.
 
