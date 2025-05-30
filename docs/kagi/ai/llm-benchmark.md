@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not to be found in training data or "gamed" in finetuning. The task set changes over time (mostly getting more difficult) to better represent current state of the art.
 
-Last update: **May 28th, 2025** 
+Last update: **May 28th, 2025**
 
 Tasks: **100**
 
@@ -86,14 +86,13 @@ Input Tokens for all tasks: **10859**
 
 **CoT Tags:** Models that use [reasoning or chain-of-thought](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought) are denoted by the `[CoT]` tag. The `CoT` models produce extra tokens pondering before giving a final answer. This generally produce better results on reasoning benchmarks, at the expense of speed, and the cost of additional tokens.
 
-For example, `grok-3-mini` uses chain of thought and `grok-3` does not. This is why `grok-3-mini` outperforms is bigger sibling in this benchmark.
+For example, `grok-3-mini` uses chain of thought and `grok-3` does not. This is why `grok-3-mini` outperforms its bigger sibling in this benchmark.
 
 Reasoning models may not be the best choice for all tasks! Pick the model that does the best at what you intend to do. We will be including other benchmark tables (search, tool use, agentic task completion) shortly.
 
-
 # Benchmark Questions
 
-The reasoning benchmark is intended to measure the models in their capacity for self-correcting logical mistakes. This is essential for [LLM features in Kagi Search](./assistant.md). 
+The reasoning benchmark is intended to measure the models in their capacity for self-correcting logical mistakes. This is essential for [LLM features in Kagi Search](./assistant.md).
 
 **Various capabilities** like chess, coding, math:
 
@@ -102,11 +101,12 @@ What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R
 ```
 
 As well as one-shot pattern matching with knowledge retrieval:
+
 ```
 Given a AZERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 ```
 
-**Common traps in model overtraining** on statistical text patterns. 
+**Common traps in model overtraining** on statistical text patterns.
 
 For instance the mention of `python` trip models up  (48% sucess rate):
 
