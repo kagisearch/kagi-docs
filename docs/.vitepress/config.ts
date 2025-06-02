@@ -128,7 +128,7 @@ function sidebarKagi() {
                         { text: 'Reporting a Bug', link: '/kagi/support-and-community/bug-reporting' },
                         { text: 'Email Support', link: '/kagi/support-and-community/email-support' },
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
-                        { text: 'Community Doggos', link: '/kagi/support-and-community/doggos' },
+                        { text: 'Community Roles', link: '/kagi/support-and-community/community-roles' },
                     ]
                 },
                 { text: 'Frequently Asked Questions', link: '/kagi/faq/faq' },
@@ -328,7 +328,7 @@ function sidebarOrion() {
                         { text: 'Product Roadmap & Feedback Forum', link: '/orion/support-and-community/roadmap-feedback-forum' },
                         { text: 'Discord Server', link: '/orion/support-and-community/discord-server' },
                         { text: 'Email Support', link: '/orion/support-and-community/email-support' },
-                        { text: 'macOS Keyboard Shortcuts', link: '/orion/support-and-community/keyboard-shortcuts' },
+                        { text: 'Community Roles', link: '/kagi/support-and-community/community-roles' },
                     ]
                 },
                 {
@@ -381,6 +381,7 @@ function sidebarOrion() {
                         { text: 'Troubleshooting FastMail Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-fastmail-issues' },
                         { text: 'Restoring Bookmarks, Reading List, etc.', link: '/orion/support-and-community/troubleshooting/restoring_bookmarks' },
                         { text: 'Reporting a bug', link: '/orion/support-and-community/troubleshooting/bug-reporting' },
+                        { text: 'macOS Keyboard Shortcuts', link: '/orion/support-and-community/keyboard-shortcuts' },
                     ]
                 },
                 { text: 'Orion+', link: '/orion/orion-plus/orion-plus' },
