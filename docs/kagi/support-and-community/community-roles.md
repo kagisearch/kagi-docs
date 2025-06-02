@@ -8,7 +8,7 @@ To recognize and reward that energy, we created **two community roles**: **Contr
 Earn **10 points** on either [Kagi Feedback](https://kagifeedback.org/) or [Orion Feedback](https://orionfeedback.org/). Points come from community reactions to your posts, bug reports, and feature suggestions (see [How points work](#how-points-work) below).  
 
 ### Perks  
-- **Contributor role** in the [Kagi Discord](https://kagi.com/discord)  
+- **Contributor role** in the [Kagi Community Discord server](https://kagi.com/discord)  
 - Access to **Contributor-only channels**  
 - **Contributor badge** next to your name on both feedback forums  
 - **Early access** to upcoming features and experiments  
@@ -19,7 +19,7 @@ Earn **10 points** on either [Kagi Feedback](https://kagifeedback.org/) or [Orio
 You can qualify in two ways. Either accumulate **100 points** on the feedback forums, or make a **major contribution to the product**—for example, translating **more than 1,000 strings**. Translation guides are available for [Kagi](https://help.kagi.com/kagi/support-and-community/contribute_translations.html) and [Orion](https://help.kagi.com/orion/support-and-community/contribute_translations.html).  
 
 ### Perks  
-- **Distinguished Member role** in Discord  
+- **Distinguished Member role** in the [Kagi Community Discord](https://kagi.com/discord)  
 - Access to **VIP and Contributor channels**  
 - **Distinguished Member badge** in both feedback forums  
 - **First-in-line** access to brand-new features and experiments  
