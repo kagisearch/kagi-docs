@@ -16,7 +16,7 @@ Earn **10 points** on either [Kagi Feedback](https://kagifeedback.org/) or [Orio
 ## Distinguished Member  
 
 ### Eligibility  
-You can qualify in two ways. Either accumulate **100 points** on the feedback forums, or make a **major contribution to the product**—for example, translating **more than 1,000 strings**. Translation guides are available for [Kagi](https://help.kagi.com/kagi/support-and-community/contribute_translations.html) and [Orion](https://help.kagi.com/orion/support-and-community/contribute_translations.html).  
+You can qualify in two ways. Either accumulate **100 points** on the feedback forums, or make a **major contribution to the product**—for example, [translating a product](https://help.kagi.com/kagi/support-and-community/contribute_translations.html) to a new language or creating an impactful [community add-on](https://help.kagi.com/kagi/community-addons/index.html). 
 
 ### Perks  
 - **Distinguished Member role** in the [Kagi Community Discord](https://kagi.com/discord)  
