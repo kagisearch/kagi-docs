@@ -74,7 +74,7 @@ Upon successful resolution:
 
 Bounty rewards are subject to assessment, depending on the severity of the report and the impact on users.
 
-### Critical Severity ($500-$1,000)
+### High Severity ($500-$1,000)
 
 - Remote Code Execution (RCE)
 - Ability to execute arbitrary code on servers
@@ -97,7 +97,7 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 - Transaction tampering
 - Payment flow bypass
 
-### High Severity ($100-$500)
+### Moderate Severity ($100-$500)
 
 - Stored Cross-Site Scripting (XSS)
 - Persistent payload execution
@@ -116,7 +116,7 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 - Vertical privilege escalation
 - Role manipulation
 
-### Moderate Severity ($50-$100)
+### Low Severity ($50-$100)
 
 - Reflected XSS
 - URL-based XSS
@@ -133,20 +133,6 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 - Unauthorized resource access
 - Parameter manipulation
 - ID enumeration
-
-#### Low Severity ($0-$50)
-
-- Missing HSTS
-- Incomplete CSP
-- X-Frame-Options issues
-- SSL/TLS Configuration
-- Protocol vulnerabilities
-- Certificate issues
-- CORS Misconfiguration
-- Overly permissive origins
-- Preflight bypass
-- Credential exposure
-
 
 ## Exclusions
 
