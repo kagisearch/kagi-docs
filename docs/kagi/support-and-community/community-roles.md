@@ -10,7 +10,7 @@ Earn **10 points** on either [Kagi Feedback](https://kagifeedback.org/) or [Orio
 ### Perks  
 - **Contributor role** in the [Kagi Community Discord server](https://kagi.com/discord)  
 - Access to **Contributor-only channels**  
-- **Contributor badge** next to your name on both feedback forums  
+- **Contributor badge** next to your name in the feedback forum where you earned the points  
 - **Early access** to upcoming features and experiments  
 
 ## Distinguished Member  
@@ -21,7 +21,7 @@ You can qualify in two ways. Either accumulate **100 points** on the feedback fo
 ### Perks  
 - **Distinguished Member role** in the [Kagi Community Discord](https://kagi.com/discord)  
 - Access to **VIP and Contributor channels**  
-- **Distinguished Member badge** in both feedback forums  
+- **Distinguished Member badge** in the feedback forum where you qualified  
 - **First-in-line** access to brand-new features and experiments  
 
 ## How points work  
@@ -30,7 +30,7 @@ Forum points measure how much the community values your input. You receive them 
 
 - Post a new bug report or feature idea  
 - Get an up-vote on any submission  
-- Receive a “Like” on a comment or reply
+- Receive a “Like” on a comment or reply  
 
 ## Start earning points today  
 
