@@ -150,40 +150,48 @@ The following keyboard shortcuts are available in the Assistant by Kagi on Mac a
 
 The Assistant provides access to the following LLMs:
 
-| Developer  | Model                                                                                            | Plan     |
-| ---------- | ------------------------------------------------------------------------------------------------ | -------- |
-| Anthropic  | [Claude 3.7 Sonnet with extended thinking](https://kagi.com/assistant?profile=claude-3-7-sonnet) | Ultimate |
-| Anthropic  | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)                          | Ultimate |
-| Anthropic  | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)                                | Ultimate |
-| Anthropic  | [Claude 3.5 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)                            | Ultimate |
-| OpenAI     | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                                              | Ultimate |
-| OpenAI     | [ChatGPT 4o](https://kagi.com/assistant?profile=chatgpt-4o)                                      | Ultimate |
-| OpenAI     | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)                                    | All      |
-| OpenAI     | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)                                            | Ultimate |
-| OpenAI     | [o4 Mini](https://kagi.com/assistant?profile=o4-mini)                                            | Ultimate |
-| OpenAI     | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                                            | Ultimate |
-| OpenAI     | [GPT 4.1 Mini](https://kagi.com/assistant?profile=gpt-4-1-mini)                                  | All      |
-| OpenAI     | [GPT 4.1 Nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                                  | All      |
-| Mistral AI | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)                               | All      |
-| Mistral AI | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)                                | Ultimate |
-| Mistral AI | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                              | All      |
-| Mistral AI | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                | All      |
-| Google     | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)                              | All      |
-| Google     | [Gemini 2.5 Flash Preview](https://kagi.com/assistant?profile=gemini-2-5-flash)                  | All      |
-| Google     | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)                                  | Ultimate |
-| Google     | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)                      | Ultimate |
-| Meta       | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)                                  | All      |
-| Meta       | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b)                                | Ultimate |
-| Meta       | [Llama 4 Scout](https://kagi.com/assistant?profile=llama-4-scout)                                | All      |
-| Meta       | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                          | All      |
-| Alibaba    | [Qwen QwQ 32B](https://kagi.com/assistant?profile=qwen-qwq-32b)                                  | Ultimate |
-| Amazon     | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                                        | All      |
-| Amazon     | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                                          | Ultimate |
-| DeepSeek   | [Chat V3](https://kagi.com/assistant?profile=deepseek)                                           | All      |
-| DeepSeek   | [R1](https://kagi.com/assistant?profile=deepseek-r1)                                             | Ultimate |
-| DeepSeek   | [R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b)         | Ultimate |
-| xAI        | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)                                    | Ultimate |
-| xAI        | [Grok 3](https://kagi.com/assistant?profile=grok-3)                                              | Ultimate |
+| Developer  | Model                                                                                                 | Plan     |
+| ---------- | ----------------------------------------------------------------------------------------------------- | -------- |
+| Anthropic  | [Claude 3.7 Sonnet with extended thinking](https://kagi.com/assistant?profile=claude-3-7-sonnet)      | Ultimate |
+| Anthropic  | [Claude 3.7 Sonnet](https://kagi.com/assistant?profile=claude-3-sonnet)                               | Ultimate |
+| Anthropic  | [Claude 4 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                                 | Ultimate |
+| Anthropic  | [Claude 4 Sonnet with extended thinking](https://kagi.com/assistant?profile=claude-4-sonnet-thinking) | Ultimate |
+| Anthropic  | [Claude 3 Opus](https://kagi.com/assistant?profile=claude-3-opus)                                     | Ultimate |
+| Anthropic  | [Claude 4 Opus](https://kagi.com/assistant?profile=claude-4-opus)                                     | Ultimate |
+| Anthropic  | [Claude 4 Opus with extended thinking](https://kagi.com/assistant?profile=claude-4-opus-thinking)     | Ultimate |
+| Anthropic  | [Claude 3.5 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)                                 | Ultimate |
+| OpenAI     | [GPT 4o](https://kagi.com/assistant?profile=gpt-4o)                                                   | Ultimate |
+| OpenAI     | [ChatGPT 4o](https://kagi.com/assistant?profile=chatgpt-4o)                                           | Ultimate |
+| OpenAI     | [GPT 4o Mini](https://kagi.com/assistant?profile=gpt-4o-mini)                                         | All      |
+| OpenAI     | [o3 Mini](https://kagi.com/assistant?profile=o3-mini)                                                 | Ultimate |
+| OpenAI     | [o4 Mini](https://kagi.com/assistant?profile=o4-mini)                                                 | Ultimate |
+| OpenAI     | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                                                 | Ultimate |
+| OpenAI     | [GPT 4.1 Mini](https://kagi.com/assistant?profile=gpt-4-1-mini)                                       | All      |
+| OpenAI     | [GPT 4.1 Nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                                       | All      |
+| Mistral AI | [Mistral Pixtral](https://kagi.com/assistant?profile=mistral-nemo)                                    | All      |
+| Mistral AI | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)                                     | Ultimate |
+| Mistral AI | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                                   | All      |
+| Mistral AI | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                     | All      |
+| Google     | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)                                   | All      |
+| Google     | [Gemini 2.5 Flash Preview](https://kagi.com/assistant?profile=gemini-2-5-flash)                       | All      |
+| Google     | [Gemini 1.5 Pro](https://kagi.com/assistant?profile=gemini-pro)                                       | Ultimate |
+| Google     | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)                           | Ultimate |
+| Meta       | [Llama 3.3 70B](https://kagi.com/assistant?profile=llama-3-70b)                                       | All      |
+| Meta       | [Llama 3.1 405B](https://kagi.com/assistant?profile=llama-3-405b)                                     | Ultimate |
+| Meta       | [Llama 4 Scout](https://kagi.com/assistant?profile=llama-4-scout)                                     | All      |
+| Meta       | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                               | All      |
+| Alibaba    | [Qwen QwQ 32B](https://kagi.com/assistant?profile=qwen-qwq-32b)                                       | Ultimate |
+| Alibaba    | [Qwen 3 32B](https://kagi.com/assistant?profile=qwen-3-32b)                                           | All      |
+| Alibaba    | [Qwen 3 32B with Thinking](https://kagi.com/assistant?profile=qwen-3-32b-thinking)                    | All      |
+| Alibaba    | [Qwen 3 235B](https://kagi.com/assistant?profile=qwen-3-235b-a22b)                                    | All      |
+| Alibaba    | [Qwen 3 235B with Thinking](https://kagi.com/assistant?profile=qwen-3-235b-a22b-thinking)             | All      |
+| Amazon     | [Nova Lite](https://kagi.com/assistant?profile=nova-lite)                                             | All      |
+| Amazon     | [Nova Pro](https://kagi.com/assistant?profile=nova-pro)                                               | Ultimate |
+| DeepSeek   | [Chat V3](https://kagi.com/assistant?profile=deepseek)                                                | All      |
+| DeepSeek   | [R1](https://kagi.com/assistant?profile=deepseek-r1)                                                  | Ultimate |
+| DeepSeek   | [R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b)              | Ultimate |
+| xAI        | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)                                         | Ultimate |
+| xAI        | [Grok 3](https://kagi.com/assistant?profile=grok-3)                                                   | Ultimate |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
@@ -264,8 +272,8 @@ We use a value-based usage system to maintain high-quality service for all users
 
 - Your monthly plan determines your token usage allowance.
     - For example, a **$25 monthly plan** provides up to **$25 worth of token usage** across all models.
-- For yearly plans, the monthly token usage allowance is calculated by dividing the annual plan value by 12.
-    - For instance, the **Ultimate yearly plan** allows up to **$22.50 worth of token usage per month**.
+- For yearly plans, you get access to the full year's worth of token usage at the start of the plan.
+    - For instance, the **Ultimate yearly plan** allows up to **$270 worth of token usage for the entire year**.
 - A **20% margin markup** is included in token usage cost calculations to cover search queries, infrastructure, and development costs.
     - For example, **$25 token usage** consists of **$20 for raw token costs** and **$5 for operational costs**.
 - Users will receive an in-app reminder as they near their usage limit. If the limit is exceeded, new AI interactions will be disabled until they either renew their plan early or the next billing cycle begins.

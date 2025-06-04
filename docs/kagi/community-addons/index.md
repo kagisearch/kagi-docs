@@ -69,3 +69,7 @@ Adds a button to the right click context menu on Firefox that allows you to open
 ## Kagi Translate Extension
 
 - [Kagi Translate Extension](https://github.com/mosk-it/kagi-translate-ext) is webextension to translate selected text from selected languages in firefox and Chrome
+
+## Kagi FastGPT CLI
+
+- [Kagi FastGPT CLI](https://github.com/0xgingi/kagi-fastgpt-cli) is an interactive CLI written in rust for the FastGPT API.

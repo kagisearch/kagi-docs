@@ -74,7 +74,7 @@ Upon successful resolution:
 
 Bounty rewards are subject to assessment, depending on the severity of the report and the impact on users.
 
-### Critical Severity ($500-$1,000)
+### High Severity ($500-$1,000)
 
 - Remote Code Execution (RCE)
 - Ability to execute arbitrary code on servers
@@ -97,7 +97,7 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 - Transaction tampering
 - Payment flow bypass
 
-### High Severity ($100-$500)
+### Moderate Severity ($100-$500)
 
 - Stored Cross-Site Scripting (XSS)
 - Persistent payload execution
@@ -116,7 +116,7 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 - Vertical privilege escalation
 - Role manipulation
 
-### Moderate Severity ($50-$100)
+### Low Severity ($50-$100)
 
 - Reflected XSS
 - URL-based XSS
@@ -133,21 +133,6 @@ Bounty rewards are subject to assessment, depending on the severity of the repor
 - Unauthorized resource access
 - Parameter manipulation
 - ID enumeration
-
-#### Low Severity ($0-$50)
-
-- Security Header Issues
-- Missing HSTS
-- Incomplete CSP
-- X-Frame-Options issues
-- SSL/TLS Configuration
-- Protocol vulnerabilities
-- Certificate issues
-- CORS Misconfiguration
-- Overly permissive origins
-- Preflight bypass
-- Credential exposure
-
 
 ## Exclusions
 
@@ -166,10 +151,11 @@ The following bugs are unlikely to be eligible for a bounty reward:
 - Non-exploitable issues
 - Clickjacking without impact
 - CSRF on public actions
-- Missing security headers without exploit
 - Version number disclosure
 - Path disclosure
 - Missing nonmandatory DNS records
+- Missing 2FA implementation
+- Security Header Issues
 
 ## Rewards
 
@@ -190,10 +176,13 @@ that enhance the security and consistency of our services.
 |MEDIUM|[Orion Browser] UXSS Vulnerability in Orion Browser |$100|07-03-2025|
 |MEDIUM|[Orion Browser] Improper RTLO Rendering Affecting User Downloads |$100|05-03-2025|
 |MEDIUM|[Orion Browser] Improper Display of Source Information |$100|29-03-2025|
+|MEDIUM|[Orion Browser] XSS Attacks via Search URL Deeplink |$100|21-04-2025|
+|MEDIUM|[Orion Browser] XSS Attacks via Open URL Deeplink |$100|21-04-2025|
 |LOW |[Kagi Docs] XSS in Kagi ChatBot |$50|22-03-2025|
 |LOW |[Orion Browser] UXSS Vulnerability in Orion Browser |$50|13-03-2025|
 |LOW|[Orion Browser] Addressing Spoofed URL Vulnerability in Browser Domain Display |$50|31-03-2025|
 |LOW|[Orion Browser] Address Bar Impersonation Vulnerability via Data URI |$50|26-03-2025|
+|LOW|[Orion Browser] Address Bar Impersonation Vulnerability via File URI |$50|18-04-2025|
 
 
 **Gaura Popalghat**

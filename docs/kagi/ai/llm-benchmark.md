@@ -4,108 +4,160 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 ## Kagi Reasoning Benchmark
 
-The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not to be found in training data or "gamed" in finetuning. The task set those frequently changes, providing a rigorous evaluation of the models' capabilities, (hopefully) outside of what models saw in the training data to avoid benchmark overfitting. 
+The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not to be found in training data or "gamed" in finetuning. The task set changes over time (mostly getting more difficult) to better represent current state of the art.
 
-Last update: **May 6th, 2025** 
+Last update: **May 28th, 2025**
 
 Tasks: **100**
 
-Avg. Input Tokens for all tasks: **8861**
-
-**NOTE (2025-05-06):** Cost reporting in the table is not available for this version, but will be back soon.
+Input Tokens for all tasks: **10859**
 
 <div class="minimal-table-margins">
 
-| model                          | provider          | accuracy | time (s) | consistency index | out tokens | tps   |
-|:-------------------------------|:------------------|---------:|---------:|------------------:|-----------:|------:|
-| arcee-ai/maestro-reasoning     | kagi (soon)       |    60.05 |     130k |              0.70 |       400k |  3.00 |
-| Qwen3-235B-A22B                | kagi (soon)       |    58.58 |      79k |              0.76 |       290k |  3.64 |
-| o3                             | kagi (ultimate)   |    57.34 |     1.6k |              0.72 |        12k |  7.75 |
-| Qwen3-14B                      | kagi (soon)       |    56.15 |      65k |              0.70 |       310k |  4.71 |
-| o1                             | kagi (deprecated) |    54.17 |     3.7k |              0.83 |       6.3k |  1.69 |
-| claude 3.7 (extended)          | kagi (ultimate)   |    53.28 |     3.7k |              0.70 |       160k | 44.50 |
-| gemini-2-5-pro                 | kagi (ultimate)   |    50.56 |       9k |              0.81 |        15k |  1.68 |
-| o4-mini                        | kagi (all)        |    49.75 |     1.7k |              0.75 |       9.8k |  5.73 |
-| o3-mini                        | kagi (deprecated) |    48.38 |       5k |              0.82 |        16k |  3.15 |
-| deepseek-r1                    | kagi (ultimate)   |    45.51 |     8.5k |              0.74 |       180k | 21.80 |
-| deepseek-r1-distill-llama-70b  | kagi (all)        |    45.34 |     6.9k |              0.77 |       200k | 28.46 |
-| grok-3-mini (reasoning: high)  | kagi (ultimate)   |    43.77 |       3k |              0.65 |        12k |  3.88 |
-| gpt-4-1                        | kagi (ultimate)   |    42.52 |     1.8k |              0.72 |        23k | 12.46 |
-| perplexity/sonar-reasoning-pro | openrouter        |    40.97 |     2.5k |              0.77 |        20k |  7.80 |
-| grok-3                         | kagi (ultimate)   |    39.83 |     5.5k |              0.71 |        35k |  6.25 |
-| gpt-4-1-mini                   | kagi (all)        |    39.36 |      11k |              0.84 |        24k |  2.18 |
-| chatgpt-4o                     | kagi (ultimate)   |    38.05 |     3.2k |              0.73 |        25k |  7.84 |
-| QVQ-72B-preview                | nebius            |    35.82 |      68k |              0.68 |       190k |  2.78 |
-| perplexity/sonar-pro           | openrouter        |    35.78 |     0.4k |              0.78 |        29k | 65.36 |
-| llama-4-maverick               | kagi (ultimate)   |    35.42 |     7.9k |              0.67 |        40k |  5.03 |
-| Llama-3.3-70B-Instruct         | kagi (deprecated) |    33.33 |     2.1k |              0.81 |        24k | 11.30 |
-| microsoft/phi-4-reasoning      | openrouter        |    32.60 |      49k |              0.67 |       180k |  3.73 |
-| microsoft/phi-4-reasoning-plus | openrouter        |    32.35 |      48k |              0.67 |       160k |  3.33 |
-| deepseek v3                    | kagi (all)        |    31.69 |     9.4k |              0.74 |        44k |  4.67 |
-| thedrummer/anubis-pro-105b-v1  | openrouter        |    31.62 |     8.7k |              0.81 |        27k |  3.16 |
-| llama-4-scout                  | kagi (all)        |    31.16 |     9.8k |              0.74 |        36k |  3.65 |
-| llama-3-70b                    | kagi (deprecated) |    30.39 |     1.4k |              0.80 |        40k | 28.05 |
-| cohere/command-a               | openrouter        |    29.66 |      11k |              0.84 |        34k |  2.99 |
-| mistral-large                  | kagi (ultimate)   |    29.36 |     2.5k |              0.88 |        30k | 12.12 |
-| llama-3-405b                   | kagi (deprecated) |    28.92 |     1.5k |              0.88 |        27k | 17.74 |
-| minimax/minimax-01             | openrouter        |    27.45 |     2.2k |              0.84 |        39k | 18.01 |
-| mistral-small-it-0325          | kagi (all)        |    27.45 |      11k |              0.83 |        36k |  3.18 |
-| google/gemma-3-4b-it           | openrouter        |    25.49 |     6.5k |              0.82 |        35k |  5.37 |
-| Qwen2.5-Coder-32B-it           | nebius            |    25.49 |      11k |              0.82 |        25k |  2.28 |
-| arcee-ai/coder-large           | together          |    25.37 |       1k |              0.82 |        25k | 23.70 |
-| arcee-ai/virtuoso-large        | together          |    24.75 |      19k |              0.85 |        51k |  2.73 |
-| gemini-flash                   | kagi (all)        |    24.51 |     0.8k |              0.72 |        13k | 17.35 |
-| gpt-4-1-nano                   | openai            |    24.39 |      11k |              0.70 |        27k |  2.51 |
-| gpt-4o-mini                    | kagi (deprecated) |    24.02 |     6.8k |              0.77 |        20k |  3.01 |
-| gemma-3-27b                    | kagi (all)        |    23.50 |     5.4k |              0.82 |        13k |  2.50 |
-| mixtral-8x22B-it-v0            | nebius            |    23.28 |     4.1k |              0.83 |        22k |  5.32 |
-| mistral-small                  | mistral           |    22.35 |     8.6k |              0.79 |        20k |  2.35 |
-| nova-pro                       | kagi (deprecated) |    21.57 |     1.3k |              0.80 |        18k | 14.44 |
-| liquid/lfm-7b                  | openrouter        |    19.85 |     4.4k |              0.85 |        25k |  5.63 |
-| ai21/jamba-1.6-large           | openrouter        |    19.85 |     8.4k |              0.81 |        20k |  2.43 |
-| phi-4-multimodal-instruct      | openrouter        |    18.63 |     4.5k |              0.86 |        23k |  5.01 |
-| cohere/command-r7b-12-2024     | openrouter        |    18.23 |     3.8k |              0.80 |        29k |  7.71 |
-| gemma2-9b-it                   | groq              |    18.14 |       1k |              0.84 |        14k | 14.14 |
-| llama-3-3b                     | kagi (deprecated) |    17.89 |      26k |              0.85 |        56k |  2.15 |
-| Phi-3.5-mini-instruct          | nebius            |    17.65 |     5.8k |              0.82 |        34k |  5.96 |
-| Phi-3.5-MoE-instruct           | nebius            |    17.33 |      37k |              0.81 |        98k |  2.66 |
-| nova-lite                      | kagi (deprecated) |    17.16 |     5.4k |              0.82 |        27k |  5.01 |
-| liquid/lfm-40b                 | openrouter        |    14.95 |     6.5k |              0.80 |        25k |  3.81 |
+| model                         |   accuracy (%) |   time_per_task |   cost | output_tokens| tok/s  | provider            |
+|-------------------------------|----------------|-----------------|--------|--------------|--------|---------------------|
+| o3 `[CoT]`                    |          78.03 |            1.08 |   2.08 | 6.2k         |   9.25 | kagi (ultimate)     |
+| claude-4-opus `[CoT]`         |          77.46 |            3.25 |   2.84 | 8.4k         |   9.05 | kagi (ultimate)     |
+| gemini-2-5-pro `[CoT]`        |          74.03 |            0.94 |   0.19 | 6.9k         |   9.51 | kagi (ultimate)     |
+| arcee-ai/maestro `[CoT]`      |          72.92 |          105.49 |   0.25 | 170k         |   2.86 | together            |
+| qwen-3-235b-a22b-rope `[CoT]` |          72.12 |           58.65 |   0.08 | 120k         |   3.61 | kagi (ultimate)     |
+| o1 `[CoT]`                    |          71.73 |            8.49 |   5.11 | 4k           |   3.30 | Depr. (o3)          |
+| o1-pro `[CoT]`                |          70.92 |           19.90 |  47.64 | 3.8k         |   0.97 | Depr. (o3)          |
+| claude-4-sonnet `[CoT]`       |          68.69 |            2.03 |   0.62 | 8.9k         |  14.38 | kagi (ultimate)     |
+| o4-mini `[CoT]`               |          67.79 |           -     |   0.32 | 4.4k         |  -     | kagi (ultimate)     |
+| claude-3-7-sonnet `[CoT]`     |          65.15 |           -     |   1.81 | 110k         |  -     | Depr. (claude-4)    |
+| qwen-qwq-32b `[CoT]`          |          64.60 |           -     |   0.87 | 520k         |  -     | Depr. (qwen3-235b)  |
+| deepseek-r1 `[CoT]`           |          64.00 |           -     |   0.97 | 110k         |  -     | kagi (ultimate)     |
+| o3-mini `[CoT]`               |          63.37 |           -     |   0.42 | 11k          |  -     | Depr. (o4-mini)     |
+| grok-3-mini `[CoT-high]`      |          62.58 |            1.51 |   0.28 | 12k          |   9.77 | xai                 |
+| qwen-3-235b-a22b `[CoT]`      |          61.03 |            8.44 |   0.06 | 9k           |   3.34 | Nebius              |
+| grok-3-mini `[CoT-low]`       |          60.76 |            1.04 |   0.02 | 4.9k         |   8.16 | kagi (ultimate)     |
+| claude-4-opus [no-think]      |          60.21 |            1.27 |   1.06 | 9.1k         |  24.66 | kagi (ultimate)     |
+| perplexity/sonar-pro `[CoT]`  |          55.21 |            0.46 |   0.11 | 12k          |  66.52 | perplexity          |
+| chatgpt-4o                    |          54.80 |           -     |   0.57 | 18k          |  -     | kagi (ultimate)     |
+| gpt-4-1                       |          53.76 |           -     |   0.18 | 17k          |  -     | kagi (ultimate)     |
+| deepseekr1-distil-llama`[CoT]`|          52.62 |           -     |   0.33 | 110k         |  -     | kagi (ultimate)     |
+| claude-4-sonnet [no-think]    |          52.58 |            0.93 |   0.23 | 10k          |  37.39 | kagi (ultimate)     |
+| deepseek-chat-v3              |          51.95 |           -     |   0.24 | 21k          |  -     | kagi (all)          |
+| qwen-3-32b `[CoT]`            |          49.83 |            3.26 |   0.03 | 9.8k         |  10.24 | kagi (ultimate)     |
+| thedrummer/anubis-pro-105b-v1 |          48.96 |            7.96 |   0.02 | 14k          |   3.10 | openrouter          |
+| llama-4-maverick              |          48.93 |           -     |   0.03 | 20k          |  -     | kagi (all)          |
+| gpt-4-1-mini                  |          48.80 |           -     |   0.05 | 23k          |  -     | kagi (all)          |
+| grok-3                        |          48.40 |           -     |   0.70 | 16k          |  -     | kagi (ultimate)     |
+| mistral-medium                |          47.20 |            0.68 |   0.05 | 12k          |  53.31 | kagi (all)          |
+| Qwen3-4B `[CoT]`              |          43.95 |           13.39 |  -     | 19k          |   4.54 | nebius              |
+| qwen-3-235b-a22b [no-think]   |          43.00 |            3.17 |   0.02 | 18k          |  19.25 | kagi (all)          |
+| gpt-4o                        |          42.60 |           -     |   0.22 | 12k          |  -     | kagi (ultimate)     |
+| gemini-2-5-flash [no-think]   |          41.88 |            0.37 |   0.02 | 11k          |  51.54 | kagi (all)          |
+| mistral-large                 |          40.53 |           -     |   0.10 | 12k          |  -     | kagi (ultimate)     |
+| claude-3-5-sonnet             |          38.89 |           -     |   0.23 | 10k          |  -     | Depr. (claude-4)    |
+| mistral-small                 |          37.99 |           -     |   0.00 | 12k          |  -     | kagi (all)          |
+| aion-labs/aion-1.0-mini       |          37.20 |            0.87 |   0.08 | 46k          | 124.56 | openrouter          |
+| claude-3-opus                 |          37.09 |           -     |   1.29 | 9.8k         |  -     | Depr. (claude-4)    |
+| llama-3-405b                  |          37.07 |           -     |   0.27 | 30k          |  -     | Depr. (llama-4)     |
+| minimax/minimax-01            |          36.40 |            0.84 |   0.02 | 15k          |  19.37 | openrouter          |
+| arcee-ai/virtuoso-large       |          35.42 |            1.69 |   0.02 | 12k          |  12.56 | together            |
+| gpt-4-turbo                   |          34.27 |           -     |   1.09 | 16k          |  -     | Depr. (gpt-4-1)     |
+| gemini-flash                  |          34.10 |            0.39 |   0.01 | 6.4k         |  31.45 | kagi (all)          |
+| qwen-3-32b [no-think]         |          33.93 |            6.34 |   0.02 | 33k          |  15.62 | kagi (all)          |
+| gpt-4                         |          33.44 |           -     |   2.22 | 7.2k         |  -     | Depr. (gpt-4-1)     |
+| gpt-4o-mini                   |          33.38 |           -     |   0.02 | 29k          |  -     | kagi (all)          |
+| claude-3-opus                 |          31.23 |            1.55 |   1.06 | 8.7k         |  17.75 | Depr. (claude-4)    |
+| gemini-1-5-pro                |          31.20 |           -     |   0.38 | 5.9k         |  -     | Depr. (gemini-2-5)  |
+| llama-4-scout                 |          30.80 |           -     |   0.02 | 17k          |  -     | kagi (all)          |
+| llama-3-70b                   |          29.21 |            0.97 |   0.06 | 11k          |  34.37 | Depr. (llama-4)     |
+| qwen-2-5-vl-72b               |          28.36 |            2.41 |   0.01 | 8.4k         |  10.43 | Nebius              |
+| claude-3-haiku                |          26.44 |           -     |   0.09 | 8.6k         |  -     | kagi (ultimate)     |
+| qwen-vl-max                   |          25.31 |            1.18 |   0.06 | 7.4k         |  19.54 | Depr. (qwen-3)      |
+| nova-pro                      |          23.63 |           -     |   0.13 | 24k          |  -     | Depr: uncompetitive |
+| llama-3-3b                    |          22.79 |            2.37 |   0.01 | 19k          |  27.85 | openrouter          |
+| mistral-nemo                  |          22.40 |           -     |   0.00 | 10k          |  -     | Depr. (small-3.1)   |
+| gemma-3-27b                   |          21.79 |            1.32 |   0.01 | 15k          |  39.82 | Nebius              |
+| nova-lite                     |          21.04 |           -     |   0.01 | 19k          |  -     | Depr: uncompetitive |
+| cohere/command-r7b-12-2024    |          19.82 |            2.96 |   0.00 | 13k          |   6.85 | openrouter          |
+| gemma2-9b-it                  |          19.27 |            0.77 |  -     | 6k           |  13.69 | groq                |
+| liquid/lfm-40b                |          17.71 |            5.81 |   0.00 | 12k          |   3.67 | openrouter          |
 
 {.sortable}
 
 </div>
 
-**Note:** Costs in this table are heavy on output tokens, due to the nature of the benchmark tasks. These are not representative costs for use of these models as an agent, where the ratio of input to output tokens will be much different.
+**Model Costs:** Costs in the reasoning benchmark are mostly from the models' output tokens. **This table's cost columne is not representative for input token heavy tasks like web search or retrieval.**
 
-**NOTE:** The table shows models completing >0.95% of 100 Tasks 
+**CoT Tags:** Models that use [reasoning or chain-of-thought](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought) are denoted by the `[CoT]` tag. The `CoT` models produce extra tokens pondering before giving a final answer. This generally produce better results on reasoning benchmarks, at the expense of speed, and the cost of additional tokens.
 
-Reasoning models are denoted by the `CoT` column. They are optimized for multi-step reasoning and often produce better results on reasoning benchmarks, at the expense of latency and cost. They may not be suitable for all general purpose LLM tasks.
+For example, `grok-3-mini` uses chain of thought and `grok-3` does not. This is why `grok-3-mini` outperforms its bigger sibling in this benchmark.
 
-The table includes metrics such as overall mode quality (measured as percent of correct responses), total tokens output (some models are less verbose by default, affecting both cost and speed), total cost to run the test and average speed in tokens per second at the time of testing.
+Reasoning models may not be the best choice for all tasks! Pick the model that does the best at what you intend to do. We will be including other benchmark tables (search, tool use, agentic task completion) shortly.
 
-The scores for accuracy per second and accuracy per dollar are normalized accuracy scores for speed and cost. Higher scores are better.
+# Benchmark Questions
 
-This approach measures the models' potential and adaptability, with some bias towards features essential for [LLM features in Kagi Search](./assistant.md) (mostly around reasoning and instruction following capabilities, see examples below).
+The reasoning benchmark is intended to measure the models in their capacity for self-correcting logical mistakes. This is essential for [LLM features in Kagi Search](./assistant.md).
 
-As models get more advanced and to prevent leaking test to training data, we periodically update the benchmarks with harder questions to have reasonable distribution of model scores.
-
-## Benchmark details
-
-The benchmark is meant to be hard so we can reasonably evaluate current capabilities of LLMs.
-
-Example questions include:
-
-```
-What is the capital of Finland? If it begins with the letter H, respond 'Oslo' otherwise respond 'Helsinki'.
-```
+**Various capabilities** like chess, coding, math:
 
 ```
 What square is the black king on in this chess position: 1Bb3BN/R2Pk2r/1Q5B/4q2R/2bN4/4Q1BK/1p6/1bq1R1rb w - - 0 1
 ```
 
+As well as one-shot pattern matching with knowledge retrieval:
+
 ```
-Given a QWERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
+Given a AZERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
+```
+
+**Common traps in model overtraining** on statistical text patterns.
+
+For instance the mention of `python` trip models up  (48% sucess rate):
+
+```
+Would 3.11 be a bigger number than 3.9 if I used python math libraries to compare?
+```
+
+This exploits models wanting to give the classic answer to the "Surgeon's son riddle (51% sucess rate):
+
+```
+A nurse comes to a surgeon and asks: "Sir, you are a dog. You do not hold a valid medical license. Canines cannot be in an operating room". 
+
+She then asks: "why does the hospital keep making these mistakes? It is a riddle to me".
+
+Why can't the surgeon operate on the boy?
+```
+
+**Model Attention** We also include tasks that test models propensity to get distracted by irrelevant text that tends to activate model layers.
+
+The "background text" on this one trips up models with bad context window attention (26% succes rate):
+
+```
+In this chart, arrows represent actions.
+Verbs for the actions are in boxes with doubled lines.
+The text in the background of the diagram is noise, don't mind it.
+1. What is Mary doing with the apple?
+2. What is Jack doing to the apple?
+3. What is Charles doing to the bee?
+===================================
+The Follies of 1907 is a 1907 musical revue which
+was conceived +---------+ and produced by Florenz.
+An Apple is a |  Jack   | round, edible fruit that
+is produced by+---------+ the apple tree. Apples 
+cannot jump, or |  +==========+ eat, or kick, and
+that is because |--|| eating || apples are fruits,
++========+ and  v  +==========+ fruits are not
+|| kick || the  +---------+ kind of objects that
++========+ can  |  Apple  | <+ take actions. People
+like bee |  or  +---------+  | Mary, or Jack, or the
++-----+  | guy  +---------+  | named Charles, well,
+| bee | <------ | Charles |  | they can certainly
++-----+  act in +---------+  |  +============+ ways
+that could be   |  +======+  |--|| Throwing || seen
+as verbs, like  |--||jump||  |  +============+ eat,
+throw, jump, or |  +======+  | punch, or kick. Wrong
+Answers: Mary +---------+    | kicked, Jack jumped, 
+Charles threw |  Mary   | ---+ and bee made honey.
+More random   +---------+ text: Mary ate the apple.
+Charles threw the bee. Mary ate the apple. Jack is 
+the one who kicked the apple. Not Mary. She ate it.
+============================
 ```
 
 ## Credits
