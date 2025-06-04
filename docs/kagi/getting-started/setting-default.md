@@ -25,3 +25,6 @@ If you want to manually set Kagi as a default search engine, use these settings:
 - Kagi auto suggestions URL `https://kagi.com/api/autosuggest?q=%s`
 
 - Kagi auto suggestions URL (Privacy Pass) `https://kagisuggest.com/api/autosuggest?q=%s`
+
+- Reverse image search URL `https://kagi.com/reverse/upload`. 
+    * For image search to work, you have to pass the image you are trying to reverse-search in a `file` POST parameter. For example, in Vivaldi to achieve this you have to set "POST parameters of image search" to `file={google:imageThumbnail}`
