@@ -25,7 +25,7 @@ You will find here:
 
 Orion enables users to tap into over 150,000 extensions created both for the Chrome and Firefox browsers, and run them natively on top of WebKit rendering engine.
 
-By adopting the WebExtensions APIs, we've shown our support for creating a unified browser extension experience across all three major web rendering engines. **Please also understand, that this is a monumental effort, never attempted before even by Apple**. We've ended up porting hundreds of WebExtension APIs, one by one, that were never meant to work with WebKit. It took us a few years to do that and this is still work in progress. You can help this effort by [supporting Orion](https://browser.kagi.com/orionplus.html) development and becoming Orion+ member.
+By adopting the WebExtensions APIs, we've shown our support for creating a unified browser extension experience across all three major web rendering engines. **Please also understand, that this is a monumental effort, never attempted before, even by Apple - a trillion dollar company**. Yet our small team ended up porting hundreds of WebExtension APIs, one by one, that were never meant to work with WebKit. It took us a few years to do that and this is still work in progress. You can help this effort by [supporting Orion](https://browser.kagi.com/orionplus.html) development and becoming Orion+ member.
 
 On top of that, we've built advanced security features that give our users granular control over extensions, far beyond what Chrome and Firefox offer. For example, you can choose to allow an extension to run only on certain websites.
 
