@@ -82,7 +82,7 @@ Input Tokens for all tasks: **10859**
 
 </div>
 
-**Model Costs:** Costs in the reasoning benchmark are mostly from the models' output tokens. **This table's cost columne is not representative for input token heavy tasks like web search or retrieval.**
+**Model Costs:** Costs in the reasoning benchmark are mostly from the models' output tokens. **This table's cost column is not representative for input token heavy tasks like web search or retrieval.**
 
 **CoT Tags:** Models that use [reasoning or chain-of-thought](https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought) are denoted by the `[CoT]` tag. The `CoT` models produce extra tokens pondering before giving a final answer. This generally produce better results on reasoning benchmarks, at the expense of speed, and the cost of additional tokens.
 
@@ -108,13 +108,13 @@ Given a AZERTY keyboard layout, if HEART goes to JRSTY, what does HIGB go to?
 
 **Common traps in model overtraining** on statistical text patterns.
 
-For instance the mention of `python` trip models up  (48% sucess rate):
+For instance the mention of `python` trip models up  (48% success rate):
 
 ```
 Would 3.11 be a bigger number than 3.9 if I used python math libraries to compare?
 ```
 
-This exploits models wanting to give the classic answer to the "Surgeon's son riddle (51% sucess rate):
+This exploits models wanting to give the classic answer to the "Surgeon's son riddle (51% success rate):
 
 ```
 A nurse comes to a surgeon and asks: "Sir, you are a dog. You do not hold a valid medical license. Canines cannot be in an operating room". 
@@ -126,7 +126,7 @@ Why can't the surgeon operate on the boy?
 
 **Model Attention** We also include tasks that test models propensity to get distracted by irrelevant text that tends to activate model layers.
 
-The "background text" on this one trips up models with bad context window attention (26% succes rate):
+The "background text" on this one trips up models with bad context window attention (26% success rate):
 
 ```
 In this chart, arrows represent actions.
