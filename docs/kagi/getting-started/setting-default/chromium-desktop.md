@@ -26,7 +26,7 @@ To enhance your browsing experience with Kagi, follow these steps to set Kagi as
 2. In the **Site Search** section about halfway down, click the **Add** button at its upper right and fill in these details:
 	- **Search engine:** Kagi Search
 	- **Keyword:** kagi
-	- **Query URL:** `https://kagi.com/search?q=%s` if you're not planning to use Kagi in private search. If you are, then use `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](#private_session))
+	- **Query URL:** `https://kagi.com/search?q=%s` if you're not planning to use Kagi in private search. If you are, then use `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](./../../privacy/private-browser-sessions))
 3. Find Kagi again in the Site Search section. You may have to click **Additional sites** at the bottom if you don't see it right away.
 3. Click the three dots next to the Kagi entry in the list.
 4. Click **Make default**.
