@@ -39,4 +39,4 @@ By default, the Kagi Search extension for Safari will redirect searches from any
 8. In the **Engine to redirect** dropdown, select the same search engine you chose in step 4.
 9. Tap on **Done**.
 
-**Note:** If you set DuckDuckGo as default and experience issues with [Bangs](../features/bangs.md) we recommend switching to Ecosia instead.
+**Note:** If you set DuckDuckGo as default and experience issues with [Bangs](../../features/bangs.md) we recommend switching to Ecosia instead.
