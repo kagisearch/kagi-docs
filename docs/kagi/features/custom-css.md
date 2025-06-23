@@ -413,6 +413,12 @@ Hide the floating Quick Search button from Kagi search results page.
 
 </details>
 
+<details><summary>Hide AI features</summary>
+
+[**Get it**](https://codeberg.org/zerodogg/kagi-no-ai#readme)
+
+</details>
+
 ## Learn
 
 If you want to learn more about how to customize your Kagi Search CSS, below is a video tutorial. The video features a slightly older design of Kagi Search, but the CSS principles are the same.
