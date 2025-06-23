@@ -22,7 +22,7 @@ To set up a private session link in Firefox:
 4. Click the "Add" button below the table under the heading "Search Shortcuts"
 5. Enter the following values:
 	- **Search engine name:** `Kagi Search`
-	- **Engine URL:** `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](#private_session))
+	- **Engine URL:** `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](./../../privacy/private-browser-sessions))
 	- **Alias:** `kagi`
 6. Select the new "Kagi Search" as your default search engine using the dropdown at the top of this page.
 
