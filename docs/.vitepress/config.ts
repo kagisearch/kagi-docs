@@ -423,7 +423,7 @@ function sidebarOrion() {
                         { text: 'Page Tweaks', link: '/orion/features/page-tweaks' },
                         { text: 'Dynamic Window Color', link: '/orion/features/dynamic-window-color' },
                         { text: 'Summarize Page', link: '/orion/features/summarize-page' },
-                        { text: 'Copy Link to Selection', link: '/orion/features/copy-link-to-selection' },
+                        { text: 'Copy Link with Highlight', link: '/orion/features/copy-link-with-highlight' },
                     ]
                 },
                 {
@@ -443,7 +443,7 @@ function sidebarOrion() {
                     link: '/orion/privacy-and-security/ad-tracking-blocking',
                     items: [
                         { text: 'Configure Ad & Tracking Blocking', link: '/orion/privacy-and-security/ad-tracking-blocking' },
-			                  { text: 'Orion and Ad-blocking Tests', link: '/orion/privacy-and-security/adblock-tests' },
+			{ text: 'Orion and Ad-blocking Tests', link: '/orion/privacy-and-security/adblock-tests' },
                         { text: 'Respecting Privacy', link: '/orion/privacy-and-security/respecting-privacy' },
                         { text: 'Protecting Privacy', link: '/orion/privacy-and-security/protecting-privacy' },
                         { text: 'Preventing Fingerprinting', link: '/orion/privacy-and-security/preventing-fingerprinting' },
