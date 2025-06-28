@@ -73,3 +73,8 @@ Adds a button to the right click context menu on Firefox that allows you to open
 ## Kagi FastGPT CLI
 
 - [Kagi FastGPT CLI](https://github.com/0xgingi/kagi-fastgpt-cli) is an interactive CLI written in rust for the FastGPT API.
+
+## Kagi FastGPT Sidebar
+
+- [Kagi FastGPT Sidebar](https://github.com/0xgingi/kagi-fastgpt-sidebar) is an Chrome/Firefox extension that lets you to ask questions about a web page using the FastGPT API.
+
