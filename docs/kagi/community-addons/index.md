@@ -37,12 +37,6 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 <a href="javascript:location='https://translate.kagi.com/'+encodeURIComponent(location)">Translate (same window)</a><br>
 <a href="javascript:(function(){window.open('https://translate.kagi.com/'+encodeURIComponent(location))})()">Translate (new window/tab)</a><br>
 
-## Firefox Context Menu Add-on
-
-Adds a button to the right click context menu on Firefox that allows you to open URLs in Kagi Summarizer
-
-[Unofficial Kagi Link Summarizer Add-on](https://addons.mozilla.org/en-US/firefox/addon/unofficial-kagi-linksummarizer/)
-
 ## Apple Shortcuts
 
 [Summarize URL](https://www.icloud.com/shortcuts/8d2668c84ad34203b47c519e066ce205): Summarize any URL using the Share Sheet or your Clipboard on your iPhone, iPad or Mac - Credits to [Sean Chou](https://twitter.com/sychou)
