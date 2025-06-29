@@ -28,8 +28,8 @@
 - [How will Orion make money?](#business)
 - [Why does Orion look very similar to Safari (and not Chrome or Firefox)?](#based)
 - [Any "pro tips" for Orion users?](#tips)
-- [Why are some of the sites added to content blocker settings as OFF by default?](#contentblocker)
 - [Help! A site isn't working!](#compatibility)
+- [YouTube Premium doesn't have the option to download videos on Orion](#yt_download)
 - [Is there a public issue tracker?](#issuetracker)
 - [What is Orion based on?](#tech)
 - [How to reset Orion to factory settings?](#reset)
@@ -64,14 +64,14 @@ The main benefits of native apps include:
 
 - Any long-time Mac user can easily see how Chrome or Firefox look and feel out of place on a Mac. These browsers were originally designed for Windows, but they work and look the same even on macOS or Linux, when those are clearly different operating systems with different conventions, design rules, and aesthetics.
 
-- Native integrations allow apps to use powerful components provided by the OS. For example, Orion utilizes Keychain to store passwords or gets the benefit of Live Text recognition of text in images. This makes apps more powerful while being leaner and easier to build and maintain at the same time.
+- Native integrations allow apps to use powerful components provided by the OS. For example, Orion utilizes Keychain to store passwords or benefits from Live Text recognition of text in images. This makes apps more powerful while being leaner and easier to build and maintain at the same time.
 
 - Finally, and maybe most importantly, using native components and frameworks generally makes apps faster, better for battery life, and overall snappier.
 
 <a name="orion_over_safari"></a>
 ## Why use Orion instead of Safari?
 
-Safari is truly one of the best browsers you can use on macOS, and we're grateful to Apple for creating such a solid foundation. By basing Orion on Safari's tech stack, then adding productivity enhancements such as built-in ad-blocking, Orion can provide users with [exactly what they need](../why-orion/orion-vs-safari.md).
+Safari is truly one of the best browsers you can use on macOS, and we're grateful to Apple for creating such a solid foundation. By basing Orion on Safari's tech stack, and adding productivity enhancements such as built-in ad-blocking, Orion can provide users with [exactly what they need](../why-orion/orion-vs-safari.md).
 
 
 <a name="orion_over_chrome"></a>
@@ -244,7 +244,8 @@ For the second question, companies that produce popular, free, open-source brows
 
 <a name="business"></a>
 ## How will Orion make money? {#business} 
-[Orion+](https://browser.kagi.com/orionplus.html) version allows users to support Orion's development. Will it generate revenue? That's up to you. Regardless, all funding for Orion will come from its users rather than ads, tracking, data monetization or any other indirect method. 
+The [Orion+](https://browser.kagi.com/orionplus.html) version allows users to support Orion's development.
+Will it generate revenue? That's up to you. Regardless, all funding for Orion will come from its users rather than ads, tracking, data monetization, or any other indirect method. 
 
 We want Orion to be the number one Mac browser because it uses engineering craftsmanship and attention to detail to provide a superior product experience and unmatched features that work for everyone, from power users to neophytes.
 
@@ -260,24 +261,21 @@ Blocking web fonts can have a profound effect on news sites. On cnn.com, the ave
 
 Also, on any sites that don't require logging in, disabling cookies is a great way to boost your speed and privacy.
 
-<a name="contentblocker"></a>
-## Why are some of the sites added to content blocker settings as OFF by default? {#contentblocker}
-Orion comes with a built-in content blocker that, in rare cases, can affect the proper functionality of some websites.
-We decided to maintain a whitelist of websites where the content blocker will be turned off by default. This list currently consists of:
-
-- browserbench.org \
-The content blocker in general interferes with JavaScript performance benchmarking.
-We decided it is best to have it off to measure the real speed of WebKit's JavaScript engine.
-- wizzair.com \
-Interference with the rendering of the website
-
 <a name="compatibility"></a>
 ## Help! A site isn't working! {#compatibility}
 Orion has a "Compatibility mode" in the settings menu.
 Enabling it will suspend your currently running extensions (the most common cause of problems) and save the setting for this website so it works when you visit it again. 
 
 If the site still fails, you may want to test it in Safari. If it works there,
-please report the problem to us via our [Discord server](https://kagi.com/discord).
+please report the problem to us via [Orion Feedback](https://orionfeedback.org). If you need further help with debugging or writing the bug report, please ask in our [Discord server](https://kagi.com/discord).
+
+<a name="yt_download"></a>
+## YouTube Premium doesn't have the option to download videos on Orion {#yt_download}
+YouTube appears to hide the video download option on browsers that do not use the Chrome user agent.
+You can still download the videos by setting your User-Agent (UA) to Chrome.
+
+On Desktop, you can do this via Orion settings -> Websites -> select `User Agent` from the list on the left -> click `+` to add a new website -> add youtube.com and set the user agent to Chrome -> click `Apply`.
+The option to download videos should now be available.
 
 <a name="issuetracker"></a>
 ## Is there a public issue tracker? {#issuetracker}
@@ -293,11 +291,15 @@ The easiest way is by navigating to **Orion** > **Reset Orion**. Alternatively, 
 
 <a name="other_os_support"></a>
 ## Are there plans for a Windows/Linux/Android version of Orion? {#other_os_support}
-We currently do not have the resources to hire a new team to do any of these platforms yet.
+Orion for Linux is currently being worked on.
+For a [sneak peek,](https://blog.kagi.com/first-three-years#:~:text=have%20started%20building-,Orion%20for%20Linux,-.%20It%20is%20a) you can check out the Kagi blog post from June 2025.
+To stay up-to-date on Orion for Linux development, consider signing up for the [newsletter](https://forms.kagi.com/?q=orion_linux_news).
 
-Since Orion is funded by its users only, it is entirely up to the number of subscribers and Orion+ sales we have that will enable funding a new team to make Orion for any new platform. And building a browser is not cheap, especially one on top of WebKit.
+Android and Windows versions are currently not being worked on, as the resources those would require are far greater than what is currently available.
+Since Orion is funded by its users only, it is entirely up to the number of subscribers and Orion+ sales we have that will enable funding a new team to make Orion for any new platform.
+Building a browser is not cheap, especially one on top of WebKit.
 
-Ways you can help accelerate this is:
+Ways you can help accelerate this:
 
 - [Contribute](../support-and-community/contribute.md) to Orion development with your time
 - Help spread the word about Orion to attract more users

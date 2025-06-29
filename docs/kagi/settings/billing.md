@@ -1,32 +1,34 @@
 # Billing Settings
 
-> **Important Notice:** Our pricing changed on September 21st, please review our [Plan Types](../plans/plan-types.md) for more information and refer to our [blog post for a longer discussion.](https://blog.kagi.com/unlimited-searches-for-10)
-
 These settings control your billing options and status with Kagi, there are two tabs you will use:
 
 * [Billing Settings](https://kagi.com/settings?p=billing)
-* [Billing Usage](https://kagi.com/settings?p=consumption)
+* [Billing Usage](https://kagi.com/settings/consumption)
 
 ## Billing Settings
+
+![Billing settings](media/billing-settings.png)
 
 Your billing settings will show you your [Plan Type](../plans/plan-types.md) as well as:
 
 * Total searches this period
 * Searches used by AI (only on Trial plan)
+* Total [AI](../ai/assistant) cost for this period 
 * Amount of credit value
 * Date of next renewal
 
 You will also see options to:
 
+* View your Usage details
 * Manage your Billing
 * Download an invoice
 
 We have documentation that covers how to:
 
-* [Sign up for the Premium Plan](../plans/premium-plan.md#signing_up)
-* [Manage your billing](../plans/premium-plan.md#managing_billing)
-* [Cancel your Subscription](../plans/premium-plan.md#cancel_premium)
-* [Switch your Plan](#switch_plan)
+* [Sign up for the Premium Plan](../plans/premium-plan.md#signing-up-for-the-premium-plans)
+* [Manage your billing](../plans/premium-plan.md#managing-billing)
+* [Cancel your Subscription](../plans/premium-plan.md#canceling-a-premium-plan)
+* [Switch your Plan](#switching-a-plan)
 
 ## <a name="switch_plan"></a>Switching a Plan
 
@@ -47,8 +49,8 @@ If you are supporting the Orion Browser made by the same team that builds Kagi y
 
 ![Billing Settings Orion](media/billing_settings_orion.png)
 
-## Monthly Search Usage
+## Usage details
 
-Toggling to this tab shows how many searches you've made over time and how that usage relates to any payments you've made.
+The usage details section allows you to see details about your search and AI usage for the current month or view the monthly overview.
 
 ![Billing Settings Usage](media/billing_settings_usage.png)

@@ -4,7 +4,7 @@ To report a bug, head out to [KagiFeedback.org](https://kagifeedback.org).
 
 When reporting a bug, it is important to give us as much information as
 possible to help narrow down what the issue may be. Search engines are
-very complex pieces of software—every detail matters!
+very complex pieces of software — every detail matters!
 
 Whenever you open a bug report, you will be given a template that you can
 fill out that will help you write your report. Here is a breakdown of what is
@@ -44,11 +44,13 @@ Sometimes there are a few things you can do to help us narrow down certain issue
 
 ![Control Center button location](media/control-center-location.png)
 
-2. Find the dropdown that says "Country/Region". Here, "United States" is the current region.
+2. At the bottom, you will see "Connected to: EUROPE-WEST2". Here, "EUROPE-WEST2" is the current Kagi node.
 
-![Search region and node location](media/region-and-node.png)
+![Search node location](media/node.png)
 
-3. At the bottom, you will see "Connected to: US-EAST". Here, "US-EAST" is the current Kagi node.
+3. Search region information can be found directly below your search query. In the example below, Australia (AU) is the search region.
+
+![Search region location](media/region.png)
 
 ### I have an issue with my subscription or billing
 
@@ -56,7 +58,9 @@ Please email us at [support@kagi.com](mailto:support@kagi.com). When emailing, p
 
 ### I found a potential security problem
 
-Please email [our security contact](mailto:vlad@kagi.com).
+Please email [security@kagi.com](mailto:security@kagi.com).
+
+For further information about Kagi's Bug Bounty program, see [here](./../privacy/bug-bounty-program).
 
 ### I have an issue with the Orion browser
 

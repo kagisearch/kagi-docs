@@ -233,26 +233,30 @@ function sidebarKagi() {
                         { text: 'LLMs & Privacy', link: '/kagi/ai/llms-privacy' },
                     ]
                 },
-                {
-                    text: 'Settings',
-                    collapsed: true,
-                    link: '/kagi/settings/accessing',
-                    items: [
-                        { text: 'Accessing Settings', link: '/kagi/settings/accessing' },
-                        { text: 'General', link: '/kagi/settings/general' },
-                        { text: 'Appearance', link: '/kagi/settings/appearance' },
-                        { text: 'Search', link: '/kagi/settings/search' },
-                        { text: 'AI', link: '/kagi/settings/ai' },
-                        { text: 'Assistant', link: '/kagi/settings/assistant' },
-                        { text: 'Lenses', link: '/kagi/settings/lenses' },
-                        { text: 'Personalized Results', link: '/kagi/settings/personalized-results' },
-                        { text: 'Billing', link: '/kagi/settings/billing' },
-                        { text: 'Advanced', link: '/kagi/settings/advanced' },
-                        { text: 'Account', link: '/kagi/settings/account' },
-                        { text: 'Delete Your Account', link: '/kagi/plans/delete-account' },
-                    ]
-                },
 
+		{
+			  text: 'Settings',
+			  collapsed: true,
+			  link: '/kagi/settings/accessing',
+			  items: [
+			  { text: 'Accessing settings', link: '/kagi/settings/accessing' },
+			  { text: 'General',           link: '/kagi/settings/general'   },
+			  { text: 'Appearance',        link: '/kagi/settings/appearance'},
+			  { text: 'Search',	       link: '/kagi/settings/search',
+      				items: [
+        			       { text: 'General',            link: '/kagi/settings/search'                     },
+        			       { text: 'Lenses',             link: '/kagi/settings/lenses'              },
+        			       { text: 'Personalized Results', link: '/kagi/settings/personalized-results'},
+        			       { text: 'AI',                 link: '/kagi/settings/ai'                  },
+       				       { text: 'Search Widgets',     link: '/kagi/settings/widgets'             },
+        			       { text: 'Advanced',           link: '/kagi/settings/advanced'            }
+     				]
+    			},
+    			{ text: 'Billing',            link: '/kagi/settings/billing'         },
+    			{ text: 'Account',            link: '/kagi/settings/account'         },
+    			{ text: 'Delete Your Account',link: '/kagi/settings/delete-account'  }
+  		]
+		},
                 {
                     text: 'Community Add-ons', link: '/kagi/community-addons/',
                 }
@@ -423,7 +427,7 @@ function sidebarOrion() {
                         { text: 'Page Tweaks', link: '/orion/features/page-tweaks' },
                         { text: 'Dynamic Window Color', link: '/orion/features/dynamic-window-color' },
                         { text: 'Summarize Page', link: '/orion/features/summarize-page' },
-                        { text: 'Copy Link to Selection', link: '/orion/features/copy-link-to-selection' },
+                        { text: 'Copy Link with Highlight', link: '/orion/features/copy-link-with-highlight' },
                     ]
                 },
                 {
@@ -443,7 +447,7 @@ function sidebarOrion() {
                     link: '/orion/privacy-and-security/ad-tracking-blocking',
                     items: [
                         { text: 'Configure Ad & Tracking Blocking', link: '/orion/privacy-and-security/ad-tracking-blocking' },
-			                  { text: 'Orion and Ad-blocking Tests', link: '/orion/privacy-and-security/adblock-tests' },
+			{ text: 'Orion and Ad-blocking Tests', link: '/orion/privacy-and-security/adblock-tests' },
                         { text: 'Respecting Privacy', link: '/orion/privacy-and-security/respecting-privacy' },
                         { text: 'Protecting Privacy', link: '/orion/privacy-and-security/protecting-privacy' },
                         { text: 'Preventing Fingerprinting', link: '/orion/privacy-and-security/preventing-fingerprinting' },
