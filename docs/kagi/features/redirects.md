@@ -19,25 +19,21 @@ This will open the [Redirects Settings Page](https://kagi.com/settings?p=redirec
 
 ![Redirects Settings Page](media/redirects-dash.png)
 
+You can edit an existing Redirect by pressing the pencil icon ![edit](media/edit-icon.svg){style="display:inline;vertical-align:middle;width:24px;height:24px"}.
+
+You can delete a Redirect by clicking the trash icon ![delete](media/trash-icon.svg){style="display:inline;vertical-align:middle;width:24px;height:24px"}.
+
 To create a new Redirect, press the **Add Rule** button on the [Redirects settings page](https://kagi.com/settings?p=redirects).
 This will open a form with instructions and some examples to get you started.
 
-You can edit an existing Redirect by pressing the pencil icon.
-<svg width="16" height="16" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M2.32308 7.69082C1.99365 8.02024 1.5857 8.75208 1.22088 9.49619C0.834202 10.2849 1.6146 11.0653 2.40332 10.6786C3.14743 10.3138 3.87927 9.90586 4.2087 9.57644L10.0139 3.77125L8.12826 1.88563L2.32308 7.69082ZM11.578 2.20712C11.7559 2.02928 11.7411 1.72724 11.545 1.53114L10.3684 0.35451C10.1723 0.158406 9.87024 0.143658 9.69239 0.321504L8.59967 1.41423L10.4853 3.29984L11.578 2.20712Z" fill="currentColor"/>
-</svg>
+![New Redirect rule page](media/redirect-rule.png)
 
-You can delete a Redirect by pressing the red <span style="color:red"><b>X</b></span>.
 
 ## Appearance in Results
 
 ![Redirect Result Example](media/redirect-result.png)
 
-Results that have been modified by a redirect will have a
-<svg width="16" height="16" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M2.32308 7.69082C1.99365 8.02024 1.5857 8.75208 1.22088 9.49619C0.834202 10.2849 1.6146 11.0653 2.40332 10.6786C3.14743 10.3138 3.87927 9.90586 4.2087 9.57644L10.0139 3.77125L8.12826 1.88563L2.32308 7.69082ZM11.578 2.20712C11.7559 2.02928 11.7411 1.72724 11.545 1.53114L10.3684 0.35451C10.1723 0.158406 9.87024 0.143658 9.69239 0.321504L8.59967 1.41423L10.4853 3.29984L11.578 2.20712Z" fill="currentColor"/>
-</svg>
-indicator to show that they were modified by one of your rules.
+Results that have been modified by a redirect will have a ![active_redirect](media/pencil-icon.svg){style="display:inline;vertical-align:middle;width:24px;height:24px"} indicator to show that they were modified by one of your rules.
 
 You can click this icon to open the rule that modified the URL.
 
