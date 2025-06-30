@@ -67,3 +67,8 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 ## Kagi FastGPT CLI
 
 - [Kagi FastGPT CLI](https://github.com/0xgingi/kagi-fastgpt-cli) is an interactive CLI written in rust for the FastGPT API.
+
+## Kagi FastGPT Sidebar
+
+- [Kagi FastGPT Sidebar](https://github.com/0xgingi/kagi-fastgpt-sidebar) is an Chrome/Firefox extension that lets you to ask questions about a web page using the FastGPT API.
+
