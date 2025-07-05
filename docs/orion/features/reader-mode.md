@@ -17,11 +17,11 @@ You can enable Reader Mode in three different ways while viewing a webpage.
 
 - Click the icon on the left side of the address bar that looks like a document.
 
-<img src="./media/macos_reader_icon.png" width="200" alt="macOS Reader Icon"><br />
+<img src="./media/macos_reader_icon.png" width="500" alt="macOS Reader Icon"><br />
 
 - Use the **View** menu and choose **Show Reader**.
 
-<img src="./media/macos_show_reader_menu.png" width="300" alt="macOS Show Reader Menu"><br />
+<img src="./media/macos_show_reader_menu.png" width="500" alt="macOS Show Reader Menu"><br />
 
 - Type **⇧⌘R** (**Shift** and **Command** and **R**) on your keyboard.
 
@@ -36,20 +36,20 @@ While in Reader Mode, you can use the icon on the right side of the address bar 
 - Text justification
 - Borders
 
-<img src="./media/macos_reader_options.png" width="500" alt="macOS Reader Options"><br />
+<img src="./media/macos_reader_options.png" width="600" alt="macOS Reader Options"><br />
 
 You can view and manage the Reader Mode settings for all websites in Orion's Settings.
 
- <img src="./media/macos_orion_settings_menu.png" width="300" alt="macOS Settings Menu"><br />
+<img src="./media/macos_orion_settings_menu.png" width="300" alt="macOS Settings Menu"><br />
  
-  <img src="./media/macos_reader_mode_preferences.png" width="500" alt="macOS Reader Mode Settings"><br />
+<img src="./media/macos_reader_mode_preferences.png" width="600" alt="macOS Reader Mode Settings"><br />
 
 <a name="ios_reader_mode"></a>
 ## iOS Reader Mode {#ios_reader_mode}
 
 You can enable Reader Mode by tapping on the icon for the current website in the address bar and then tapping Reader Mode.
 
-<img src="./media/ios_reader_mode.png" width="300" alt="iOS Reader Mode"><br />
+<img src="./media/ios_reader_mode.jpeg" width="300" alt="iOS Reader Mode"><br />
 
 While in Reader Mode, you can use the icon on the left side of the address bar that looks like a document to configure the layout the mode uses. You can control:
 
@@ -60,24 +60,26 @@ While in Reader Mode, you can use the icon on the left side of the address bar t
 
 From this menu you can also tap **Reader Mode** again to disable the mode.
 
-<img src="./media/ios_reader_mode_options.png" width="300" alt="iOS Reader Options"><br />
+<img src="./media/ios_reader_mode_options.jpeg" width="300" alt="iOS Reader Options"><br />
 
 You can view and manage the Reader Mode settings for all websites in Orion's Settings.
 
- <img src="./media/ios_settings.png" width="300" alt="iOS Settings"><br />
+ <img src="./../getting-started/media/ios_settings.png" width="300" alt="iOS Settings"><br />
  
- Tap **Reader Mode**.
+ Go to **Websites** and then select **Reader Mode**.
  
- <img src="./media/ios_reader_mode_settings.png" width="300" alt="iOS Reader Mode Settings"><br />
+ <img src="./media/ios_settings_websites.jpeg" width="300" alt="iOS Reader Mode Settings"><br />
  
- <img src="./media/ios_reader_mode_settings_detail.png" width="300" alt="iOS Reader Mode Settings Detail"><br />
+<img src="./media/ios_reader_mode_settings1.jpeg" width="300" alt="iOS Reader Mode Settings Detail"><br />
 
+<img src="./media/ios_reader_mode_settings2.jpeg" width="300" alt="iOS Reader Mode Settings Detail"><br />
+You can delete a website from this list by tapping the `Edit` button in the top right corner.
 <a name="ipados_reader_mode"></a>
 ## iPadOS Reader Mode {#ipados_reader_mode}
 
 You can enable Reader Mode by tapping on the icon for the current website in the address bar and then tapping Reader Mode.
 
-<img src="./media/ipados_reader_mode.png" width="300" alt="iPadOS Reader Mode"><br />
+<img src="./media/ipados_reader_mode.png" width="300" alt="iOS Reader Mode"><br />
 
 While in Reader Mode, you can use the icon on the left side of the address bar that looks like a document to configure the layout the mode uses. You can control:
 
@@ -88,11 +90,11 @@ While in Reader Mode, you can use the icon on the left side of the address bar t
 
 From this menu you can also tap **Reader Mode** again to disable the mode.
 
-<img src="./media/ipados_reader_mode_options.png" width="300" alt="iPadOS Reader Options"><br />
+<img src="./media/ipados_reader_mode_options.png" width="300" alt="iOS Reader Options"><br />
 
 You can view and manage the Reader Mode settings for all websites in Orion's Settings.
 
- <img src="./media/ipados_settings.png" width="675" alt="iPadOS Settings"><br />
+ <img src="./media/ipados_settings.png" width="675" alt="iOS Settings"><br />
  
   Tap **Reader Mode**.
   

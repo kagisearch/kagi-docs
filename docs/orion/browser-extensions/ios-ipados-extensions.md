@@ -22,8 +22,10 @@ Much of what we said about [Web Extensions support on desktop Orion](macos-exten
 
 1. Tap the three-dot menu (•••) in the bottom-right corner of your screen.
 2. Tap **Settings**
+<img src="./../getting-started/media/ios_settings.png" width="300" alt="iOS Settings"><br />
 3. Scroll to the **Extensions** settings group, and toggle Chrome or Firefox extensions on or off
-
+<img src="./media/ios_advanced_settings.jpeg" width="300" alt="iOS Advanced Settings location"><br />
+<img src="./media/ios_enable_extensions.jpg" width="300" alt="iOS Advanced Settings location"><br />
 Note that the extension support is still in beta. Extension may not be fully supported yet and if you encounter problems, website issues or performance issues, you can easily disable or uninstall it in the **Extensions** list after tapping the three-dot menu (•••) in the bottom-right (on iPhone; for iPads, it's in the top-right) corner of your screen (iPhone).
 
 <a name="ios_management"></a>
@@ -32,14 +34,14 @@ Note that the extension support is still in beta. Extension may not be fully sup
 1. Tap the three-dot menu (•••) in the bottom-right corner of your screen.
 2. Tap **Extensions**.
 
-<img src="./media/ios_manage_extensions_1.png" width="300" alt="iOS Extensions Menu Choice"><br />
+<img src="./media/ios_manage_extensions1.jpeg" width="400" alt="iOS Extensions Menu Choice"><br />
 
 3. From the **Extensions** management area, you can:
   - Use the **+** button to install Firefox, Chrome, or file-based extensions
   - Disable one or more extensions
   - Uninstall one or more extensions
   
-  <img src="./media/ios_manage_extensions_2.png" width="300" alt="iOS Extensions Management Area"><br />
+  <img src="./media/ios_manage_extensions2.jpg" width="300" alt="iOS Extensions Management Area"><br />
 
 <a name="ipados_management"></a>
 ## iPadOS Extensions Management

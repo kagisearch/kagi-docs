@@ -14,13 +14,13 @@ To disable Orion's content blocking:
 
 1. In Orion, click the **Orion** menu and choose **Settings**.
 
-<img src="./media/macos_orion_settings_menu.png" width="300" alt="Orion Settings Menu Option"><br />
+<img src="./../features/media/macos_orion_settings_menu.png" width="300" alt="Orion Settings Menu Option"><br />
 
 2. Click the **Websites** tab.
 3. Click  **Content Blockers** in the list of options.
 4. Set "Default settings for all websites" to **Off**.
 
-<img src="./media/macos_content_blockers_off.png" width="500" alt="macOS Content Blockers Off"><br />
+<img src="./media/macos_content_blockers_off.png" width="650" alt="macOS Content Blockers Off"><br />
 
 We recommend leaving Orion's Tracking Prevention **on**. It uses WebKit's machine-learning-based technology and complements uBlock Origin to provide the best overall protection.
 

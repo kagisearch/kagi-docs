@@ -21,31 +21,39 @@ Doing so will open a menu of your tabs backwards or forwards history and allow y
 
 This provides an advanced and speedy alternative to having to press the `<` or `>` toolbar navigation options repeatedly. 
 
-<img src="./media/ios-hold-history-back-jump.png" width="200" alt="history jump backwards"><br />
-<img src="./media/ios-hold-history-forward-jump.png" width="200" alt="history jump forwards"><br />
+<img src="./media/ios-hold-history-back-jump.jpg" width="400" alt="history jump backwards"><br />
+<img src="./media/ios-hold-history-forward-jump.jpg" width="400" alt="history jump forwards"><br />
 
 <a name="quick_new_private_tab"></a>
 ## Quick new private tab {#quick_new_private_tab}
 ### On Orion iOS
 You can quickly open a new tab in a different context (private or normal) by pressing and holding the `+` toolbar navigation option. 
 
-Doing so will open a menu where you can select to open a `New Tab` or `New Private Tab`. 
+Doing so will open a menu where you can select to open a `New Tab` or `New Private Tab`.
 
 This provides an advanced and speedy alternative to having to navigate to the desired context (private or normal) before being able to open a new tab in that context.
 
-<img src="./media/ios-hold-quick-launch-tab.png" width="200" alt="Quick new private tab"><br />
+Additionally, this menu will allow you to open any previously closed tabs.
+<img src="./media/ios-hold-quick-launch-tab.jpg" width="400" alt="Quick new private tab"><br />
 
 
 <a name="advanced_tab_management"></a>
 ## Advanced tab management {#advanced_tab_management}
 ### On Orion iOS
-You can quickly `open a new tab`, `open a new private tab`, `close the current tab`, `close all tabs excluding the current`, `close all tabs including the current`, or `open a new tab next to current` by pressing and holding the tabs toolbar navigation option. 
+You can quickly 
+- open a new tab
+- open a new private tab 
+- close the current tab 
+- close all tabs excluding the current
+- close all tabs including the current
+- open a new tab next to current
+by pressing and holding the tabs toolbar navigation option. 
 
 Doing so will open a menu where you can select one of the above options. 
 
 This provides an advanced and speedy alternative to manual tab management. 
 
-<img src="./media/ios-hold-advanced-tab-management.png" width="200" alt="Advanced tab management"><br />
+<img src="./media/ios-hold-advanced-tab-management.jpg" width="400" alt="Advanced tab management"><br />
 
 
 <a name="instant_reader_mode"></a>
@@ -68,4 +76,6 @@ Doing so will open a menu where you can select `Reload Without Content Blockers`
 
 This provides an advanced and speedy alternative to opening the website settings menu to load a page with content blockers disabled. 
 
-<img src="./media/ios-hold-reload-without-content-blockers.png" width="200" alt="Quick reload without content blockers"><br />
+This menu also allows you to `Reload the website without cache`. This can be useful for solving some issues.
+
+<img src="./media/ios-hold-reload-without-content-blockers.jpg" width="400" alt="Quick reload without content blockers"><br />

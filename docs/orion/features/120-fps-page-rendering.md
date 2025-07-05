@@ -6,6 +6,7 @@ To use 120 fps page rendering, you need a Mac that supports ProMotion (such as t
 
 You can enable 120 fps page rendering in Orion by following these steps:
 1. In your menu bar, go to **Orion** > **Settings**.
+<img src="./media/macos_orion_settings_menu.png" width="300" alt="Orion Settings Menu Option"><br />
 2. In the Settings window, go to the **Appearance** tab.
 3. Enable the **Prefer Page Rendering Updates near 120fps** checkbox.
 

@@ -5,6 +5,6 @@ This one's for the web developers out there. You can add an indicator to the add
 1. Click the **Develop** menu.
 2. Click **Show Console Errors Indicator**.
 
-<img src="./media/macos_error_indicator_menu.png" width="300" alt="macOS Error Indicator Menu"><br />
+<img src="./media/macos_error_indicator_menu.png" width="400" alt="macOS Error Indicator Menu"><br />
 
 <img src="./media/macos_show_errors.gif" width="500" alt="macOS Show Errors Example"><br />

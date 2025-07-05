@@ -52,11 +52,11 @@ For example, let's create a YouTube Quick Search bookmark:
 
 1. Visit the following URL and start adding a new bookmark for it, but don't save the bookmark yet: [https://m.youtube.com/results?search_query=cats](https://m.youtube.com/results?search_query=cats)
 
-<img src="./media/ios_share_icon.png" width="350" alt="Adding a Bookmark"><br />
+<img src="./media/ios_share_icon.jpeg" width="350" alt="Adding a Bookmark"><br />
 
-<img src="./media/ios_add_bookmark_menu.png" width="350" alt="Adding a Bookmark"><br />
+<img src="./media/ios_add_bookmark_menu.jpeg" width="350" alt="Adding a Bookmark"><br />
 
-<img src="./media/ios_add_bookmark_window.png" width="350" alt="Adding a Bookmark"><br />
+<img src="./media/ios_add_bookmark_window.jpg" width="350" alt="Adding a Bookmark"><br />
 
 2. In the window that appears, make several changes:
   - Change the Title of the bookmark from "cats - YouTube" to a broader search title of your choice, such as "YouTube Search".
@@ -65,7 +65,7 @@ For example, let's create a YouTube Quick Search bookmark:
   - Under **Location**, choose whether you want the new bookmark saved to **Favorites** or some other location.
   - Click the **Save** button
 
-<img src="./media/ios_edit_bookmark.png" width="350" alt="Editing Bookmark"><br />
+<img src="./media/ios_edit_bookmark.jpeg" width="350" alt="Editing Bookmark"><br />
 
 Now, typing **yt cats** in Orion's address bar will send you into a search for "cats" on YouTube. And, typing **yt dogs** in Orion's address bar will send you into a search for "dogs" on YouTube. You can use the **yt** invocation keyword to search YouTube for anything.
 

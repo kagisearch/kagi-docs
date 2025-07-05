@@ -25,15 +25,21 @@ To exit Focus Mode, click the **View** menu and choose **Disable Focus Mode**. O
 1. Tap the three-dot menu (•••) in the bottom-right corner of your screen.
 2. Tap **Settings**.
 
-<img src="./media/ios_settings.png" width="300" alt="iOS Settings"><br />
+<img src="./../getting-started/media/ios_settings.png" width="300" alt="iOS Settings"><br />
 
-3. Turn on **Focus Mode**.
+3. Go to **Browsing** and enable **Focus Mode**.
 
-<img src="./media/ios_focus_mode_settings.png" width="300" alt="iOS Focus Mode Settings"><br />
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="./media/ios_focus_mode_settings1.jpeg" alt="Accessing the Browsing section of Orion settings" style="max-width: 300px; height: auto;">
+  <img src="./media/ios_focus_mode_settings2.jpeg" alt="Enabling Focus Mode in the settings" style="max-width: 300px; height: auto;">
+</div>
 
-Here's an example of YouTube in Focus Mode.
+Below are examples of Kagi search and [Hacker News](https://news.ycombinator.com) in Focus Mode. 
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="./media/ios_focus_mode_example_kagi.png" alt="Kagi Search with Focus Mode enabled" style="max-width: 300px; height: auto;">
+  <img src="./media/ios_focus_mode_example_HN.png" alt="Hacker News with Focus Mode enabled" style="max-width: 300px; height: auto;">
+</div>
 
-<img src="./media/ios_focus_mode_example.png" width="300" alt="iOS Focus Mode Example"><br />
 
 <a name="ipados"></a>
 ## iPadOS Focus Mode
