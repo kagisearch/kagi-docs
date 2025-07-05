@@ -64,7 +64,7 @@ To add a blocklist to Orion on macOS, go to **Orion** > **Settings** > **Privacy
 
 Please note that Orion is compatible with Adblock Plus style blocklists.
 
-<img src="./media/blocklists_settings_menu.png" width="500" alt="Blocklists - Settings Menu"><br />
+<img src="./media/macos_orion_settings_menu.png" width="300" alt="Orion Settings Menu Option"><br />
 
 <img src="./media/blocklists_show_filter_lists.png" width="500" alt="Blocklists - Show Filter Lists"><br />
 
@@ -86,16 +86,16 @@ To add a blocklist to Orion on iOS, go to **⋯** > **Settings** > Scroll down t
 Before following the steps, it is advised to have the blocklist URL already copied to your clipboard.
 Please note that Orion is compatible with Adblock Plus style blocklists.
 
-<img src="./media/ios_blocklists_settings_menu.png" width="500" alt="iOS Blocklists - Settings Menu"><br />
-<img src="./media/ios_blocklists_settings_menu2.png" width="500" alt="iOS Blocklists - Settings Menu step 2"><br />
+<img src="./../getting-started/media/ios_settings.png" width="300" alt="iOS Settings"><br />
 
-Scroll down to the **Content Blocker** section of the settings and tap **Manage**.
+Open the **Content Blockers** section of the settings and then choose **Manage Content Blocker**.
 
-<img src="./media/ios_blocklists_show_filter_lists.png" width="500" alt="iOS Blocklists - Show Filter Lists"><br />
+<img src="./media/ios_content_blockers.png" width="500" alt="iOS Blocklists - Accessing the Content Blocker settings"><br />
+<img src="./media/ios_manage_content_blocker.png" width="500" alt="iOS Blocklists - Manage Content Blocker"><br />
 
 In the **Manage Content Blocker** window, click the **Add New** button.
 
-<img src="./media/ios_blocklists_add_blocklist.png" width="500" alt="iOS Blocklists - Add Blocklist"><br />
+<img src="./media/ios_blocklists_add_blocklist.jpeg" width="500" alt="iOS Blocklists - Add Blocklist"><br />
 
 Then, paste the URL of the blocklist you wish to add and tap the **Done** button in the top-right corner of the window.
 Finally, tap **Done** in the Manage Content Blocker window.

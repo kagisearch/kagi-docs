@@ -32,7 +32,9 @@ To summarize a page on iOS:
 
 1. Make sure you have set Kagi as your search engine in Orion settings and that you have an active Kagi subscription.
 2. Tap the website icon left of the address bar.
-3. Select **Summarize This**.
+3. Select **Summarize with Kagi**.
+
+<img src="./media/ios_page_summary.jpeg" width="500" alt="Page Summary buttons on iOS"><br />
 
 This will open a Page Summary view of the current website.
 The buttons at the bottom of this view allow you to modify the summary.

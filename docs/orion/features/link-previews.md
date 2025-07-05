@@ -12,6 +12,7 @@ To preview a link in Orion, simply hold the Shift key and then click on the link
 
 To enable Link Previews while using other apps, follow these steps:
 1. In your menu bar, select **Orion** > **Settings**.
+<img src="./media/macos_orion_settings_menu.png" width="300" alt="Orion Settings Menu Option"><br />
 2. Click on the **General** tab.
 3. If you see an option to make Orion your default web browser at the bottom of the window, click **Set Default**.
 4. Switch to the **Browsing** tab and make sure the **Open external links in Preview** checkbox is enabled.

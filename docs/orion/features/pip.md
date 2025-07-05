@@ -10,4 +10,7 @@ Alternatively, click on the **View** menu and choose **Show Picture-in-Picture V
 
 <img src="./media/macos_pip.gif" width="500" alt="macOS Picture-in-Picture"><br />
 
-By default, the PiP video snaps to a corner of your screen. But, you can hold down the **Command** key and drag the video to any position you wish.
+By default, the PiP video snaps to a corner of your screen.
+However, you can hold down the **Command** key and drag the video to any position you wish.
+
+You can configure automatic Picture-in-Picture on a per-website basis in [Website Settings](./website-settings).

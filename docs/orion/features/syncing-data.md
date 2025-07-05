@@ -29,11 +29,12 @@ To sync Orion tabs, bookmarks, and reading lists across devices, perform these s
 2. Tap the three-dot menu (•••) in the lower-right corner of the screen.
 3. Tap **Settings**.
 
-<img src="./media/ios_settings.png" width="300" alt="iOS iCloud Settings"><br />
+<img src="./../getting-started/media/ios_settings.png" width="300" alt="iOS iCloud Settings"><br />
 
-4. In the **Sync** section, turn on Sync if it isn't already on.
+4. In the **Sync** section, enable Sync if it isn't already enabled.
 
-<img src="./media/ios_sync_settings.png" width="300" alt="iOS iCloud Settings"><br />
+<img src="./media/ios_sync_settings1.png" width="300" alt="iOS iCloud Settings"><br />
+<img src="./media/ios_sync_settings2.jpeg" width="300" alt="iOS iCloud Settings"><br />
 
 <a name="syncing_ipados"></a>
 ## iPadOS {#syncing_ipados}

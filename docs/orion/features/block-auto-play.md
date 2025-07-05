@@ -14,7 +14,7 @@ To configure auto-play settings:
 3. Click the **Websites** tab of Settings.
 4. Click on **Auto Play** from the list of settings on the left of the window.
 
-<img src="./media/macos_auto_play_settings.png" width="500" alt="Orion Settings Menu Option"><br />
+<img src="./media/macos_auto_play_settings.png" alt="Orion Settings Menu Option"><br />
 
 There is a **Default settings for all websites** option at the top right of the window that can be set to:
 

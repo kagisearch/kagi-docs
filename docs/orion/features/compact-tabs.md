@@ -12,6 +12,7 @@ Compact Tabs show only the website's favicon and a short snippet of the title. T
 
 To enable Compact Tabs follow these steps:
 1. In your menu bar, select **Orion** > **Settings**.
+<img src="./media/macos_orion_settings_menu.png" width="300" alt="Orion Settings Menu Option"><br />
 2. Click on the **Tabs** tab.
 3. Select **Compact** in the **Tab Layout** section.
 

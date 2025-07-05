@@ -40,9 +40,12 @@ Orion highlights some popular Web Extensions for you to try first:
 
 1. Click the **Orion** menu.
 2. Choose **Popular Extensions**.
+
+<img src="./media/macos_access_popular_extensions.png" width="700" alt="Accessing Popular Extensions on macOS"><br />
+
 3. Click **Get** to install an extension.
 
-<img src="./media/macos_popular_extensions.png" width="500" alt="macOS Popular Extensions"><br />
+<img src="./media/macos_popular_extensions.png" width="700" alt="macOS Popular Extensions"><br />
 
 <a name="managing_extensions"></a>
 ## Managing Extensions
@@ -51,7 +54,7 @@ Orion highlights some popular Web Extensions for you to try first:
 2. Mouse over **Extensions**
 3. Click **Manage Extensions**.
 
-<img src="./media/macos_extensions_menu.png" width="300" alt="macOS Extensions Menu Choice"><br />
+<img src="./media/macos_extensions_menu.png" width="500" alt="macOS Extensions Menu Choice"><br />
 
 3. From the **Extensions** management area, you can:
   - Use the **Add Extension** button to install Firefox, Chrome, or file-based extensions
@@ -59,7 +62,7 @@ Orion highlights some popular Web Extensions for you to try first:
   - Disable one or more extensions
   - Uninstall one or more extensions
 
-<img src="./media/macos_extensions_area.png" width="500" alt="macOS Extensions Management"><br />
+<img src="./media/macos_extensions_area.png" width="700" alt="macOS Extensions Management"><br />
 
 <a name="compatibility_mode"></a>
 ### Managing Extensions Permissions and Compatibility Mode

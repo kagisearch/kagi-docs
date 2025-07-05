@@ -14,10 +14,13 @@ If you have problems syncing between devices try the following in order:
         1. Use the **Orion** menu to open Settings.
         <img src="../../features/media/macos_orion_settings_menu.png" width="300" alt="Open Orion Settings"><br />
         1. Click the **Sync** tab and find the box for **Enable cross-device sync of your tabs, bookmarks, and reading list**. Turn it off and then back on.
+		2. If sync is not working as expected, you can try the `Force Sync` button.
         <img src="../../features/media/macos_orion_sync_tab.png" width="500" alt="Orion Sync Tab"><br />
     - iOS / iPadOS
         1. Tap the three-dot menu (•••) in the upper-right corner of the screen.
-        <img src="../../features/media/ipados_settings.png" width="200" alt="ipadOS Settings"><br />
+        <img src="../../getting-started/media/ios_settings.png" width="200" alt="iOS Settings"><br />
         1. Tap **Settings**.
-        <img src="../../features/media/ipados_sync_settings.png" width="500" alt="iPadOS Orion Sync Settings"><br />
+        <img src="./../media/ios_sync_settings.jpeg" width="500" alt="iOS Orion Sync Settings"><br />
+		<img src="./../media/ios_sync_settings2.jpg" width="500" alt="iOS Orion Sync Settings"><br />
         1. In the **Sync** section, turn Sync off and then back on.
+		2. If sync is not working as expected, you can try the `Force Sync` button.

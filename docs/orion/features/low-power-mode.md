@@ -13,11 +13,11 @@ Inspired by the same feature on iPhone, Low Power Mode reduces Orion's power con
 
 You can enable Low Power Mode by clicking the **Tools** menu and then clicking **Low Power Mode...**.
 
-<img src="./media/macos_low_power_menu.png" width="300" alt="macOS Low Power Mode Menu"><br />
+<img src="./media/macos_low_power_menu.png" width="500" alt="macOS Low Power Mode Menu"><br />
 
 You can then click the **Enable** button in the window that appears.
 
-<img src="./media/macos_low_power_setting.png" width="300" alt="macOS Low Power Mode Settings"><br />
+<img src="./media/macos_low_power_setting.png" width="500" alt="macOS Low Power Mode Settings"><br />
 
 You can disable Low Power Mode using the same menu option.
 
@@ -29,11 +29,14 @@ You can enable Low Power Mode in Orion's Settings.
 1. Tap the three-dot menu (•••) in the bottom-right corner of your screen.
 2. Tap **Settings**.
 
-<img src="./media/ios_settings.png" width="300" alt="iOS Settings"><br />
+<img src="./../getting-started/media/ios_settings.png" width="300" alt="iOS Settings"><br />
 
-3. Turn on **Low Power Mode**.
+3. Go to **Browsing** and enable **Low Power Mode**.
 
-<img src="./media/ios_low_power_setting.png" width="300" alt="macOS Low Power Mode Settings"><br />
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="./media/ios_focus_mode_settings1.jpeg" alt="Accessing the Browsing section of Orion settings" style="max-width: 300px; height: auto;">
+  <img src="./media/ios_low_power_mode_settings.jpeg" alt="Enabling Low Power Mode in the settings" style="max-width: 300px; height: auto;">
+</div>
 
 You can disable Low Power Mode from the same place.
 
