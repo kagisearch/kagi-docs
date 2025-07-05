@@ -231,15 +231,7 @@ We also offer an Ultimate upgrade for Family Plans, you can upgrade from the [Fa
 
 ### Context window limit
 
-The context window refers to how much of the conversation Assistant will take into account to respond to the last message in a conversation.
-
-While we optimize the internals and user experience of the Kagi Assistant, we have limited the number of context tokens but these arbitrary **restrictions will be removed soon**.
-
-The current context window limits are:
-- **32,000 token sliding window** maximum for all conversations
-- **Rolling window of recent exchanges** consisting of:
-  - Your 7 most recent exchanges (14 messages total)
-  - Plus your first exchange (2 messages)
+There's no fixed limit on conversation length, we automatically optimize lengthy chats behind the scenes to maintain performance.
 
 ### Input limitations
 
