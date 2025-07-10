@@ -236,6 +236,8 @@ When possible:
 
 3. If your rewrite generates a URL without a host or a path (i.e., empty), it will not be replaced.
 
+4. If your rewrite generates a URL without query parameters, it will use any query params from the original URL.
+
 For example, this means the [reddit example](#changing-a-domain) can also be simplified like this:
 
 <div class="rewrite-example">
@@ -246,3 +248,35 @@ For example, this means the [reddit example](#changing-a-domain) can also be sim
 </div>
 
 and it will work the same way.
+
+## Query Parameters
+
+Note that redirects do not currently support fully removing query parameters (safety feature #4 above).
+
+This is part of an intentional effort to simplify the redirect rule syntax, essentially doing the following:
+
+- Did the original URL have query parameters?
+- Are there no query parameters on the rewritten URL?
+- Then, transfer the original parameters onto the rewritten URL.
+
+For example, the following rule does not remove the `?ref=bar` query param, despite the regex
+suggesting otherwise:
+
+```
+rule:     ^(https?:\/\/|)([^\?]*).*$|$1$2
+original: https://example.com/foo?ref=bar
+redirect: https://example.com/foo?ref=bar
+```
+
+To work around this, you can hardcode your own query params in the replacement string e.g. by
+appending `?=`:
+
+```
+rule:     ^(https?:\/\/|)([^\?]*).*$|$1$2?=
+original: https://example.com/foo?ref=bar
+redirect: https://example.com/foo?=
+```
+
+Related discussions:
+- [https://kagifeedback.org/d/2478](https://kagifeedback.org/d/2478)
+- [https://kagifeedback.org/d/5211](https://kagifeedback.org/d/5211)
