@@ -33,10 +33,9 @@ You can enable Low Power Mode in Orion's Settings.
 
 3. Go to **Browsing** and enable **Low Power Mode**.
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="./media/ios_focus_mode_settings1.jpeg" alt="Accessing the Browsing section of Orion settings" style="max-width: 300px; height: auto;">
-  <img src="./media/ios_low_power_mode_settings.jpeg" alt="Enabling Low Power Mode in the settings" style="max-width: 300px; height: auto;">
-</div>
+<img src="./media/ios_focus_mode_settings1.jpeg" alt="Accessing the Browsing section of Orion settings" style="max-width: 300px; height: auto;">
+<img src="./media/ios_low_power_mode_settings.jpeg" alt="Enabling Low Power Mode in the settings" style="max-width: 300px; height: auto;">
+
 
 You can disable Low Power Mode from the same place.
 

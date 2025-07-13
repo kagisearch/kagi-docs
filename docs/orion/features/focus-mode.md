@@ -29,16 +29,15 @@ To exit Focus Mode, click the **View** menu and choose **Disable Focus Mode**. O
 
 3. Go to **Browsing** and enable **Focus Mode**.
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="./media/ios_focus_mode_settings1.jpeg" alt="Accessing the Browsing section of Orion settings" style="max-width: 300px; height: auto;">
-  <img src="./media/ios_focus_mode_settings2.jpeg" alt="Enabling Focus Mode in the settings" style="max-width: 300px; height: auto;">
-</div>
+<img src="./media/ios_focus_mode_settings1.jpeg" alt="Accessing the Browsing section of Orion settings" style="max-width: 300px; height: auto;">
+<img src="./media/ios_focus_mode_settings2.jpeg" alt="Enabling Focus Mode in the settings" style="max-width: 300px; height: auto;">
+
 
 Below are examples of Kagi search and [Hacker News](https://news.ycombinator.com) in Focus Mode. 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="./media/ios_focus_mode_example_kagi.png" alt="Kagi Search with Focus Mode enabled" style="max-width: 300px; height: auto;">
-  <img src="./media/ios_focus_mode_example_HN.png" alt="Hacker News with Focus Mode enabled" style="max-width: 300px; height: auto;">
-</div>
+<img src="./media/ios_focus_mode_example_kagi.png" alt="Kagi Search with Focus Mode enabled" style="max-width: 300px; height: auto;">
+
+<img src="./media/ios_focus_mode_example_HN.png" alt="Hacker News with Focus Mode enabled" style="max-width: 300px; height: auto;">
+
 
 
 <a name="ipados"></a>
