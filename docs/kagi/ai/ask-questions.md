@@ -14,7 +14,7 @@ Then you can ask any question you like!
 
 Your questions do not have to be in the same language as the content of the page is.
 
-![Document Discussion Spanish](media/ask_question_other_language.png){data-zoomable}
+![Document Discussion in German](media/ask_question_other_language.png){data-zoomable}
 
 You can end the discussion whenever you want by closing the tab.
 Since all discussions are Assistant threads, they follow the thread expiry time you have configured.
