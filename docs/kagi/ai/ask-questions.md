@@ -1,32 +1,22 @@
-# Ask Questions about Document
+# Ask Questions about a Document or a page
 
-There are two ways to ask questions about a document:
+You can quickly ask an LLM further questions about a search result through `⋮` and selecting *Ask questions about page*.
 
-1. Directly in the search results
-2. On a dedicated page, independent of a previous search
+![Ask Questions](media/ask_questions.png){data-zoomable}
 
-## In search results
+Once selected a new Assistant thread will be opened where you can ask questions about the page or document.
 
-Kagi offers the unique ability to Ask Questions about Document for pages that are returned in your search results. This options brings up an interactive chat window where you can ask further questions and Kagi AI will use the document to produce quick and meaningful answers. This option is easily accessible by expanding the options next to a specific web page in the result set.
-
-![Discuss Document](media/discuss_document.png){data-zoomable}
-
-Once selected a new window will be opened where you can interact via chat with the desired document.
-
-![Discuss Window](media/discuss_window.png){data-zoomable}
+![New Thread](media/discuss_assistant.png){data-zoomable}
 
 Then you can ask any question you like!
 
-![Document Discussion](media/document_discussion.png){data-zoomable}
+![Assistant Answer](media/discuss_answer.png){data-zoomable}
 
-You can even ask questions in a different language!
+Your questions do not have to be in the same language as the content of the page is.
 
-![Document Discussion Spanish](media/discuss_document_spanish.png){data-zoomable}
+![Document Discussion in German](media/ask_question_other_language.png){data-zoomable}
 
-You can close out the discussion by selecting the X in the upper right hand of the window.
+You can end the discussion whenever you want by closing the tab.
+Since all discussions are Assistant threads, they follow the thread expiry time you have configured.
+Please see [Assistant Settings](./assistant.md#threads) for further information.
 
-## Discuss landing page
-
-There's <https://kagi.com/discussdoc> where you can enter the URL of any page that you want to discuss.
-
-![Discuss landing page](media/discuss_landing_page.png){data-zoomable}

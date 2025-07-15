@@ -31,7 +31,7 @@ Input Tokens for all tasks: **10859**
 | o3-mini `[CoT]`               |          63.37 |           -     |   0.42 | 11k          |  -     | Depr. (o4-mini)     |
 | grok-3-mini `[CoT-high]`      |          62.58 |            1.51 |   0.28 | 12k          |   9.77 | xai                 |
 | qwen-3-235b-a22b `[CoT]`      |          61.03 |            8.44 |   0.06 | 9k           |   3.34 | Nebius              |
-| grok-3-mini `[CoT-low]`       |          60.76 |            1.04 |   0.02 | 4.9k         |   8.16 | kagi (ultimate)     |
+| grok-3-mini `[CoT-low]`       |          60.76 |            1.04 |   0.02 | 4.9k         |   8.16 | kagi (all)          |
 | claude-4-opus [no-think]      |          60.21 |            1.27 |   1.06 | 9.1k         |  24.66 | kagi (ultimate)     |
 | perplexity/sonar-pro `[CoT]`  |          55.21 |            0.46 |   0.11 | 12k          |  66.52 | perplexity          |
 | chatgpt-4o                    |          54.80 |           -     |   0.57 | 18k          |  -     | kagi (ultimate)     |
