@@ -170,19 +170,25 @@ that enhance the security and consistency of our services.
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
 |HIGH|[Orion Browser] Arbitrary Javascript code Execution |$300|03-04-2025|
-|MEDIUM|[Orion Browser] Address Bar Impersonation |$100|07-04-2025|
-|MEDIUM|[Orion Browser] IDN Homograph Attack |$100|07-04-2025|
-|MEDIUM|[Orion Browser] XSS Attacks via JavaScript in href |$100|07-04-2025|
-|MEDIUM|[Orion Browser] UXSS Vulnerability in Orion Browser |$100|07-03-2025|
-|MEDIUM|[Orion Browser] Improper RTLO Rendering Affecting User Downloads |$100|05-03-2025|
-|MEDIUM|[Orion Browser] Improper Display of Source Information |$100|29-03-2025|
-|MEDIUM|[Orion Browser] XSS Attacks via Search URL Deeplink |$100|21-04-2025|
-|MEDIUM|[Orion Browser] XSS Attacks via Open URL Deeplink |$100|21-04-2025|
+|HIGH|[Kagi Assistant] Improper Access Control on Shared Kagi Assistant's thread|$150|04-06-2025|
+|MODERATE|[Orion Browser] Address Bar Impersonation |$100|07-04-2025|
+|MODERATE|[Orion Browser] IDN Homograph Attack |$100|07-04-2025|
+|MODERATE|[Orion Browser] XSS Attacks via JavaScript in href |$100|07-04-2025|
+|MODERATE|[Orion Browser] UXSS Vulnerability in Orion Browser |$100|07-03-2025|
+|MODERATE|[Orion Browser] Improper RTLO Rendering Affecting User Downloads |$100|05-03-2025|
+|MODERATE|[Orion Browser] Improper Display of Source Information |$100|29-03-2025|
+|MODERATE|[Orion Browser] XSS Attacks via Search URL Deeplink |$100|21-04-2025|
+|MODERATE|[Orion Browser] XSS Attacks via Open URL Deeplink |$100|21-04-2025|
+|MODERATE|[Orion Browser] Javascript Execution via DATA URI |$100|08-06-2025|
 |LOW |[Kagi Docs] XSS in Kagi ChatBot |$50|22-03-2025|
 |LOW |[Orion Browser] UXSS Vulnerability in Orion Browser |$50|13-03-2025|
 |LOW|[Orion Browser] Addressing Spoofed URL Vulnerability in Browser Domain Display |$50|31-03-2025|
 |LOW|[Orion Browser] Address Bar Impersonation Vulnerability via Data URI |$50|26-03-2025|
 |LOW|[Orion Browser] Address Bar Impersonation Vulnerability via File URI |$50|18-04-2025|
+|LOW|[Orion Browser] Unsafe URI Handling in href attribute causing XSS|$50|20-05-2025|
+|LOW|[Orion Browser] Lack of Authentication on Private Tab Lock |$50|25-05-2025|
+|LOW|[Orion Browser] Filename Spoofing via Right-to-Left Override (RLO) Character in Data URI Download |$100|26-06-2025|
+|LOW|[Orion Browser] Improper URL Handling in iOS Share Sheet Leads to XSS |$100|04-07-2025|
 
 
 **Gaura Popalghat**
@@ -211,8 +217,7 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|MEDIUM|[Orion Browser, Android] - Task hijacking leads to account takeover |$100|07-03-2025|
-
+|MODERATE|[Orion Browser, Android] - Task hijacking leads to account takeover |$100|07-03-2025|
 
 **Prajit Sindhkar**
 
@@ -221,4 +226,92 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|MEDIUM|[Kagi Prism] CVE-2024-34351 - Sever Side Request Forgery |$100|24-02-2025|
+|MODERATE|[Kagi Prism] CVE-2024-34351 - Sever Side Request Forgery |$100|24-02-2025|
+
+**Joao Fonsaka**
+
+- Email: `***aka@outlook.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Translate] Reflected XSS in Kagi Translate |$100|30-05-2025|
+
+**Ranjeet**
+
+- Email: `***ify@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi News] Unauthorized Access to Private Feed Details & Contents |$100|09-05-2025|
+|MODERATE|[Kagi Assistant] Authentication broken on threads |$100|29-05-2025|
+|MODERATE|[Kagi Android App] Invalid backup configuration|$200|09-06-2025|
+|LOW|[Kagi Translate] Server Side Request Forgery on Kagi Translate |$50|30-05-2025|
+|LOW|[Kagi Search] Oauth misconfiguration caused CSRF |$50|09-05-2025|
+
+**Drough**
+
+- Email: `***365@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Open redirection after logged in |$100|15-05-2025|
+
+**Asim Delalic**
+
+- Email: `***sim@delalic.me`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|HIGH|[Kagi Browser] Git files leaking caused by server misconfiguration |$200|15-05-2025|
+
+**Kaushik**
+
+- Email: `***abu@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Zero] IAP misconfiguration for 0.kagi.com |$50|12-05-2025|
+
+**Deepak Kumar**
+
+- Email: `***532@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Search] XSS vulnerability in gift code page |$100|29-05-2025|
+
+
+**Moch Azril**
+
+- Email: `***.ti@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|HIGH|[Kagi Assistant] Assistant's access control broken |$150|28-05-2025|
+
+
+**Syarif Muhammad Sajjad**
+
+- Email: `***d07@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Orion Browser] Incorrect download filename|$100|17-06-2025|
+
+
+**Jai Niresh J**
+
+- Email: `***shj@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Assistant] Authentication broken on threads |$200|31-05-2025|
