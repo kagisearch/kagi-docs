@@ -183,6 +183,7 @@ The Assistant provides access to the following LLMs:
 | DeepSeek   | [DeepSeek R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b) | All      |
 | xAI        | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)                                     | All      |
 | xAI        | [Grok 3](https://kagi.com/assistant?profile=grok-3)                                               | Ultimate |
+| Moonshot AI | [Kimi K2](https://kagi.com/assistant?profile=kimi-k2)                                            | Ultimate |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
