@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last update: **July 16th, 2025**
+Last update: **July 22nd, 2025**
 
 Tasks: **100**
 
@@ -40,6 +40,7 @@ Input Tokens for all tasks: **10859**
 | deepseekr1-distil-llama`[CoT]`         | 52.62        | -             | 0.33  | 110k          | -      | kagi (ultimate)     |
 | claude-4-sonnet [no-think]             | 52.58        | 0.93          | 0.23  | 10k           | 37.39  | kagi (ultimate)     |
 | deepseek-chat-v3                       | 51.95        | -             | 0.24  | 21k           | -      | kagi (all)          |
+| qwen3-235b-a22b-instruct-2507          | 51.83        | 8.51          | 0.37  | 105k          | 69.29  | kagi (all)          |
 | qwen-3-32b `[CoT]`                     | 49.83        | 3.26          | 0.03  | 9.8k          | 10.24  | kagi (ultimate)     |
 | thedrummer/anubis-pro-105b-v1          | 48.96        | 7.96          | 0.02  | 14k           | 3.10   | openrouter          |
 | llama-4-maverick                       | 48.93        | -             | 0.03  | 20k           | -      | kagi (all)          |
@@ -51,6 +52,7 @@ Input Tokens for all tasks: **10859**
 | qwen-3-235b-a22b [no-think]            | 43.00        | 3.17          | 0.02  | 18k           | 19.25  | kagi (all)          |
 | gpt-4o                                 | 42.60        | -             | 0.22  | 12k           | -      | kagi (ultimate)     |
 | gemini-2-5-flash [no-think]            | 41.88        | 0.37          | 0.02  | 11k           | 51.54  | kagi (all)          |
+| qwen3-coder                            | 41.67        | 6.10          | 0.09  | 44k           | 45.98  | openrouter          |
 | mistral-large                          | 40.53        | -             | 0.10  | 12k           | -      | kagi (ultimate)     |
 | claude-3-5-sonnet                      | 38.89        | -             | 0.23  | 10k           | -      | Depr. (claude-4)    |
 | mistral-small                          | 37.99        | -             | 0.00  | 12k           | -      | kagi (all)          |
