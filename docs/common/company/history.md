@@ -25,19 +25,19 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 - First prototype of Kagi Search
 - [Donna.gg](https://donna.gg) is launched as the first attempt to create a premium search business. It failed but we didn't give up
 - Work begins on [Orion Browser](https://browser.kagi.com)
-- Team size: ~5
+- Team expands to 5 members
   
 2020-2021 (COVID years)  
 
 - It is all blurred out; we worked a lot. The private beta of Kagi Search and Orion Browser launched
-- Team size: ~10
+- Team doubles in size to 10
 
 2022 (Public beta and paid customers)
 
 - Kagi Inc. incorporated in March 2022
 - [Kagi search and Orion browser enter the public beta](https://blog.kagi.com/kagi-orion-public-beta)
 - [Three months later](https://blog.kagi.com/status-update-first-three-months), thousands of people are paying for Kagi and Orion
-- The team is now ~15
+- Team grows to 15 people
 
 2023
 
@@ -45,12 +45,17 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 - We publish our [live stats](https://kagi.com/stats)
 - We cross $1M annual revenue milestone, offering paid web search and paid web browser product
 - The Assistant by Kagi enters public beta 
-- The team is now ~30
+- Headcount hits 30
 
 2024
 
 - Kagi becomes a [Public Benefit Corporation (PBC)](https://blog.kagi.com/what-is-next-for-kagi#4)
 - The Assistant by Kagi exits beta and becomes generally available
-- The team is now ~35
+- Team grows to 40 people
 - Kagi launches Kagi Translate
 - Kagi for Teams becomes available
+
+2025
+
+- Launched Privacy Pass & Tor Onion Service
+- Team now numbers 45
