@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last update: **July 22nd, 2025**
+Last update: **July 28th, 2025**
 
 Tasks: **100**
 
