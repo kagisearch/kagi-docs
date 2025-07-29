@@ -33,6 +33,7 @@ Input Tokens for all tasks: **10859**
 | grok-3-mini `[CoT-high]`               | 62.58        | 1.51          | 0.28  | 12k           | 9.77   | xai                 |
 | qwen-3-235b-a22b `[CoT]`               | 61.03        | 8.44          | 0.06  | 9k            | 3.34   | Nebius              |
 | grok-3-mini `[CoT-low]`                | 60.76        | 1.04          | 0.02  | 4.9k          | 8.16   | kagi (all)          |
+| z-ai/glm-4.5 `[CoT]`                   | 60.34        | 8.39          | 0.19  | 15k           | 10.89  | openrouter          |
 | claude-4-opus [no-think]               | 60.21        | 1.27          | 1.06  | 9.1k          | 24.66  | kagi (ultimate)     |
 | perplexity/sonar-pro `[CoT]`           | 55.21        | 0.46          | 0.11  | 12k           | 66.52  | perplexity          |
 | chatgpt-4o                             | 54.80        | -             | 0.57  | 18k           | -      | kagi (ultimate)     |
@@ -45,6 +46,7 @@ Input Tokens for all tasks: **10859**
 | thedrummer/anubis-pro-105b-v1          | 48.96        | 7.96          | 0.02  | 14k           | 3.10   | openrouter          |
 | llama-4-maverick                       | 48.93        | -             | 0.03  | 20k           | -      | kagi (all)          |
 | gpt-4-1-mini                           | 48.80        | -             | 0.05  | 23k           | -      | kagi (all)          |
+| z-ai/glm-4.5-air `[CoT]`               | 48.79        | 4.52          | 0.37  | 16k           | 24.72  | openrouter          |
 | grok-3                                 | 48.40        | -             | 0.70  | 16k           | -      | kagi (ultimate)     |
 | kimi-k2                                | 47.81        | 12.97         | 1.58  | 80k           | 41.19  | kagi (ultimate)     |
 | mistral-medium                         | 47.20        | 0.68          | 0.05  | 12k           | 53.31  | kagi (all)          |
