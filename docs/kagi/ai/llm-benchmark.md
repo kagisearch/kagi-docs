@@ -30,6 +30,7 @@ Input Tokens for all tasks: **10859**
 | grok-4 `[CoT]`                         | 64.31        | 98.80         | 1.96  | 9.7k          | 0.67   | kagi (ultimate)     |
 | deepseek-r1 `[CoT]`                    | 64.00        | -             | 0.97  | 110k          | -      | kagi (ultimate)     |
 | o3-mini `[CoT]`                        | 63.37        | -             | 0.42  | 11k           | -      | Depr. (o4-mini)     |
+| qwen3-235b-a22b-thinking-2507 `[CoT]`  | 62.66        | 31.63         | 0.24  | 32k           | 5.22   | kagi (all)          |
 | grok-3-mini `[CoT-high]`               | 62.58        | 1.51          | 0.28  | 12k           | 9.77   | xai                 |
 | qwen-3-235b-a22b `[CoT]`               | 61.03        | 8.44          | 0.06  | 9k            | 3.34   | Nebius              |
 | grok-3-mini `[CoT-low]`                | 60.76        | 1.04          | 0.02  | 4.9k          | 8.16   | kagi (all)          |
