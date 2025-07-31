@@ -10,7 +10,7 @@ The Assistant by Kagi combines the top large language models (LLMs) with optiona
 
 ## Features
 
-- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google, Mistral, Amazon, Alibaba and DeepSeek.
+- Access to the latest and most performant large language models from OpenAI, Anthropic, Meta, Google, Mistral, Amazon, Alibaba, and DeepSeek.
 - Multiple [custom assistants](#custom-assistants)
 - The ability to control whether the Assistant has web access (powered by Kagi Search)
 - Applying Kagi Search [Lenses](../features/lenses.md) and [Personalized Results](../features/website-info-personalized-results.md) to the Assistant searches
@@ -18,8 +18,8 @@ The Assistant by Kagi combines the top large language models (LLMs) with optiona
 - Saving Assistant threads
 - Uploading files to use as context
 - Altering the Assistant configuration within the thread
-	- For example, you can ask the initial question with web access enabled, and then disable it for subsequent questions!
-	 - It is also possible to switch to a different LLM in the middle of a thread
+	- For example, you can ask the initial question with web access enabled and then disable it for subsequent questions!
+	- It is also possible to switch to a different LLM in the middle of a thread
 - Code syntax highlighting
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - Export conversations to markdown format
@@ -42,9 +42,19 @@ The Assistant's web access can be toggled via the button below the prompt field.
 
 ## Which model to choose
 
-We maintain the [Kagi LLM Benchmarking Project](./llm-benchmark.md) to measure model quality in various scenarios.
+There is no definite answer to the question of what the best LLM is.
+As the number of competing models increases, users may find it difficult to find the right one for their task.
+To aid in this, Kagi maintains a list of recommended models at the top of the LLM list.
 
-Another important aspect is the privacy policy of the model provider. See our [LLM Privacy Comparison](./llms-privacy.md) for a detailed overview of how each provider handles your data.
+![Screenshot showing the recommended models in Assistant model selection menu](./media/kagi_recommended.png)
+
+*Kagi recommended models as of July 27, 2025.*
+
+The recommendations are based on the [Kagi LLM Benchmarking Project](./llm-benchmark.md).
+The benchmark tests measure model quality in various scenarios.
+
+Another important aspect is the privacy policy of the model provider.
+See our [LLM Privacy Comparison](./llms-privacy.md) for a detailed overview of how each provider handles your data.
 
 ## Threads
 
@@ -58,13 +68,33 @@ If keeping threads alive permanently better fits your workflow, you can adjust t
 Please note that the thread saving setting is applied **when the thread is created**.
 
 Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread.
+Threads can be further organized by adding tags to them.
 
 The Quick Access feature can be used to better organize your threads, but it will not influence the thread saving setting.
-In other words, threads added to Quick Access will also be deleted after 24 hours, unless you have chosen otherwise in the settings.
+In other words, threads added to Quick Access will also be deleted after 24 hours, if they have the **Temporary** tag.
 
-You can also **preserve** threads with the star symbol, located to the left of the thread title.
-Preserved threads do not expire.
+## Tags
 
+Tags allow you to keep your Assistant threads organized and easily accessible.
+You can access the tag settings for the currently active thread at the top of the thread.
+![Desktop tag location](./media/desktop_tag_location.png)
+On mobile devices the tag settings can be found by tapping <img src="./media/kagi_logo_dark.svg" alt="Kagi logo" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> at the top of the page and selecting **Edit tags**.
+![Mobile tag location](./media/mobile_tag_location.jpeg)
+
+If you have configured your threads to expire after 24 hours, each thread you create will automatically have the **Temporary** tag.
+You can prevent threads from expiring by removing that tag.
+Adding a tag to a thread will automatically remove the **Temporary** tag.
+
+Each thread can have up to 100 tags.
+Tags can be removed in the same menu where they were added.
+
+![Assistant tag list](./media/assistant_tag_list.png)
+
+Tags appear in the Assistant sidebar which allows you to quickly access tagged threads.
+The sidebar can be accessed by clicking the sidebar icon  <img src="./media/sidebar.svg" alt="Assistant Sidebar logo" style="display:inline; vertical-align:middle; width:24px; height:24px;" />.
+Selecting a tag will show all threads that have said tag, and the most recent thread with the tag will be automatically opened.
+Creating a new thread when a tag is selected will automatically apply that tag to the created thread.
+![Example screenshot of tag list on mobile](./media/tags_mobile.jpeg)
 ## Uploading Files to Assistant
 
 The Assistant by Kagi supports file uploads, allowing you to provide additional context or information for your queries.
@@ -79,7 +109,7 @@ This can be useful for tasks like:
 
 To upload a file:
 
-1. Click the paperclip icon in the prompt input box.
+1. Click the paperclip icon <img src="./media/paperclip.svg" alt="Attachment icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> in the prompt input box.
 2. Select the file or image you wish to upload.
 3. Provide a prompt with instructions to process the file or leave it blank to summarize it.
 
