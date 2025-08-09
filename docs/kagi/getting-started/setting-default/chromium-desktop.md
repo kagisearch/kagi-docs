@@ -22,6 +22,12 @@ To enhance your browsing experience with Kagi, follow these steps to set Kagi as
 
 ## Manual Configuration (Advanced)
 
+<br />
+
+<video src="./media/chrome_manual_configuration.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
+
 1. Right-click the Chrome address bar and choose **Manage Search Engines and Site Search**
 2. In the **Site Search** section about halfway down, click the **Add** button at its upper right and fill in these details:
 	- **Search engine:** Kagi Search
@@ -33,4 +39,3 @@ To enhance your browsing experience with Kagi, follow these steps to set Kagi as
 
 Note: Opera is no longer compatible as it is restricting users from using alternative search engines. If you are an Opera user you can [reach out to Opera](https://opera.atlassian.net/servicedesk/customer/portal/9) and request them to add Kagi to their list of search engines.
 
-<img src="./media/kagi_default_chrome.jpg" width="675" alt="Setting Kagi as Default Search Engine in Chrome"><br />
