@@ -130,6 +130,15 @@ You can also access the **Code** Custom Assistant with the `!code` bang.
 
 And many more! You can use the community-created [Kagi Bangs Explorer](https://kbe.smaertness.net) to find bangs for your favorite sites.
 
+### Search Bangs for Time Scope
+
+The following bangs can be used to quickly define the time frame for the search results:
+
+- **!24** \<query> - Results from past 24 hours
+- **!week** \<query> - Results from past 7 days
+- **!month** \<query> - Results from the past month
+- **!year** \<query> - Results from the past year
+
 ## Contributing Bangs
 
 The [Kagi Bangs repository](https://github.com/kagisearch/bangs) is open source. You can refine the accuracy of existing bangs or introduce new ones for everyone to enjoy on Kagi Search. Your contributions will enhance the search experience for users worldwide.

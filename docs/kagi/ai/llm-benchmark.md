@@ -6,7 +6,7 @@ Introducing the Kagi LLM Benchmarking Project, which evaluates major large langu
 
 The Kagi Reasoning Benchmark is an **unpolluted reasoning benchmark** to assess large language models (LLMs) through diverse, challenging tasks. Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last update: **July 22nd, 2025**
+Last update: **July 28th, 2025**
 
 Tasks: **100**
 
@@ -30,9 +30,11 @@ Input Tokens for all tasks: **10859**
 | grok-4 `[CoT]`                         | 64.31        | 98.80         | 1.96  | 9.7k          | 0.67   | kagi (ultimate)     |
 | deepseek-r1 `[CoT]`                    | 64.00        | -             | 0.97  | 110k          | -      | kagi (ultimate)     |
 | o3-mini `[CoT]`                        | 63.37        | -             | 0.42  | 11k           | -      | Depr. (o4-mini)     |
+| qwen3-235b-a22b-thinking-2507 `[CoT]`  | 62.66        | 31.63         | 0.24  | 32k           | 5.22   | kagi (all)          |
 | grok-3-mini `[CoT-high]`               | 62.58        | 1.51          | 0.28  | 12k           | 9.77   | xai                 |
 | qwen-3-235b-a22b `[CoT]`               | 61.03        | 8.44          | 0.06  | 9k            | 3.34   | Nebius              |
 | grok-3-mini `[CoT-low]`                | 60.76        | 1.04          | 0.02  | 4.9k          | 8.16   | kagi (all)          |
+| z-ai/glm-4.5 `[CoT]`                   | 60.34        | 8.39          | 0.19  | 15k           | 10.89  | openrouter          |
 | claude-4-opus [no-think]               | 60.21        | 1.27          | 1.06  | 9.1k          | 24.66  | kagi (ultimate)     |
 | perplexity/sonar-pro `[CoT]`           | 55.21        | 0.46          | 0.11  | 12k           | 66.52  | perplexity          |
 | chatgpt-4o                             | 54.80        | -             | 0.57  | 18k           | -      | kagi (ultimate)     |
@@ -45,6 +47,7 @@ Input Tokens for all tasks: **10859**
 | thedrummer/anubis-pro-105b-v1          | 48.96        | 7.96          | 0.02  | 14k           | 3.10   | openrouter          |
 | llama-4-maverick                       | 48.93        | -             | 0.03  | 20k           | -      | kagi (all)          |
 | gpt-4-1-mini                           | 48.80        | -             | 0.05  | 23k           | -      | kagi (all)          |
+| z-ai/glm-4.5-air `[CoT]`               | 48.79        | 4.52          | 0.37  | 16k           | 24.72  | openrouter          |
 | grok-3                                 | 48.40        | -             | 0.70  | 16k           | -      | kagi (ultimate)     |
 | kimi-k2                                | 47.81        | 12.97         | 1.58  | 80k           | 41.19  | kagi (ultimate)     |
 | mistral-medium                         | 47.20        | 0.68          | 0.05  | 12k           | 53.31  | kagi (all)          |
