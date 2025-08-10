@@ -83,7 +83,6 @@ On mobile devices the tag settings can be found by tapping <img src="./media/kag
 
 If you have configured your threads to expire after 24 hours, each thread you create will automatically have the **Temporary** tag.
 You can prevent threads from expiring by removing that tag.
-Adding a tag to a thread will automatically remove the **Temporary** tag.
 
 Each thread can have up to 100 tags.
 Tags can be removed in the same menu where they were added.
