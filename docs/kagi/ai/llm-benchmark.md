@@ -88,7 +88,7 @@ Please see notes below the table if you see results you find surprising, or get 
 
 </div>
 
-**Notes on chain of thought:** Models that use chain of thought do drastically better in this benchmark. Some models, like **kimi-k2** perform worse with our instruction following prompts (ex: "answer in only one word") seem to shut down reasoning than usual. We also test more comprehensively on non-english/chinese languages, which seems to punish some models (Qwen3-32B).
+**Notes on chain of thought:** Models that use chain of thought do drastically better in this benchmark. Some models, like **kimi-k2** perform worse with our instruction following prompts (ex: "answer in only one word") seem to shut down reasoning. We also test more comprehensively on non-english/chinese languages, which seems to punish some models (Qwen3-32B).
 
 **Model Costs:** Costs in the reasoning benchmark are mostly from the models' output tokens. **This table's cost column is not representative for input token heavy tasks like web search or retrieval.**
 
