@@ -26,6 +26,6 @@ When you use [The Assistant](./assistant.md), we make API requests to third-part
 ² When our Azure OpenAI Service API quota is saturated, the request is sent to the fallback provider: OpenAI's own API. OpenAI is currently [required by court order to retain all chat logs](https://openai.com/index/response-to-nyt-data-demands/).
 We are working with Microsoft to raise the Azure quota and minimize these fallbacks.
 
-³ o3/o3-pro/GPT 5 models are not yet available to Kagi via Azure and go directly to OpenAI for now.
+³ o3/o3-pro models are not yet available to Kagi via Azure and go directly to OpenAI for now.
 
 ⁴ GPT 5 chat is labeled as ChatGPT in the Assistant.
