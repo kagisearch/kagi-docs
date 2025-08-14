@@ -67,11 +67,8 @@ By default, threads are kept for 24 hours after the last message.
 If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/?p=assistant).
 Please note that the thread saving setting is applied **when the thread is created**.
 
-Threads can be renamed, added to Quick Access, shared, deleted, and downloaded via the `⋮` button which is displayed when you hover over the thread.
+Threads can be renamed, downloaded, shared, and  deleted via the `⋮` button which is displayed when you hover over the thread.
 Threads can be further organized by adding tags to them.
-
-The Quick Access feature can be used to better organize your threads, but it will not influence the thread saving setting.
-In other words, threads added to Quick Access will also be deleted after 24 hours, if they have the **Temporary** tag.
 
 ## Tags
 
@@ -83,6 +80,7 @@ On mobile devices the tag settings can be found by tapping <img src="./media/kag
 
 If you have configured your threads to expire after 24 hours, each thread you create will automatically have the **Temporary** tag.
 You can prevent threads from expiring by removing that tag.
+Please note that adding a tag does not automatically remove the **Temporary** tag.
 
 Each thread can have up to 100 tags.
 Tags can be removed in the same menu where they were added.
@@ -147,7 +145,7 @@ You can, for instance, instruct the Assistant to be more succinct or to consider
 You can create Custom Assistants in the [Assistant Settings](https://kagi.com/settings?p=assistant).
 It is possible to customize the LLM, settings (the use of web access, lenses, and personalized results), and the instructions for each Custom Assistant.
 
-The Assistant comes with a built-in **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 3.5 Sonnet and has web access.
+The Assistant comes with a built-in **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 4 Sonnet and has web access.
 
 For more details, refer to the [Custom Assistants](./custom-assistants.md) page.
 
