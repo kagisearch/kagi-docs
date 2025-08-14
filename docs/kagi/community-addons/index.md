@@ -43,7 +43,7 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 
 [Ask Kagi](https://www.icloud.com/shortcuts/c92d096f37984fe4b756a6ff2eafc795): Ask Kagi's FastGPT AI questions, Siri will read out the result. Great for idle questions in the car! You must insert your own API key, get your API key [here](https://help.kagi.com/kagi/api/fastgpt.html#quick-start) - Credits to [Alex Schuldberg](https://bsky.app/profile/schuldberg.com)
 
-[Talk to Kagi](https://www.dropbox.com/scl/fi/3v7pv92cold4zwfikn0bi/Talk-to-Kagi.shortcut?rlkey=yp3yjoukdpdspa5nmr4rjsig0&e=1&dl=0): an enhanced version of Ask Alex Schuldberg's Ask Kagi that makes use of Siri's native Text-to-Speech, as well as a conversational loop with a limited memory of previous questions for context. Credits to [Jesse Garrison](https://nightlight.io)
+[Talk to Kagi](https://www.dropbox.com/scl/fi/3v7pv92cold4zwfikn0bi/Talk-to-Kagi.shortcut?rlkey=yp3yjoukdpdspa5nmr4rjsig0&e=1&dl=0): an enhanced version of Alex Schuldberg's Ask Kagi that makes use of Siri's native Text-to-Speech, as well as a conversational loop with a limited memory of previous questions for context. Credits to [Jesse Garrison](https://nightlight.io)
 
 ## Script Kit
 
