@@ -40,20 +40,25 @@ Please see notes below the table if you see results you find surprising, or get 
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
 | claude-4-sonnet                     |        55.9 |       1.8 |         5.6 |    20574 |  31.1 | kagi (ult) |
-| qwen-3-235b-a22b                    |        55.0 |       0.4 |        11.3 |   119875 |  85.3 | kagi       |
+| qwen-3-235b-a22b (no thinking)      |        55.0 |       0.4 |        11.3 |   119875 |  85.3 | kagi       |
+| Qwen3-32B-fast (thinking)           |        54.9 |       0.5 |         3.0 |   299527 |  86.4 | nebius     |
+| Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
 | chatgpt-4o                          |        54.1 |       2.6 |         2.6 |    42545 | 163.1 | deprecated |
 | gpt-oss-20b                         |        53.2 |       0.5 |         3.3 |    38619 |  96.0 | kagi       |
+| deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi       |
 | glm-4-5                             |        52.3 |       5.2 |        62.3 |    41434 |   5.4 | kagi (ult) |
 | gpt-4-1                             |        52.3 |       2.1 |         4.4 |    61935 | 116.2 | deprecated |
-| deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | kagi       |
+| deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | deprecated |
 | deepseek-r1-distill-llama-70b       |        52.3 |       1.0 |         4.7 |    10321 |  17.8 | deprecated |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
+| Qwen3-32B (No Thinking)             |        48.7 |       0.5 |         9.9 |   292277 | 50.0  | nebius     |
 | gpt-4-1-mini                        |        48.6 |       0.4 |         6.1 |    63524 |  85.9 | deprecated |
 | mistral-medium                      |        45.9 |       0.3 |         4.7 |    24602 |  42.6 | kagi       |
 | llama-3-405b                        |        45.0 |       1.1 |         3.0 |    26712 |  77.7 | deprecated |
 | baidu/ernie-4.5-300b-a47b           |        45.0 |       0.2 |         7.9 |    35671 |  36.2 | openrouter |
 | kimi-k2 (see note below)            |        45.0 |       1.1 |         3.3 |    84371 | 201.1 | kagi       |
 | gemini-2-5-flash                    |        44.1 |       0.4 |         2.0 |    34698 | 152.3 | kagi       |
+| minimax/minimax-01                  |        42.5 |       0.1 |         3.1 |   107414 |  30.7 | openrouter |
 | thudm/glm-4-32b                     |        42.3 |       0.1 |        10.9 |    28236 |  20.5 | openrouter |
 | gemini-2-5-flash-lite               |        40.5 |       0.1 |         2.2 |    43989 | 171.8 | kagi       |
 | thedrummer/anubis-70b-v1.1          |        39.6 |       0.2 |         7.7 |    17933 |  19.3 | openrouter |
@@ -67,9 +72,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | claude-3-haiku                      |        34.2 |       0.5 |         3.1 |    14891 |  41.1 | deprecated |
 | gpt-4-1-nano                        |        33.3 |       0.1 |         3.7 |    62437 | 135.1 | deprecated |
 | arcee-ai/virtuoso-large             |        32.4 |       0.3 |         4.6 |    23175 |  43.2 | openrouter |
-| qwen-3-32b-thinking                 |        31.5 |       0.2 |         3.1 |    47478 | 121.6 | kagi       |
 | google/gemma-3n-e4b-it              |        31.5 |       0.0 |        18.2 |    27557 |  12.8 | openrouter |
-| qwen-3-32b                          |        28.8 |       0.3 |         5.7 |   105057 | 146.7 | kagi       |
 | cohere/command-a                    |        28.8 |       1.9 |        11.7 |    39471 |  27.5 | openrouter |
 | thedrummer/valkyrie-49b-v1          |        28.8 |       0.1 |         4.1 |    19874 |  39.4 | openrouter |
 | gpt-4o-mini                         |        28.8 |       0.1 |         2.5 |    36708 | 119.8 | deprecated |
