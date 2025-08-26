@@ -16,6 +16,23 @@ Choose your browser below for instructions:
 | [Desktop / Mac](./setting-default/chromium-desktop.md)<br>[iPhone / iPad](./setting-default/chromium-mobile.md)<br>[Android](./setting-default/chromium-mobile.md) | [Desktop / Mac](./setting-default/chromium-desktop.md)<br>[iPhone / iPad](./setting-default/chromium-mobile.md)<br>[Android](./setting-default/chromium-mobile.md) | [Desktop / Mac](./setting-default/vivaldi-desktop.md)<br>[iPhone / iPad](./setting-default/chromium-mobile.md)<br>[Android](./setting-default/chromium-mobile.md) | [iPhone / iPad](./setting-default/firefox-focus-iphone-ipad.md)<br>[Android](./setting-default/firefox-focus-android.md) |
 
 
+## Kagi App {#kagi_app}
+
+You can use Kagi on your phone or tablet with the Kagi App.
+
+### Android
+
+The Kagi App is currently available for Android. Download it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.kagi.search&hl=en).
+
+- Add Kagi search widgets to your homescreen for quick access.
+- Use the app directly to search with Kagi on your device.
+- Privacy Pass is supported in the Android app. For setup instructions, see the [Getting Started with Privacy Pass](https://help.kagi.com/kagi/privacy/privacy-pass.html#getting-started) page.
+
+### iPhone
+
+An iOS app is not yet available. Once released, it will include support for homescreen widgets and direct search. Updates will be posted here when the app is available.
+
+
 ## Custom Use {#custom_use}
 
 If you want to manually set Kagi as a default search engine, use these settings:
