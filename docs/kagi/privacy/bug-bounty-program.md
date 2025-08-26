@@ -8,7 +8,8 @@
 4. Bugs and security concerns should be addressed to security@kagi.com
 5. You should be the first person to report the bug to be entitled for a reward.
 6. Compensation will be based on the severity of the bug finding.
-7. Bug Bounty rewards will be paid by PayPal or Wise in U.S. dollars after the bug is fixed.
+7. Bug Bounty rewards will be paid by PayPal, Wise or Bank (if your bank supports
+international money transfers) in U.S. dollars after the bug is fixed.
 8. Security research should follow industry standards, and no legal actions should be initiated against
 security researchers as long as they comply with this policy and guidelines.
 
