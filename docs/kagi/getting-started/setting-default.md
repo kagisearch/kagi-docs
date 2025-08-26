@@ -26,7 +26,7 @@ The Kagi App is currently available for Android. Download it from the [Google Pl
 
 - Add Kagi search widgets to your homescreen for quick access.
 - Use the app directly to search with Kagi on your device.
-- Privacy Pass is supported in the Android app. For setup instructions, see the [Getting Started with Privacy Pass](https://help.kagi.com/kagi/privacy/privacy-pass.html#getting-started) page.
+- Privacy Pass is supported in the Android app. For setup instructions, see the [Getting Started with Privacy Pass](../privacy/privacy-pass.html#getting-started) page.
 
 ### iPhone
 
