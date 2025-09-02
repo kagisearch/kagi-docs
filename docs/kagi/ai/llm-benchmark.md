@@ -14,7 +14,7 @@ Input Tokens (all tasks): **14909**
 
 **NOTE:** Since the July update, we have made major changes to the task set. We test much more aggressively on non-english languages, robustness to polluted tokens, noisy context and instruction following. We also replaced our hallucination benchmarks with new tasks.
 
-Please see notes below the table if you see results you find surprising, or get in contact with us on [the user discord](https://discord.gg/nDh2FFGx)
+Please see notes below the table if you see results you find surprising, or get in contact with us on [the user discord](https://kagi.com/discord)
 
 <div class="minimal-table-margins">
 
