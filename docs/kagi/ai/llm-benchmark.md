@@ -90,6 +90,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | ai21/jamba-mini-1.7                 |        11.7 |       0.1 |         2.1 |    14598 |  58.2 | openrouter |
 | arcee-ai/AFM-4.5B                   |        10.8 |       0.0 |         2.2 |    28208 | 112.4 | together   |
 | magistral-small                     |         6.3 |       7.4 |        68.3 |     1039 |   0.1 | Mistral    |
+
 {.sortable}
 
 </div>
