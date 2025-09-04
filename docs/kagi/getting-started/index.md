@@ -42,7 +42,7 @@ Just below the search box you can quickly filter for the types of results such a
 
 You can also use [Search operators ](https://help.kagi.com/kagi/features/search-operators.html) to tune your results.  For instance the filetype: operator can limit results to specific filetypes.  E.g. adding “filetype:xlsx” to your query will limit your results to only Microsoft Excel files.  A quick reference of search operators is available from anywhere on kagi.com by typing “?” [Note: make sure you’re not typing into a form or text box when entering “?” to bring up the reference window.]
 
-<img src="./media/search_operators.png" width="675" alt="Search operators reference"><br />
+<img src="./media/search_operators.jpeg" width="675" alt="Search operators reference"><br />
 <br />
 <br />
 
