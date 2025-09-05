@@ -183,9 +183,7 @@ The Assistant provides access to the following LLMs:
 | Anthropic  | [Claude 4 Sonnet (reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)        | Ultimate |
 | Anthropic  | [Claude 4 Opus](https://kagi.com/assistant?profile=claude-4-opus)                                 | Ultimate |
 | Anthropic  | [Claude 4 Opus (reasoning)](https://kagi.com/assistant?profile=claude-4-opus-thinking)            | Ultimate |
-| Anthropic  | [Claude 3.5 Haiku](https://kagi.com/assistant?profile=claude-3-haiku)                             | Ultimate |
 | OpenAI     | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | Ultimate |
-| OpenAI     | [GPT 4o mini](https://kagi.com/assistant?profile=gpt-4o-mini)                                     | All      |
 | OpenAI     | [o3](https://kagi.com/assistant?profile=o3)                                                       | Ultimate |
 | OpenAI     | [o4 mini](https://kagi.com/assistant?profile=o4-mini)                                             | Ultimate |
 | OpenAI     | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                                             | Ultimate |
@@ -194,22 +192,15 @@ The Assistant provides access to the following LLMs:
 | Mistral AI | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)                                 | Ultimate |
 | Mistral AI | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                               | All      |
 | Mistral AI | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                 | All      |
-| Mistral AI | [Magistral Medium](https://kagi.com/assistant?profile=magistral-medium)                           | Ultimate |
-| Mistral AI | [Magistral Small](https://kagi.com/assistant?profile=magistral-small)                             | All      |
-| Google     | [Gemini 2.0 Flash](https://kagi.com/assistant?profile=gemini-flash)                               | All      |
 | Google     | [Gemini 2.5 Flash Preview](https://kagi.com/assistant?profile=gemini-2-5-flash)                   | All      |
 | Google     | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)                       | Ultimate |
-| Meta       | [Llama 4 Scout](https://kagi.com/assistant?profile=llama-4-scout)                                 | All      |
 | Meta       | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                           | All      |
-| Alibaba    | [Qwen 3 32B](https://kagi.com/assistant?profile=qwen-3-32b)                                       | All      |
-| Alibaba    | [Qwen 3 32B (reasoning)](https://kagi.com/assistant?profile=qwen-3-32b-thinking)                  | All      |
 | Alibaba    | [Qwen 3 235B](https://kagi.com/assistant?profile=qwen-3-235b-a22b)                                | All      |
 | Alibaba    | [Qwen 3 235B (reasoning)](https://kagi.com/assistant?profile=qwen-3-235b-a22b-thinking)           | All      |
 | DeepSeek   | [DeepSeek Chat V3](https://kagi.com/assistant?profile=deepseek)                                   | All      |
 | DeepSeek   | [DeepSeek R1](https://kagi.com/assistant?profile=deepseek-r1)                                     | Ultimate |
-| DeepSeek   | [DeepSeek R1 Distill Llama 70B](https://kagi.com/assistant?profile=deepseek-r1-distill-llama-70b) | All      |
 | xAI        | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)                                     | All      |
-| xAI        | [Grok 3](https://kagi.com/assistant?profile=grok-3)                                               | Ultimate |
+| xAI        | [Grok 4](https://kagi.com/assistant?profile=grok-4)                                               | Ultimate |
 | Moonshot AI | [Kimi K2](https://kagi.com/assistant?profile=kimi-k2)                                            | Ultimate |
 
 

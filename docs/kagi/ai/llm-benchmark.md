@@ -14,7 +14,7 @@ Input Tokens (all tasks): **14909**
 
 **NOTE:** Since the July update, we have made major changes to the task set. We test much more aggressively on non-english languages, robustness to polluted tokens, noisy context and instruction following. We also replaced our hallucination benchmarks with new tasks.
 
-Please see notes below the table if you see results you find surprising, or get in contact with us on [the user discord](https://discord.gg/nDh2FFGx)
+Please see notes below the table if you see results you find surprising, or get in contact with us on [the user discord](https://kagi.com/discord)
 
 <div class="minimal-table-margins">
 
@@ -35,8 +35,10 @@ Please see notes below the table if you see results you find surprising, or get 
 | gpt-5-nano                          |        62.2 |       0.4 |        20.5 |     9587 |   3.9 | kagi       |
 | grok-3                              |        61.3 |       2.6 |         6.0 |    28865 |  42.4 | kagi (ult) |
 | grok-3-mini                         |        61.3 |       0.3 |         7.6 |     8661 |   9.5 | kagi       |
+| cogito-v2-preview-llama-405b        |        61.1 |       2.1 |        35.4 |   201098 |  49.7 | together   |
 | claude-4-opus                       |        59.6 |       8.4 |         5.7 |    19505 |  29.3 | kagi (ult) |
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |
+| cogito-v2-preview-deepseek-671b     |        58.4 |       0.7 |        18.2 |   184381 |  88.5 | together   |
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
 | claude-4-sonnet                     |        55.9 |       1.8 |         5.6 |    20574 |  31.1 | kagi (ult) |
@@ -51,6 +53,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | gpt-4-1                             |        52.3 |       2.1 |         4.4 |    61935 | 116.2 | deprecated |
 | deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | deprecated |
 | deepseek-r1-distill-llama-70b       |        52.3 |       1.0 |         4.7 |    10321 |  17.8 | deprecated |
+| cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
 | Qwen3-32B (No Thinking)             |        48.7 |       0.5 |         9.9 |   292277 | 50.0  | nebius     |
 | gpt-4-1-mini                        |        48.6 |       0.4 |         6.1 |    63524 |  85.9 | deprecated |
@@ -89,6 +92,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | ai21/jamba-mini-1.7                 |        11.7 |       0.1 |         2.1 |    14598 |  58.2 | openrouter |
 | arcee-ai/AFM-4.5B                   |        10.8 |       0.0 |         2.2 |    28208 | 112.4 | together   |
 | magistral-small                     |         6.3 |       7.4 |        68.3 |     1039 |   0.1 | Mistral    |
+
 {.sortable}
 
 </div>
