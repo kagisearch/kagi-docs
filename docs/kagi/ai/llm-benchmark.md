@@ -40,6 +40,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |
 | cogito-v2-preview-deepseek-671b     |        58.4 |       0.7 |        18.2 |   184381 |  88.5 | together   |
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
+| qwen/qwen3-max                      |        55.9 |       1.1 |         7.2 |    39982 |  47.9 | openrouter |
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
 | claude-4-sonnet                     |        55.9 |       1.8 |         5.6 |    20574 |  31.1 | kagi (ult) |
 | hermes-4-405b (thinking)            |        55.8 |       2.6 |        87.4 |    18490 |   1.8 | kagi       |
@@ -53,6 +54,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | gpt-4-1                             |        52.3 |       2.1 |         4.4 |    61935 | 116.2 | deprecated |
 | deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | deprecated |
 | deepseek-r1-distill-llama-70b       |        52.3 |       1.0 |         4.7 |    10321 |  17.8 | deprecated |
+| kimi-k2-0905 (see note below)       |        52.2 |       0.3 |        11.3 |    30772 |  23.1 | openrouter |
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
 | Qwen3-32B (No Thinking)             |        48.7 |       0.5 |         9.9 |   292277 | 50.0  | nebius     |
@@ -60,7 +62,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | mistral-medium                      |        45.9 |       0.3 |         4.7 |    24602 |  42.6 | kagi       |
 | llama-3-405b                        |        45.0 |       1.1 |         3.0 |    26712 |  77.7 | deprecated |
 | baidu/ernie-4.5-300b-a47b           |        45.0 |       0.2 |         7.9 |    35671 |  36.2 | openrouter |
-| kimi-k2 (see note below)            |        45.0 |       1.1 |         3.3 |    84371 | 201.1 | kagi       |
+| kimi-k2-0711 (see note below)       |        45.0 |       1.1 |         3.3 |    84371 | 201.1 | kagi       |
 | gemini-2-5-flash                    |        44.1 |       0.4 |         2.0 |    34698 | 152.3 | kagi       |
 | minimax/minimax-01                  |        42.5 |       0.1 |         3.1 |   107414 |  30.7 | openrouter |
 | thudm/glm-4-32b                     |        42.3 |       0.1 |        10.9 |    28236 |  20.5 | openrouter |
