@@ -42,6 +42,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
 | claude-4-sonnet                     |        55.9 |       1.8 |         5.6 |    20574 |  31.1 | kagi (ult) |
+| hermes-4-405b (thinking)            |        55.8 |       2.6 |        87.4 |    18490 |   1.8 | kagi       |
 | qwen-3-235b-a22b (no thinking)      |        55.0 |       0.4 |        11.3 |   119875 |  85.3 | kagi       |
 | Qwen3-32B-fast (thinking)           |        54.9 |       0.5 |         3.0 |   299527 |  86.4 | nebius     |
 | Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
@@ -77,6 +78,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | gpt-4-1-nano                        |        33.3 |       0.1 |         3.7 |    62437 | 135.1 | deprecated |
 | arcee-ai/virtuoso-large             |        32.4 |       0.3 |         4.6 |    23175 |  43.2 | openrouter |
 | google/gemma-3n-e4b-it              |        31.5 |       0.0 |        18.2 |    27557 |  12.8 | openrouter |
+| hermes-4-405b                       |        30.1 |       0.4 |         7.2 |    18826 |  22.7 | kagi       |
 | cohere/command-a                    |        28.8 |       1.9 |        11.7 |    39471 |  27.5 | openrouter |
 | thedrummer/valkyrie-49b-v1          |        28.8 |       0.1 |         4.1 |    19874 |  39.4 | openrouter |
 | gpt-4o-mini                         |        28.8 |       0.1 |         2.5 |    36708 | 119.8 | deprecated |
