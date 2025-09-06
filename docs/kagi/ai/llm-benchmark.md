@@ -50,6 +50,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | chatgpt-4o                          |        54.1 |       2.6 |         2.6 |    42545 | 163.1 | deprecated |
 | gpt-oss-20b                         |        53.2 |       0.5 |         3.3 |    38619 |  96.0 | kagi       |
 | deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi       |
+| grok-code-fast-1                    |        52.5 |       1.0 |        10.1 |   323883 | 280.0 | kagi       |
 | glm-4-5                             |        52.3 |       5.2 |        62.3 |    41434 |   5.4 | kagi (ult) |
 | gpt-4-1                             |        52.3 |       2.1 |         4.4 |    61935 | 116.2 | deprecated |
 | deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | deprecated |
