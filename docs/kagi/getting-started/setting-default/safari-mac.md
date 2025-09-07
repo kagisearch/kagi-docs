@@ -14,7 +14,7 @@ To set up the Kagi extension for Safari on macOS:
 3. Click on the **Kagi extension icon** in Safari's toolbar.
 4. If you receive a prompt saying **The extension "Kagi for Safari" would like to access kagi.com.**,
 	- Click on **Always Allow on Every Website**.
-5. **Click the extension icon** again.
+5. Click the **extension icon** again.
 6. **Paste the Session Link** in the Private Browsing section. This will allow you to use Kagi Search in private windows.
 
 <img src="./media/macos_setting_default_safari_extension.png" width="500" alt="Kagi Extension for Safari"><br />
