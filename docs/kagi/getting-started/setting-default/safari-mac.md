@@ -1,19 +1,23 @@
 # Setting Kagi as Default on Safari (Mac)
 
-1. Install the [Kagi Search for Safari extension](https://apps.apple.com/app/kagi-search-for-safari/id1622835804).
-2. Activate the extension in **Safari** > **Preferences** > **Extensions**.
-3. Enjoy Kagi search from your Safari address bar!
+## Install the Kagi for Safari extension (Mac)
 
-If you are a macOS, iOS, or iPadOS user, we strongly recommend using Kagi with the free [Orion](https://browser.kagi.com/) web browser, produced by the same team that built Kagi.
+1. Install the [Kagi for Safari](https://apps.apple.com/app/kagi-search-for-safari/id1622835804) extension.
+2. Enable the extension in **Safari** > **Settings** > **Extensions**.
 
-## Setting up the Kagi Extension in Safari for Mac {#setting_up_extension_safari_mac}
+## Setting up the Kagi for Safari extension (Mac) {#setting_up_extension_safari_mac}
 
-To set up the Kagi extension for Safari on macOS click on the extension icon in Safari's toolbar and then:
-- Make sure the **Make Kagi Default Search Engine** checkbox is checked to search Kagi from the address bar.
-- Use the **Get Your Session Link** button to get the link with your personal token.
-- Paste the Session Link in the text field. This will allow you to use Kagi Search in private windows.
+To set up the Kagi extension for Safari on macOS:
 
-<img src="./media/macos_setting_default_4_safari_extension.png" width="500" alt="Kagi Extension for Safari"><br />
+1. Visit your [Account Settings](https://kagi.com/settings/user_details) page and copy the Session Link.
+2. Open **Safari**.
+3. Click on the Kagi extension icon in Safari's toolbar.
+4. If you receive a prompt saying "The extension Kagi for Safari would like to access kagi.com."
+	- Click on "Always Allow on Every Website".
+5. Click the extension icon again.
+6. Paste the Session Link in the Private Browsing section. This will allow you to use Kagi Search in private windows.
+
+<img src="./media/macos_setting_default_safari_extension.png" width="500" alt="Kagi Extension for Safari"><br />
 
 ## Choosing a Search Engine to Redirect (Mac) {#choosing_a_search_engine_to_redirect_mac}
 
@@ -27,4 +31,4 @@ By default, the Kagi Search extension for Safari will redirect searches from any
 6. In Safari’s toolbar, click on the **Kagi extension icon**.
 7. In the **Engine to redirect** dropdown, select the same search engine you chose in step 4.
 
-**Note:** If you set DuckDuckGo as default and experience issues with [Bangs](../../features/bangs.md) we recommend switching to Ecosia instead.
+**Note:** If you set DuckDuckGo as default and experience issues with [Bangs](../../features/bangs.md), we recommend switching to Ecosia instead.
