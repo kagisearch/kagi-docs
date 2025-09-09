@@ -227,17 +227,19 @@ Each bang is designed to optimize your search experience by directing you to the
 ## URL Parameters
 
 You can specify a particular model in the Assistant's URL by including a `profile` parameter.
-`https://kagi.com/assistant?profile=gpt-4o&q=%s`
+`https://kagi.com/assistant?profile=gpt-5`
 The available model names can be found in the table above.
 
 This can also be used with custom assistants, as described on the [custom assistant documentation](./custom-assistants.md#url-parameters).
 
 The `internet` parameter can be used to turn on and off internet access, set to `true` to enable, anything else to disable. This overrides the internet setting of the profile used.
 
-The `lens` parameter can be used to set the lens if internet access is enabled. The value of this is the lowercase format of the lens name, for example, `https://kagi.com/assistant?lens=programming&q=%s` will use the Programming lens.
+The `lens` parameter can be used to set the lens if internet access is enabled. The value of this is the lowercase format of the lens name, for example, `https://kagi.com/assistant?lens=programming` will use the Programming lens.
 
-Here is an example of a URL that disables internet access, uses the **Claude 3 Haiku** model, and applies the **Programming lens**:  
-```https://kagi.com/assistant?profile=claude-3-haiku&internet=false&lens=programming&q=%s```
+The `q` parameter can be used to submit a prompt immediately after the page loads. The `qvalue` parameter can be used to prefill the prompt box without submitting it.
+
+Here is an example of a URL that enables internet access, uses the **Claude 4 Sonnet** model, applies the **Recipes lens**, and submits a prompt immediately. You might use it as a target for a custom bang.
+```https://kagi.com/assistant?profile=claude-4-sonnet&internet=true&lens=recipes&q=%s```
 
 ## Availability
 
