@@ -223,7 +223,7 @@ function sidebarKagi() {
                     text: 'LLM Features', link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
-                        { text: 'The Assistant', link: '/kagi/ai/assistant' },
+                        { text: 'Kagi Assistant', link: '/kagi/ai/assistant' },
                         { text: 'Custom Assistants', link: '/kagi/ai/custom-assistants' },
                         { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
                         { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },

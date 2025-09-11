@@ -114,7 +114,7 @@ zm   | Zambia
 - **!fgpt** \<query> - Invoke FastGPT with the query
 - **!quick** \<search terms> - Search & open "Quick Answer"
 
-### The Assistant bangs
+### Assistant bangs
 
 You can quickly access Assistant from Kagi Search by using the following bangs:
 `!ai`, `!chat`, `!assistant` , `!llm`, `!asst`, `!as`, `!expert` and `!fast`

@@ -1,6 +1,6 @@
 # Custom Assistants
 
-[The Assistant](./assistant.md)’s Custom Assistants allow you to create specialized LLM personalities tailored to your specific needs, preferences, and use cases.
+[Kagi Assistant](./assistant.md)’s Custom Assistants allow you to create specialized LLM personalities tailored to your specific needs, preferences, and use cases.
 
 ## Creating a Custom Assistant
 
@@ -63,7 +63,7 @@ More information about assistant URL parameters can be found in the [assistant d
 
 ## Default Custom Assistants
 
-The Assistant comes with carefully pre-configured assistants designed to enhance your productivity.
+Kagi Assistant comes with carefully pre-configured assistants designed to enhance your productivity.
 
 ### Code Assistant
 Powered by the best AI model for programming tasks and equipped with web access, the Code Assistant excels at:
