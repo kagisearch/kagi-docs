@@ -1,6 +1,6 @@
 # Customizing Kagi CSS
 
-[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings?p=custom_css).
+[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings/custom_css).
 
 Custom CSS does not apply to Settings pages, and is currently limited to 20,000 characters --- including whitespace.
 
@@ -15,14 +15,14 @@ To apply a theme:
 
 1. Choose a theme and click **Get It**.
 2. Copy the CSS code.
-3. Go to the [Custom CSS](https://kagi.com/settings?p=custom_css) page.
+3. Go to the [Custom CSS](https://kagi.com/settings/custom_css) page.
 4. Ensure the **Enable Custom CSS** toggle is turned on.
 5. Paste the copied code into the text area.
 6. Click **Apply Custom CSS**.
 
 Once applied, the theme will instantly update Kagi's appearance. You can switch themes at any time to find your perfect search interface.
 
-**Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings?p=appearance) page.
+**Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings/appearance) page.
 
 ### Deep purple
 by [TheLastEnvoy](https://github.com/TheLastEnvoy)
@@ -382,7 +382,7 @@ You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) s
 
 ## Customizations
 
-Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings/custom_css).
 
 <details><summary>Remove Underlined Links</summary>
 

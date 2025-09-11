@@ -4,7 +4,7 @@ Bangs are shortcuts starting with exclamation points (!) that quickly take you t
 
 ![Bang Example](media/bang.gif){data-zoomable}
 
-To take advantage of Bangs make sure you have enabled Bangs in your [Search](https://kagi.com/settings?p=search) settings. You can also set up Quick Bangs and Custom Bangs, continue reading to learn more.
+To take advantage of Bangs make sure you have enabled Bangs in your [Search](https://kagi.com/settings/search) settings. You can also set up Quick Bangs and Custom Bangs, continue reading to learn more.
 
 ![Enable Bangs](media/enable_bangs.png){data-zoomable}
 
@@ -158,13 +158,13 @@ Here is the full list of patterns that we support:
 
 For convenience, Kagi allows you to customize Quick Bangs which do not require an exclamation (!).
 
-Configure Quick Bangs under [Search](https://kagi.com/settings?p=search) in the Kagi Settings.
+Configure Quick Bangs under [Search](https://kagi.com/settings/search) in the Kagi Settings.
 
 ![Quick Bangs](./media/quick_bangs.png){data-zoomable}
 
 ## Custom Bangs
 
-You can also create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings?p=advanced).
+You can also create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings/advanced).
 
 ![Custom Bangs](./media/custom_bang_settings.png){data-zoomable}
 

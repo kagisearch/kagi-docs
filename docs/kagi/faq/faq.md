@@ -117,7 +117,7 @@ Kagi, conversely, strives to deliver the most relevant, unique results within th
 <a name="using-login-token"></a>
 ## Can I use Kagi in private browser sessions or if I am deleting my cookies? {#using-login-token}
 
-Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Account settings](https://kagi.com/settings?p=user_details) to get your login token.
+Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Account settings](https://kagi.com/settings/user_details) to get your login token.
 
 This token is attached to the session it was copied from. You can log out of that session if you need to invalidate it for any reason.
 
@@ -198,11 +198,11 @@ Check our currently available [APIs](../api/overview.md).
 
 ## How do I check my usage?
 
-You can check your usage [here](https://kagi.com/settings?p=consumption). This can also be accessed by clicking Check Usage from the Settings -> Billing page.
+You can check your usage [here](https://kagi.com/settings/consumption). This can also be accessed by clicking Check Usage from the Settings -> Billing page.
 
 ## How can I change the name or other billing details that my subscription is being billed to?
 
-Go to Kagi Settings -> Billing (or click [here](https://kagi.com/settings?p=billing)) and then click "Manage Billing".
+Go to Kagi Settings -> Billing (or click [here](https://kagi.com/settings/billing)) and then click "Manage Billing".
 
 This will bring you to the billing portal where you are able to update your billing information.
 
@@ -281,16 +281,16 @@ We have several options available, from easy to full manual. See [here](../getti
 Yes, as long as you do not cancel you will have the previous discount applied.
 
 ## How can I get the new Ultimate plan level features in the Family or Duo plans?
-If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page for an additional $15 per month, per upgraded family member.
+If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings/account_members) page for an additional $15 per month, per upgraded family member.
 
 ## I’m keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?
 What sets Kagi apart is our fundamentally different, user-centric approach that prioritizes the interest of our members and alignment of incentives. It’s worth noting that all of Kagi’s growth has been organic, without any expenditure on marketing or customer acquisition, attesting to the inherent value and trust our user base places in us. We invite you to review our [live stats](https://kagi.com/stats) for a transparent view of our steady progress.
 
 ## How can I use the credit I added to my account to purchase one of the plans?
-Please visit [Billing Settings](https://kagi.com/settings?p=billing) and choose one of the plans. You will be redirected to Stripe and your available credits will be used to cover the plan price.
+Please visit [Billing Settings](https://kagi.com/settings/billing) and choose one of the plans. You will be redirected to Stripe and your available credits will be used to cover the plan price.
 
 ## I subscribed to Kagi Duo or Family Plan, how can I add family members to the plan?
-Adding family members is easy, you can invite them via email from the [Family Plan Dashboard](https://kagi.com/settings?p=account_members).
+Adding family members is easy, you can invite them via email from the [Family Plan Dashboard](https://kagi.com/settings/account_members).
 
 ## If I upgrade my plan before my renewal date will I have to pay the full amount of the new plan?
 At anytime you upgrade, the unused portion of the previous plan will be prorated as credit towards your new plan.

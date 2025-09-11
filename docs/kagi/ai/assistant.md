@@ -28,7 +28,7 @@ The Assistant by Kagi combines the top large language models (LLMs) with optiona
 
 ## Privacy
 
-When you use the Assistant by Kagi, your data is never used to train AI models (not by us or by the LLM providers), and no account information is shared with the LLM providers. By default, threads are deleted after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/?p=assistant).
+When you use the Assistant by Kagi, your data is never used to train AI models (not by us or by the LLM providers), and no account information is shared with the LLM providers. By default, threads are deleted after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/assistant).
 
 ## Using the Assistant
 
@@ -64,7 +64,7 @@ The search bar enables you to search for that one elusive thread.
 Currently, the search only looks through your thread titles.
 
 By default, threads are kept for 24 hours after the last message.
-If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/?p=assistant).
+If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/assistant).
 Please note that the thread saving setting is applied **when the thread is created**.
 
 Threads can be renamed, downloaded, shared, and  deleted via the `⋮` button which is displayed when you hover over the thread.
@@ -136,13 +136,13 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 ## Custom Instructions
 
 Do you prefer a more personalized Assistant experience?
-You can provide custom instructions in the [Assistant Settings](https://kagi.com/settings?p=assistant).
+You can provide custom instructions in the [Assistant Settings](https://kagi.com/settings/assistant).
 These instructions can be utilized to refine the Assistant responses.
 You can, for instance, instruct the Assistant to be more succinct or to consider your profession and location.
 
 ## Custom Assistants {#custom-assistants}
 
-You can create Custom Assistants in the [Assistant Settings](https://kagi.com/settings?p=assistant).
+You can create Custom Assistants in the [Assistant Settings](https://kagi.com/settings/assistant).
 It is possible to customize the LLM, settings (the use of web access, lenses, and personalized results), and the instructions for each Custom Assistant.
 
 The Assistant comes with a built-in **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 4 Sonnet and has web access.
@@ -244,9 +244,9 @@ Here is an example of a URL that enables internet access, uses the **Claude 4 So
 ## Availability
 
 The Assistant is available to all members. However, premium models are only available in our Ultimate plan.
-If you are on a different plan and you need access to these models, you can upgrade from the [Billing Settings](https://kagi.com/settings?p=billing_plan) page.
+If you are on a different plan and you need access to these models, you can upgrade from the [Billing Settings](https://kagi.com/settings/billing_plan) page.
 
-We also offer an Ultimate upgrade for Family Plans, you can upgrade from the [Family Management](https://kagi.com/settings?p=account_members) page.
+We also offer an Ultimate upgrade for Family Plans, you can upgrade from the [Family Management](https://kagi.com/settings/account_members) page.
 
 ## Usage Limits
 

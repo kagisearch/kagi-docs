@@ -35,4 +35,4 @@ notice.
 Changes to the API will be published here, as well as:
 
 - [GitHub Discussions Announcements](https://github.com/kagisearch/kagi-docs/discussions/categories/announcements) page
-- [Search API Management](https://kagi.com/settings?p=user_api) page
+- [Search API Management](https://kagi.com/settings/user_api) page

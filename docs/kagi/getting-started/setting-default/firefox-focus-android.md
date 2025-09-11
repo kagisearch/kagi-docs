@@ -3,5 +3,5 @@
 1. Tap the menu button, then **Settings** > **Search** > **Search Engine** > **Add another search engine**.
 1. Enter the following:
 	- **Search engine name**: `Kagi`
-	- **Search string to use**: (use your [session link](https://kagi.com/settings?p=user_details) and append `&q=%s` at the end)
+	- **Search string to use**: (use your [session link](https://kagi.com/settings/user_details) and append `&q=%s` at the end)
 1. Tap **Save**.

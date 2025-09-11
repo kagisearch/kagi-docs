@@ -2,7 +2,7 @@
 
 > NOTE: Purchasing gifts is currently limited to users with an active subscription.
 
-You can gift Kagi from within your [Settings](https://kagi.com/settings/) by going to [Gifts](https://kagi.com/settings?p=gift).
+You can gift Kagi from within your [Settings](https://kagi.com/settings/) by going to [Gifts](https://kagi.com/settings/gift).
 
 ![Give Gift](media/give_gifts.png)
 
@@ -10,6 +10,6 @@ Once you select your gift amount you will be prompted to enter credit card detai
 
 ![Gift Credit Card](media/gift_credit_card.png)
 
-Once purchased you will see the gift link as well as the status of the gift in your list of [Gifts](https://kagi.com/settings?p=gift).
+Once purchased you will see the gift link as well as the status of the gift in your list of [Gifts](https://kagi.com/settings/gift).
 
 ![Gift List](media/gift_list.png)

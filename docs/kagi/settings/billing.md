@@ -2,7 +2,7 @@
 
 These settings control your billing options and status with Kagi, there are two tabs you will use:
 
-* [Billing Settings](https://kagi.com/settings?p=billing)
+* [Billing Settings](https://kagi.com/settings/billing)
 * [Billing Usage](https://kagi.com/settings/consumption)
 
 ## Billing Settings
