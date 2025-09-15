@@ -16,6 +16,7 @@ Input Tokens (all tasks): **14909**
 
 Please see notes below the table if you see results you find surprising, or get in contact with us on [the user discord](https://kagi.com/discord)
 
+
 <div class="minimal-table-margins">
 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
@@ -41,6 +42,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | claude-4-opus                       |        59.6 |       8.4 |         5.7 |    19505 |  29.3 | kagi (ult) |
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |
 | cogito-v2-preview-deepseek-671b     |        58.4 |       0.7 |        18.2 |   184381 |  88.5 | together   |
+| glm-4-5                             |        57.9 |       1.0 |        39.0 |   292498 |  32.3 | kagi       |
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
 | qwen/qwen3-max                      |        55.9 |       1.1 |         7.2 |    39982 |  47.9 | openrouter |
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
@@ -51,10 +53,10 @@ Please see notes below the table if you see results you find surprising, or get 
 | Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
 | qwen3-next-80b-a3b-instruct         |        54.4 |       0.1 |         4.2 |   161977 | 110.9 | openrouter |
 | chatgpt-4o                          |        54.1 |       2.6 |         2.6 |    42545 | 163.1 | deprecated |
+| z-ai/glm-4.5v                       |        53.5 |       0.4 |        11.0 |   187593 |  74.5 | openrouter |
 | gpt-oss-20b                         |        53.2 |       0.5 |         3.3 |    38619 |  96.0 | kagi       |
 | deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi       |
 | grok-code-fast-1                    |        52.5 |       1.0 |        10.1 |   323883 | 280.0 | kagi       |
-| glm-4-5                             |        52.3 |       5.2 |        62.3 |    41434 |   5.4 | kagi (ult) |
 | gpt-4-1                             |        52.3 |       2.1 |         4.4 |    61935 | 116.2 | deprecated |
 | deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | deprecated |
 | deepseek-r1-distill-llama-70b       |        52.3 |       1.0 |         4.7 |    10321 |  17.8 | deprecated |
@@ -62,6 +64,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | mistral-medium                      |        50.0 |       0.5 |         2.9 |   120090 |  67.8 | kagi       |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
+| Qwen3-14B                           |        49.1 |       0.5 |        15.2 |   277558 |  78.8 | nebius     |
 | Qwen3-32B (No Thinking)             |        48.7 |       0.5 |         9.9 |   292277 | 50.0  | nebius     |
 | gpt-4-1-mini                        |        48.6 |       0.4 |         6.1 |    63524 |  85.9 | deprecated |
 | nvidia/nemotron-nano-9b-v2          |        47.4 |       0.1 |        14.0 |   282402 |  58.1 | openrouter |
@@ -70,6 +73,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | kimi-k2-0711 (see note below)       |        45.0 |       1.1 |         3.3 |    84371 | 201.1 | kagi       |
 | gemini-2-5-flash                    |        44.1 |       0.4 |         2.0 |    34698 | 152.3 | kagi       |
 | meituan/longcat-flash-chat          |        43.9 |       0.1 |         5.2 |   125956 |  68.9 | openrouter |
+| z-ai/glm-4.5-air                    |        43.0 |       0.2 |         3.5 |   117415 | 160.1 | openrouter |
 | minimax/minimax-01                  |        42.5 |       0.1 |         3.1 |   107414 |  30.7 | openrouter |
 | thudm/glm-4-32b                     |        42.3 |       0.1 |        10.9 |    28236 |  20.5 | openrouter |
 | gemini-2-5-flash-lite               |        40.5 |       0.1 |         2.2 |    43989 | 171.8 | kagi       |
