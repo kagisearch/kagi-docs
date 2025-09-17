@@ -133,7 +133,7 @@ cp -r ~/Library/Application\ Support/Orion ~/Library/Application\ Support/Orion\
 
 If the above command does not import all of your data (profiles, extensions, etc.), try using the following tool:
 
-[Tool to migrate Orion settings and data to Orion RC](https://github.com/cybercitizen7/orion-migration)
+[Tool to migrate Orion settings and data to Orion RC](https://github.com/kagisearch/orion-migration)
 
 
 ### Change start page wallpaper to custom image
@@ -145,4 +145,3 @@ defaults write com.kagi.kagimacOS backgroundImageOnStartPage file:///Users/james
 ### I prefer the original WebKit PDF viewer!
 
 Sure, toggle Develop -> Experimental Features -> Enable PDF.js Viewer.
-
