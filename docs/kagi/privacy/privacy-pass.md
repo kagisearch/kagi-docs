@@ -121,9 +121,9 @@ The extension will automatically manage your tokens, generating new ones when ne
 
 ## Important notes
 
-- The extension will fetch 500 tokens at a time.
+- The extension will fetch 300 tokens at a time.
 
-- There's a monthly limit of 2,000 tokens per account to prevent abuse. If you need more tokens in exceptional cases, please contact us at support@kagi.com.
+- There's a monthly limit of 2,400 tokens per account to prevent abuse. If you need more tokens in exceptional cases, please contact us at support@kagi.com.
 
 - When using Privacy Pass, search personalizations will not be available, as they increase the likelihood of deanonymization.
 
