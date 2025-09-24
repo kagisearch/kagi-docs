@@ -4,11 +4,11 @@
 
 You can [Sign Up](https://kagi.com/signup) for a new Kagi account and select the [Plan Type](plan-types.md) during the sign-up process.
 
-If you already have a Kagi account, you can upgrade your plan type in your [Billing settings](https://kagi.com/settings?p=billing).
+If you already have a Kagi account, you can upgrade your plan type in your [Billing settings](https://kagi.com/settings/billing).
 
 ## Managing Billing
 
-To manage your Kagi [Premium plan](plan-types.md) billing, go to your [Billing settings](https://kagi.com/settings?p=billing).
+To manage your Kagi [Premium plan](plan-types.md) billing, go to your [Billing settings](https://kagi.com/settings/billing).
 
 Once in Billing settings, click the **Manage Billing** button. This button will take you to a webpage for Stripe, our payment processor.
 
@@ -21,7 +21,7 @@ From that Stripe page, you can:
 
 ## Canceling a Premium Plan
 
-If you want to cancel your Premium plan, you can do so in your Kagi account's [Billing settings](https://kagi.com/settings?p=billing):
+If you want to cancel your Premium plan, you can do so in your Kagi account's [Billing settings](https://kagi.com/settings/billing):
 
 1. Once in Billing settings, click/tap the **Manage Billing** button. This will take you to a webpage for Stripe, our payment processor.
 2. Click/tap the **Cancel plan** button.

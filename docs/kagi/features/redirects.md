@@ -11,11 +11,11 @@ Some use cases of redirects include:
 
 ## Managing Redirects
 
-You can manage redirects in your [Advanced](https://kagi.com/settings?p=advanced) settings menu, under **Redirects**.
+You can manage redirects in your [Advanced](https://kagi.com/settings/advanced) settings menu, under **Redirects**.
 
 ![Redirects Settings Location](media/redirects-nav.png)
 
-This will open the [Redirects Settings Page](https://kagi.com/settings?p=redirects):
+This will open the [Redirects Settings Page](https://kagi.com/settings/redirects):
 
 ![Redirects Settings Page](media/redirects-dash.png)
 
@@ -23,7 +23,7 @@ You can edit an existing Redirect by pressing the pencil icon ![edit](media/edit
 
 You can delete a Redirect by clicking the trash icon ![delete](media/trash-icon.svg){style="display:inline;vertical-align:middle;width:24px;height:24px"}.
 
-To create a new Redirect, press the **Add Rule** button on the [Redirects settings page](https://kagi.com/settings?p=redirects).
+To create a new Redirect, press the **Add Rule** button on the [Redirects settings page](https://kagi.com/settings/redirects).
 This will open a form with instructions and some examples to get you started.
 
 ![New Redirect rule page](media/redirect-rule.png)

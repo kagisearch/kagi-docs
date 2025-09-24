@@ -1,8 +1,5 @@
 # Accessing via Tor
 
-> Tor support has just been launched!
-> [We welcome your early feedback.](https://help.kagi.com/kagi/support-and-community/)
-
 Kagi is proud to make our services available through the Tor Network, adding an extra layer of privacy and anonymity for our users.
 
 You can access Kagi via the following Onion link:

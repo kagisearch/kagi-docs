@@ -31,7 +31,7 @@ Your options are to:
 ![Web Archive and More Results Links](./media/ranking.png){width=675px data-zoomable}
 
 
-You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings?p=user_ranked).
+You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings/user_ranked).
 
 
 Personalization can also be disabled for a single search via unchecking the "Personalized" option in the "Options" menu.

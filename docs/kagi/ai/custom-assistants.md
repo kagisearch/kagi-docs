@@ -1,10 +1,10 @@
 # Custom Assistants
 
-[The Assistant](./assistant.md)’s Custom Assistants allow you to create specialized LLM personalities tailored to your specific needs, preferences, and use cases.
+[Kagi Assistant](./assistant.md)’s Custom Assistants allow you to create specialized LLM personalities tailored to your specific needs, preferences, and use cases.
 
 ## Creating a Custom Assistant
 
-1. Navigate to the [Custom Assistants](https://kagi.com/settings/?p=assistant) page (Settings > Assistant > Custom Assistants)
+1. Navigate to the [Custom Assistants](https://kagi.com/settings/assistant) page (Settings > Assistant > Custom Assistants)
 2. Click **Add New**.
 3. Configure your assistant with these settings:
 
@@ -51,7 +51,7 @@ Select your Custom Assistant from the model-selection dropdown menu below the pr
 
 You can specify a custom assistant by adding a `profile` parameter to the URL, using either the name (in lowercase format) or the UUID of your custom assistant.
 
-For instance, if you want to use a specific custom assistant, locate its UUID by navigating to your [Custom Assistants settings page](https://kagi.com/settings?p=assistant), and copy the long UUID found in the URL when editing the assistant. You can then create a custom bang template, like:
+For instance, if you want to use a specific custom assistant, locate its UUID by navigating to your [Custom Assistants settings page](https://kagi.com/settings/assistant), and copy the long UUID found in the URL when editing the assistant. You can then create a custom bang template, like:
 
 ```
 /assistant?q=%s&profile=c03f3098-9ead-408f-93f0-407a77e697db
@@ -63,7 +63,7 @@ More information about assistant URL parameters can be found in the [assistant d
 
 ## Default Custom Assistants
 
-The Assistant comes with carefully pre-configured assistants designed to enhance your productivity.
+Kagi Assistant comes with carefully pre-configured assistants designed to enhance your productivity.
 
 ### Code Assistant
 Powered by the best AI model for programming tasks and equipped with web access, the Code Assistant excels at:

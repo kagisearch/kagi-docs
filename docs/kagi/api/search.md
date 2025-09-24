@@ -9,14 +9,14 @@ The Search API gives programmable access to Kagi's premium search results.
 
 ## Quick start
 
-1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account)
+1. Get the [API key](https://kagi.com/settings/api) (requires a Kagi account)
 2. Call the API. See below for example.
 
 ## API key
 
 To obtain an API key you will first need to [create a Kagi account](https://kagi.com/signup?plan_id=trial). 
 
-Then, navigate to Settings -> Advanced -> API portal, or click [here](https://kagi.com/settings?p=api) to go directly.
+Then, navigate to Settings -> Advanced -> API portal, or click [here](https://kagi.com/settings/api) to go directly.
 
 Click "Generate API Token".
 
@@ -25,7 +25,7 @@ Click "Generate API Token".
 
 The Kagi Search API is priced at $25 for 1000 queries (2.5 cents per search).
 
-You can add funds to your API balance from the [API Billing panel](https://kagi.com/settings?p=billing_api).
+You can add funds to your API balance from the [API Billing panel](https://kagi.com/settings/billing_api).
 
 ## SDK
 

@@ -5,7 +5,7 @@ Kagi can be integrated with other applications to make it easy to quickly search
 ## BoltAI
 
 [BoltAI](https://boltai.com) is a native AI app for Mac, it includes built-in support for using Kagi Search to provide context to the LLMs.
-To set it up, launch BoltAI and navigate to **Settings** > **Plugins** > **Kagi Search**, then select the **Settings** tab and paste your [API key](https://kagi.com/settings?p=api).
+To set it up, launch BoltAI and navigate to **Settings** > **Plugins** > **Kagi Search**, then select the **Settings** tab and paste your [API key](https://kagi.com/settings/api).
 
 **Note:** The Search API is only available in our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html) (invite-only at the moment). 
 
@@ -20,7 +20,7 @@ To configure Kagi as a custom search in Alfred:
 3. Click the **Web Search** icon.
 4. Click the **Add Custom Search** button.
 5. Enter the following information:
-    1. Enter your Kagi **Session Link** as the **Search URL**. You can obtain your Kagi **Session Link** from the [Account Settings](https://kagi.com/settings?p=user_details).
+    1. Enter your Kagi **Session Link** as the **Search URL**. You can obtain your Kagi **Session Link** from the [Account Settings](https://kagi.com/settings/user_details).
     2. Add `&q={query}` at the end of the **Session Link** after pasting it in Alfred.
     3. Enter **Search Kagi for '{query}'** as the **Title**.
     4. Enter **kagi** as the **Keyword**.

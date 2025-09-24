@@ -9,7 +9,7 @@ However, you can also use the Session Link feature to automatically log in to Ka
 A Session Link is a special Kagi URL that contains a "login token."
 You can use a Session Link to automatically log into your existing Kagi session from anywhere, including within private browser sessions.
 
-You can visit your [Account settings](https://kagi.com/settings?p=user_details) to get your Session Link:
+You can visit your [Account settings](https://kagi.com/settings/user_details) to get your Session Link:
 
 <img src="./media/session_link.png" width="500" alt="Session Link"><br />
 
@@ -39,7 +39,7 @@ You can Sign Out of that Kagi session if you need to invalidate the Session Link
 2. Open the Control Center by clicking the icon on the top right of any page
 3. Click "Sign Out" to log out and invalidate the link.
 
-Alternatively, changing your password on your [Account settings](https://kagi.com/settings?p=user_details) will invalidate all sessions.
+Alternatively, changing your password on your [Account settings](https://kagi.com/settings/user_details) will invalidate all sessions.
 
 Sessions will also expire after 90 days of being unused.
 

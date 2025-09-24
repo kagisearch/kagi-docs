@@ -45,6 +45,8 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 - [Kagi on Facebook](https://www.facebook.com/kagihq/)
 
+- [Orion Browser on X](https://x.com/OrionBrowser)
+
 ## Feedback Forum
 
 You can join [KagiFeedback.org](https://kagifeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address and to the discussion.

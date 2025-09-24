@@ -10,12 +10,8 @@ The Kagi AI Quick Answer will quickly produce a summary of the results below the
 
 ![Summary Results](media/summarized_results.png){data-zoomable}
 
-Kagi AI Quick Answer benefits from constant feedback, be sure to use the feedback option to help tune the model for your specific needs.
-
-![Summary Feedback](media/summarize_feedback.png){data-zoomable}
-
 ## Disabling Auto Quick Answer
 
-If you prefer to just browse through search results instead of getting instant answers to queries ending with a question mark, you can now disable Auto Quick Answer. Simply go to the [Search Settings](https://kagi.com/settings?p=ai) page, and turn off the Auto Quick Answer toggle.
+If you prefer to just browse through search results instead of getting instant answers to queries ending with a question mark, you can disable Auto Quick Answer. Simply go to the [Search Settings](https://kagi.com/settings/ai) page, and turn off the Auto Quick Answer toggle.
 
 ![Auto Quick Answer Toggle](./media/quick_answer_toggle.gif){data-zoomable}

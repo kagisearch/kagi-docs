@@ -22,7 +22,7 @@ In some cases you may want to apply custom CSS, a common example is removing the
 
 ![The Three Boxes](media/threeboxes.png)
 
-This can be accomplished from within the [Custom CSS](https://kagi.com/settings?p=custom_css) editor.
+This can be accomplished from within the [Custom CSS](https://kagi.com/settings/custom_css) editor.
 
 In the editor add following contents:
 <code>.searchResultAnswers {
