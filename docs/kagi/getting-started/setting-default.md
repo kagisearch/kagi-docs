@@ -1,6 +1,6 @@
 # Setting Kagi as Your Default Search Engine
 
-For a better experience we recommend setting Kagi as your default in your browser.  
+For a better experience we recommend setting Kagi as your default in your browser.
 Choose your browser below for instructions:
 
 
@@ -13,7 +13,7 @@ Choose your browser below for instructions:
 | **Edge** | **Brave** | **Vivaldi** | **Firefox Focus** |
 |---|---|---|---|
 | <img src="./setting-default/media/edge_icon.png"    alt="Edge"    width="96"> | <img src="./setting-default/media/brave_icon.png"   alt="Brave"   width="96"> | <img src="./setting-default/media/vivaldi_icon.png" alt="Vivaldi" width="96"> | <img src="./setting-default/media/firefox_focus_icon.png" alt="Firefox Focus" width="96"> |
-| [Desktop / Mac](./setting-default/chromium-desktop.md)<br>[iPhone / iPad](./setting-default/chromium-mobile.md)<br>[Android](./setting-default/chromium-mobile.md) | [Desktop / Mac](./setting-default/chromium-desktop.md)<br>[iPhone / iPad](./setting-default/chromium-mobile.md)<br>[Android](./setting-default/chromium-mobile.md) | [Desktop / Mac](./setting-default/vivaldi-desktop.md)<br>[iPhone / iPad](./setting-default/chromium-mobile.md)<br>[Android](./setting-default/chromium-mobile.md) | [iPhone / iPad](./setting-default/firefox-focus-iphone-ipad.md)<br>[Android](./setting-default/firefox-focus-android.md) |
+| [Desktop / Mac](./setting-default/chromium-desktop.md)<br>[iPhone / iPad](./setting-default/edge-ios.md)<br>[Android](./setting-default/chromium-mobile.md) | [Desktop / Mac](./setting-default/chromium-desktop.md)<br>[iPhone / iPad](./setting-default/brave-ios.md)<br>[Android](./setting-default/chromium-mobile.md) | [Desktop / Mac](./setting-default/vivaldi-desktop.md)<br>[iPhone / iPad](./setting-default/vivaldi-ios.md)<br>[Android](./setting-default/chromium-mobile.md) | [iPhone / iPad](./setting-default/firefox-focus-iphone-ipad.md)<br>[Android](./setting-default/firefox-focus-android.md) |
 
 
 ## Custom Use {#custom_use}

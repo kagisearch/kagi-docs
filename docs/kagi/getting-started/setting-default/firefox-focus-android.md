@@ -1,3 +1,4 @@
+> Not your browser/OS? Return to [the hub page](../../../kagi/getting-started/setting-default.md) for setting Kagi as the default search engine.
 # Setting Kagi as Default on Android Mobile {#firefox_focus_android_mobile}
 
 1. Tap the menu button, then **Settings** > **Search** > **Search Engine** > **Add another search engine**.

@@ -1,3 +1,4 @@
+> Not your browser/OS? Return to [the hub page](../../../kagi/getting-started/setting-default.md) for setting Kagi as the default search engine.
 # Setting Kagi as Default on Safari (iPhone/iPad)
 
 Use the [Orion iOS/iPadOS web browser](https://kagi.com/orion/), which has native support for Kagi Search.
