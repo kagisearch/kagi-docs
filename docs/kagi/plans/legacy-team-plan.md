@@ -18,7 +18,7 @@ Price:
 
 Since the Kagi Team Plan is pay-per-use, you can add as many team members as you want and only pay for those that are actively searching.
 
-From the [Invites tab](https://kagi.com/settings?p=invites) there are two ways to add new team members.
+From the [Invites tab](https://kagi.com/settings/invites) there are two ways to add new team members.
 
 1. Send the new members an email through Kagi.
 2. Generate an invite link and share with the new members.
@@ -28,22 +28,22 @@ You can also limit the domains used to sign up to your team to your company’s 
 
 ## Removing Team Members
 
-From the [Members tab](https://kagi.com/settings?p=members) you can remove team members by selecting the ellipsis (...) next to the user and selecting "Remove from the team".
+From the [Members tab](https://kagi.com/settings/members) you can remove team members by selecting the ellipsis (...) next to the user and selecting "Remove from the team".
 <img src="./media/member_management.png"  width="675" alt="Remove Members">
 
 ## Upgrade Team Members
 
-From the [Members tab](https://kagi.com/settings?p=members) you can upgrade a team member to Team Owner role by selecting the ellipsis (...) next to the user and selecting "Upgrade to Team Owner".
+From the [Members tab](https://kagi.com/settings/members) you can upgrade a team member to Team Owner role by selecting the ellipsis (...) next to the user and selecting "Upgrade to Team Owner".
 <img src="./media/member_management.png"  width="675" alt="Upgrade Members">
 
 ## Managing Usage
 
-From the [Billing tab](https://kagi.com/settings?p=billing) you can see your team's usage, the usage history and the amount due. You may also download the invoice or export daily usage data (count of searches).
+From the [Billing tab](https://kagi.com/settings/billing) you can see your team's usage, the usage history and the amount due. You may also download the invoice or export daily usage data (count of searches).
 <img src="./media/team_billing.png"  width="675" alt="Team Billing">
 
 ## Managing Billing
 
-To manage your Kagi [Premium plan](plan-types.md) billing, go to your [Billing settings](https://kagi.com/settings?p=billing).
+To manage your Kagi [Premium plan](plan-types.md) billing, go to your [Billing settings](https://kagi.com/settings/billing).
 
 Once in Billing settings, click the **Manage Billing** button. This button will take you to a webpage for Stripe, our payment processor.
 
@@ -56,7 +56,7 @@ From that Stripe page, you can:
 
 ## Canceling the Team Plan
 
-If you want to cancel your Team Plan, you can do so in your Kagi account's [Billing settings](https://kagi.com/settings?p=billing):
+If you want to cancel your Team Plan, you can do so in your Kagi account's [Billing settings](https://kagi.com/settings/billing):
 
 1. Once in Billing settings, click/tap the **Manage Billing** button. This will take you to a webpage for Stripe, our payment processor.
 2. Click/tap the **Cancel plan** button.

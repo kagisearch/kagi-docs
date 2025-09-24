@@ -22,7 +22,7 @@ With our advancements in AI and search you are able to expand the possibilities 
 
 Kagi is thrilled to introduce next-generation AI into our product offering:
 
-1. [The Assistant](./assistant.md)
+1. [Kagi Assistant](./assistant.md)
 2. [Quick Answer](./quick-answer.md)
 3. [Summarize Page](./summarize-page.md)
 4. [Ask Question about Document](./ask-questions.md)

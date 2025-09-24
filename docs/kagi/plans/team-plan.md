@@ -151,7 +151,7 @@ Domain preferences set through the [Personalized Results](../features/website-in
 ![Kagi Team plan - Lenses](./media/team_plan_12_lenses_cropped_part1.png){data-zoomable}
 
 Team members can share custom search configurations by using our [Lenses](../features/lenses.md) feature:
-1. Create a [new Lens](https://kagi.com/settings/?p=create_lens)
+1. Create a [new Lens](https://kagi.com/settings/create_lens)
 2. Click on **Advanced Options**
 3. Check **Share with Team**
 4. **Save** to make available to all members

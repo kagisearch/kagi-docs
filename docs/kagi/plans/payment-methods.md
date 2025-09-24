@@ -18,8 +18,8 @@ You can pay for Kagi's products and services using any of the payment methods li
 
 ## Using PayPal and OpenNode with Kagi
 
-PayPal and OpenNode can only be used to [add prepaid funds](https://kagi.com/settings?p=account_topup) to your Kagi account, which can then be used towards any of our plans.  
-If you added prepaid funds and haven't subscribed to one of our plans yet, you can do so from the [Plan Selection](https://kagi.com/settings?p=billing_plan) page.
+PayPal and OpenNode can only be used to [add prepaid funds](https://kagi.com/settings/account_topup) to your Kagi account, which can then be used towards any of our plans.  
+If you added prepaid funds and haven't subscribed to one of our plans yet, you can do so from the [Plan Selection](https://kagi.com/settings/billing_plan) page.
 
 After choosing your plan, you will be redirected to Stripe to confirm your subscription. This is required because we use Stripe to manage all subscriptions, regardless of the payment method used.
 

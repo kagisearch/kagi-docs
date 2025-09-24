@@ -1,6 +1,6 @@
 # Customizing Kagi CSS
 
-[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings?p=custom_css).
+[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings/custom_css).
 
 Custom CSS does not apply to Settings pages, and is currently limited to 20,000 characters --- including whitespace.
 
@@ -15,14 +15,26 @@ To apply a theme:
 
 1. Choose a theme and click **Get It**.
 2. Copy the CSS code.
-3. Go to the [Custom CSS](https://kagi.com/settings?p=custom_css) page.
+3. Go to the [Custom CSS](https://kagi.com/settings/custom_css) page.
 4. Ensure the **Enable Custom CSS** toggle is turned on.
 5. Paste the copied code into the text area.
 6. Click **Apply Custom CSS**.
 
 Once applied, the theme will instantly update Kagi's appearance. You can switch themes at any time to find your perfect search interface.
 
-**Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings?p=appearance) page.
+**Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings/appearance) page.
+
+### Deep purple
+by [TheLastEnvoy](https://github.com/TheLastEnvoy)
+
+[**Get it**](https://gist.github.com/TheLastEnvoy/2e9c7723b7e35a9f1bdb8e78e117d194)
+
+| ![Deep Purple Theme](./themes/media/deep_purple_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Deep Purple Theme](./themes/media/deep_purple_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Deep Purple Theme](./themes/media/deep_purple_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Deep Purple Theme](./themes/media/deep_purple_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+
+<br>
+
 
 ### Kagi Courvix Dark
 by [Jeyso215](https://github.com/jeyso215)
@@ -31,7 +43,7 @@ by [Jeyso215](https://github.com/jeyso215)
 
 | ![Kagi Courvix Dark Theme](./themes/media/results-page.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Courvix Dark Theme](./themes/media/search-home.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
 |---:|---:|
-| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Dark Mustard Theme](./themes/media/search-home.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Courvix Dark Theme](./themes/media/search-home.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
 
 <br>
 
@@ -370,7 +382,7 @@ You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) s
 
 ## Customizations
 
-Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings?p=custom_css).
+Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings/custom_css).
 
 <details><summary>Remove Underlined Links</summary>
 

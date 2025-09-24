@@ -26,7 +26,7 @@ Some password managers such as 1Password and Bitwarden also have a 2FA authentic
 
 ## Setting up 2FA authentication
 
-If you want to set up 2FA authentication in your Kagi account, first visit the [Account Settings](https://kagi.com/settings?p=user_details) page. Then, click the **Get Started** button.
+If you want to set up 2FA authentication in your Kagi account, first visit the [Account Settings](https://kagi.com/settings/user_details) page. Then, click the **Get Started** button.
 
 ![2FA authentication - Get Started](./media/2fa_auth_get_started.png){width=600px data-zoomable}
 
@@ -54,6 +54,6 @@ If you have 2FA authentication enabled in your account, you will prompted to ent
 
 ## Disabling 2FA authentication
 
-If you need to disable 2FA authentication for your account, first visit the [Account Settings](https://kagi.com/settings?p=user_details) page. Then, click the **Remove 2FA** button.
+If you need to disable 2FA authentication for your account, first visit the [Account Settings](https://kagi.com/settings/user_details) page. Then, click the **Remove 2FA** button.
 
 ![2FA authentication - Login](./media/2fa_auth_remove_2fa.png){width=600px data-zoomable}

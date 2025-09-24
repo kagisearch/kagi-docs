@@ -18,7 +18,7 @@ Kagi offers several subscriptions plans.
 
 ### Family Plan:
 
-We offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, **you can upgrade adult family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings?p=account_members) page** for an additional $15 per month, per upgraded family member.
+We offer [Family plans](./family-plan.md) for two or more people. If you have a Family or Duo plan, **you can upgrade adult family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings/account_members) page** for an additional $15 per month, per upgraded family member.
 
 ### Team Plan:
 
@@ -53,7 +53,7 @@ If you are interested in taking advantage of all the advanced features that Kagi
 
 ### Understand Your Consumption
 
-Kagi has a feature to check your [current search usage](https://kagi.com/settings?p=consumption) if you are interested in really taking apart your consumption.
+Kagi has a feature to check your [current search usage](https://kagi.com/settings/consumption) if you are interested in really taking apart your consumption.
 
 ### Fair Pricing
 

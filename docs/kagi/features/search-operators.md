@@ -12,7 +12,7 @@
 
 If you press **?** on your keyboard (**shift + /**) while in search results, Kagi will open a scrollable window showing keyboard shortcuts, search operators, query shortcuts, and widgets. You can also click or tap **Help** at the bottom of any Kagi webpage to see the same information.
 
-<img src="./media/search_operators.jpeg" width="675" alt="Search Operators">
+<img src="./media/search_operators.png" width="675" alt="Search Operators">
 
 <a name="keyboard_shortcuts"></a>
 ## Keyboard Shortcuts {#keyboard_shortcuts}

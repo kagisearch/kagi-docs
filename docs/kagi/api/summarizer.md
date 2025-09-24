@@ -5,8 +5,8 @@ The Universal Summarizer is an API using powerful LLMs to summarize any content,
 ## Quick start
 
 
-1. Get the [API key](https://kagi.com/settings?p=api) (requires a Kagi account)
-2. Top off your [API credits](https://kagi.com/settings?p=billing_api).
+1. Get the [API key](https://kagi.com/settings/api) (requires a Kagi account)
+2. Top off your [API credits](https://kagi.com/settings/billing_api).
 3. Call the API. See [example usage](#examples).
 4. Alternatively use Kagi Search browser extension ([Chrome](https://chromewebstore.google.com/detail/kagi-search-for-chrome/cdglnehniifkbagbbombnjghhcihifij?pli=1)/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)) and you can use the most advanced Muriel model right from the extension.
 
@@ -14,13 +14,13 @@ The Universal Summarizer is an API using powerful LLMs to summarize any content,
 
 To obtain an API key you will first need to [create a Kagi account](https://kagi.com/signup?plan_id=trial).
 
-Then, navigate to Settings -> Advanced -> API portal, or click [here](https://kagi.com/settings?p=api) to go directly.
+Then, navigate to Settings -> Advanced -> API portal, or click [here](https://kagi.com/settings/api) to go directly.
 
 Click "Generate API Token".
 
 ## API credits
 
-Universal Summarizer API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings?p=billing_api) page of your Kagi settings.
+Universal Summarizer API uses pre-paid API credits. You can manage API credits in the [API billing](https://kagi.com/settings/billing_api) page of your Kagi settings.
 
 Using API with insufficient credits will produce "Insufficient credit to perform this request." response message.
 
