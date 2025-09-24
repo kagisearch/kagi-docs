@@ -1,3 +1,4 @@
+> Not your browser/OS? Return to [the hub page](../../../kagi/getting-started/setting-default.md) for setting Kagi as the default search engine.
 # Setting Kagi as Default on Vivaldi (Desktop)
 
 ## Preferred Method
@@ -25,4 +26,4 @@ Then, scroll to the top of the settings page.
 1. Ensure that all three of the dropdowns are set to **Kagi Search**
 2. Under **Allow Search Suggestions**, check both **in address field** and **in search field**
 
-![Setting Kagi as Default Search Engine in Vivaldi](./media/kagi_default_vivaldi.png)
+<img src="./media/kagi_default_vivaldi.png" width="541" alt="Setting Kagi as Default Search Engine in Vivaldi"><br />
