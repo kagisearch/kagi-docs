@@ -34,6 +34,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
 | o4-mini                             |        67.6 |       3.1 |        16.0 |    11224 |   6.1 | kagi       |
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
+| grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
 | arcee-ai/maestro-reasoning          |        64.9 |       2.7 |        16.7 |   200565 | 103.4 | openrouter |
 | stepfun-ai/step3                    |        62.3 |       1.6 |       174.2 |   417415 |   7.0 | openrouter |
 | gpt-5-nano                          |        62.2 |       0.4 |        20.5 |     9587 |   3.9 | kagi       |
@@ -88,6 +89,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | mistralai/Devstral-Small-2505       |        37.7 |       0.1 |         4.1 |   146139 |  55.4 | nebius     |
 | llama-4-scout                       |        36.9 |       0.1 |         0.8 |    25965 | 272.4 | deprecated |
 | Qwen/Qwen2.5-VL-72B-Instruct        |        36.0 |       0.0 |         7.6 |   112318 |  42.5 | nebius     |
+| grok-4-fast                         |        35.4 |       0.1 |         1.7 |   114104 | 576.8 | kagi       |
 | llama-3-70b                         |        35.1 |       0.3 |         1.7 |    21423 | 104.1 | deprecated |
 | minimax/minimax-01                  |        35.1 |       0.2 |         7.2 |    23132 |  27.4 | openrouter |
 | gemma-3-27b                         |        35.1 |       0.1 |         4.3 |    27732 |  58.4 | deprecated |
