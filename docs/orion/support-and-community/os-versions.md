@@ -16,6 +16,7 @@ We currently support these versions of macOS:
 - 13 (Ventura)
 - 14 (Sonoma)
 - 15 (Sequoia)
+- 26 (Tahoe)
 
 We plan to add support for 10.13 (High Sierra) in the future.
 
@@ -24,4 +25,4 @@ Intel and Arm64 optimizations will automatically activate on your first run of O
 <a name="iOS_iPadOS"></a>
 ## iOS and iPadOS
 
-We currently support iOS and iPadOS 13.0 and later.
+We currently support iOS and iPadOS 15.0 and later.
