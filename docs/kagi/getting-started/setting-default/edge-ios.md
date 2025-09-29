@@ -1,7 +1,10 @@
 > Not your browser/OS? Return to [the hub page](../../../kagi/getting-started/setting-default.md) for setting Kagi as the default search engine.
-# Setting Kagi as Default on Edge (iPhone/iPad)
+# Setting Kagi as Default on Edge (iPhone)
 
-Edge on iOS does not currently support adding a custom search engine.
-The options appear to be limited to the 5 most popular in the user's region.
+1. Open https://kagi.com, log in, and submit a few searches.
+2. Open <b>Settings</b>, and select <b>Search</b>, then go to <b>Select Search Engine</b>.
+3. Kagi should now be available under the recently visited section for you to select as the default search engine.
+ <img width="585" height="1266" alt="IMG_3958" src="https://github.com/user-attachments/assets/24989a94-820c-414a-81f1-2b3841999d45" />
 
-This page will be updated if the ability to add a custom search engine to Edge is ever added back.
+
+

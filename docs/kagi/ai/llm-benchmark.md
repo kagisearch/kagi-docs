@@ -8,7 +8,7 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last update: **September 19th, 2025**
+Last update: **September 26th, 2025**
 Tasks: **110**
 Input Tokens (all tasks): **14909**
 
@@ -28,6 +28,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | o3-pro                              |        72.1 |      34.2 |        87.8 |    12054 |   1.1 | kagi (ult) |
 | gemini-2-5-pro                      |        70.3 |       1.7 |        20.9 |    13581 |   5.4 | kagi (ult) |
 | gpt-5-mini                          |        70.3 |       4.9 |        26.7 |    10113 |   3.3 | kagi       |
+| gpt-5-codex                         |        70.3 |       4.6 |        20.7 |    14993 |  94.7 | kagi       |
 | deepseek-r1                         |        69.4 |       9.9 |        33.6 |    40707 |   9.8 | kagi (ult) |
 | qwen-3-235b-a22b-thinking           |        69.4 |       0.1 |        27.6 |    52601 |  15.8 | kagi       |
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
