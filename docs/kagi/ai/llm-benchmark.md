@@ -25,6 +25,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
 | claude-4-sonnet-thinking            |        73.0 |       5.4 |        14.1 |    17872 |  10.0 | kagi (ult) |
 | gpt-5                               |        72.7 |       7.1 |        32.8 |     6282 |   1.6 | kagi (ult) |
+| qwen3-max                           |        72.5 |       1.9 |        15.7 |   148347 |  22.1 | openrouter |
 | o3-pro                              |        72.1 |      34.2 |        87.8 |    12054 |   1.1 | kagi (ult) |
 | gemini-2-5-pro                      |        70.3 |       1.7 |        20.9 |    13581 |   5.4 | kagi (ult) |
 | gpt-5-mini                          |        70.3 |       4.9 |        26.7 |    10113 |   3.3 | kagi       |
@@ -36,15 +37,18 @@ Please see notes below the table if you see results you find surprising, or get 
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
 | grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
 | arcee-ai/maestro-reasoning          |        64.9 |       2.7 |        16.7 |   200565 | 103.4 | openrouter |
+| qwen-plus-2025-07-28                |        63.3 |       1.1 |         9.0 |   143402 |  37.0 | openrouter |
 | stepfun-ai/step3                    |        62.3 |       1.6 |       174.2 |   417415 |   7.0 | openrouter |
 | gpt-5-nano                          |        62.2 |       0.4 |        20.5 |     9587 |   3.9 | kagi       |
 | grok-3                              |        61.3 |       2.6 |         6.0 |    28865 |  42.4 | kagi (ult) |
 | grok-3-mini                         |        61.3 |       0.3 |         7.6 |     8661 |   9.5 | kagi       |
 | cogito-v2-preview-llama-405b        |        61.1 |       2.1 |        35.4 |   201098 |  49.7 | together   |
+| z-ai/glm-4.5v                       |        59.8 |       0.7 |        12.9 |   171618 |  34.0 | openrouter |
 | claude-4-opus                       |        59.6 |       8.4 |         5.7 |    19505 |  29.3 | kagi (ult) |
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |
 | cogito-v2-preview-deepseek-671b     |        58.4 |       0.7 |        18.2 |   184381 |  88.5 | together   |
 | glm-4-5                             |        57.9 |       1.0 |        39.0 |   292498 |  32.3 | kagi       |
+| deepseek-v3.1-terminus              |        57.4 |       0.2 |         9.1 |   111727 |  29.9 | kagi       |
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
 | qwen/qwen3-max                      |        55.9 |       1.1 |         7.2 |    39982 |  47.9 | openrouter |
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
@@ -57,11 +61,12 @@ Please see notes below the table if you see results you find surprising, or get 
 | chatgpt-4o                          |        54.1 |       2.6 |         2.6 |    42545 | 163.1 | deprecated |
 | z-ai/glm-4.5v                       |        53.5 |       0.4 |        11.0 |   187593 |  74.5 | openrouter |
 | gpt-oss-20b                         |        53.2 |       0.5 |         3.3 |    38619 |  96.0 | kagi       |
-| deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi       |
+| deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi (depr)|
 | grok-code-fast-1                    |        52.5 |       1.0 |        10.1 |   323883 | 280.0 | kagi       |
 | gpt-4-1                             |        52.3 |       2.1 |         4.4 |    61935 | 116.2 | deprecated |
 | deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | deprecated |
 | deepseek-r1-distill-llama-70b       |        52.3 |       1.0 |         4.7 |    10321 |  17.8 | deprecated |
+| deepseek/deepseek-v3.2-exp          |        52.2 |       0.2 |        17.7 |   114357 |  16.0 | openrouter |
 | kimi-k2-0905 (see note below)       |        52.2 |       0.3 |        11.3 |    30772 |  23.1 | openrouter |
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | mistral-medium                      |        50.0 |       0.5 |         2.9 |   120090 |  67.8 | kagi       |
