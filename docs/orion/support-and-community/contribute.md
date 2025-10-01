@@ -9,7 +9,7 @@ next:
 Orion is welcoming contributions from everyone.
 
 You can even get official contributor status if you:
-- Accumulate 10 points on Orionfeedback.org by engaging with the community
+- Accumulate 25 points on Orionfeedback.org by engaging with the community
 - Translate a new language. [Read more](./contribute_translations.md).
 
 ## Forum
