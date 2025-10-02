@@ -47,9 +47,6 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 - [Orion Browser on X](https://x.com/OrionBrowser)
 
-## Product Hunt
-<a href="https://www.producthunt.com/products/kagi" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=545667&theme=neutral" alt="Kagi - Humanizing&#0032;the&#0032;web&#0032;with&#0032;user&#0045;centric&#0032;products | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
 ## Feedback Forum
 
 You can join [KagiFeedback.org](https://kagifeedback.org/) to see the bug reports and feature requests we are discussing, reviewing, and planning to address and to the discussion.
@@ -74,6 +71,9 @@ Release notes are published at:
 
 RSS feed for release notes is available at:
 [kagifeedback.org/atom/t/release-notes](https://kagifeedback.org/atom/t/release-notes)
+
+## Product Hunt
+<a href="https://www.producthunt.com/products/kagi" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=545667&theme=neutral" alt="Kagi - Humanizing&#0032;the&#0032;web&#0032;with&#0032;user&#0045;centric&#0032;products | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
 
