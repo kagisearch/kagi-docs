@@ -18,7 +18,7 @@ Choose your browser below for instructions:
 | **Vanadium** |
 |---|
 | <img src="./setting-default/media/vanadium_icon.png"    alt="Vanadium"    width="96"> | 
-|[GrapheneOS](./setting-default/vanadium-mobile.md) | 
+|[GrapheneOS](./setting-default/vanadium-grapheneos.md) | 
 
 ## Kagi App {#kagi_app}
 
