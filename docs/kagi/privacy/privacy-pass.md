@@ -123,14 +123,15 @@ The extension will automatically manage your tokens, generating new ones when ne
 
 - The extension will fetch 300 tokens at a time.
 
-- There's a monthly limit of 2,400 tokens per account to prevent abuse. If you need more tokens in exceptional cases, please contact us at support@kagi.com.
+- There's a monthly limit of 3,000 tokens per account to prevent abuse. If you need more tokens in exceptional cases, please contact us at support@kagi.com.
 
 - When using Privacy Pass, search personalizations will not be available, as they increase the likelihood of deanonymization.
 
-- At launch, Privacy Pass will only be used to authenticate Kagi Search. Soon to follow (in the next few weeks), we plan to expand support for Kagi Privacy Pass to:
+- At launch, Privacy Pass will only be used to authenticate Kagi Search. Soon to follow, we plan to expand support for Kagi Privacy Pass to:
   - Kagi Assistant
-  - Kagi Translate and Kagi Maps
-  - Summarize page and Ask questions about page
+  - Kagi Maps
+  - Kagi Translate
+  - Kagi Summarize
 
 - When manually setting Kagi as your default search engine, replace the default autosuggest URL with this privacy-enhanced alternative: `https://kagisuggest.com/api/autosuggest?q=%s`
    - Using this domain prevents browsers from automatically sending your Kagi login cookies with autosuggest requests, which the Privacy Pass extension cannot intercept.
