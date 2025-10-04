@@ -72,5 +72,8 @@ Release notes are published at:
 RSS feed for release notes is available at:
 [kagifeedback.org/atom/t/release-notes](https://kagifeedback.org/atom/t/release-notes)
 
+## Product Hunt
+<a href="https://www.producthunt.com/products/kagi" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=545667&theme=neutral" alt="Kagi - Humanizing&#0032;the&#0032;web&#0032;with&#0032;user&#0045;centric&#0032;products | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 
 
