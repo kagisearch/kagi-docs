@@ -12,7 +12,7 @@ Kagi offers several subscriptions plans.
 
 ### Individual:
 * The **Trial** plan is limited to 100 total searches. This plan is suited for those interested in exploring Kagi and curious about paid search engines.
-* The **Starter** plan offers 300 searches per month, access to Universal Summarizer and Kagi Translate, plus access to Kagi Assistant (standard models) for USD $5 per month + tax. This plan is perfect for users who are new to paid search engines and are looking to own their search experience.
+* The **Starter** plan offers 300 searches per month (or 3,600 per year), access to Universal Summarizer and Kagi Translate, plus access to Kagi Assistant (standard models) for USD $5 per month + tax. This plan is perfect for users who are new to paid search engines and are looking to own their search experience.
 * The **Professional** plan offers unlimited searches, unlimited access to Universal Summarizer and Kagi Translate, plus access to Kagi Assistant (standard models) for USD $10 per month + tax. This plan is suited for internet professionals and developers who are prolific and advanced search users.
 * The [**Ultimate**](./ultimate-plan.md) plan offers unlimited searches, unlimited access to Universal Summarizer and Kagi Translate, plus access to Kagi Assistant (premium models) for USD $25 per month + tax. This plan delivers the most comprehensive search and AI experience available.
 
@@ -41,7 +41,7 @@ This tiered pricing system is easy to understand and ensures Kagi’s financial 
 
 ### Start Simple
 
-We understand picking the right plan can be challenging and while we have expertise in this area and are prepared to help we suggest starting with the simple Starter plan. It is very unlikely you will exceed the allotted searches for this plan unless you are in the top 1% of searching users. To be in the top 1% you would likely need to depend on search on a daily basis for your livelihood. As a reminder the Starter plan is USD $5/month with 300 searches included.
+We understand picking the right plan can be challenging and while we have expertise in this area and are prepared to help we suggest starting with the simple Starter plan. It is very unlikely you will exceed the allotted searches for this plan unless you are in the top 1% of searching users. To be in the top 1% you would likely need to depend on search on a daily basis for your livelihood. As a reminder the Starter plan is USD $5/month with 300 searches included (or 3,600 for the yearly plan).
 
 ### Upgrade to Unlimited Searches
 
