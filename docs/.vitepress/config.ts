@@ -220,7 +220,7 @@ function sidebarKagi() {
                     ]
                 },
                 {
-                    text: 'LLM Features', link: '/kagi/ai/kagi-ai',
+                    text: 'AI Features', link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
                         { text: 'Kagi Assistant', link: '/kagi/ai/assistant' },
@@ -259,7 +259,14 @@ function sidebarKagi() {
 		},
                 {
                     text: 'Community Add-ons', link: '/kagi/community-addons/',
+                },
+                {
+                    text: 'User Themes', link: 'https://openkagi.com/themes',
+                },
+                {
+                    text: 'User Lenses', link: 'https://openkagi.com/lenses',
                 }
+
             ]
         },
         {
