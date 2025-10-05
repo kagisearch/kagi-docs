@@ -6,7 +6,7 @@ next:
 
 # Plan Types
 
-Kagi offers several subscriptions plans.
+Kagi offers several subscription plans.
 
 ![Pricing](https://github.com/user-attachments/assets/527749da-522d-4f1f-9d59-0d05e3867808){data-zoomable}
 
@@ -37,7 +37,7 @@ Note that searches do not roll over to the next month; the number of available s
 
 This tiered pricing system is easy to understand and ensures Kagi’s financial sustainability for the future so that we can continue to provide you with the tools to own your search experience as we pursue our mission to humanize the web.
 
-## Pick The Right Plan
+## Pick the Right Plan
 
 ### Start Simple
 
