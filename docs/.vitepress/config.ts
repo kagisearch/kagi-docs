@@ -111,10 +111,10 @@ function sidebarKagi() {
                     collapsed: true,
                     items: [
                         { text: 'Plan Types', link: '/kagi/plans/plan-types' },
-                        { text: 'Premium Plans', link: '/kagi/plans/premium-plan' },
                         { text: 'Ultimate Plan', link: '/kagi/plans/ultimate-plan' },
                         { text: 'Family Plan', link: '/kagi/plans/family-plan' },
                         { text: 'Team Plan', link: '/kagi/plans/team-plan' },
+                        { text: 'Plan Management', link: '/kagi/plans/plan-management' },
                         { text: 'Gift Kagi', link: '/kagi/plans/gift-kagi' },
                         { text: 'Payment Methods', link: '/kagi/plans/payment-methods' },
                     ]

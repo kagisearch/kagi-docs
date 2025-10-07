@@ -1,4 +1,4 @@
-# Premium Plans
+# Managing Your Premium Plan
 
 ## Signing Up for the Premium Plans
 
