@@ -261,10 +261,10 @@ function sidebarKagi() {
                     text: 'Community Add-ons', link: '/kagi/community-addons/',
                 },
                 {
-                    text: 'User Themes', link: 'https://openkagi.com/themes',
+                    text: 'Community Themes', link: 'https://openkagi.com/themes',
                 },
                 {
-                    text: 'User Lenses', link: 'https://openkagi.com/lenses',
+                    text: 'Community Lenses', link: 'https://openkagi.com/lenses',
                 }
 
             ]
