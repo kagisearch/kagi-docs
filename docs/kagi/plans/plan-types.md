@@ -8,7 +8,7 @@ next:
 
 Kagi offers several subscription plans.
 
-![Pricing](https://github.com/user-attachments/assets/527749da-522d-4f1f-9d59-0d05e3867808){data-zoomable}
+![Pricing](./media/individual_plans.png){data-zoomable}
 
 ### Individual:
 
