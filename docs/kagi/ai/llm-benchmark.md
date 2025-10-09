@@ -21,6 +21,7 @@ Please see notes below the table if you see results you find surprising, or get 
 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
 |-------------------------------------|-------------|-----------|-------------|----------|-------|------------|
+| gpt-5-pro                           |        76.8 |      31.8 |       193.2 |   330943 |   5.2 | kagi (ult) |
 | claude-4-opus-thinking              |        74.3 |      22.4 |        13.3 |    17058 |  11.0 | kagi (ult) |
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
 | claude-4-sonnet-thinking            |        73.0 |       5.4 |        14.1 |    17872 |  10.0 | kagi (ult) |
@@ -32,6 +33,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | gpt-5-codex                         |        70.3 |       4.6 |        20.7 |    14993 |  94.7 | kagi       |
 | deepseek-r1                         |        69.4 |       9.9 |        33.6 |    40707 |   9.8 | kagi (ult) |
 | qwen-3-235b-a22b-thinking           |        69.4 |       0.1 |        27.6 |    52601 |  15.8 | kagi       |
+| claude-4-5-sonnet-thinking          |        68.1 |       2.2 |        17.7 |   277846 |  44.4 | kagi (ult) |
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
 | o4-mini                             |        67.6 |       3.1 |        16.0 |    11224 |   6.1 | kagi       |
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
@@ -47,6 +49,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | claude-4-opus                       |        59.6 |       8.4 |         5.7 |    19505 |  29.3 | kagi (ult) |
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |
 | cogito-v2-preview-deepseek-671b     |        58.4 |       0.7 |        18.2 |   184381 |  88.5 | together   |
+| claude-4-5-sonnet                   |        57.9 |       1.0 |         6.4 |   191834 |  84.9 | kagi       |
 | glm-4-5                             |        57.9 |       1.0 |        39.0 |   292498 |  32.3 | kagi       |
 | deepseek-v3.1-terminus              |        57.4 |       0.2 |         9.1 |   111727 |  29.9 | kagi       |
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
