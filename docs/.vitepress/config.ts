@@ -111,10 +111,10 @@ function sidebarKagi() {
                     collapsed: true,
                     items: [
                         { text: 'Plan Types', link: '/kagi/plans/plan-types' },
-                        { text: 'Premium Plans', link: '/kagi/plans/premium-plan' },
                         { text: 'Ultimate Plan', link: '/kagi/plans/ultimate-plan' },
                         { text: 'Family Plan', link: '/kagi/plans/family-plan' },
                         { text: 'Team Plan', link: '/kagi/plans/team-plan' },
+                        { text: 'Plan Management', link: '/kagi/plans/plan-management' },
                         { text: 'Gift Kagi', link: '/kagi/plans/gift-kagi' },
                         { text: 'Payment Methods', link: '/kagi/plans/payment-methods' },
                     ]
@@ -220,7 +220,7 @@ function sidebarKagi() {
                     ]
                 },
                 {
-                    text: 'LLM Features', link: '/kagi/ai/kagi-ai',
+                    text: 'AI Features', link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
                         { text: 'Kagi Assistant', link: '/kagi/ai/assistant' },
@@ -259,7 +259,14 @@ function sidebarKagi() {
 		},
                 {
                     text: 'Community Add-ons', link: '/kagi/community-addons/',
+                },
+                {
+                    text: 'Community Themes', link: 'https://openkagi.com/themes',
+                },
+                {
+                    text: 'Community Lenses', link: 'https://openkagi.com/lenses',
                 }
+
             ]
         },
         {
