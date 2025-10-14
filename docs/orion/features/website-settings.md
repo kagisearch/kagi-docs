@@ -47,6 +47,7 @@ You can control several settings related to the current website:
 - Use **Turn Off Content Blockers** to enable or disable [Content Blockers](../privacy-and-security/protecting-privacy.md)
 - Enable or disable [**Use Reader Mode Automatically**](reader-mode.md)
 - Toggle the use of JavaScript for the website.
+- Orion on iOS does not allow per-website user agent configuration. If you would like to edit the user agent Orion uses, you can do so in **Settings** -> **Privacy** -> **User Agent**.
 
 
 <a name="iPadOS"></a>
