@@ -13,7 +13,7 @@ Ki offers three modes optimized for different use cases. All Kagi users have acc
 | Feature | Ki Quick | Ki | Ki Research |
 |------|---------|-------|------------|
 | **Plan** | All | Ultimate | Ultimate |
-| **Avg. Research & Analysis Time** | 5 secs | 30 secs | 2 mins + |
+| **Avg. Research & Analysis Time** | 5 secs | 10-30secs | 30sec + |
 | **Kagi Search** | ✓ | ✓ | ✓ |
 | **Response Planning** | ✓ | ✓ | ✓ |
 | **Librarian** (in-depth source analysis) |  | ✓ | ✓ |
