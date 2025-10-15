@@ -25,7 +25,7 @@ Ki offers three modes optimized for different use cases. All Kagi users have acc
 | **Wolfram Alpha** |  |  | ✓ |
 | **Maps Search** |  |  | ✓ |
 
-**Ki Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Ki Quick when you need quick answers to straightforward multi-step tasks.
+**Ki Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Ki Quick when you need quick answers to straightforward tasks.
 
 **Ki** is Kagi's smaller flagship agent. It goes deeper than Ki Quick, offering a balanced approach between speed and thoroughness. This is the recommended mode for most complex tasks that require multiple reasoning steps and tool usage.
 
