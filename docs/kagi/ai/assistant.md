@@ -175,10 +175,12 @@ Assistant provides access to the following LLMs:
 
 | Developer  | Model                                                                                             | Plan     |
 | ---------- | ------------------------------------------------------------------------------------------------- | -------- |
-| Anthropic  | [Claude 4 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                             | Ultimate |
-| Anthropic  | [Claude 4 Sonnet (reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)        | Ultimate |
+| Anthropic  | [Claude 4.5 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | Ultimate |
+| Anthropic  | [Claude 4.5 Sonnet (reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | Ultimate |
 | Anthropic  | [Claude 4 Opus](https://kagi.com/assistant?profile=claude-4-opus)                                 | Ultimate |
 | Anthropic  | [Claude 4 Opus (reasoning)](https://kagi.com/assistant?profile=claude-4-opus-thinking)            | Ultimate |
+| Anthropic  | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | Ultimate |
+| Anthropic  | [Claude 4.5 Haiku (reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | Ultimate |
 | OpenAI     | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | Ultimate |
 | OpenAI     | [o3](https://kagi.com/assistant?profile=o3)                                                       | Ultimate |
 | OpenAI     | [o4 mini](https://kagi.com/assistant?profile=o4-mini)                                             | Ultimate |
