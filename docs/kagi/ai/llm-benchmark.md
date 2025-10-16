@@ -8,14 +8,13 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last update: **October 8th, 2025**
+Last task list revision: **October 8th, 2025**
 Tasks: **110**
 Input Tokens (all tasks): **14909**
 
 **NOTE:** Since the July update, we have made major changes to the task set. We test much more aggressively on non-english languages, robustness to polluted tokens, noisy context and instruction following. We also replaced our hallucination benchmarks with new tasks.
 
 Please see notes below the table if you see results you find surprising, or get in contact with us on [the user discord](https://kagi.com/discord)
-
 
 <div class="minimal-table-margins">
 
@@ -33,7 +32,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | gpt-5-codex                         |        70.3 |       4.6 |        20.7 |    14993 |  94.7 | kagi       |
 | deepseek-r1                         |        69.4 |       9.9 |        33.6 |    40707 |   9.8 | kagi (ult) |
 | qwen-3-235b-a22b-thinking           |        69.4 |       0.1 |        27.6 |    52601 |  15.8 | kagi       |
-| claude-4-5-sonnet-thinking          |        68.1 |       2.2 |        17.7 |   277846 |  44.4 | kagi (ult) |
+| claude-4-haiku-thinking             |        69.0 |       0.8 |         9.8 |   297024 |  85.5 | kagi       |
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
 | o4-mini                             |        67.6 |       3.1 |        16.0 |    11224 |   6.1 | kagi       |
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
@@ -57,6 +56,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
 | claude-4-sonnet                     |        55.9 |       1.8 |         5.6 |    20574 |  31.1 | kagi (ult) |
 | hermes-4-405b (thinking)            |        55.8 |       2.6 |        87.4 |    18490 |   1.8 | kagi       |
+| claude-4-haiku                      |        55.2 |       0.3 |         3.2 |       197112 | 173.7 | kagi       |
 | qwen-3-235b-a22b (no thinking)      |        55.0 |       0.4 |        11.3 |   119875 |  85.3 | kagi       |
 | Qwen3-32B-fast (thinking)           |        54.9 |       0.5 |         3.0 |   299527 |  86.4 | nebius     |
 | Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
