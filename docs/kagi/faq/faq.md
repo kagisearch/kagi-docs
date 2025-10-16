@@ -186,7 +186,7 @@ Yes, you can use your Kagi membership on all your devices, as long as you don't 
 
 ## Why is Kagi focusing on AI and Orion Browser as well?
 
-Kagi has zero marketing budget and spends zero on marketing, we see Orion and AI as customer acquisition channels for Kagi. Orion is already providing about 20% of our customers, people find Orion first and then find out about Kagi. Instead of spending money on marketing we are spending money on the products because we want to holistically solve the problem of consuming information on the web, not just search. There is a wonderful synergy between Orion and Kagi as well as the Universal Summarizer technology that we are investing in.
+Kagi sees Orion and AI as customer acquisition channels for Kagi. Orion is already providing about 20% of our customers, people find Orion first and then find out about Kagi. We are investing in the products because we want to holistically solve the problem of consuming information on the web, not just search. There is a wonderful synergy between Orion and Kagi as well as the Universal Summarizer technology that we are investing in.
 
 ## How do you balance development of AI features and Search?
 
