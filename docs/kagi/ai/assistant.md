@@ -171,35 +171,48 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 
 ## Available LLMs
 
-Assistant provides access to the following LLMs:
-
-| Developer  | Model                                                                                             | Plan     |
-| ---------- | ------------------------------------------------------------------------------------------------- | -------- |
-| Anthropic  | [Claude 4.5 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | Ultimate |
-| Anthropic  | [Claude 4.5 Sonnet (reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | Ultimate |
-| Anthropic  | [Claude 4 Opus](https://kagi.com/assistant?profile=claude-4-opus)                                 | Ultimate |
-| Anthropic  | [Claude 4 Opus (reasoning)](https://kagi.com/assistant?profile=claude-4-opus-thinking)            | Ultimate |
-| Anthropic  | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | Ultimate |
-| Anthropic  | [Claude 4.5 Haiku (reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | Ultimate |
-| OpenAI     | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | Ultimate |
-| OpenAI     | [o3](https://kagi.com/assistant?profile=o3)                                                       | Ultimate |
-| OpenAI     | [o4 mini](https://kagi.com/assistant?profile=o4-mini)                                             | Ultimate |
-| OpenAI     | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                                             | Ultimate |
-| OpenAI     | [GPT 4.1 mini](https://kagi.com/assistant?profile=gpt-4-1-mini)                                   | All      |
-| OpenAI     | [GPT 4.1 nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                                   | All      |
-| Mistral AI | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)                                 | Ultimate |
-| Mistral AI | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                               | All      |
-| Mistral AI | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                 | All      |
-| Google     | [Gemini 2.5 Flash Preview](https://kagi.com/assistant?profile=gemini-2-5-flash)                   | All      |
-| Google     | [Gemini 2.5 Pro Preview](https://kagi.com/assistant?profile=gemini-2-5-pro)                       | Ultimate |
-| Meta       | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                           | All      |
-| Alibaba    | [Qwen 3 235B](https://kagi.com/assistant?profile=qwen-3-235b-a22b)                                | All      |
-| Alibaba    | [Qwen 3 235B (reasoning)](https://kagi.com/assistant?profile=qwen-3-235b-a22b-thinking)           | All      |
-| DeepSeek   | [DeepSeek Chat V3](https://kagi.com/assistant?profile=deepseek)                                   | All      |
-| DeepSeek   | [DeepSeek R1](https://kagi.com/assistant?profile=deepseek-r1)                                     | Ultimate |
-| xAI        | [Grok 3 Mini](https://kagi.com/assistant?profile=grok-3-mini)                                     | All      |
-| xAI        | [Grok 4](https://kagi.com/assistant?profile=grok-4)                                               | Ultimate |
-| Moonshot AI | [Kimi K2](https://kagi.com/assistant?profile=kimi-k2)                                            | Ultimate |
+| Developer     | Model                                                                                             | Plan     |
+| :------------ | :------------------------------------------------------------------------------------------------ | :------- |
+| Alibaba       | [Qwen 3 235B](https://kagi.com/assistant?profile=qwen-3-235b-a22b)                                | All      |
+| Alibaba       | [Qwen 3 235B (reasoning)](https://kagi.com/assistant?profile=qwen-3-235b-a22b-thinking)           | All      |
+| Alibaba       | [Qwen 3 Coder](https://kagi.com/assistant?profile=qwen-3-coder)                                   | All      |
+| Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | Ultimate |
+| Anthropic     | [Claude 4.5 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | Ultimate |
+| Anthropic     | [Claude 4.1 Opus](https://kagi.com/assistant?profile=claude-4-opus)                               | Ultimate |
+| Anthropic     | [Claude 4.5 Sonnet (Reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | Ultimate |
+| Anthropic     | [Claude 4.1 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-opus-thinking)          | Ultimate |
+| Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | Ultimate |
+| Deepseek      | [DeepSeek Chat V3.1 Terminus](https://kagi.com/assistant?profile=deepseek)                        | All      |
+| Deepseek      | [DeepSeek R1](https://kagi.com/assistant?profile=deepseek-r1)                                     | Ultimate |
+| Google        | [Gemini 2.5 Flash](https://kagi.com/assistant?profile=gemini-2-5-flash)                           | All      |
+| Google        | [Gemini 2.5 Flash Lite](https://kagi.com/assistant?profile=gemini-2-5-flash-lite)                 | All      |
+| Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | Ultimate |
+| Meta          | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                           | All      |
+| Mistral AI    | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                 | All      |
+| Mistral AI    | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                               | All      |
+| Mistral AI    | [Mistral Large](https://kagi.com/assistant?profile=mistral-large)                                 | Ultimate |
+| Moonshot AI   | [Kimi K2](https://kagi.com/assistant?profile=kimi-k2)                                             | All      |
+| Nous Research | [Hermes-4-405B](https://kagi.com/assistant?profile=hermes-4-405b)                                 | All      |
+| Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | All      |
+| OpenAI        | [GPT 5 Mini](https://kagi.com/assistant?profile=gpt-5-mini)                                       | All      |
+| OpenAI        | [GPT 5 Nano](https://kagi.com/assistant?profile=gpt-5-nano)                                       | All      |
+| OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | All      |
+| OpenAI        | [GPT OSS 20B](https://kagi.com/assistant?profile=gpt-oss-20b)                                     | All      |
+| OpenAI        | [GPT 4.1 mini](https://kagi.com/assistant?profile=gpt-4-1-mini)                                   | All      |
+| OpenAI        | [GPT 4.1 nano](https://kagi.com/assistant?profile=gpt-4-1-nano)                                   | All      |
+| OpenAI        | [GPT 4.1](https://kagi.com/assistant?profile=gpt-4-1)                                             | Ultimate |
+| OpenAI        | [GPT 5](https://kagi.com/assistant?profile=gpt-5)                                                 | Ultimate |
+| OpenAI        | [GPT 5 Codex](https://kagi.com/assistant?profile=gpt-5-codex)                                     | Ultimate |
+| OpenAI        | [o4 mini](https://kagi.com/assistant?profile=o4-mini)                                             | Ultimate |
+| OpenAI        | [o3](https://kagi.com/assistant?profile=o3)                                                       | Ultimate |
+| OpenAI        | [o3 pro](https://kagi.com/assistant?profile=o3-pro)                                               | Ultimate |
+| OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | Ultimate |
+| xAI           | [Grok Code Fast 1](https://kagi.com/assistant?profile=grok-code-fast)                             | All      |
+| xAI           | [Grok 4 Fast](https://kagi.com/assistant?profile=grok-4-fast)                                     | All      |
+| xAI           | [Grok 4 Fast (Reasoning)](https://kagi.com/assistant?profile=grok-4-fast-thinking)                | All      |
+| xAI           | [Grok 4](https://kagi.com/assistant?profile=grok-4)                                               | Ultimate |
+| Z.ai          | [GLM-4.6 (preview)](https://kagi.com/assistant?profile=glm-4-6)                                   | All      |
+| Z.ai          | [GLM-4.6 (reasoning) (preview)](https://kagi.com/assistant?profile=glm-4-6-thinking)              | All      |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
@@ -266,7 +279,7 @@ There's no fixed limit on conversation length. We automatically optimize lengthy
 
 ### Custom Instructions
 
-- **Maximum 5,000 characters** for custom Assistant instructions
+- **Maximum 20,000 characters** for custom Assistant instructions
 
 ### Fair Use Policy
 
