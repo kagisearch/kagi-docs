@@ -1,6 +1,6 @@
 # Ki: multi-step assistant
 
-<img src="./media/ki.svg" alt="Ki Quick icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki is Kagi's advanced multi-step assistant designed to handle complex tasks that require multiple reasoning steps and tool usage. Unlike traditional AI assistants that provide single-response answers, Ki can break down complicated requests into multiple steps, using various tools and models to deliver comprehensive results.
+<img src="./media/ki.svg" alt="Ki icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki is Kagi's advanced multi-step assistant designed to handle complex tasks that require multiple reasoning steps and tool usage. Unlike traditional AI assistants that provide single-response answers, Ki can break down complicated requests into multiple steps, using various tools and models to deliver comprehensive results.
 
 ## What makes Ki different
 
