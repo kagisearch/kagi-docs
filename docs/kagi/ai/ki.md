@@ -1,14 +1,14 @@
 # Ki: multi-step assistant
 
-<img src="./media/ki.svg" alt="Ki icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki is Kagi's advanced multi-step assistant designed to handle complex tasks that require multiple reasoning steps and tool usage. Unlike traditional AI assistants that provide single-response answers, Ki can break down complicated requests into multiple steps, using various tools and models to deliver comprehensive results.
+<img src="./media/ki.svg" alt="Ki icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki is Kagi's flagship research assistant. 
 
-## What makes Ki different
+Ki functions as a "meta model": the research process is based around specialized sub-models that serve specific roles in the research and response process. Unlike traditional AI assistants that provide single-response answers, Ki breaks down requests into multiple steps, using various tools and models to deliver state of the art results.
 
-Ki operates as an agentic system, meaning it can autonomously decide which tools to use and when to use them based on your request. It functions as a "meta model" — an agent wrapper flow around several specialized models that each serve specific roles in the research and response process. The system includes approximately 15 different agent roles, including research agents, final-response agents, contemplation-tool agents, and librarian agents for in-depth source analysis.
+The system includes approximately 15 different agent roles, including research agents, final-response agents, contemplation-tool agents, and librarian agents for in-depth source analysis.
 
 ## Ki modes
 
-Ki offers three modes optimized for different use cases. All Kagi users have access to Ki Quick, while Ki and Ki Research are available exclusively to Ultimate plan subscribers:
+Ki offers three modes: Ki Quick, Ki and Ki Research:
 
 | Feature | Ki Quick | Ki | Ki Research |
 |------|---------|-------|------------|
