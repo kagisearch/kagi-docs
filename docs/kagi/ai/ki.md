@@ -22,7 +22,7 @@ Ki offers three modes optimized for different use cases. All Kagi users have acc
 | **Image Generation** |  | ✓ | ✓ |
 | **Image Editing** |  | ✓ | ✓ |
 | **Reasoning Model** |  |  | ✓ |
-| **Wolfram|Alpha** |  |  | ✓ |
+| **Wolfram\|Alpha** |  |  | ✓ |
 | **Maps Search** |  |  | ✓ |
 
 **Ki Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Ki Quick when you need quick answers to straightforward tasks.
