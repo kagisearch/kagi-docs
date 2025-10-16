@@ -85,5 +85,5 @@ My electricity bill jumped 40% this month. Research common causes of sudden incr
 To access Ki, open Assistant and click the model selector dropdown.
 Under the Ki tab, you'll find three options: 
 - <img src="./media/ki-quick.svg" alt="Ki Quick icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki Quick
-- <img src="./media/ki.svg" alt="Ki" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki
-- <img src="./media/ki-research.svg" alt="Ki Research" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki Research
+- <img src="./media/ki.svg" alt="Ki icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki
+- <img src="./media/ki-research.svg" alt="Ki Research icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki Research
