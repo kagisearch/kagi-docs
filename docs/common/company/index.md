@@ -8,7 +8,11 @@ next:
 
 At Kagi, we envision a friendly version of the internet where users can explore, learn, and interact with confidence and ease. Our mission is to humanize the web, making it more accessible, ethical, and centered around the needs of individuals. We are driven by our core purpose: to inform and educate, empowering users with knowledge and understanding in their digital journey.
 
-Kagi (pronounced kah-gee) was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky), and [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram). Our team is fully remote, operating in over 10 countries. We are actively [hiring](https://help.kagi.com/kagi/company/hiring-kagi.html).
+Kagi (pronounced kah-gee) was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA (USA). Kagi's advisory board consists of [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky), [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) and [Rory Sutherland](https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)). 
+
+Our team is fully remote, operating in over 10 countries. 
+
+We are actively [hiring](https://help.kagi.com/kagi/company/hiring-kagi.html).
 
 Kagi was bootstrapped from 2018 to 2023 with ~$3M initial funding from the founder. In 2023, [Kagi raised $670K](https://blog.kagi.com/safe-round) from Kagi users in its first external fundraise, followed by [$1.88M raised in 2024](https://blog.kagi.com/what-is-next-for-kagi#3), again from our users, bringing the number of users-investors to 93.
 
