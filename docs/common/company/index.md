@@ -25,20 +25,20 @@ Selected interviews with our founder and CEO, Vladimir Prelovac:
 - [John Gruber's The Talk Show](https://daringfireball.net/thetalkshow/2024/12/24/ep-416)
 - [Mac Power Users by David Sparks](https://www.macsparky.com/blog/2025/08/mac-power-users-809-exploring-kagi-with-ceo-vladimir-prelovac/)
 
+Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The age of PageRank is over](https://blog.kagi.com/age-pagerank-over) editorial, which serves as our manifesto.
+
 We want to bring a friendly internet - one that has your best interest in mind - into [homes](https://blog.kagi.com/family-plan), [workplaces](https://help.kagi.com/kagi/plans/team-plan.html), [public service](https://kagi.com/libraries) and educational institutions worldwide (coming soon!). We're actively [hiring](https://help.kagi.com/kagi/company/hiring-kagi.html).
 
 Kagi has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry, WebKit-based browser.
 
-We also offer other initiatives (we call them 'treats'):
-- [Kagi Small Web](https://blog.kagi.com/small-web)
+But beyond them, there is a whole eco-system of user-friendly products being created. PLease feel free to explore:
 - [Kagi News](https://news.kagi.com)
 - [Kagi Translate](https://blog.kagi.com/kagi-translate)
-- [Universal Summarizer](https://kagi.com/summarizer)
+- [Kagi Small Web](https://blog.kagi.com/small-web)
+- [Kagi Summarizer](https://kagi.com/summarizer)
 - [FastGPT](https://kagi.com/fastgpt)
-- [Open-source projects](https://github.com/kagisearch)
-- [Kagi APIs](https://help.kagi.com/kagi/api/overview.html)
 
-Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The age of PageRank is over](https://blog.kagi.com/age-pagerank-over), which serves as our manifesto.
+We also have a number of [open-source projects](https://github.com/kagisearch) and [developer APIs](https://help.kagi.com/kagi/api/overview.html).
 
 We hope our work impacts your life in some small way for the better. Thank you for your interest in being part of this!
 
