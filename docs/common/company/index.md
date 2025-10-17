@@ -6,7 +6,7 @@ next:
 
 # About
 
-At Kagi, we envision a friendly internet where you can explore, learn, and interact with confidence and ease. Our mission is to humanize the web, making it more accessible, ethical, and centered around your needs. We're driven by our core purpose: to inform and educate, empowering you with knowledge and understanding in your digital journey.
+At Kagi, we envision a friendly internet where you can explore, learn, and interact with confidence and ease. Our mission is to humanize the web, making it more accessible, and centered around your needs. We're driven by our core purpose: to inform and educate, empowering you with knowledge and understanding in your digital journey. Every product we build reflects this commitment, designed without ads, trackers, or distractions, and completely free from surveillance.
 
 Kagi (pronounced kah-gee) was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA. Our advisory board includes [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky), [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) and [Rory Sutherland](https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)).
 
@@ -17,9 +17,9 @@ We launched in [June 2022](https://blog.kagi.com/kagi-orion-public-beta) and mai
 In early 2024, [Kagi became a Public Benefit Corporation](https://blog.kagi.com/what-is-next-for-kagi#4).
 
 Kagi has been covered by:
-- [The future of search isn't Google — and it's $10 a month](https://www.theverge.com/web/631636/kagi-review-best-search-engine)
-- [Dumping Google's enshittified search for Kagi](https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/)
-- [Another periodic suggestion to try, just try, switching to Kagi for search](https://daringfireball.net/2025/04/try_switching_to_kagi)
+- The Verge in [The future of search isn't Google — and it's $10 a month](https://www.theverge.com/web/631636/kagi-review-best-search-engine)
+- Ars Technica in [Dumping Google's enshittified search for Kagi](https://arstechnica.com/gadgets/2025/08/enough-is-enough-i-dumped-googles-worsening-search-for-kagi/)
+- Daring Fireball in [Another periodic suggestion to try, just try, switching to Kagi for search](https://daringfireball.net/2025/04/try_switching_to_kagi)
 
 Selected interviews with our founder and CEO, Vladimir Prelovac:
 - [John Gruber's The Talk Show](https://daringfireball.net/thetalkshow/2024/12/24/ep-416)
