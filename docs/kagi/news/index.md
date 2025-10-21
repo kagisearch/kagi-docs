@@ -1,8 +1,8 @@
-﻿# Kagi News
+# Kagi News
 
 <br>
 
-<video src="./media/news.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi_news.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 **Kagi News** is a comprehensive daily press review service that delivers global news with a focus on privacy and community curation.
 
