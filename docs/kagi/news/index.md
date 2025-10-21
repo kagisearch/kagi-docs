@@ -1,4 +1,4 @@
-﻿# Kagi News
+# Kagi News
 
 <br>
 
