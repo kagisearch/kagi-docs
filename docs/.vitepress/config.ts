@@ -258,6 +258,9 @@ function sidebarKagi() {
   		]
 		},
                 {
+                    text: 'Kagi News', link: '/kagi/news/',
+                },
+                {
                     text: 'Community Add-ons', link: '/kagi/community-addons/',
                 },
                 {
