@@ -9,8 +9,8 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
 Last task list revision: **November 7th, 2025**
-Tasks: **110**
-Input Tokens (all tasks): **14909**
+Tasks: **116**
+Input Tokens (all tasks): **15256**
 
 **NOTE:** Since the July update, we have made major changes to the task set. We test much more aggressively on non-english languages, robustness to polluted tokens, noisy context and instruction following. We also replaced our hallucination benchmarks with new tasks.
 
