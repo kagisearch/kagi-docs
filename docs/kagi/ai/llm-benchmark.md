@@ -36,6 +36,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
 | o4-mini                             |        67.6 |       3.1 |        16.0 |    11224 |   6.1 | kagi       |
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
+| inclusionai/ring-1t                 |        66.4 |       1.0 |       269.7 |   406334 |   4.3 | openrouter |
 | grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
 | arcee-ai/maestro-reasoning          |        64.9 |       2.7 |        16.7 |   200565 | 103.4 | openrouter |
 | qwen-plus-2025-07-28                |        63.3 |       1.1 |         9.0 |   143402 |  37.0 | openrouter |
@@ -46,17 +47,20 @@ Please see notes below the table if you see results you find surprising, or get 
 | cogito-v2-preview-llama-405b        |        61.1 |       2.1 |        35.4 |   201098 |  49.7 | together   |
 | z-ai/glm-4.5v                       |        59.8 |       0.7 |        12.9 |   171618 |  34.0 | openrouter |
 | claude-4-opus                       |        59.6 |       8.4 |         5.7 |    19505 |  29.3 | kagi (ult) |
+| moonshotai/kimi-k2-thinking         |        58.6 |       0.3 |        92.5 |   104041 |   3.7 | openrouter |
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |
 | cogito-v2-preview-deepseek-671b     |        58.4 |       0.7 |        18.2 |   184381 |  88.5 | together   |
 | claude-4-5-sonnet                   |        57.9 |       1.0 |         6.4 |   191834 |  84.9 | kagi       |
 | glm-4-5                             |        57.9 |       1.0 |        39.0 |   292498 |  32.3 | kagi       |
+| minimax/minimax-m2                  |        57.8 |       0.1 |        20.1 |   113393 |  16.5 | openrouter |
+| inclusionai/ling-1t                 |        57.8 |       0.2 |        37.8 |    51402 |   3.8 | openrouter |
 | deepseek-v3.1-terminus              |        57.4 |       0.2 |         9.1 |   111727 |  29.9 | kagi       |
 | gemini-2-5-flash-thinking           |        56.8 |       0.5 |        11.4 |    21799 |  16.7 | kagi       |
 | qwen/qwen3-max                      |        55.9 |       1.1 |         7.2 |    39982 |  47.9 | openrouter |
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
 | claude-4-sonnet                     |        55.9 |       1.8 |         5.6 |    20574 |  31.1 | kagi (ult) |
 | hermes-4-405b (thinking)            |        55.8 |       2.6 |        87.4 |    18490 |   1.8 | kagi       |
-| claude-4-haiku                      |        55.2 |       0.3 |         3.2 |       197112 | 173.7 | kagi       |
+| claude-4-haiku                      |        55.2 |       0.3 |         3.2 |   197112 | 173.7 | kagi       |
 | qwen-3-235b-a22b (no thinking)      |        55.0 |       0.4 |        11.3 |   119875 |  85.3 | kagi       |
 | Qwen3-32B-fast (thinking)           |        54.9 |       0.5 |         3.0 |   299527 |  86.4 | nebius     |
 | Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
@@ -72,15 +76,19 @@ Please see notes below the table if you see results you find surprising, or get 
 | deepseek/deepseek-v3.2-exp          |        52.2 |       0.2 |        17.7 |   114357 |  16.0 | openrouter |
 | kimi-k2-0905 (see note below)       |        52.2 |       0.3 |        11.3 |    30772 |  23.1 | openrouter |
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
+| nvidia/nemotron-nano-12b-v2-vl      |        51.7 |       0.1 |        24.6 |   153175 |  19.7 | openrouter |
 | mistral-medium                      |        50.0 |       0.5 |         2.9 |   120090 |  67.8 | kagi       |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
 | Qwen3-14B                           |        49.1 |       0.5 |        15.2 |   277558 |  78.8 | nebius     |
 | Qwen3-32B (No Thinking)             |        48.7 |       0.5 |         9.9 |   292277 | 50.0  | nebius     |
 | gpt-4-1-mini                        |        48.6 |       0.4 |         6.1 |    63524 |  85.9 | deprecated |
 | nvidia/nemotron-nano-9b-v2          |        47.4 |       0.1 |        14.0 |   282402 |  58.1 | openrouter |
+| z-ai/glm-4.6:exacto                 |        47.4 |       0.1 |         7.2 |    28178 |  11.1 | openrouter |
+| z-ai/glm-4.6                        |        45.7 |       0.1 |         9.3 |    38392 |  11.8 | openrouter |
 | llama-3-405b                        |        45.0 |       1.1 |         3.0 |    26712 |  77.7 | deprecated |
 | baidu/ernie-4.5-300b-a47b           |        45.0 |       0.2 |         7.9 |    35671 |  36.2 | openrouter |
 | kimi-k2-0711 (see note below)       |        45.0 |       1.1 |         3.3 |    84371 | 201.1 | kagi       |
+| amazon/nova-premier-v1              |        44.8 |       0.4 |         2.5 |     8368 |   9.4 | openrouter |
 | gemini-2-5-flash                    |        44.1 |       0.4 |         2.0 |    34698 | 152.3 | kagi       |
 | meituan/longcat-flash-chat          |        43.9 |       0.1 |         5.2 |   125956 |  68.9 | openrouter |
 | z-ai/glm-4.5-air                    |        43.0 |       0.2 |         3.5 |   117415 | 160.1 | openrouter |
