@@ -8,7 +8,7 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last task list revision: **October 8th, 2025**
+Last task list revision: **November 7th, 2025**
 Tasks: **110**
 Input Tokens (all tasks): **14909**
 
@@ -66,7 +66,6 @@ Please see notes below the table if you see results you find surprising, or get 
 | Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
 | qwen3-next-80b-a3b-instruct         |        54.4 |       0.1 |         4.2 |   161977 | 110.9 | openrouter |
 | chatgpt-4o                          |        54.1 |       2.6 |         2.6 |    42545 | 163.1 | deprecated |
-| z-ai/glm-4.5v                       |        53.5 |       0.4 |        11.0 |   187593 |  74.5 | openrouter |
 | gpt-oss-20b                         |        53.2 |       0.5 |         3.3 |    38619 |  96.0 | kagi       |
 | deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi (depr)|
 | grok-code-fast-1                    |        52.5 |       1.0 |        10.1 |   323883 | 280.0 | kagi       |
