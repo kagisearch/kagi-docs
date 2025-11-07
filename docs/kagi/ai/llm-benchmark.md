@@ -39,6 +39,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | inclusionai/ring-1t                 |        66.4 |       1.0 |       269.7 |   406334 |   4.3 | openrouter |
 | grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
 | arcee-ai/maestro-reasoning          |        64.9 |       2.7 |        16.7 |   200565 | 103.4 | openrouter |
+| moonshotai/kimi-k2-thinking         |        64.4 |       0.8 |        47.4 |   338746 |  20.2 | openrouter |
 | qwen-plus-2025-07-28                |        63.3 |       1.1 |         9.0 |   143402 |  37.0 | openrouter |
 | stepfun-ai/step3                    |        62.3 |       1.6 |       174.2 |   417415 |   7.0 | openrouter |
 | gpt-5-nano                          |        62.2 |       0.4 |        20.5 |     9587 |   3.9 | kagi       |
@@ -47,7 +48,6 @@ Please see notes below the table if you see results you find surprising, or get 
 | cogito-v2-preview-llama-405b        |        61.1 |       2.1 |        35.4 |   201098 |  49.7 | together   |
 | z-ai/glm-4.5v                       |        59.8 |       0.7 |        12.9 |   171618 |  34.0 | openrouter |
 | claude-4-opus                       |        59.6 |       8.4 |         5.7 |    19505 |  29.3 | kagi (ult) |
-| moonshotai/kimi-k2-thinking         |        58.6 |       0.3 |        92.5 |   104041 |   3.7 | openrouter |
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |
 | cogito-v2-preview-deepseek-671b     |        58.4 |       0.7 |        18.2 |   184381 |  88.5 | together   |
 | claude-4-5-sonnet                   |        57.9 |       1.0 |         6.4 |   191834 |  84.9 | kagi       |
