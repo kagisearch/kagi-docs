@@ -20,6 +20,7 @@ Originally on [X.](https://x.com/uwukko/status/1985761547491168480)
 
 ## 1Password password generator
 ![1Password password generator](./media/1Pass.jpeg){data-zoomable}
+Originally on [X.](https://x.com/mr_walderman/status/1985780467321487782)
 
 ## Corporation
 ![Corporation](./media/corporation.jpeg){data-zoomable}
