@@ -21,8 +21,7 @@ When you use [Kagi Assistant](./assistant.md), we make API requests to third-par
 
 ¹ The Assistant does not include a [unique user identifier](https://platform.openai.com/docs/guides/safety-best-practices#end-user-ids) for these requests.
 
-² When our Azure OpenAI Service API quota is saturated, the request is sent to the fallback provider: OpenAI's own API. OpenAI is currently [required by court order to retain all chat logs](https://openai.com/index/response-to-nyt-data-demands/).
-We are working with Microsoft to raise the Azure quota and minimize these fallbacks.
+² OpenAI is [no longer required to retain all chat logs](https://openai.com/index/response-to-nyt-data-demands/).
 
 ³ o3/o3-pro models are not yet available to Kagi via Azure and go directly to OpenAI for now.
 
