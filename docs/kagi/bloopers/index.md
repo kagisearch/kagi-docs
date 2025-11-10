@@ -11,16 +11,16 @@ Originally on [Discord.](https://discord.com/channels/1256077108111868035/126275
 
 ## Hacker
 
-![Hacker](./media/hacker.png)
+![Hacker](./media/hacker.png){data-zoomable}
 Originally on [Mastodon.](https://mastodon.catgirl.cloud/@schrottkatze/115372806990060090)
 
 ## 1337 in French
-![1337 in French](./media/1337.jpeg)
+![1337 in French](./media/1337.jpeg){data-zoomable}
 Originally on [X.](https://x.com/uwukko/status/1985761547491168480)
 
 ## 1Password password generator
-![1Password password generator](./media/1Pass.jpeg)
+![1Password password generator](./media/1Pass.jpeg){data-zoomable}
 
 ## Corporation
-![Corporation](./media/corporation.jpeg)
+![Corporation](./media/corporation.jpeg){data-zoomable}
 Originally on [X.](https://x.com/proanatwink/status/1985800371688853783)
