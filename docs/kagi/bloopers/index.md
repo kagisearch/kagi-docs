@@ -2,7 +2,7 @@
 
 We're relentless in our pursuit of delivering the best quality search possible. But we're only human (well, [mostly](https://help.kagi.com/kagi/company/mascot.html)!) and building a search engine is complex, so sometimes Kagi serves up results that are more hilarious than helpful. 
 
-This is our blooper reel of these moments. Enjoy!
+This is our blooper reel of these moments. Enjoy and [share your own](#share-a-blooper)!
 
 ## NZ Dollar to US
 
