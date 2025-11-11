@@ -18,6 +18,11 @@ Originally on [Mastodon.](https://mastodon.catgirl.cloud/@schrottkatze/115372806
 ![1337 in French](./media/1337.jpeg){data-zoomable}
 Originally on [X.](https://x.com/uwukko/status/1985761547491168480)
 
+## Half pony
+
+![Half Pony](./media/HalfPony.png){data-zoomable}
+Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1356388397412778126)
+
 ## 1Password password generator
 ![1Password password generator](./media/1Pass.jpeg){data-zoomable}
 Originally on [X.](https://x.com/mr_walderman/status/1985780467321487782)
@@ -25,3 +30,6 @@ Originally on [X.](https://x.com/mr_walderman/status/1985780467321487782)
 ## Corporation
 ![Corporation](./media/corporation.jpeg){data-zoomable}
 Originally on [X.](https://x.com/proanatwink/status/1985800371688853783)
+
+## Share a blooper
+Have you come across a funny result yourself? [Share it with us!](mailto:esra@kagi.com)
