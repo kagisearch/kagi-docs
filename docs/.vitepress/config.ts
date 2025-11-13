@@ -216,6 +216,7 @@ function sidebarKagi() {
                         { text: 'Kagi Maps', link: '/kagi/features/maps' },
                         { text: 'Widgets', link: '/kagi/features/widgets' },
                         { text: 'Snaps', link: '/kagi/features/snaps' },
+                        { text: 'SlopStop', link: '/kagi/features/slopstop' },
                         { text: 'Exclude AI Images', link: '/kagi/features/exclude-ai-images' },
                     ]
                 },
