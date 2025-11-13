@@ -6,7 +6,7 @@ SlopStop is Kagi’s community-driven feature for reporting low-quality, mass‑
 
 Kagi Search already fights most SEO spam by downranking sites filled with ads and trackers. SlopStop adds a collaborative element: users can flag suspected AI slop, helping us identify domains and channels whose main purpose is to generate traffic with AI‑generated content.
 
-You can read more about this initiative in our [annoucement blog post](https://blog.kagi.com/slopstop).
+You can read more about this initiative in our [announcement blog post](https://blog.kagi.com/slopstop).
 
 ## What is considered “Slop"?
 
