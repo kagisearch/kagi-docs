@@ -201,6 +201,7 @@ function sidebarKagi() {
                     collapsed: true,
                     link: '/kagi/features/website-info-personalized-results',
                     items: [
+                        { text: 'SlopStop', link: '/kagi/features/slopstop' },                      
                         { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
                         { text: 'Lenses', link: '/kagi/features/lenses' },
                         { text: 'Keyboard Shortcuts', link: '/kagi/features/search-operators' },
