@@ -1,6 +1,6 @@
 ﻿# SlopStop
 
-![image](./media/kagi-slopstop-flag.png)
+![image](./media/kagi-slopstop-flag.png){data-zoomable}
 
 SlopStop is Kagi’s community-driven feature for reporting low-quality, mass‑generated AI content (“AI slop”) found in web, image and video search results.
 
@@ -34,7 +34,7 @@ Kagi supports AI tools that enhance creativity, but opposes those that undermine
 
 ## Reporting content
 
-![kagi-slopstop-report](./media/kagi-slopstop-report.png)
+![kagi-slopstop-report](./media/kagi-slopstop-report.png){data-zoomable}
 
 
 You can report on a single page, image, or video, with each report individually reviewed.
@@ -49,7 +49,7 @@ Reviews are typically completed within a week and actions (flags and downranking
 
 ### Check your report status
 
-![kagi-slopstop-status](./media/kagi-slopstop-status.png)
+![kagi-slopstop-status](./media/kagi-slopstop-status.png){data-zoomable}
 
 
 
