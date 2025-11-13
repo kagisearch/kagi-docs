@@ -1,4 +1,5 @@
 # Kagi Bloopers
+![Bloopers](./media/Bloopers.png)
 
 We're relentless in our pursuit of delivering the best quality search possible. But we're only human (well, [mostly](https://help.kagi.com/kagi/company/mascot.html)!) and building a search engine is complex, so sometimes Kagi serves up results that are more hilarious than helpful. 
 
