@@ -2,7 +2,7 @@
 
 ![image](./media/kagi-slopstop-flag.png)
 
-SlopStop is Kagi’s community-driven feature for reporting low-quality, mass‑generated AI content (“AI slop”) found in web, image and video search results. 
+SlopStop is Kagi’s community-driven feature for reporting low-quality, mass‑generated AI content (“AI slop”) found in web, image and video search results.
 
 Kagi Search already fights most SEO spam by downranking sites filled with ads and trackers. SlopStop adds a collaborative element: users can flag suspected AI slop, helping us identify domains and channels whose main purpose is to generate traffic with AI‑generated content.
 
@@ -29,7 +29,7 @@ You can read more about this initiative in our [annoucement blog post](https://b
 Downranking means flagged results can still appear, but lower than high‑quality original content. Removal is not the default.
 
 :::info A key difference
-Kagi supports AI tools that enhance creativity, but opposes those that undermine the authenticity and trust of human-made content. You can read more about our philosophy on AI [here](https://help.kagi.com/kagi/why-kagi/ai-philosophy.html).
+Kagi supports AI tools that enhance creativity, but opposes those that undermine the authenticity and trust of human-made content. You can read more about [our philosophy on AI](https://help.kagi.com/kagi/why-kagi/ai-philosophy.html).
 :::
 
 ## Reporting content
@@ -37,7 +37,7 @@ Kagi supports AI tools that enhance creativity, but opposes those that undermine
 ![kagi-slopstop-report](./media/kagi-slopstop-report.png)
 
 
-You can report on a single page, image or video, with each report individually reviewed.
+You can report on a single page, image, or video, with each report individually reviewed.
 Multiple reports for the same domain or channel help speed up the review process.
 
 Reviews are typically completed within a week and actions (flags and downranking) are applied once this is complete.
@@ -52,6 +52,7 @@ Reviews are typically completed within a week and actions (flags and downranking
 ![kagi-slopstop-status](./media/kagi-slopstop-status.png)
 
 
+
 - Go to **[Settings > Search > AI > SlopStop Reports](https://kagi.com/settings/slop_stop)** to view:
   - The URL you reported.
   - The time the report was sent (UTC).
@@ -62,6 +63,6 @@ Reviews are typically completed within a week and actions (flags and downranking
 - Why mention “mostly AI”?
   - It clarifies that SlopStop targets domains/channels primarily disseminating AI‑generated content, not sites that responsibly use AI alongside original work.
 - Does downranking hide results completely?
-  - No. Downranking reduces visibility, results may still appear, especially for specific queries. There is a setting for completely hiding slop images and videos, disabled by default.
+  - No. Downranking reduces visibility. Results may still appear, especially for specific queries. There is a setting for completely hiding slop images and videos, disabled by default.
 - Can I reverse a downranking by reporting “not AI slop”?
-  - Your report triggers re‑review. If we determine the content/domain/channel is not AI slop, we remove the flag and ranking is automatically adjusted.
+  - Your report triggers re‑review. If we determine the content/domain/channel is not AI slop, we will remove the flag and ranking will be automatically adjusted.
