@@ -199,7 +199,7 @@ function sidebarKagi() {
                 {
                     text: 'Search Features',
                     collapsed: true,
-                    link: '/kagi/features/website-info-personalized-results',
+                    link: '/kagi/features/slopstop',
                     items: [
                         { text: 'SlopStop', link: '/kagi/features/slopstop' },                      
                         { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
