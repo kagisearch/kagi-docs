@@ -301,6 +301,9 @@ function sidebarKagi() {
                 { text: 'Kagi Sidekick', link: '/kagi/sidekick/' },
             ]
         }
+        {
+            text: 'Bloopers', link: '/kagi/bloopers/',
+        },
     ]
 }
 
