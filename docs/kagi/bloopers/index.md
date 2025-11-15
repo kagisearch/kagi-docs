@@ -32,5 +32,9 @@ Originally on [X.](https://x.com/mr_walderman/status/1985780467321487782)
 ![Corporation](./media/corporation.jpeg){data-zoomable}
 Originally on [X.](https://x.com/proanatwink/status/1985800371688853783)
 
+## Pop OS
+![Corporation](./media/PopOS.png){data-zoomable}
+Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1297936179848548362)
+
 ## Share a blooper
 Have you come across a funny result yourself? [Share it with us!](mailto:esra@kagi.com)
