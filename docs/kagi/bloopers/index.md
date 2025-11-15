@@ -38,6 +38,7 @@ Originally on [Discord.](https://discord.com/channels/1256077108111868035/126275
 
 ## NAD amplifiers
 ![Search for NAD C368](./media/NAD.png){data-zoomable}
+Shared by Leo Fabriek.
 
 ## Share a blooper
 Have you come across a funny result yourself? [Share it with us!](mailto:esra@kagi.com)
