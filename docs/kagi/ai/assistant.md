@@ -186,6 +186,7 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Google        | [Gemini 2.5 Flash](https://kagi.com/assistant?profile=gemini-2-5-flash)                           | All      |
 | Google        | [Gemini 2.5 Flash Lite](https://kagi.com/assistant?profile=gemini-2-5-flash-lite)                 | All      |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | Ultimate |
+| Google        | [Gemini 3 Pro](https://kagi.com/assistant?profile=gemini-3-pro)                                   | Ultimate |
 | Meta          | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                           | All      |
 | Mistral AI    | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                 | All      |
 | Mistral AI    | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                               | All      |
