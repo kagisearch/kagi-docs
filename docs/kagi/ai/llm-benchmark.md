@@ -8,7 +8,7 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last task list revision: **November 7th, 2025**
+Last task list revision: **November 19th, 2025**
 Tasks: **116**
 Input Tokens (all tasks): **15256**
 
@@ -20,6 +20,7 @@ Please see notes below the table if you see results you find surprising, or get 
 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
 |-------------------------------------|-------------|-----------|-------------|----------|-------|------------|
+| gemini-3-pro                        |        80.1 |       0.4 |        54.9 |    15114 |   0.8 | kagi (ult) |
 | gpt-5-pro                           |        76.8 |      31.8 |       193.2 |   330943 |   5.2 | kagi (ult) |
 | claude-4-opus-thinking              |        74.3 |      22.4 |        13.3 |    17058 |  11.0 | kagi (ult) |
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
