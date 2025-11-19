@@ -1,17 +1,17 @@
 # Research Assistant & Quick Assistant
 
-<img src="./media/ki.svg" alt="Ki icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi's flagship research assistants. 
+<img src="./media/kagi_research.svg" alt="Ki icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi's flagship research assistants. 
 
-Kagi Research & Kagi Quick (formerly known as Ki) functions as "meta models": the research process is based around specialized sub-models that serve specific roles in the research and response process. Unlike traditional AI assistants that provide single-response answers, Kagi Research breaks down requests into multiple steps, using various tools and models to deliver state of the art results.
+Kagi Research & Kagi Quick (formerly known as Ki) function as "meta models": the research process is based around specialized sub-models that serve specific roles in the research and response process. Unlike traditional AI assistants that provide single-response answers, Kagi Research breaks down requests into multiple steps, using various tools and models to deliver state-of-the-art results.
 
 The system includes approximately 15 different agent roles, including research agents, final-response agents, contemplation-tool agents, and librarian agents for in-depth source analysis.
 
 ## Kagi Research modes
 
-Kagi Research Assistants offers two modes: Quick, Research:
+Kagi Research Assistants offer two modes: Quick and Research:
 
-| Feature | Ki Quick | Ki Research |
-|------|---------|-------|------------|
+| Feature | Kagi Quick | Kagi Research |
+|---------|------------|---------------|
 | **Plan** | All  | Ultimate |
 | **Avg. Research & Analysis Time** | <5 secs | 30sec + |
 | **Kagi Search** | ✓ | ✓ |
@@ -25,7 +25,7 @@ Kagi Research Assistants offers two modes: Quick, Research:
 | **Wolfram\|Alpha** |  | ✓ |
 | **Maps Search** |  | ✓ |
 
-**Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Ki Quick when you need quick answers to straightforward tasks.
+**Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Kagi Quick when you need quick answers to straightforward tasks.
 
 **Research** is Kagi's flagship agent, delivering frontier performance at most tasks. It provides the most thorough and comprehensive analysis, making it ideal for in-depth research, complex analysis, and tasks requiring maximum accuracy and detail.
 
@@ -68,7 +68,6 @@ I'm planning a 5-day trip to Japan in April. Research the best areas to stay in 
 ### Home Improvement
 I need to replace my water heater. Compare tankless vs. traditional tank water heaters for a family of four, including upfront costs, energy savings over 10 years, and installation requirements. Show me the math on break-even points.
 
-
 ### Health & Fitness
 Create a beginner strength training program for me. Research proper form for basic exercises, generate a 3-day-per-week schedule, calculate my estimated calorie needs based on my stats, and create a simple meal plan with macros.
 
@@ -82,5 +81,5 @@ My electricity bill jumped 40% this month. Research common causes of sudden incr
 
 To access Kagi Research, open Assistant and click the model selector dropdown.
 Under the Kagi Research tab, you'll find two options: 
-- <img src="./media/ki-quick.svg" alt="Ki Quick icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki Quick
-- <img src="./media/ki-research.svg" alt="Ki Research icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Ki Research
+- <img src="./media/kagi_quick.svg" alt="Kagi Quick icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi Quick
+- <img src="./media/kagi_research.svg" alt="Kagi Research icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi Research
