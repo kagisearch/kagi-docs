@@ -75,5 +75,9 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 
 ## Playdate
 
-- [Cranky News:](https://github.com/remysucre/cranky-news) Mirror of [Kagi News](https://news.kagi.com/) for Playdate devices. 
+- [Cranky News:](https://github.com/remysucre/cranky-news) Mirror of [Kagi News](https://news.kagi.com/) for Playdate devices.
+
+## TRMNL
+
+- [Kagi News plugin](https://usetrmnl.com/recipes/45842/) for TRMNL devices.
 
