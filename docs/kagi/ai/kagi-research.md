@@ -23,7 +23,6 @@ Kagi Research Assistants offer two modes: Quick and Research:
 | **Image Editing** |  | ✓ |
 | **Reasoning Model** |  | ✓ |
 | **Wolfram\|Alpha** |  | ✓ |
-| **Maps Search** |  | ✓ |
 
 **Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Kagi Quick when you need quick answers to straightforward tasks.
 
