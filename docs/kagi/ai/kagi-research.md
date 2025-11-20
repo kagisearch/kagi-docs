@@ -85,9 +85,9 @@ Under the Assistants tab, you'll find two options:
 ## Kagi Search Bangs
 
 You can launch the research assistants directly from Kagi Search using bangs:
-- `!kiq` - Opens Kagi Quick with your query
-- `!kir` - Opens Kagi Research with your query
+- `!quick` - Opens Kagi Quick with your query
+- `!research` - Opens Kagi Research with your query
 
 Examples: 
-- `!kiq best coffee shops in Seattle`
-- `!kir analyze climate change solutions`
+- `!quick best coffee shops in Seattle`
+- `!research analyze climate change solutions`
