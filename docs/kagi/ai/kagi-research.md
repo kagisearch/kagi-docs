@@ -77,8 +77,8 @@ My electricity bill jumped 40% this month. Research common causes of sudden incr
 
 ## Accessing Kagi Research
 
-To access Kagi Research, open Assistant and click the model selector dropdown.
-Under the Kagi Research tab, you'll find two options: 
+To access Kagi Research and Kagi Quick, open Assistant and click the model selector dropdown.
+Under the Assistants tab, you'll find two options: 
 - <img src="./media/kagi_quick.svg" alt="Kagi Quick icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi Quick
 - <img src="./media/kagi_research.svg" alt="Kagi Research icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi Research
 
