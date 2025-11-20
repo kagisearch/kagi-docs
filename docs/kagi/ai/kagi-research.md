@@ -4,7 +4,7 @@
 
 Kagi Research & Kagi Quick (formerly known as Ki) function as "meta models": the research process is based around specialized sub-models that serve specific roles in the research and response process. Unlike traditional AI assistants that provide single-response answers, Kagi Research breaks down requests into multiple steps, using various tools and models to deliver state-of-the-art results.
 
-The system includes approximately 15 different agent roles, including research agents, final-response agents, contemplation-tool agents, and librarian agents for in-depth source analysis.
+The system includes approximately 15 different agent roles, including research agents, final-response agents, and librarian agents for in-depth source analysis.
 
 ## Kagi Research modes
 
@@ -21,7 +21,6 @@ Kagi Research Assistants offer two modes: Quick and Research:
 | **Python Interpreter** |  | ✓ |
 | **Image Generation** |  | ✓ |
 | **Image Editing** |  | ✓ |
-| **Reasoning Model** |  | ✓ |
 | **Wolfram\|Alpha** |  | ✓ |
 
 **Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Kagi Quick when you need quick answers to straightforward tasks.
@@ -41,7 +40,7 @@ Kagi Research has access to a comprehensive toolkit that enables it to handle di
 - **Maps Search**: Finds places and points of interest
 - **File Processing**: Reads and analyzes various file formats, including text, PDF, images, video, and audio
 
-Kagi Research can make up to 5 tool calls per query, allowing it to chain multiple operations together to accomplish complex tasks.
+Kagi Research can perform up to 5 steps per query, with up to approximately 15 tool calls, allowing it to chain multiple operations together to accomplish complex tasks.
 
 ## When to use Kagi Research
 
