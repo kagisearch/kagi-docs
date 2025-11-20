@@ -1,4 +1,4 @@
-# Research Assistant & Quick Assistant
+# Kagi Research Assistants
 
 <img src="./media/kagi_research.svg" alt="Ki icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi's flagship research assistants. 
 
@@ -15,8 +15,8 @@ Kagi Research Assistants offer two modes: Quick and Research:
 | **Plan** | All  | Ultimate |
 | **Avg. Research & Analysis Time** | <5 secs | 30sec + |
 | **Kagi Search** | ✓ | ✓ |
-| **Response Planning** | ✓ | ✓ |
-| **Librarian** (in-depth source analysis) |  | ✓ |
+| **Librarian** (in-depth source analysis) | ✓ | ✓ |
+| **Response Planning** |  | ✓ |
 | **Research Planning** |  | ✓ |
 | **Python Interpreter** |  | ✓ |
 | **Image Generation** |  | ✓ |
@@ -83,3 +83,13 @@ To access Kagi Research, open Assistant and click the model selector dropdown.
 Under the Kagi Research tab, you'll find two options: 
 - <img src="./media/kagi_quick.svg" alt="Kagi Quick icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi Quick
 - <img src="./media/kagi_research.svg" alt="Kagi Research icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> Kagi Research
+
+## Kagi Search Bangs
+
+You can launch the research assistants directly from Kagi Search using bangs:
+- `!kiq` - Opens Kagi Quick with your query
+- `!kir` - Opens Kagi Research with your query
+
+Examples: 
+- `!kiq best coffee shops in Seattle`
+- `!kir analyze climate change solutions`
