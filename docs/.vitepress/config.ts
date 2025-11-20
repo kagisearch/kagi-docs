@@ -225,6 +225,7 @@ function sidebarKagi() {
                     collapsed: true,
                     items: [
                         { text: 'Kagi Assistant', link: '/kagi/ai/assistant' },
+                        { text: 'Kagi Research Assistants', link: '/kagi/ai/kagi-research' },
                         { text: 'Custom Assistants', link: '/kagi/ai/custom-assistants' },
                         { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
                         { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
