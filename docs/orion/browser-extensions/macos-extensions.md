@@ -29,7 +29,7 @@ By adopting the WebExtensions APIs, we've shown our support for creating a unifi
 
 On top of that, we've built advanced security features that give our users granular control over extensions, far beyond what Chrome and Firefox offer. For example, you can choose to allow an extension to run only on certain websites.
 
-Orion support for WebExtensions APIs is [currently at about 70%](#supported-webextensions-apis). **This means that many extensions will work but also that many are not fully supported**. When an extension does not work in Orion, it is likely not a bug, but we did not support all the APIs it needs to run on WebKit yet. It is enough that one API is not supported for the extension to not work. Our goal is to have 100% extension support by the time Orion leaves beta.
+Orion support for WebExtensions APIs is [currently at about 70%](#supported-webextensions-apis). **This means that many extensions will work but also that many are not fully supported**. When an extension does not work in Orion, it is likely not a bug, but we did not support all the APIs it needs to run on WebKit yet. It is enough that one API is not supported for the extension to not work.
 
 Note that while we designed Orion to be as fast and lightweight as possible, extensions may affect Orion's performance, which is out of our control. We advise limiting the number of extensions you use to only the bare minimum required by your workflow. Orion includes many extension features natively, including a built in ad-blocker.
 
