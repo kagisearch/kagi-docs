@@ -59,3 +59,4 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 
 - Launched Privacy Pass & Tor Onion Service
 - Team now numbers 45
+- Orion exits beta
