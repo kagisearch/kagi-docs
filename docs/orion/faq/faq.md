@@ -117,7 +117,7 @@ Yep, Orion is available for both [iOS](https://apps.apple.com/app/orion-browser-
 <a name="oldbuilds"></a>
 ## Is there any way to get a previous build of Orion?
 
-Yes, things don't always go as planned and mistakes can happen. If you ever need a previous version, you need to type a specific URL to get the version you want:  https://cdn.kagi.com/updates/{Current_OS}/{Orion_Beta_Version}.zip
+Yes, things don't always go as planned and mistakes can happen. If you ever need a previous version, you need to type a specific URL to get the version you want:  https://cdn.kagi.com/updates/{Current_OS}/{Orion_Version}.zip
 
 ### Examples: Version 0.99.125-beta
 - [cdn.kagi.com/updates/14_0/125.zip](https://cdn.kagi.com/updates/14_0/125.zip)  (Sonoma)

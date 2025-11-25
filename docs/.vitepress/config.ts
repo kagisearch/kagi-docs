@@ -342,7 +342,6 @@ function sidebarOrion() {
                     collapsed: true,
                     items: [
                         { text: 'Getting help and contributing', link: '/orion/support-and-community/' },
-                        { text: 'Orion is in Public Beta', link: '/orion/getting-started/public-beta' },
                         { text: 'Supported OS Versions', link: '/orion/support-and-community/os-versions' },
                         { text: 'Product Roadmap & Feedback Forum', link: '/orion/support-and-community/roadmap-feedback-forum' },
                         { text: 'Discord Server', link: '/orion/support-and-community/discord-server' },
