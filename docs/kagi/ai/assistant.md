@@ -254,7 +254,7 @@ We also offer an Ultimate upgrade for Family Plans. You can upgrade from the [Fa
 
 ### Context window limit
 
-There's no fixed limit on conversation length. We automatically optimize lengthy chats behind the scenes to maintain performance.
+There's no fixed limit on conversation length. We automatically optimize lengthy chats behind the scenes to maintain performance using summarization and truncation techniques.
 
 ### Input limitations
 
