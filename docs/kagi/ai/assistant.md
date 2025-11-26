@@ -178,9 +178,9 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Alibaba       | [Qwen 3 Coder](https://kagi.com/assistant?profile=qwen-3-coder)                                   | All      |
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | Ultimate |
 | Anthropic     | [Claude 4.5 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | Ultimate |
-| Anthropic     | [Claude 4.1 Opus](https://kagi.com/assistant?profile=claude-4-opus)                               | Ultimate |
+| Anthropic     | [Claude 4.5 Opus](https://kagi.com/assistant?profile=claude-4-opus)                               | Ultimate |
 | Anthropic     | [Claude 4.5 Sonnet (Reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | Ultimate |
-| Anthropic     | [Claude 4.1 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-opus-thinking)          | Ultimate |
+| Anthropic     | [Claude 4.5 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-opus-thinking)          | Ultimate |
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | Ultimate |
 | Deepseek      | [DeepSeek Chat V3.1 Terminus](https://kagi.com/assistant?profile=deepseek)                        | All      |
 | Google        | [Gemini 2.5 Flash](https://kagi.com/assistant?profile=gemini-2-5-flash)                           | All      |
@@ -254,7 +254,7 @@ We also offer an Ultimate upgrade for Family Plans. You can upgrade from the [Fa
 
 ### Context window limit
 
-There's no fixed limit on conversation length. We automatically optimize lengthy chats behind the scenes to maintain performance.
+There's no fixed limit on conversation length. We automatically optimize lengthy chats behind the scenes to maintain performance using summarization and truncation techniques. Currently, these techniques are used when the chat history reaches about 32k tokens in size.
 
 ### Input limitations
 
