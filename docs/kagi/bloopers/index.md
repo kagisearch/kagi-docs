@@ -40,5 +40,10 @@ Originally on [Discord.](https://discord.com/channels/1256077108111868035/126275
 ![Search for NAD C368](./media/NAD.png){data-zoomable}
 Shared by Leo Fabriek.
 
+## Atmospheric pressure
+
+![Atmospheric pressure](./media/Pressure.png){data-zoomable}
+Shared by Mikhail O.
+
 ## Share a blooper
 Have you come across a funny result yourself? [Share it with us!](mailto:esra@kagi.com)
