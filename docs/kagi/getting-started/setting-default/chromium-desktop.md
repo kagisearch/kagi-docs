@@ -38,5 +38,7 @@ To enhance your browsing experience with Kagi, follow these steps to set Kagi as
 3. Click the three dots next to the Kagi entry in the list.
 4. Click **Make default**.
 
-Note: Opera is no longer compatible as it is restricting users from using alternative search engines. If you are an Opera user you can [reach out to Opera](https://opera.atlassian.net/servicedesk/customer/portal/9) and request them to add Kagi to their list of search engines.
+> **Note:** To see search suggestions in the address bar as you type, make sure **Improve search suggestions** is enabled in Chrome's Settings. Go to **Settings > You and Google > Sync and Google services > Other Google services > Improve search suggestions** and toggle it on.
+
+> **Note:** Opera is no longer compatible as it is restricting users from using alternative search engines. If you are an Opera user you can [reach out to Opera](https://opera.atlassian.net/servicedesk/customer/portal/9) and request them to add Kagi to their list of search engines.
 
