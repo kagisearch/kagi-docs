@@ -17,15 +17,18 @@ The easiest way to set Kagi as default on Firefox is by installing our [browser 
 
 To set up a private session link in Firefox:
 
-1. Enter about:config in the address bar and press enter
-2. Add a new preference called `browser.urlbar.update2.engineAliasRefresh`, of type `Boolean` and value `true`. (This will enable the button to add a new search engine in about:preferences#search)
-3. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
-4. Click the "Add" button below the table under the heading "Search Shortcuts"
-5. Enter the following values:
-	- **Search engine name:** `Kagi Search`
-	- **Engine URL:** `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](./../../privacy/private-browser-sessions))
-	- **Alias:** `kagi`
-6. Select the new "Kagi Search" as your default search engine using the dropdown at the top of this page.
+1. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
+1. Click the "Add" button below the table under the heading "Search Shortcuts"
+1. Click the "Advanced" button on the bottom of the popup that opens
+1. Enter the following values:
+	1. **Search engine name**: `Kagi Search`
+	1. **URL with %s in place of search term**: `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](./../../privacy/private-browser-sessions))
+	1. **Keyword (optional)**: `kagi`
+	1. **Suggestions URL with %s in place of search term (optional)**: `https://kagisuggest.com/api/autosuggest?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](./../../privacy/private-browser-sessions))
+1. Click the "Save Engine" button
+1. Select the new "Kagi Search" as your default search engine using the dropdown at the top of this page.
 
-There is currently no way to manually set the 'Search suggestion API' for a search engine in Firefox desktop.
-Installing [the extension](#browser_extension) does allow you to use suggestions.
+To enable search suggestions in private windows:
+
+1. Open this URL in your search bar: [about:preferences#search](about:preferences#search)
+1. Select "Show search suggestions in Private Windows" underneath the **Search Suggestions** heading.
