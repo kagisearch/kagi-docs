@@ -81,3 +81,6 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 
 - [Kagi News plugin](https://usetrmnl.com/recipes/45842/) for TRMNL devices.
 
+## Pebble
+- [Kagi News app](https://apps.rebble.io/en_US/application/692b3f0549be450009b545ce) for Pebble watches
+
