@@ -11,5 +11,5 @@ To set Kagi as the default search engine on Vivaldi for iOS or Android:
 ## Updated Method
 To set Kagi as the default search engine on Vivaldi for Android:
 
-- Head to [kagi.com](https://kagi.com) with a logged in session. Long hold on the search field and pross "Add as Search Engine"
+- Head to [kagi.com](https://kagi.com) with a logged in session. Long hold on the search field and press "Add as Search Engine"
 - Go to settings, navigate to **Search engine** and select "Kagi.com" under Standard Tab.
