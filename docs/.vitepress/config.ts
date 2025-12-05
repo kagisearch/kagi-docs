@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
-import { SearchPlugin } from 'kagi-sidekick-vitepress'
+// NOTE(z64): Sidekick has some issues. Disabling for now until we can look into it.
+// https://kagifeedback.org/d/7946-kagi-documentation-search-doesnt-work-on-mobile-devices/
+// import { SearchPlugin } from 'kagi-sidekick-vitepress'
 import markdownItKatex from '@vscode/markdown-it-katex'
 
 // https://vitepress.dev/reference/site-config
@@ -32,31 +34,7 @@ export default defineConfig({
             { icon: 'github', link: 'https://github.com/kagisearch/kagi-docs' }
         ],
         search: {
-            // provider: 'local'
-            provider: 'algolia',
-            options: {
-                // https://github.com/vuejs/vitepress/blob/main/types/docsearch.d.ts
-                /*
-                 * Docsearch
-                 */
-                // appId: '9I636LYHG7',
-                // apiKey: '9d3f84a3dd65cd4a34dc0937e57a54be',
-                // indexName: 'kagi',
-                //
-                /*
-                 * GROW Plan
-                */
-                appId: 'KX359CJ2OY',
-                apiKey: '9cfd923a26bff9dafd7844f20c71944c',
-                indexName: 'kagi-docs',
-                translations: {
-                    modal: {
-                        footer: {
-                            searchByText: '',
-                        }
-                    }
-                }
-            }
+            provider: 'local',
         },
         editLink: {
             pattern: 'https://github.com/kagisearch/kagi-docs/edit/main/docs/:path',
@@ -67,9 +45,9 @@ export default defineConfig({
         resolve: {
             preserveSymlinks: true,
         },
-        plugins: [SearchPlugin({
-            origin: "https://sidekick.kagi.com"
-        })]
+        // plugins: [SearchPlugin({
+        //     origin: "https://sidekick.kagi.com"
+        // })]
     },
     ignoreDeadLinks: true,
     sitemap: {

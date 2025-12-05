@@ -191,6 +191,7 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Mistral AI    | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                 | All      |
 | Mistral AI    | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                               | All      |
 | Moonshot AI   | [Kimi K2](https://kagi.com/assistant?profile=kimi-k2)                                             | All      |
+| Moonshot AI   | [Kimi K2 (reasoning) (preview)](https://kagi.com/assistant?profile=kimi-k2-thinking)              | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | All      |
 | OpenAI        | [GPT 5 Mini](https://kagi.com/assistant?profile=gpt-5-mini)                                       | All      |
 | OpenAI        | [GPT 5 Nano](https://kagi.com/assistant?profile=gpt-5-nano)                                       | All      |
