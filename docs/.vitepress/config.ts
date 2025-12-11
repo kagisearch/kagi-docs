@@ -211,9 +211,9 @@ function sidebarKagi() {
                         { text: 'LLMs & Privacy', link: '/kagi/ai/llms-privacy' },
                     ]
                 },
-                { text: 'Universal Summarizer', link: '/kagi/summarizer/' },
                 { text: 'Kagi Translate', link: '/kagi/translate/' },
                 { text: 'Kagi News', link: '/kagi/news/' },
+                { text: 'Universal Summarizer', link: '/kagi/summarizer/' },
 
 		{
 			  text: 'Settings',
