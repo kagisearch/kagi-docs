@@ -175,7 +175,7 @@ function sidebarKagi() {
                     ]
                 },
                 {
-                    text: 'Search Features',
+                    text: 'Kagi Search',
                     collapsed: true,
                     link: '/kagi/features/slopstop',
                     items: [
@@ -196,23 +196,23 @@ function sidebarKagi() {
                         { text: 'Widgets', link: '/kagi/features/widgets' },
                         { text: 'Snaps', link: '/kagi/features/snaps' },
                         { text: 'Exclude AI Images', link: '/kagi/features/exclude-ai-images' },
+                        { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
+                        { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
                     ]
                 },
                 {
-                    text: 'AI Features', link: '/kagi/ai/kagi-ai',
+                    text: 'Kagi Assistant', link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
                         { text: 'Kagi Assistant', link: '/kagi/ai/assistant' },
                         { text: 'Kagi Research Assistants', link: '/kagi/ai/kagi-research' },
                         { text: 'Custom Assistants', link: '/kagi/ai/custom-assistants' },
-                        { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
-                        { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
-                        { text: 'Kagi Translate', link: '/kagi/ai/translate' },
-                        { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
                         { text: 'Kagi LLM Benchmarking Project', link: '/kagi/ai/llm-benchmark' },
                         { text: 'LLMs & Privacy', link: '/kagi/ai/llms-privacy' },
                     ]
                 },
+                { text: 'Universal Summarizer', link: '/kagi/summarizer/' },
+                { text: 'Kagi Translate', link: '/kagi/translate/' },
 
 		{
 			  text: 'Settings',
