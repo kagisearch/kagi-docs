@@ -213,6 +213,7 @@ function sidebarKagi() {
                 },
                 { text: 'Universal Summarizer', link: '/kagi/summarizer/' },
                 { text: 'Kagi Translate', link: '/kagi/translate/' },
+                { text: 'Kagi News', link: '/kagi/news/' },
 
 		{
 			  text: 'Settings',
@@ -237,9 +238,6 @@ function sidebarKagi() {
     			{ text: 'Delete Your Account',link: '/kagi/settings/delete-account'  }
   		]
 		},
-                {
-                    text: 'Kagi News', link: '/kagi/news/',
-                },
                 {
                     text: 'Community Add-ons', link: '/kagi/community-addons/',
                 },
