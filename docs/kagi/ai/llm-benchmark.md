@@ -77,6 +77,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | kimi-k2-0905 (see note below)       |        52.2 |       0.3 |        11.3 |    30772 |  23.1 | openrouter |
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | nvidia/nemotron-nano-12b-v2-vl      |        51.7 |       0.1 |        24.6 |   153175 |  19.7 | openrouter |
+| mistral-large-3                     |        50.9 |       0.1 |        12.4 |    30715 |   7.0 | kagi    |
 | mistral-medium                      |        50.0 |       0.5 |         2.9 |   120090 |  67.8 | kagi       |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
 | Qwen3-14B                           |        49.1 |       0.5 |        15.2 |   277558 |  78.8 | nebius     |
