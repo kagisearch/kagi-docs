@@ -129,15 +129,6 @@ Note: Unsupported formats may be treated as binary files.
 Assistant can fetch webpages and online documents (up to 50 MB) to use them as context for your conversation.
 To use this feature, simply paste the URL in your Assistant conversation (make sure the Entire Web toggle is on).
 
-### Critique Browser Bookmarklet
-
-A bookmarklet can be used to start a new conversation about a text selection or page with the `!ai` bang, requesting that it critique the text:
-
-1. Drag this link to your bookmarks bar: <a href="javascript:(function(){var selectedText=window.getSelection().toString().trim();window.location.href='https://kagi.com/search?q=%21ai%20Please%20Critique%3A%20'+(selectedText?encodeURIComponent(selectedText):encodeURIComponent(window.location.href));})();">Kagi Assistant Critique</a>
-2. Use the bookmarklet to open a new chat:
-   - Reviewing selected text: Select text, then click bookmarklet
-   - Critiquing the entire page: Click bookmarklet without selecting text
-
 ## Custom Instructions
 
 Do you prefer a more personalized Assistant experience?
