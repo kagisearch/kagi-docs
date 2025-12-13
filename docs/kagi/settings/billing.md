@@ -25,9 +25,9 @@ You will also see options to:
 
 We have documentation that covers how to:
 
-* [Sign up for the Premium Plan](../plans/premium-plan.md#signing-up-for-the-premium-plans)
-* [Manage your billing](../plans/premium-plan.md#managing-billing)
-* [Cancel your Subscription](../plans/premium-plan.md#canceling-a-premium-plan)
+* [Sign up for the Premium Plan](../plans/plan-management.md#signing-up-for-the-premium-plans)
+* [Manage your billing](../plans/plan-management.md#managing-billing)
+* [Cancel your Subscription](../plans/plan-management.md#canceling-a-premium-plan)
 * [Switch your Plan](#switching-a-plan)
 
 ## <a name="switch_plan"></a>Switching a Plan

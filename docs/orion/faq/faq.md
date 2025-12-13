@@ -117,7 +117,7 @@ Yep, Orion is available for both [iOS](https://apps.apple.com/app/orion-browser-
 <a name="oldbuilds"></a>
 ## Is there any way to get a previous build of Orion?
 
-Yes, things don't always go as planned and mistakes can happen. If you ever need a previous version, you need to type a specific URL to get the version you want:  https://cdn.kagi.com/updates/{Current_OS}/{Orion_Beta_Version}.zip
+Yes, things don't always go as planned and mistakes can happen. If you ever need a previous version, you need to type a specific URL to get the version you want:  https://cdn.kagi.com/updates/{Current_OS}/{Orion_Version}.zip
 
 ### Examples: Version 0.99.125-beta
 - [cdn.kagi.com/updates/14_0/125.zip](https://cdn.kagi.com/updates/14_0/125.zip)  (Sonoma)
@@ -291,11 +291,14 @@ The easiest way is by navigating to **Orion** > **Reset Orion**. Alternatively, 
 
 <a name="other_os_support"></a>
 ## Are there plans for a Windows/Linux/Android version of Orion? {#other_os_support}
-Orion for Linux is currently being worked on.
-For a [sneak peek,](https://blog.kagi.com/first-three-years#:~:text=have%20started%20building-,Orion%20for%20Linux,-.%20It%20is%20a) you can check out the Kagi blog post from June 2025.
-To stay up-to-date on Orion for Linux development, consider signing up for the [newsletter](https://forms.kagi.com/?q=orion_linux_news).
+We are working on Orion for Linux and Windows.
+For a [sneak peek](https://blog.kagi.com/orion), you can check out the Orion blog post from November 2025.
 
-Android and Windows versions are currently not being worked on, as the resources those would require are far greater than what is currently available.
+To stay up-to-date on development for Linux and Windows, consider signing up for our newsletter:
+- [Orion for Linux Newsletter](https://form.kagi.com/orion-linux-newsletter) 
+- [Orion for Windows Newsletter](https://form.kagi.com/orion-windows-newsletter)
+
+An Android version is not currently being worked on, as the resources those would require are far greater than what is currently available.
 Since Orion is funded by its users only, it is entirely up to the number of subscribers and Orion+ sales we have that will enable funding a new team to make Orion for any new platform.
 Building a browser is not cheap, especially one on top of WebKit.
 

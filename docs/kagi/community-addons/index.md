@@ -11,6 +11,7 @@ If you created or found a Kagi integration with other products or tools, we woul
 
 - [FastGPT for Raycast](https://www.raycast.com/http.james/kagi-fastgpt): Bring the power of our [FastGPT API](../api/fastgpt.md) right to your desktop.
 - [Kagi Search](https://www.raycast.com/fearoffish/kagi-search): Instant search with using the Kagi Search API, with autosuggestions, bang support and access to FastGPT.
+- [Kagi News](https://www.raycast.com/mickaphd/kagi-news): Browse [news](https://news.kagi.com/) across 80+ categories with quick summaries featuring key points, source references, and availability in 25+ languages.
 
 ## Alfred
 
@@ -41,11 +42,11 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 
 ## Apple Shortcuts
 
-[Summarize URL](https://www.icloud.com/shortcuts/8d2668c84ad34203b47c519e066ce205): Summarize any URL using the Share Sheet or your Clipboard on your iPhone, iPad or Mac - Credits to [Sean Chou](https://twitter.com/sychou)
+- [Summarize URL](https://www.icloud.com/shortcuts/8d2668c84ad34203b47c519e066ce205): Summarize any URL using the Share Sheet or your Clipboard on your iPhone, iPad or Mac - Credits to [Sean Chou](https://twitter.com/sychou)
 
-[Ask Kagi](https://www.icloud.com/shortcuts/c92d096f37984fe4b756a6ff2eafc795): Ask Kagi's FastGPT AI questions, Siri will read out the result. Great for idle questions in the car! You must insert your own API key, get your API key [here](https://help.kagi.com/kagi/api/fastgpt.html#quick-start) - Credits to [Alex Schuldberg](https://bsky.app/profile/schuldberg.com)
+- [Ask Kagi](https://www.icloud.com/shortcuts/c92d096f37984fe4b756a6ff2eafc795): Ask Kagi's FastGPT AI questions, Siri will read out the result. Great for idle questions in the car! You must insert your own API key, get your API key [here](https://help.kagi.com/kagi/api/fastgpt.html#quick-start) - Credits to [Alex Schuldberg](https://bsky.app/profile/schuldberg.com)
 
-[Talk to Kagi](https://www.dropbox.com/scl/fi/3v7pv92cold4zwfikn0bi/Talk-to-Kagi.shortcut?rlkey=yp3yjoukdpdspa5nmr4rjsig0&e=1&dl=0): an enhanced version of Alex Schuldberg's Ask Kagi that makes use of Siri's native Text-to-Speech, as well as a conversational loop with a limited memory of previous questions for context. Credits to [Jesse Garrison](https://nightlight.io)
+- [Talk to Kagi](https://www.dropbox.com/scl/fi/3v7pv92cold4zwfikn0bi/Talk-to-Kagi.shortcut?rlkey=yp3yjoukdpdspa5nmr4rjsig0&e=1&dl=0): an enhanced version of Alex Schuldberg's Ask Kagi that makes use of Siri's native Text-to-Speech, as well as a conversational loop with a limited memory of previous questions for context. Credits to [Jesse Garrison](https://nightlight.io)
 
 ## Script Kit
 
@@ -73,4 +74,15 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 ## Kagi FastGPT Sidebar
 
 - [Kagi FastGPT Sidebar](https://github.com/0xgingi/kagi-fastgpt-sidebar) is an Chrome/Firefox extension that lets you to ask questions about a web page using the FastGPT API.
+
+## Playdate
+
+- [Cranky News:](https://github.com/remysucre/cranky-news) Mirror of [Kagi News](https://news.kagi.com/) for Playdate devices.
+
+## TRMNL
+
+- [Kagi News plugin](https://usetrmnl.com/recipes/45842/) for TRMNL devices.
+
+## Pebble
+- [Kagi News app](https://apps.rebble.io/en_US/application/692b3f0549be450009b545ce) for Pebble watches
 

@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
-import { SearchPlugin } from 'kagi-sidekick-vitepress'
+// NOTE(z64): Sidekick has some issues. Disabling for now until we can look into it.
+// https://kagifeedback.org/d/7946-kagi-documentation-search-doesnt-work-on-mobile-devices/
+// import { SearchPlugin } from 'kagi-sidekick-vitepress'
 import markdownItKatex from '@vscode/markdown-it-katex'
 
 // https://vitepress.dev/reference/site-config
@@ -32,31 +34,7 @@ export default defineConfig({
             { icon: 'github', link: 'https://github.com/kagisearch/kagi-docs' }
         ],
         search: {
-            // provider: 'local'
-            provider: 'algolia',
-            options: {
-                // https://github.com/vuejs/vitepress/blob/main/types/docsearch.d.ts
-                /*
-                 * Docsearch
-                 */
-                // appId: '9I636LYHG7',
-                // apiKey: '9d3f84a3dd65cd4a34dc0937e57a54be',
-                // indexName: 'kagi',
-                //
-                /*
-                 * GROW Plan
-                */
-                appId: 'KX359CJ2OY',
-                apiKey: '9cfd923a26bff9dafd7844f20c71944c',
-                indexName: 'kagi-docs',
-                translations: {
-                    modal: {
-                        footer: {
-                            searchByText: '',
-                        }
-                    }
-                }
-            }
+            provider: 'local',
         },
         editLink: {
             pattern: 'https://github.com/kagisearch/kagi-docs/edit/main/docs/:path',
@@ -67,9 +45,9 @@ export default defineConfig({
         resolve: {
             preserveSymlinks: true,
         },
-        plugins: [SearchPlugin({
-            origin: "https://sidekick.kagi.com"
-        })]
+        // plugins: [SearchPlugin({
+        //     origin: "https://sidekick.kagi.com"
+        // })]
     },
     ignoreDeadLinks: true,
     sitemap: {
@@ -197,10 +175,11 @@ function sidebarKagi() {
                     ]
                 },
                 {
-                    text: 'Search Features',
+                    text: 'Kagi Search',
                     collapsed: true,
-                    link: '/kagi/features/website-info-personalized-results',
+                    link: '/kagi/features/slopstop',
                     items: [
+                        { text: 'SlopStop', link: '/kagi/features/slopstop' },                      
                         { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
                         { text: 'Lenses', link: '/kagi/features/lenses' },
                         { text: 'Keyboard Shortcuts', link: '/kagi/features/search-operators' },
@@ -217,22 +196,24 @@ function sidebarKagi() {
                         { text: 'Widgets', link: '/kagi/features/widgets' },
                         { text: 'Snaps', link: '/kagi/features/snaps' },
                         { text: 'Exclude AI Images', link: '/kagi/features/exclude-ai-images' },
+                        { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
+                        { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
                     ]
                 },
                 {
-                    text: 'AI Features', link: '/kagi/ai/kagi-ai',
+                    text: 'Kagi Assistant', link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
                         { text: 'Kagi Assistant', link: '/kagi/ai/assistant' },
+                        { text: 'Kagi Research Assistants', link: '/kagi/ai/kagi-research' },
                         { text: 'Custom Assistants', link: '/kagi/ai/custom-assistants' },
-                        { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
-                        { text: 'Summarize Page', link: '/kagi/ai/summarize-page' },
-                        { text: 'Kagi Translate', link: '/kagi/ai/translate' },
-                        { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
                         { text: 'Kagi LLM Benchmarking Project', link: '/kagi/ai/llm-benchmark' },
                         { text: 'LLMs & Privacy', link: '/kagi/ai/llms-privacy' },
                     ]
                 },
+                { text: 'Kagi Translate', link: '/kagi/translate/' },
+                { text: 'Kagi News', link: '/kagi/news/' },
+                { text: 'Universal Summarizer', link: '/kagi/summarizer/' },
 
 		{
 			  text: 'Settings',
@@ -257,9 +238,6 @@ function sidebarKagi() {
     			{ text: 'Delete Your Account',link: '/kagi/settings/delete-account'  }
   		]
 		},
-                {
-                    text: 'Kagi News', link: '/kagi/news/',
-                },
                 {
                     text: 'Community Add-ons', link: '/kagi/community-addons/',
                 },
@@ -299,7 +277,10 @@ function sidebarKagi() {
                 },
                 { text: 'Kagi Sidekick', link: '/kagi/sidekick/' },
             ]
-        }
+        },
+        {
+            text: 'Bloopers', link: '/kagi/bloopers/',
+        },
     ]
 }
 
@@ -337,7 +318,6 @@ function sidebarOrion() {
                     collapsed: true,
                     items: [
                         { text: 'Getting help and contributing', link: '/orion/support-and-community/' },
-                        { text: 'Orion is in Public Beta', link: '/orion/getting-started/public-beta' },
                         { text: 'Supported OS Versions', link: '/orion/support-and-community/os-versions' },
                         { text: 'Product Roadmap & Feedback Forum', link: '/orion/support-and-community/roadmap-feedback-forum' },
                         { text: 'Discord Server', link: '/orion/support-and-community/discord-server' },

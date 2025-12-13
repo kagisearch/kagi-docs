@@ -62,6 +62,8 @@ If you are interested in taking advantage of all the advanced features that Kagi
 
 Kagi has a feature to check your [current search usage](https://kagi.com/settings/consumption) if you are interested in really taking apart your consumption.
 
-### Fair Pricing
+## Fair Pricing
 
-In months where you don't utilize any searches on your plan, we will automatically apply a full credit to your account for that month. This credit will be applied to your next billing cycle, effectively covering your subsequent month's subscription at no additional cost.
+In months where you don't utilize your plan (meaning that you don't make any searches or use any AI interactions), we will automatically apply a full credit to your account for that month. The credit will be applied to your next billing cycle, effectively covering your subsequent month's subscription at no additional cost.
+
+Of course, it doesn't count as "utilizing your plan" if all you do during a month is use services that are free for everyone, like Kagi Small Web, or access data you already have saved in Kagi Assistant!

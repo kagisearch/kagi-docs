@@ -31,7 +31,7 @@ We want to bring a friendly internet - one that has your best interest in mind -
 
 Kagi has two core products: [Kagi Search](https://kagi.com), a fast, private search engine, and [Orion Browser](https://browser.kagi.com/), a fast, zero-telemetry, WebKit-based browser.
 
-But beyond them, there is a whole eco-system of user-friendly products being created. PLease feel free to explore:
+But beyond them, there is a whole eco-system of user-friendly products being created. Please feel free to explore:
 - [Kagi News](https://news.kagi.com)
 - [Kagi Translate](https://blog.kagi.com/kagi-translate)
 - [Kagi Small Web](https://blog.kagi.com/small-web)
@@ -85,6 +85,4 @@ More Orion assets are available on the [Orion Press Kit](https://browser.kagi.co
 
 We simply call him "Doggo" for now. He's adorable! We have more [assets](https://kagi.com/assets) available.
 
-<img src="./media/doggo_1.png" width="350" alt="Doggo Kagi Mascot">
-
-
+<img src="./media/doggo_1.svg" width="350" alt="Doggo Kagi Mascot">
