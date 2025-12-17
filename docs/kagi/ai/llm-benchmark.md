@@ -140,6 +140,8 @@ Please see notes below the table if you see results you find surprising, or get 
 
 **Model Costs:** Costs in the reasoning benchmark are mostly from the models' output tokens. **This table's cost column is not representative for input token heavy tasks like web search or retrieval.**
 
+Also in this benchmark, 'cost' refers to the total cost required to parse the **entire benchmark suite** (i.e., processing all benchmark items end-to-end), not the per-item cost.
+
 For example, `grok-3-mini` uses chain of thought and `grok-3` does not. This is why `grok-3-mini` outperforms its bigger sibling in this benchmark.
 
 Reasoning models may not be the best choice for all tasks! Pick the model that performs best at what you intend to do. We will be including other benchmark tables (search, tool use, agentic task completion) shortly.
