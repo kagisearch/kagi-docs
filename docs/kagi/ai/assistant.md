@@ -183,6 +183,8 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Anthropic     | [Claude 4.5 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-opus-thinking)          | Ultimate |
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | Ultimate |
 | Deepseek      | [DeepSeek Chat V3.1 Terminus](https://kagi.com/assistant?profile=deepseek)                        | All      |
+| Google        | [Gemini 3 Flash](https://kagi.com/assistant?profile=gemini-3-flash)                               | All      |
+| Google        | [Gemini 3 Flash (reasoning)](https://kagi.com/assistant?profile=gemini-3-flash-thinking)          | All      |
 | Google        | [Gemini 2.5 Flash](https://kagi.com/assistant?profile=gemini-2-5-flash)                           | All      |
 | Google        | [Gemini 2.5 Flash Lite](https://kagi.com/assistant?profile=gemini-2-5-flash-lite)                 | All      |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | Ultimate |
