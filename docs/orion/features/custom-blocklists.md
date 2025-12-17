@@ -130,8 +130,8 @@ The [FilterLists](https://filterlists.com/) website provides a comprehensive dir
 AdGuard Tracking Protection - [Info](https://adguard.com/kb/general/ad-filtering/adguard-filters/) <br>
 `https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt`
 
-Hagezi's Personal Blocklist - [Info](https://github.com/hagezi/dns-blocklists) <br>
-`https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt`
+Hagezi Multi Pro Mini - [Info](https://github.com/hagezi/dns-blocklists) <br>
+`https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt`
 
 yokoffing's Privacy Essentials - [Info](https://github.com/yokoffing/filterlists) <br>
 `https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt`
