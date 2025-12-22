@@ -10,7 +10,7 @@ At Kagi, we envision a friendly internet where you can explore, learn, and inter
 
 Kagi (pronounced kah-gee) was founded in 2018 by [Vladimir Prelovac](https://vladimir.prelovac.com/) in Palo Alto, CA. Our advisory board includes [Raghu Murthi](https://www.linkedin.com/in/raghumurthi), [Dr. Norman Winarsky](https://en.wikipedia.org/wiki/Norman_Winarsky), [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram) and [Rory Sutherland](https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)).
 
-Kagi was bootstrapped from 2018 to 2023 with ~$3M from the founder. In 2023, [we raised $670K](https://blog.kagi.com/safe-round) from our users in our first external fundraise, followed by [$1.88M in 2024](https://blog.kagi.com/what-is-next-for-kagi#3), again from our users, bringing our user-investors to 93.
+Kagi was bootstrapped from 2018 to 2023 with ~$3M from the founder. In 2023 and 2024 we had an [~$2.5M external investment round](https://blog.kagi.com/what-is-next-for-kagi#3) with ~93 angel investors from our community. If you are interested in participating in Kagi's next investment round, you can [register your details](https://kagi.com/investors) (for accredited investors only).
 
 We launched in [June 2022](https://blog.kagi.com/kagi-orion-public-beta) and maintain real-time growth and usage statistics at [kagi.com/stats](https://kagi.com/stats).
 
