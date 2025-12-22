@@ -33,11 +33,11 @@ You can also use the `ai:only` and `ai:none` search operators to only include AI
 
 Note that, since there is currently no reliable way to automatically identify AI-generated images with good enough precision, this feature relies on the website's reputation rather than analyzing individual images. As a result, some AI-generated content may still appear in the results.
 
-If you detect a website with AI or low quality imagery that slipped through our filter, you can lower or completely block it off in your search results, using our [search personalization feature](./website-info-personalized-results.md).
+If you detect a website with AI or low quality imagery that slipped through our filter, you can lower or completely block it off in your search results, using our [search personalization feature](./website-info-personalized-results.md) or report it as [AI generated](./slopstop.md).
 
 Click on shield icon in your image search results, the same as you already can do in web search results.
 
-![Kagi Image search personalization](./media/block_domain.gif)
+![Kagi Image search personalization](./media/kagi-slopstop-cat.png)
 
 ## Our approach to AI-generated images
 
