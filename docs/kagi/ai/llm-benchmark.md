@@ -8,7 +8,7 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last task list revision: **December 12th, 2025**
+Last task list revision: **December 24th, 2025**
 Tasks: **116**
 Input Tokens (all tasks): **15256**
 
@@ -20,14 +20,17 @@ Please see notes below the table if you see results you find surprising, or get 
 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
 |-------------------------------------|-------------|-----------|-------------|----------|-------|------------|
+| claude-4-5-opus-thinking            |        80.2 |       4.5 |        32.7 |   146771 |  12.7 | kagi (ult) |
 | gemini-3-pro                        |        80.1 |       0.4 |        54.9 |    15114 |   0.8 | kagi (ult) |
 | gpt-5-pro                           |        76.8 |      31.8 |       193.2 |   330943 |   5.2 | kagi (ult) |
 | claude-4-opus-thinking              |        74.3 |      22.4 |        13.3 |    17058 |  11.0 | kagi (ult) |
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
+| gpt-5-2                             |        73.3 |       1.4 |        17.6 |    93386 |  15.0 | kagi (ult) |
 | claude-4-sonnet-thinking            |        73.0 |       5.4 |        14.1 |    17872 |  10.0 | kagi (ult) |
 | gpt-5                               |        72.7 |       7.1 |        32.8 |     6282 |   1.6 | kagi (ult) |
 | qwen3-max                           |        72.5 |       1.9 |        15.7 |   148347 |  22.1 | openrouter |
 | o3-pro                              |        72.1 |      34.2 |        87.8 |    12054 |   1.1 | kagi (ult) |
+| claude-4-5-opus                     |        70.7 |       1.4 |        10.7 |    20716 |   5.5 | kagi (ult) |
 | gemini-2-5-pro                      |        70.3 |       1.7 |        20.9 |    13581 |   5.4 | kagi (ult) |
 | gpt-5-mini                          |        70.3 |       4.9 |        26.7 |    10113 |   3.3 | kagi       |
 | gpt-5-codex                         |        70.3 |       4.6 |        20.7 |    14993 |  94.7 | kagi       |
