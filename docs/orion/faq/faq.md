@@ -47,7 +47,7 @@ Orion was built for professionals by professionals, but anyone can benefit from 
 
 Watch it here in even higher quality!
 
-<video src="./media/orion_intro_video.mp4#t=0.1" width="720" type="video/mp4" preload="metadata" controls disablepictureinpicture />
+<video src="./media/orion-intro-video.mp4#t=0.1" width="720" type="video/mp4" preload="metadata" controls disablepictureinpicture />
 
 <a name="native"></a>
 ## Why is it important for an app to be native?
