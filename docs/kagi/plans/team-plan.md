@@ -164,7 +164,7 @@ Team members can share custom search configurations by using our [Lenses](../fea
 - Secure payment processing through Stripe
 
 ### Pricing
-- Professional tier: $10/month per member. Includes unlimited searches, and access to [FastGPT](../ai/fastgpt.md), [Summarizer](../ai/summarize-page.md) and [Kagi Translate](../ai/translate.md)
+- Professional tier: $10/month per member. Includes unlimited searches, and access to [FastGPT](../ai/fastgpt.md), [Summarizer](../ai/summarize-page.md) and [Kagi Translate](../translate.md)
 - Ultimate tier: $25/month per member. Includes everything in Professional plus access to [The Assistant](../ai/assistant.md).
 - Flexible assignment: Mix and match tiers for different team members
 
