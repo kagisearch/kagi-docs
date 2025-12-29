@@ -66,6 +66,12 @@ When you choose Kagi, you're not just buying a service. You're investing in a be
 The question isn't "Why pay for search?"
 It's "Why settle for less?"
 
+## Your right to private search
+
+In the U.S, the Pennsylvania Supreme Court [ruled](https://www.windowscentral.com/software-apps/pennsylvania-supreme-court-google-searches-are-not-private) that police can access your Google searches without a warrant. The court's reasoning: users have no expectation of privacy because "it is common knowledge that websites, internet-based applications, and internet service providers collect, and then sell, user data." That's what "free" really means. The business model depends on turning your search history into a detailed profile that can be sold, shared, and accessed by third parties.
+
+With Kagi, you pay for search instead of paying with your data. As we note in our [Privacy Policy](https://kagi.com/privacy), Kagi does not attach search queries to user accounts, does not load any analytics or telemetry, and does not track which search results you choose to pick, keeping your searches private and anonymous.
+
 ##  Why quality software isn't free
 > We have become numb to the taste of good software and hypnotized by the idea of "free".
 
