@@ -1,9 +1,9 @@
 > Not your browser/OS? Return to [the hub page](../../../kagi/getting-started/setting-default.md) for setting Kagi as the default search engine.
 # Setting Kagi as Default on Chromium-based Browsers (Mobile)
 
-1. Open [https://kagi.com](https://kagi.com), log in, and submit a couple searches.
+1. Open [https://kagi.com](https://kagi.com), log in, and submit a couple of searches.
 2. Open your browser’s settings. Choose **Search engine**.
-3. Select **Kagi Search** from the Recently Visited section.
+3. Select **Kagi Search** from the Recently Visited section (you may need to completely close and reopen the browser for it to appear)
 
 If you want to have Kagi Search easily available on Android after configuring Chrome, follow these steps:
 
