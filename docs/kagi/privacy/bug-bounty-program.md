@@ -192,16 +192,6 @@ that enhance the security and consistency of our services.
 |LOW|[Orion Browser] Improper URL Handling in iOS Share Sheet Leads to XSS |$100|04-07-2025|
 
 
-**Gaura Popalghat**
-
-- Email: `***av1@gmail.com`
-- Valid reports
-
-| Severity | Report name | Rewarded | Date |
-|:---------|:----------------|:-----------|:-----------|
-|HIGH |[Kagi Search] Google SSO login token hijackable by a wrapper |$200|29-03-2025|
-
-
 **Cheripally Sathwik**
 
 - Email: `***832@gmail.com`
