@@ -24,7 +24,7 @@ To set up a private session link in Firefox:
 	1. **Search engine name**: `Kagi Search`
 	1. **URL with %s in place of search term**: `https://kagi.com/search?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](./../../privacy/private-browser-sessions))
 	1. **Keyword (optional)**: `kagi`
-	1. **Suggestions URL with %s in place of search term (optional)**: `https://kagisuggest.com/api/autosuggest?token=TOKEN&q=%s` (replace TOKEN with the token found in your [private session link​](./../../privacy/private-browser-sessions))
+	1. **Suggestions URL with %s in place of search term (optional)**: `https://kagisuggest.com/api/autosuggest`
 1. Click the "Save Engine" button
 1. Select the new "Kagi Search" as your default search engine using the dropdown at the top of this page.
 
