@@ -7,39 +7,37 @@ import markdownItKatex from '@vscode/markdown-it-katex'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: "Kagi's Docs",
-    description: "Kagi Search Help",
+    description: 'Kagi Search Help',
     head: [
-        ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/apple-touch-icon.png" }],
-        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicon-32x32.png" }],
-        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png" }],
-        ['link', { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5" }],
-        ['meta', { name: "msapplication-TileColor", content: "#ffffff" }],
-        ['meta', { property: "og:image", content: "https://help.kagi.com/og-image.png" }],
+        ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+        ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+        ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+        ['link', { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color: '#5bbad5' }],
+        ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
+        ['meta', { property: 'og:image', content: 'https://help.kagi.com/og-image.png' }],
     ],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: 'Kagi', link: '/kagi/' },
-            { text: 'Orion', link: '/orion/' }
+            { text: 'Orion', link: '/orion/' },
         ],
 
         sidebar: {
             '/': sidebarKagi(),
             '/kagi/': sidebarKagi(),
             '/common/': sidebarKagi(),
-            '/orion/': sidebarOrion()
+            '/orion/': sidebarOrion(),
         },
 
-        socialLinks: [
-            { icon: 'github', link: 'https://github.com/kagisearch/kagi-docs' }
-        ],
+        socialLinks: [{ icon: 'github', link: 'https://github.com/kagisearch/kagi-docs' }],
         search: {
             provider: 'local',
         },
         editLink: {
             pattern: 'https://github.com/kagisearch/kagi-docs/edit/main/docs/:path',
-            text: 'Edit this page on GitHub'
-        }
+            text: 'Edit this page on GitHub',
+        },
     },
     vite: {
         resolve: {
@@ -51,15 +49,15 @@ export default defineConfig({
     },
     ignoreDeadLinks: true,
     sitemap: {
-        hostname: 'https://help.kagi.com'
+        hostname: 'https://help.kagi.com',
     },
     markdown: {
         config: (md) => {
             // Backport fix from vuejs/vitepress#4082
             md.renderer.rules.table_open = function (tokens, idx, options, env, self) {
                 return self.renderToken(tokens, idx, options)
-            };
-            md.use(markdownItKatex.default, { output: "mathml" });
+            }
+            md.use(markdownItKatex.default, { output: 'mathml' })
         },
     },
 })
@@ -78,10 +76,10 @@ function sidebarKagi() {
                         { text: 'Products', link: '/kagi/company/products' },
                         { text: 'History', link: '/kagi/company/history' },
                         { text: 'Assets', link: '/kagi/company/assets' },
-			{ text: 'Jobs', link: '/kagi/company/hiring-kagi' },
+                        { text: 'Jobs', link: '/kagi/company/hiring-kagi' },
                         { text: 'Open Source Support', link: '/kagi/company/donations' },
                         { text: 'Contact Us', link: '/kagi/company/contact' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Plans & Payment',
@@ -95,7 +93,7 @@ function sidebarKagi() {
                         { text: 'Plan Management', link: '/kagi/plans/plan-management' },
                         { text: 'Gift Kagi', link: '/kagi/plans/gift-kagi' },
                         { text: 'Payment Methods', link: '/kagi/plans/payment-methods' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Support and Community',
@@ -107,7 +105,7 @@ function sidebarKagi() {
                         { text: 'Email Support', link: '/kagi/support-and-community/email-support' },
                         { text: 'Share with Friends and Family', link: '/kagi/support-and-community/share-kagi' },
                         { text: 'Community Roles', link: '/kagi/support-and-community/community-roles' },
-                    ]
+                    ],
                 },
                 { text: 'Frequently Asked Questions', link: '/kagi/faq/faq' },
                 {
@@ -119,10 +117,10 @@ function sidebarKagi() {
                         { text: 'Open Source', link: '/kagi/support-and-community/open-source' },
                         { text: 'Contributors', link: '/kagi/support-and-community/contributors' },
                         { text: 'Kudos', link: '/kagi/support-and-community/kudos' },
-                    ]
+                    ],
                 },
-                { text: 'Live Stats', link: '/kagi/support-and-community/stats' }
-            ]
+                { text: 'Live Stats', link: '/kagi/support-and-community/stats' },
+            ],
         },
         {
             text: 'Why Kagi',
@@ -131,7 +129,8 @@ function sidebarKagi() {
                 { text: 'Say no to Ads', link: '/kagi/why-kagi/noads' },
                 { text: 'Kagi vs. Others', link: '/kagi/why-kagi/kagi-vs-competition' },
                 {
-                    text: 'Privacy & Security', link: '/kagi/privacy/privacy-protection',
+                    text: 'Privacy & Security',
+                    link: '/kagi/privacy/privacy-protection',
                     collapsed: true,
                     items: [
                         { text: 'Privacy Protection', link: '/kagi/privacy/privacy-protection' },
@@ -144,21 +143,21 @@ function sidebarKagi() {
                         { text: 'Content Policy', link: '/kagi/privacy/content-policy' },
                         { text: 'Security', link: '/kagi/privacy/security' },
                         { text: 'Legal Safe Harbor', link: '/kagi/privacy/safe-harbor' },
-                    ]
+                    ],
                 },
                 {
-                    text: 'Results', link: '/kagi/search-details/search-sources',
+                    text: 'Results',
+                    link: '/kagi/search-details/search-sources',
                     collapsed: true,
                     items: [
                         { text: 'Sources', link: '/kagi/search-details/search-sources' },
                         { text: 'Quality', link: '/kagi/search-details/search-quality' },
                         { text: 'Speed', link: '/kagi/search-details/search-speed' },
                         { text: 'Small Web in Search Results', link: '/kagi/search-details/small-web-in-search-results' },
-                    ]
+                    ],
                 },
                 { text: 'AI Philosophy', link: '/kagi/why-kagi/ai-philosophy' },
-            ]
-
+            ],
         },
         {
             text: 'User Guide',
@@ -172,14 +171,14 @@ function sidebarKagi() {
                         { text: 'Set Kagi as Your Default Search Engine', link: '/kagi/getting-started/setting-default' },
                         { text: 'Application Integrations', link: '/kagi/getting-started/application-integrations' },
                         { text: 'Accessing via Tor', link: '/kagi/getting-started/accessing-via-tor' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Kagi Search',
                     collapsed: true,
                     link: '/kagi/features/slopstop',
                     items: [
-                        { text: 'SlopStop', link: '/kagi/features/slopstop' },                      
+                        { text: 'SlopStop', link: '/kagi/features/slopstop' },
                         { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
                         { text: 'Lenses', link: '/kagi/features/lenses' },
                         { text: 'Keyboard Shortcuts', link: '/kagi/features/search-operators' },
@@ -198,10 +197,11 @@ function sidebarKagi() {
                         { text: 'Exclude AI Images', link: '/kagi/features/exclude-ai-images' },
                         { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
                         { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
-                    ]
+                    ],
                 },
                 {
-                    text: 'Kagi Assistant', link: '/kagi/ai/kagi-ai',
+                    text: 'Kagi Assistant',
+                    link: '/kagi/ai/kagi-ai',
                     collapsed: true,
                     items: [
                         { text: 'Kagi Assistant', link: '/kagi/ai/assistant' },
@@ -209,56 +209,61 @@ function sidebarKagi() {
                         { text: 'Custom Assistants', link: '/kagi/ai/custom-assistants' },
                         { text: 'Kagi LLM Benchmarking Project', link: '/kagi/ai/llm-benchmark' },
                         { text: 'LLMs & Privacy', link: '/kagi/ai/llms-privacy' },
-                    ]
+                    ],
                 },
                 { text: 'Kagi Translate', link: '/kagi/translate/' },
                 { text: 'Kagi News', link: '/kagi/news/' },
                 { text: 'Universal Summarizer', link: '/kagi/summarizer/' },
-
-		{
-			  text: 'Settings',
-			  collapsed: true,
-			  link: '/kagi/settings/accessing',
-			  items: [
-			  { text: 'Accessing settings', link: '/kagi/settings/accessing' },
-			  { text: 'General',           link: '/kagi/settings/general'   },
-			  { text: 'Appearance',        link: '/kagi/settings/appearance'},
-			  { text: 'Search',	       link: '/kagi/settings/search',
-      				items: [
-        			       { text: 'General',            link: '/kagi/settings/search'                     },
-        			       { text: 'Lenses',             link: '/kagi/settings/lenses'              },
-        			       { text: 'Personalized Results', link: '/kagi/settings/personalized-results'},
-        			       { text: 'AI',                 link: '/kagi/settings/ai'                  },
-       				       { text: 'Search Widgets',     link: '/kagi/settings/widgets'             },
-        			       { text: 'Advanced',           link: '/kagi/settings/advanced'            }
-     				]
-    			},
-    			{ text: 'Billing',            link: '/kagi/settings/billing'         },
-    			{ text: 'Account',            link: '/kagi/settings/account'         },
-    			{ text: 'Delete Your Account',link: '/kagi/settings/delete-account'  }
-  		]
-		},
                 {
-                    text: 'Community Add-ons', link: '/kagi/community-addons/',
+                    text: 'Settings',
+                    collapsed: true,
+                    link: '/kagi/settings/accessing',
+                    items: [
+                        { text: 'Accessing settings', link: '/kagi/settings/accessing' },
+                        { text: 'General', link: '/kagi/settings/general' },
+                        { text: 'Appearance', link: '/kagi/settings/appearance' },
+                        {
+                            text: 'Search',
+                            link: '/kagi/settings/search',
+                            items: [
+                                { text: 'General', link: '/kagi/settings/search' },
+                                { text: 'Lenses', link: '/kagi/settings/lenses' },
+                                { text: 'Personalized Results', link: '/kagi/settings/personalized-results' },
+                                { text: 'AI', link: '/kagi/settings/ai' },
+                                { text: 'Search Widgets', link: '/kagi/settings/widgets' },
+                                { text: 'Advanced', link: '/kagi/settings/advanced' },
+                            ],
+                        },
+                        { text: 'Billing', link: '/kagi/settings/billing' },
+                        { text: 'Account', link: '/kagi/settings/account' },
+                        { text: 'Delete Your Account', link: '/kagi/settings/delete-account' },
+                    ],
                 },
                 {
-                    text: 'Community Themes', link: 'https://openkagi.com/themes',
+                    text: 'Community Add-ons',
+                    link: '/kagi/community-addons/',
                 },
                 {
-                    text: 'Community Lenses', link: 'https://openkagi.com/lenses',
-                }
-
-            ]
+                    text: 'Community Themes',
+                    link: 'https://openkagi.com/themes',
+                },
+                {
+                    text: 'Community Lenses',
+                    link: 'https://openkagi.com/lenses',
+                },
+            ],
         },
         {
             text: 'Developers',
             items: [
                 {
-                    text: 'API', link: '/kagi/api/overview',
+                    text: 'API',
+                    link: '/kagi/api/overview',
                     collapsed: true,
                     items: [
                         {
-                            text: 'Introduction', link: '/kagi/api/overview',
+                            text: 'Introduction',
+                            link: '/kagi/api/overview',
                             collapsed: true,
                             items: [
                                 { text: 'API Version', link: '/kagi/api/intro/api-version' },
@@ -266,7 +271,7 @@ function sidebarKagi() {
                                 { text: 'Base API URL', link: '/kagi/api/intro/api-url' },
                                 { text: 'Response Format', link: '/kagi/api/intro/response-format' },
                                 { text: 'Image Proxy URLs', link: '/kagi/api/intro/image-proxy-urls' },
-                            ]
+                            ],
                         },
                         { text: 'Universal Summarizer API', link: '/kagi/api/summarizer' },
                         { text: 'FastGPT API', link: '/kagi/api/fastgpt' },
@@ -275,11 +280,34 @@ function sidebarKagi() {
                         { text: 'Small Web RSS Feed', link: '/kagi/api/smallweb' },
                     ],
                 },
+                {
+                    text: 'Kagi Crawler',
+                    collapsed: true,
+                    link: '/kagi/developer/crawler/',
+                    items: [
+                        { text: 'Overview', link: '/kagi/developer/crawler/' },
+                        { text: 'Architecture and Queue', link: '/kagi/developer/crawler/architecture' },
+                        { text: 'Sources and Dedup', link: '/kagi/developer/crawler/sources-and-dedup' },
+                        { text: 'Realtime and Debugging', link: '/kagi/developer/crawler/realtime-and-debugging' },
+                    ],
+                },
+                {
+                    text: 'Kagi Index and Context',
+                    collapsed: true,
+                    link: '/kagi/developer/index-context/',
+                    items: [
+                        { text: 'Overview', link: '/kagi/developer/index-context/' },
+                        { text: 'Indexer Pipeline', link: '/kagi/developer/index-context/indexer-pipeline' },
+                        { text: 'Search and Ranking', link: '/kagi/developer/index-context/search-and-ranking' },
+                        { text: 'Kagi Context', link: '/kagi/developer/index-context/context-layer' },
+                    ],
+                },
                 { text: 'Kagi Sidekick', link: '/kagi/sidekick/' },
-            ]
+            ],
         },
         {
-            text: 'Bloopers', link: '/kagi/bloopers/',
+            text: 'Bloopers',
+            link: '/kagi/bloopers/',
         },
     ]
 }
@@ -302,19 +330,21 @@ function sidebarOrion() {
                         { text: 'Logo', link: '/orion/company/logo' },
                         { text: 'Assets', link: '/orion/company/assets' },
                         {
-                            text: 'Jobs', link: '/orion/company/hiring-kagi',
+                            text: 'Jobs',
+                            link: '/orion/company/hiring-kagi',
                             collapsed: true,
                             items: [
                                 { text: 'Work on Kagi Search', link: '/orion/company/hiring-kagi' },
                                 { text: 'Work on Orion Browser', link: '/orion/company/hiring-orion' },
-                            ]
+                            ],
                         },
                         { text: 'Donations', link: '/orion/company/donations' },
                         { text: 'Contact us', link: '/orion/company/contact' },
-                    ]
+                    ],
                 },
                 {
-                    text: 'Support & Community', link: '/orion/support-and-community/',
+                    text: 'Support & Community',
+                    link: '/orion/support-and-community/',
                     collapsed: true,
                     items: [
                         { text: 'Getting help and contributing', link: '/orion/support-and-community/' },
@@ -323,7 +353,7 @@ function sidebarOrion() {
                         { text: 'Discord Server', link: '/orion/support-and-community/discord-server' },
                         { text: 'Email Support', link: '/orion/support-and-community/email-support' },
                         { text: 'Community Roles', link: '/kagi/support-and-community/community-roles' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Contribute',
@@ -333,9 +363,9 @@ function sidebarOrion() {
                         { text: 'Feedback', link: '/orion/support-and-community/contribute' },
                         { text: 'Documentation', link: '/orion/support-and-community/contribute_documentation' },
                         { text: 'Translations', link: '/orion/support-and-community/contribute_translations' },
-                    ]
+                    ],
                 },
-            ]
+            ],
         },
         {
             text: 'User Guide',
@@ -349,7 +379,7 @@ function sidebarOrion() {
                         { text: 'Orion vs. Chrome, Firefox, & Others', link: '/orion/why-orion/kagi-vs-others' },
                         { text: 'Speed', link: '/orion/why-orion/orion-speed' },
                         { text: 'Memory Usage', link: '/orion/why-orion/memory-usage' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Getting Started',
@@ -361,7 +391,7 @@ function sidebarOrion() {
                         { text: 'Importing Data From Other Browsers', link: '/orion/getting-started/importing' },
                         { text: 'Default Search Engine', link: '/orion/getting-started/search-engine' },
                         { text: 'Application Integrations', link: '/orion/getting-started/application-integrations' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Troubleshooting Issues',
@@ -370,12 +400,15 @@ function sidebarOrion() {
                     items: [
                         { text: 'Troubleshooting Extension Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-extension-issues' },
                         { text: 'Troubleshooting Webpage Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-webpage-issues' },
-                        { text: 'Troubleshooting Syncing Data Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-syncing-data-issues' },
+                        {
+                            text: 'Troubleshooting Syncing Data Issues',
+                            link: '/orion/support-and-community/troubleshooting/troubleshooting-syncing-data-issues',
+                        },
                         { text: 'Troubleshooting FastMail Issues', link: '/orion/support-and-community/troubleshooting/troubleshooting-fastmail-issues' },
                         { text: 'Restoring Bookmarks, Reading List, etc.', link: '/orion/support-and-community/troubleshooting/restoring_bookmarks' },
                         { text: 'Reporting a bug', link: '/orion/support-and-community/troubleshooting/bug-reporting' },
                         { text: 'macOS Keyboard Shortcuts', link: '/orion/support-and-community/keyboard-shortcuts' },
-                    ]
+                    ],
                 },
                 { text: 'Orion+', link: '/orion/orion-plus/orion-plus' },
                 {
@@ -417,7 +450,7 @@ function sidebarOrion() {
                         { text: 'Dynamic Window Color', link: '/orion/features/dynamic-window-color' },
                         { text: 'Summarize Page', link: '/orion/features/summarize-page' },
                         { text: 'Copy Link with Highlight', link: '/orion/features/copy-link-with-highlight' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Browser Extensions',
@@ -428,7 +461,7 @@ function sidebarOrion() {
                         { text: 'uBlock Origin on macOS', link: '/orion/browser-extensions/ublock-origin' },
                         { text: 'iOS & iPadOS Extensions', link: '/orion/browser-extensions/ios-ipados-extensions' },
                         { text: '1Password', link: '/orion/browser-extensions/1password' },
-                    ]
+                    ],
                 },
                 {
                     text: 'Privacy & Security',
@@ -436,25 +469,24 @@ function sidebarOrion() {
                     link: '/orion/privacy-and-security/ad-tracking-blocking',
                     items: [
                         { text: 'Configure Ad & Tracking Blocking', link: '/orion/privacy-and-security/ad-tracking-blocking' },
-			{ text: 'Orion and Ad-blocking Tests', link: '/orion/privacy-and-security/adblock-tests' },
+                        { text: 'Orion and Ad-blocking Tests', link: '/orion/privacy-and-security/adblock-tests' },
                         { text: 'Respecting Privacy', link: '/orion/privacy-and-security/respecting-privacy' },
                         { text: 'Protecting Privacy', link: '/orion/privacy-and-security/protecting-privacy' },
                         { text: 'Preventing Fingerprinting', link: '/orion/privacy-and-security/preventing-fingerprinting' },
-                    ]
+                    ],
                 },
-
 
                 { text: 'Frequently Asked Questions', link: '/orion/faq/faq' },
                 { text: 'Technical Information', link: '/orion/misc/technical' },
                 { text: 'Live stats', link: '/orion/misc/stats' },
-            ]
+            ],
         },
         {
             text: 'Credits',
             items: [
                 { text: 'Contributors', link: '/orion/misc/contributors' },
                 { text: 'Kudos', link: '/orion/misc/kudos' },
-            ]
-        }
+            ],
+        },
     ]
 }
