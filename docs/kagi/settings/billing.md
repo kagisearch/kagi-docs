@@ -7,37 +7,50 @@ These settings control your billing options and status with Kagi, there are two 
 
 ## Billing Settings
 
-![Billing settings](media/billing-settings.png)
+![Billing settings](media/kagi-billing-settings.png)
 
-Your billing settings will show you your [Plan Type](../plans/plan-types.md) as well as:
+Your billing settings show your [Plan Type](../plans/plan-types.md), your account balance (if applicable), and the date of the next renewal (if on a paid plan), as well as:
+##### Trial Plan
+- Trial searches used
+- AI interactions
+- Trial Assistant interactions used
 
-* Total searches this period
-* Searches used by AI (only on Trial plan)
-* Total [AI](../ai/assistant) cost for this period 
-* Amount of credit value
-* Date of next renewal
+##### Starter Plan
+- Total searches this period
+- Assistant interactions this period
 
-You will also see options to:
+##### Professional Plan and Above
+- Total [AI](../ai/assistant) cost for this period
 
-* View your Usage details
-* Manage your Billing
-* Download an invoice
+##### You can also:
 
-We have documentation that covers how to:
+- [Sign up for a paid plan](https://help.kagi.com/kagi/plans/plan-management.html#signing-up-for-the-premium-plans)
+- [Manage your billing](../plans/plan-management.md#managing-billing)
+- [View and Download past invoices](https://kagi.com/billing/portal)
 
-* [Sign up for the Premium Plan](../plans/plan-management.md#signing-up-for-the-premium-plans)
-* [Manage your billing](../plans/plan-management.md#managing-billing)
-* [Cancel your Subscription](../plans/plan-management.md#canceling-a-premium-plan)
-* [Switch your Plan](#switching-a-plan)
 
-## <a name="switch_plan"></a>Switching a Plan
+## Switching a Plan {#switching-a-plan}
 
 To switch your plan:
 
-1. Navigate to Settings -> Billing
-2. Click "Switch Plan"
-3. Select a Plan you want to switch to
-4. Follow the prompts
+- Navigate to `Settings > Billing`
+- Click `Switch Plan`
+- Select the plan you want
+- Follow the prompts
+
+## Add Pre-paid Credit
+
+To add funds to your account to pay for a subscription:
+
+1. Navigate to `Settings > Billing`
+2. Click `Add pre-paid credit` (if you don't see this option, click [here](https://kagi.com/settings/account_topup))
+3. Select your payment method (PayPal, Stripe, or OpenNode)
+4. Choose the amount in USD
+
+After the credit has been added, you can [subscribe to a plan](https://kagi.com/settings/billing_plan).
+You will still be redirected to Stripe during the process, but your credits will be used for payment and you will not need to enter a credit card. 
+
+*Please note that sales tax or VAT may be added to the subscription price depending on your location.*
 
 ## Billing Settings: Retry Billing
 
@@ -45,12 +58,14 @@ If your billing gets declined you will need to retry the billing attempt for the
 
 ## Billing Settings: Orion Support
 
-If you are supporting the Orion Browser made by the same team that builds Kagi you will see the subscription listed at the bottom of the page with the option to cancel (though we will work hard to make sure you do not!)
+![Billing Settings Orion](media/kagi-billing-orion.png)
 
-![Billing Settings Orion](media/billing_settings_orion.png)
+If you support the Orion Browser, made by the same team that builds Kagi, you will see your subscription listed at the bottom of the page. 
+
+There you will have the option to download the icon pack, the Release Candidate, as well as joining the TestFlight or cancel your subscription (though we will work hard to make sure you do not!)
 
 ## Usage details
 
-The usage details section allows you to see details about your search and AI usage for the current month or view the monthly overview.
+![Billing Settings Usage](media/kagi-billing-usage-details.png)
 
-![Billing Settings Usage](media/billing_settings_usage.png)
+The usage details section allows you to see details about your search and AI usage for the current month or view the monthly overview.
