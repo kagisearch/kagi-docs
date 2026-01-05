@@ -30,7 +30,7 @@ We’re obsessed with increasing speed and lowering latency, and we currently us
 
 First, we optimized our technology stack to increase code execution speed and decrease connection latency.
 
-Second, we minimized the amount of data that's transferred between Kagi and your browser. Our search pages are ten times lighter than some of our competitors!
+Second, we minimized the amount of data that's transferred between Kagi and your browser. Our search pages are ten times lighter than some of our competitors. Having no ads or bulky JavaScript frameworks really helps!
 
 | Product | SERP download size | Time to largest contentful paint |
 | --- | --- | --- |
