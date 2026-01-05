@@ -306,7 +306,7 @@ Ways you can help accelerate this:
 
 - [Contribute](../support-and-community/contribute.md) to Orion development with your time
 - Help spread the word about Orion to attract more users
-- Get [Orion+](https://kagi.com/orion/orionplus.html) and financially support development
+- Get [Orion+](https://kagi.com/onboarding?p=orion_plan) and financially support development
 
 ---
 
