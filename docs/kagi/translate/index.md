@@ -103,11 +103,7 @@ Option 2:
 
 ### URL Parameters
 
-If you want to create custom [Bangs](../features/bangs.md), integrate it into your favorite launcher, or any other automation, you can use the following URL parameter format:
-
-```
-https://translate.kagi.com/?text=%s&source=Japanese&target=English
-```
+If you want to create custom [Bangs](../features/bangs.md), integrate it into your favorite launcher, set a bookmark to specific setup or any other automation, you can look at this page with info about the [URL parameter reference](./url-parameters.md) for the complete list of query options, examples, and mode-specific settings you can pass to Translate.
 
 ## Coss-Device Sync and History
 
