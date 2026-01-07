@@ -38,6 +38,13 @@ After reading the summary you can even choose to proceed to [Discuss this docume
 
 Quickly summarize any page using the [bang `!sum`](../features/bangs.md#universal-summarizer).
 
+## Via Bookmarklets
+
+You can drag one or both of the following links in the bookmarks bar in your browser to immediately access Summarizer. You may rename the bookmarks however you want afterwards.
+
+<a href="javascript:location='https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location)">Summarize (same window)</a><br>
+<a href="javascript:(function(){window.open('https://kagi.com/summarizer/index.html?url='+encodeURIComponent(location))})()">Summarize (new window/tab)</a><br>
+
 ## Via API
 See [Summarizer API](../api/summarizer.md) for more details.
 
