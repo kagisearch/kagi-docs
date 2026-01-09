@@ -356,8 +356,8 @@ function sidebarOrion() {
                     collapsed: true,
                     link: '/orion/getting-started/quick-start',
                     items: [
-                        { text: 'Quick Start', link: '/orion/getting-started/quick-start' },
                         { text: 'Installing Orion', link: '/orion/getting-started/installing-orion' },
+                        { text: 'Quick Start', link: '/orion/getting-started/quick-start' },
                         { text: 'Importing Data From Other Browsers', link: '/orion/getting-started/importing' },
                         { text: 'Default Search Engine', link: '/orion/getting-started/search-engine' },
                         { text: 'Application Integrations', link: '/orion/getting-started/application-integrations' },

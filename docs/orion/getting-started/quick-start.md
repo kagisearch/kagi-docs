@@ -22,12 +22,7 @@ next:
 <a name="install"></a>
 ## Installing Orion {#install}
 
-You can download an installer for [Orion for macOS](https://browser.kagi.com/#download_sec) and install [Orion for iOS/iPadOS](https://apps.apple.com/app/orion-browser-by-kagi/id1484498200) from the App Store. You can also scan the QR Code below to download Orion on your iPhone or iPad:
-
-![Orion for iOS QR Code](./media/orion_ios_qr_code.png){width=256px data-zoomable}
-
-Orion is free and no account or signup is required to use it.
-
+You can follow our Orion installation guide for your platform [here](./installing-orion.md). 
 
 <a name="website_settings"></a>
 ## Website Settings {#website_settings}
