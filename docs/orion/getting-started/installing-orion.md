@@ -15,7 +15,7 @@ Orion is free and no account or signup is required to use it.
 The alpha version of Orion for Linux is currently only available to [Orion+ supporters](../orion-plus/orion-plus.md) and can be downloaded from the [Billing Dashboard](https://kagi.com/settings/billing) under the Orion browser section. 
 
 :::warning Note
-This version is intended for testing and [reporting bugs in the Orion Feedback Forum](https://orionfeedback.org/). 
+This version is intended for testing and [reporting bugs in the Orion Feedback Forum](https://orionfeedback.org/t/desktop-linux).
 
 It is not to be considered ready for everyday use.
 :::
