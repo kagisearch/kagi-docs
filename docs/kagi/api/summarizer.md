@@ -70,7 +70,7 @@ You can summarize many types of web content, including:
 - PowerPoint documents (.pptx)
 - Word documents (.docx)
 - Audio files (mp3/wav)
-- YouTube URLs
+- YouTube URLs (Experimental)
 - Scanned PDFs and images (OCR)
 
 Universal Summarizer can **summarize content of any length**.
