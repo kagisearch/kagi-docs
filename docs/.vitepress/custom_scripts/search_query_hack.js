@@ -25,8 +25,8 @@ export default function queryHack() {
     }
 
     function loadQuery(q) {
-      document.querySelector("#docsearch > button").click();
-      waitForElm(".DocSearch-Input").then((elem) => {
+      document.querySelector("#local-search > button").click();
+      waitForElm(".search-input").then((elem) => {
         elem.focus();
         elem.value = q;
         elem.dispatchEvent(new Event("input"));
