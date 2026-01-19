@@ -431,6 +431,12 @@ Hide the floating Quick Search button from Kagi search results page.
 
 </details>
 
+<details><summary>Hide Stats</summary>
+
+[**Get it**](https://gist.github.com/matteo-lgtm/4e84f1fb97d7abacf7c12cd561749aff)
+
+</details>
+
 ## Learn
 
 If you want to learn more about how to customize your Kagi Search CSS, below is a video tutorial. The video features a slightly older design of Kagi Search, but the CSS principles are the same.
