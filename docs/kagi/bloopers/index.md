@@ -45,5 +45,10 @@ Shared by Leo Fabriek.
 ![Atmospheric pressure](./media/Pressure.png){data-zoomable}
 Shared by Mikhail O.
 
+## WeatherCAN
+
+![WeatherCAN](./media/weathercan.png){data-zoomable}
+Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1462583535968850114)
+
 ## Share a blooper
 Have you come across a funny result yourself? [Share it with us!](mailto:esra@kagi.com)
