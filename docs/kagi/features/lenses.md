@@ -1,5 +1,9 @@
 # Lenses
 
+<br>
+
+<video src="./media/lenses.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
 Kagi [Lenses](https://kagi.com/settings/lenses) allow you to customize your searches by specifying which websites (and other parameters) you see in your results. We provide a few Lenses to get you started, such as one to search only online discussions and forums.
 
 Here's an example using the built-in Academic lens:
