@@ -145,7 +145,7 @@ Queries you type are never associated with your account. The reasons are:
 - There is no motive, only liability. Not only do we not tie searches to your account to operate the service, but it would require extra infrastructure and cost to do it plus be a large liability and attack vector on our business. All that with zero benefit to us or our users.
 - You can create a Kagi account with any email address including a fake one (we do not care or verify it, it is just an id for logging in)
 - We have transparent and user-friendly [privacy policy](https://kagi.com/privacy)
-- If you are still skeptical, you can [pay anonymously using OpenNode](https://blog.kagi.com/accepting-paypal-bitcoin). In combination with a random email id, this guarantees anonymity from a technical perspective. 
+- If you are still skeptical, you can [pay anonymously with OpenNode](https://blog.kagi.com/accepting-paypal-bitcoin) and use [Privacy Pass](../privacy/privacy-pass) in combination with a random email address to guarantee anonymity from a technical perspective.
 
 Kagi’s business model is unlike any other search engine in the world. This means we don’t need or want your personal information (it would just be an unwelcome liability). By choosing this business model we know that we are going to have far less users than mainstream search engine for example, but we have also removed any incentive to misuse any information you have shared with us.
 
