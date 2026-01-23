@@ -188,7 +188,6 @@ function sidebarKagi() {
                         { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
                         { text: 'Filtering Results', link: '/kagi/features/filtering-results' },
                         { text: 'Customizing Kagi CSS', link: '/kagi/features/custom-css' },
-                        { text: 'Turning Off Animations', link: '/kagi/features/turning-off-animations' },
                         { text: 'Redirects', link: '/kagi/features/redirects' },
                         { text: 'Code Searches', link: '/kagi/features/code' },
                         { text: 'Verbatim Search', link: '/kagi/features/verbatim' },
@@ -235,7 +234,8 @@ function sidebarKagi() {
     			},
     			{ text: 'Billing',            link: '/kagi/settings/billing'         },
     			{ text: 'Account',            link: '/kagi/settings/account'         },
-    			{ text: 'Delete Your Account',link: '/kagi/settings/delete-account'  }
+    			{ text: 'Delete Your Account',link: '/kagi/settings/delete-account'  },
+                { text: 'Turning Off Animations', link: '/kagi/features/turning-off-animations' }
   		]
 		},
                 {
