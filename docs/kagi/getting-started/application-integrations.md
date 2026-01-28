@@ -1,6 +1,6 @@
 # Integrating Kagi with Other Applications
 
-Kagi can be integrated with other applications to make it easy to quickly search the web from within those applications.
+Kagi can be integrated with other applications to make it easy to quickly search the web from within those applications. If the application supports an [OpenSearch](https://github.com/dewitt/opensearch) description file, use https://kagi.com/opensearch.xml.
 
 ## BoltAI
 
