@@ -1,19 +1,19 @@
 # Verbatim Search
 
-Kagi will return "All Results" to a search based on the default settings as seen below.
+![Verbatim Off](media/Kagi-Verbatim-Off.png)
 
-![All Results](media/nonverbatim.png)
+Kagi will return all results to a search based on your settings, however, you may further refine search results by performing a ```Verbatim Search```.
 
-You may further filter results by choosing to perform a "Verbatim Search".
+![Verbatim Off](media/Kagi-Verbatim-On.png)
 
-"Verbatim Search" searches for the exact phrase you type in the search box. As an example, "What is a podcast" will normally find you many pages that discuss the definition of a podcast. But, in "Verbatim Search", this will only find pages with the specific phrase quoted verbatim in it. It wont even find pages that say "What's a podcast".
+```Verbatim Searches``` look for the exact phrase you type in the search box. As an example, *"What are black holes"* will normally find you many pages that explain what black holes are, but with a ```Verbatim Search```, you will only find pages with the specific phrase quoted verbatim in it. Not even find pages that contain *"What's a black hole"*.
 
-This can be a very useful tool to search for specific content; it can also significantly cut down the number of results: so much so that Kagi will remind you that you have Verbatim selected if your search phrase finds nothing at all. 
+This can be very useful to search for specific content, and can also significantly cut down the number of results, so much so that Kagi will remind you that you have ```Verbatim Search``` enabled if your search query has no results. 
 
-You can select "Verbatim Search" by expanding the "All Results" drop down.
+![Set Verbatim](media/Kagi-Verbatim-Enable.png)
 
-![Set Verbatim](media/setverbatim.png)
+You can enable ```Verbatim Search``` by expanding the ```Options``` dropdown.
 
-Once this option is set it will stay enabled until you "Clear" the filter.
+![Clear Verbatim](media/Kagi-Verbatim-Clear.png)
 
-![Clear Verbatim](media/clearverbatim.png)
+Once enabled, it will remain enabled until you ```Clear``` the filter.
