@@ -212,7 +212,7 @@ function sidebarKagi() {
                 },
                 { text: 'Kagi Translate', link: '/kagi/translate/' },
                 { text: 'Kagi News', link: '/kagi/news/' },
-                { text: 'Universal Summarizer', link: '/kagi/summarizer/' },
+                { text: 'Kagi Summarize', link: '/kagi/summarizer/' },
 
 		{
 			  text: 'Settings',

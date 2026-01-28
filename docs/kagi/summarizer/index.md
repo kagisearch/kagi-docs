@@ -1,16 +1,24 @@
-# Summarize Page
-Summarize Page (or Universal Summarizer as it's also called) is a way to summarize any page, video or podcast (given a transcript).
+# Kagi Summarize
+
+<br>
+
+<video src="./media/summarize_desktop.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+Kagi Summarize (or Universal Summarizer as it's also called) is a tool to summarize any page, video or podcast (given a transcript).
 
 There are several ways to summarize a page:
 
 1. On the [Universal Summarizer site](https://kagi.com/summarizer/)
-2. Via the Browser Extensions:
+2. With the Kagi Summarize mobile app
+    - For [iOS](https://apps.apple.com/us/app/kagi-summarize/id6748308326)
+    - For [Android](https://play.google.com/store/apps/details?id=com.kagi.summarize&hl=en_US)
+3. Via the Browser Extensions:
     - [For Chrome](https://chromewebstore.google.com/detail/kagi-summarizer/dpaefegpjhgeplnkomgbcmmlffkijbgp)
     - [For Firefox](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/)
-3. Directly in the search results
-4. Via the !sum [Bang](../features/bangs.md)
-5. Using [Orion browser](https://kagi.com/orion/) (available for Apple devices).
-6. Via the [Summarizer API](../api/summarizer.md)
+4. Directly in the search results
+5. Via the !sum [Bang](../features/bangs.md)
+6. Using [Orion browser](https://kagi.com/orion/) (available for Apple devices).
+7. Via the [Summarizer API](../api/summarizer.md)
 
 Summarize Page is made using Kagi's own, in-house models. There are currently three models in use:
   - Cecil (Consumer-grade, accessible via the website, browser extension or API)
