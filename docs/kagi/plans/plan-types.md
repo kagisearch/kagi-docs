@@ -64,6 +64,14 @@ Kagi has a feature to check your [current search usage](https://kagi.com/setting
 
 ## Fair Pricing
 
+### Monthly plans
+
 In months where you don't utilize your plan (meaning that you don't make any searches or use any AI interactions), we will automatically apply a full credit to your account for that month. The credit will be applied to your next billing cycle, effectively covering your subsequent month's subscription at no additional cost.
 
-Of course, it doesn't count as "utilizing your plan" if all you do during a month is use services that are free for everyone, like Kagi Small Web, or access data you already have saved in Kagi Assistant!
+### Yearly plans
+
+If you don't utilize your plan (meaning that you don't make any searches or use any AI interactions) for the entire billing year, we will automatically apply a full credit to your account equal to the yearly price. The credit will be applied to your next billing cycle, effectively covering your subsequent year's subscription at no additional cost.
+
+### What doesn't count as usage
+
+Using services that are free for everyone, like Kagi Small Web, or accessing data that had already been saved in Kagi Assistant in a previous billing period, will not count as usage for Fair Pricing purposes.
