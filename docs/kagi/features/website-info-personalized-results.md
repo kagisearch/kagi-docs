@@ -15,10 +15,12 @@ To the right of each Kagi search result is a shield icon. Hovering over the icon
 
 ## Personalized Results
 
-<img src="./media/kagi-personalized-results.png" width="675">
+![Personalized Option in Search Options](./media/kagi-personalized-results.png){data-zoomable}
 
 Midway down the information window for the search result, you can tweak how the website for the result is treated in future Kagi searches.
 
+
+![Web Archive and More Results Links](./media/kagi-personalized-results-ranking.png){width=675px data-zoomable}
 
 Your options are to:
 
@@ -27,10 +29,6 @@ Your options are to:
 - Give the website a **Normal** ranking (the default)
 - Make the website ranking **Higher**
 - **Pin** the website to the top of search results
-
-
-![Web Archive and More Results Links](./media/kagi-personalized-results-ranking.png){width=675px data-zoomable}
-
 
 You can see your Personalized Results for all websites in [Settings](https://kagi.com/settings/user_ranked).
 
@@ -42,7 +40,7 @@ Personalization can also be disabled for a single search via unchecking the "Per
 
 You can also apply Personalization in image search results by clicking the shield icon.
 
-![Kagi Image search personalization](./media/kagi-personalized-results-block-image.png)
+![Kagi Image search personalization](./media/kagi-personalized-results-block-image.png){data-zoomable}
 
 Kagi Search allows you to block entire domains as part of its ranking tools, but it doesn’t currently support advanced blocking methods like path wildcards (e.g., `*://example.com/path/*`) or regular expressions (e.g., `/example\.(net|org)/`) – for these advanced options, the [uBlacklist](https://github.com/iorate/ublacklist?tab=readme-ov-file#ublacklist) browser extension offers these capabilities and integrates with Kagi.
 
@@ -71,10 +69,10 @@ The information may include:
 
 ![Quick Actions Menu](./media/kagi-personalized-results-quick-action-menu.png){data-zoomable}
 
-Clicking on the three dots (...) to the right of each search result will bring a menu with 4 options:
+Clicking on the three dots (...) to the right of each search result will bring a menu:
 
-- **More results from this site** will perform the same Kagi search again, but with results limited to the website of your initial result.
+- **More results from this site** will perform the same Kagi search again, but with results limited to that website.
 - **Remove results from this site** will perform the same Kagi search again, but with results from that website removed.
 - **Open page in Web Archive** will show you the history of the webpage at the [Wayback Machine](https://archive.org/).
-- **Summarize page** will use [Universal Summarizer](../summarizer.md) to give you a summary of the webpage within the search results page.
-- **Ask questions about page** will take you to [Kagi Assistant](../ai/assistant.md) and use the webpage as context for asking questions.
+- **Quick Summary** will use [Kagi Summarize](../summarizer.md) to give you a summary of the webpage.
+- **Continue in Assistant** will take you to [Kagi Assistant](../ai/assistant.md) and use the webpage as context for asking questions.
