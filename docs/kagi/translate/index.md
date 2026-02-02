@@ -9,7 +9,8 @@
 #### Available on:
 
 - [Kagi Translate Website](https://translate.kagi.com)
-- Android and iOS apps coming soon
+- [iOS App](https://apps.apple.com/app/kagi-translate/id6748310237)
+- [Android App](https://play.google.com/store/apps/details?id=com.kagi.translate)
 
 ## Features
 - **Vast Language Support**: Translate between more than 248 languages
@@ -103,11 +104,15 @@ Option 2:
    - Translating selected text: Select text, then click bookmarklet
    - Translating entire page: Click bookmarklet without selecting text
 
+### iOS Translate Default App
+
+Kagi Translate can be set as the default app to use for translations in iOS. To do this, go to the iOS settings > Apps > Default Apps > Translation, and select Kagi Translate. 
+
 ### URL Parameters
 
 If you want to create custom [Bangs](../features/bangs.md), integrate it into your favorite launcher, set a bookmark to specific setup or any other automation, you can look at this page with info about the [URL parameter reference](./url-parameters.md) for the complete list of query options, examples, and mode-specific settings you can pass to Translate.
 
-## Coss-Device Sync and History
+## Cross-Device Sync and History
 
 You can sync your settings and presets across devices by navigating to ```Settings > General > Cross-Device Sync```.
 
