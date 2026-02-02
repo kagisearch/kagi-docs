@@ -104,10 +104,6 @@ Option 2:
    - Translating selected text: Select text, then click bookmarklet
    - Translating entire page: Click bookmarklet without selecting text
 
-### iOS Translate Default App
-
-Kagi Translate can be set as the default app to use for translations in iOS. To do this, go to the iOS settings > Apps > Default Apps > Translation, and select Kagi Translate. 
-
 ### URL Parameters
 
 If you want to create custom [Bangs](../features/bangs.md), integrate it into your favorite launcher, set a bookmark to specific setup or any other automation, you can look at this page with info about the [URL parameter reference](./url-parameters.md) for the complete list of query options, examples, and mode-specific settings you can pass to Translate.
@@ -129,6 +125,10 @@ You can enable or disable website integrations in the extension's settings.
 ::: info Note
 Some integrations may require a Kagi subscription of any plan to use.
 :::
+
+## iOS Translate Default App
+
+Kagi Translate can be set as the default app to use for translations in iOS. To do this, go to the iOS settings > Apps > Default Apps > Translation, and select Kagi Translate. 
 
 ## Important notes
 
