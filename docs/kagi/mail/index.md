@@ -14,92 +14,98 @@ There is no release date yet, beta access will be sent in waves:
 Pricing has not been finalized.
 *   **Philosophy:** Kagi is not competing with "free" or ad-supported models. 
 
----
-
-## Technical Architecture
-
 ### What is the technology stack?
-*   **Backend:** Kagi Mail leverages `Stalwart`, an open-source mail server written in Rust.
-*   **Frontend:** The web client is built in-house by Kagi.
+*   **Backend:** Kagi Mail leverages [Stalwart](https://stalw.art), an open-source mail server.
+*   **Frontend:** The web client is built in-house by Kagi, leveraging [JMAP](https://jmap.io/spec-mail.html).
 
-### Which protocols constitute the backbone of the service?
-Kagi Mail supports open email standards:
-*   `IMAP` (Internet Message Access Protocol)
-*   `SMTP` (Simple Mail Transfer Protocol)
-*   `JMAP` (JSON Meta Application Protocol) — utilized heavily by their web client.
+### Which protocols will Kagi Mail support?
+Kagi Mail attempts to supports open standards, including IMAP4, SMTP, JMAP, and Sieve. For a full list of those supported by Stalwart, see the [RFCs it implements](https://stalw.art/docs/development/rfcs/).
 
 ### Does it replace Google Drive or Calendar?
-*   **Calendar/Contacts:** These are on the roadmap using standard protocols (`CalDAV` and `CardDAV`). Detailed collaboration features are secondary to stabilizing the core mail experience.
-*   **Storage:** The backend supports file storage via `WebDAV`, but a full "Kagi Drive" interface to compete with Google Drive is not planned for launch.
 
----
+Calendar and contacts support are on the roadmap. Storage is not planned for launch, but may have limited support via WebDAV.
 
 ## User Interface & Experience
 
-### Why does the web interface look like a text terminal?
-Kagi Mail employs a "Pseudo-TUI" (Text-based User Interface) aesthetic. It is designed for maximum speed and is heavily keyboard-centric, catering to power users who like Vim-style workflows — but it is also designed to be fully usable with just a mouse.
-*   **Navigation:** It utilizes **Vim-style keybindings** (e.g., `j`/`k` to move up and down, `g` $\rightarrow$ `i` to go to Inbox) for those who prefer keyboard shortcuts.
-*   **Command Bar:** Actions can be executed via a command bar accessed by typing `:`, such as `:logout`, `:label`, or `:block`, or by using on-screen controls.
-*   **Customization:** Users can adjust fonts (Sans/Serif/Monospace) and themes (Light/Dark/System) if the terminal look is too stark.
-*   **Mouse-Friendly UI:** In addition to keyboard controls, the interface includes familiar UI elements — clickable buttons, menus, and context menus — so it works like a regular webmail client for users who primarily point-and-click.
+### How do I do...?
+Kagi Mail's UI was originally inspired by TUIs, and not all features are accessible with mouse-only navigation. Press <kbd>?</kbd> to see a list of commands and press <kbd>:</kbd> to enter the command prompt.
 
 ### How does it handle HTML emails?
-For security and speed, Kagi Mail attempts to render emails as **Plain Text/Markdown** by default.
-*   **The Renderer:** The team is building a robust HTML-to-Text renderer that parses markdown elements (blockquotes, tables) so newsletters are readable without loading heavy HTML.
-*   **HTML Toggle:** Users can switch to the original HTML view by pressing `v` or clicking the "Show HTML" button.
+For security and speed, Kagi Mail attempts to render emails as Markdown by default. Press <kbd>v</kbd> to show full HTML.
 
-### Does it have "Undo Send"?
-**Yes.** You can configure the "Undo Send" duration in the General settings (e.g., 15 seconds), allowing you to stop a message shortly after hitting send using the `:undo` command.
+Kagi Mail will automatically strip many pixel trackers and proxies images to Kagi image proxy, to preserve privacy. This applies across any email client used to access Kagi Mail.
+
+### Is there a mobile app?
+**Not yet,** though you can configure your choice of third party mobile app through IMAP or JMAP.
+
+## Privacy & Security
+
+### Is Kagi Mail End-to-End Encrypted (E2EE)?
+**No.**
+Kagi aims to balance privacy, usability, and features. Currently, we are not planning to offer a full end-to-end encrypted service, although users can enable end-to-end encryption through a third party mail client (e.g. [Thunderbird](https://support.mozilla.org/en-US/kb/thunderbird-help-setup-account-e2ee)).
+
+### Does it block tracking?
+**Yes.** Kagi mail will automatically proxy remote images and strip most tracking pixels to prevent senders from identifying users. This applies regardless of the email cilent you access Kagi Mail with.
 
 ---
 
 ## Features & Workflow
 
-### How is email sorted (Folders vs. Labels)?
-Kagi Mail uses a **Label** system rather than strict folders. This means an email can live in any number of labels, rather than just one folder.
+### Undo Send
+You can configure the "Undo Send" duration in the [General settings](https://kagimail.com/settings) (with a default of 15 seconds), allowing you to stop a message shortly after hitting send using the `:undo` command.
 
-### What are "Assistant Rules"?
-This is an **optional, experimental AI feature** that allows the Kagi Assistant to manage your inbox.
-*   **Strictly OPT-IN:** This feature is **disabled by default**. You must explicitly check boxes to grant permissions (such as **"Read message contents"** or **"Create labels"**) for the AI to function. If you disable these permissions, the text will not be processed by the Assistant.
-*   **Natural Language & Actions:** You can provide natural language prompts (e.g., *"Label receipts as 'paper-trail'"*) to guide the AI. Valid actions the Assistant can take include: **Apply labels**, **Skip inbox**, **Mark read**, or **Mark important**. These can be applied to a single message or propagated to all messages in a thread.
-*   **Manual Rules:** If you prefer not to use AI, standard deterministic rules (such as block/allow lists) are available via the "Add New Rule" button and function entirely separately.
+### Email sorting
+Kagi Mail's webmail exposes mailboxes as "labels". Any number of labels can be attached to an email. In third-party mail clients, labels may be shown as mailboxes, and the same email may appear in multiple mailboxes.
 
-### Can I import my old email?
-**Yes.**
-*   **MBOX Import:** A tool allows users to upload archives (like Gmail takeouts), respecting existing labels and read/unread status.
-*   **IMAP Migration:** Allows users to connect Kagi Mail to an existing IMAP inbox to import mail directly.
+### Rules
+[Rules](https://kagimail.com/settings/rules) are an **opt-in, experimental, LLM based feature** that allows the Kagi Assistant to manage incoming messages.
 
----
+You must enable at least one permission and at least one rule for Rules to process incoming messages.
 
-## Domains & Aliasing
+Rule permissions give permission for the underlying LLM to access specific parts of your email and take specific actions on messages.
 
-### Can I use a Custom Domain?
-**Yes.** Support for personal custom domains is a planned launch feature and will likely be included in the base price. It supports "catch-all" configurations and sending from specific aliases.
+#### Tips for rules
+- Use natural language to describe how you want messages to be processed.
+- Depending on permissions granted, you can reference message content, thread content, message headers, and participant in the message or thread.
+- Keep rules concise and 
 
-### How do Aliases work?
-*   **Kagi Aliases:** You can generate randomized aliases ending in `@kagimail.com` (e.g., `word-word-word@kagimail.com`) to mask your real identity, similar to other email masking services.
-*   **Management:** Aliases can be individually disabled if they attract spam. You can also set specific "Outgoing Names" and signatures per alias.
+### assistant@kagimail.com
+assistant@kagimail.com is Kagi Assistant over email. You can email assistant@kagimail.com directly to ask general questions, or include it on a thread via Reply, CC, or Forward to ask questions about an email thread.
 
----
+Via a Reply, you can ask assistant@kagimail.com to take action on a thread to scope a [Rule](#what-are-rules) to that specific thread.
 
-## Privacy & Security
+### Email Import
+[Import & Export settings](https://kagimail.com/settings/import-export)
 
-### Is Kagi Mail End-to-End Encrypted (E2EE)?
-**Not by default.**
-Kagi aims to balance privacy with standard protocol usability (such as server-side search and usage of third-party clients without bridge apps).
-*   **Current State:** Data is encrypted at rest and in transit (TLS).
-*   **Future:** The team is exploring optional PGP support or encryption methods where the user holds the keys.
+#### MBOX Import
+MBOX files are provided by many email providers. When importing an MBOX file, all messages will be placed into a new label scoped to that import, to help with organization. Unfortunately, the MBOX format does not inherently support things like read/unread, labels, or flagged messages. We do a best-effort to support some email provider specific conventions.
 
-### Does it block tracking?
-**Yes.**
-*   **Spy Pixels:** The service proxies remote images and actively strips known tracking pixels to prevent senders from knowing when an email is opened.
-*   **Image Proxy:** The service utilizes Kagi's image proxy, so even loading legitimate images will protect the user's privacy.
+#### IMAP Import
+Importing directly from an IMAP protocol allows you to import incoming messages in real-time, preserving IMAP keywords like read/unread, flagged, and important. This requires you have access to the email account and requires Kagi to encrypt and store your password. OAuth based authentication flows are currently unsupported.
 
----
+##### App Specific Passwords
+We recommend using an App Specific Password if your mail provider supports it.
 
-## Mobile & Client Support
+* [Gmail](https://support.google.com/accounts/answer/185833?hl=en)
+* [Microsoft/Outlook](https://support.microsoft.com/en-us/account-billing/how-to-get-and-use-app-passwords-5896ed9b-4263-e681-128a-a6f2979a7944)
+* [Zoho](https://help.zoho.com/portal/en/kb/bigin/channels/email/articles/generate-an-app-specific-password)
 
-### Is there a mobile app?
-**Not yet.**
-*   **Strategy:** The team is prioritizing a robust web client (with a responsive "Mobile Web" view in progress) and backend infrastructure first. A native app is on the roadmap.
-*   **Workaround:** You are encouraged to use existing third-party mobile clients (Apple Mail, Outlook, etc.) via `IMAP` configurations. There are plans to make many features work with third-party clients, rather than having them as an afterthought.
+### Pinning emails
+Messages marked with the IMAP "flagged" keyword are "pinned" to the top of your inbox in Kagi Mail's webmail.
+
+### Custom domains
+Configure custom domains in the [settings](https://kagimail.com/settings/domains). You will be required to validate ownership with a TXT DNS record with your domain provider, then configure MX, SPF, DKIM, and DMARC DNS records for full support.
+
+### Aliases
+
+Randomized aliases can be created for `@kagimail.com`, and custom aliases can be created for custom domains. Aliases can be used to mask your identity or to track what online services do with your address. Aliases can be individually disabled if they attract spam. Each alias can have individual outgoing name and signatures configured.
+
+#### Aliases in IMAP clients
+
+You must manually configure aliases in IMAP clients (there's no standard mechanism for discovery).
+
+##### Apple Mail
+
+Go to: Mail > Settings > Accounts > [Pick your kagi mail account] > Email Address > Edit Email Addresses...
+
+Add your alias manually, and it will be an option in the "From:" field when composing an email.
