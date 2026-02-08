@@ -1,6 +1,12 @@
 > Not your browser/OS? Return to [the hub page](../../../kagi/getting-started/setting-default.md) for setting Kagi as the default search engine.
 # Setting Kagi as Default on Safari (Mac)
 
+<br />
+
+<video src="./media/kagi_extension_safari_mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
+
 ## Install the Kagi for Safari extension (Mac)
 
 1. Install the [Kagi for Safari](https://apps.apple.com/app/kagi-search-for-safari/id1622835804) extension.
