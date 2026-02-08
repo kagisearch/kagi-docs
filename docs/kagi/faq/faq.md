@@ -5,6 +5,17 @@ next:
 ---
 # Frequently Asked Questions (FAQ)
 
+Welcome to Kagi!
+
+We're a privacy-first search engine, browser, and suite of tools that puts you front and center. We're entirely user-funded and operate without ads, tracking, or algorithmic manipulation, letting us focus on creating better experiences for a more human web.
+
+Try some of our most popular tools and products right now: 
+
+- [Kagi Search](https://kagi.com/) - No ads, no tracking, tons of customizability.
+- [Orion Browser](https://orionbrowser.com/) - A fast web browser that fully respects your privacy.
+- [Small Web](https://kagi.com/smallweb) - Blogs and websites made by humans, for humans.
+- [Kagi Translate](https://translate.kagi.com/) - Accurate and fast translations across 248 languages.
+
 ## Table of Contents
 
 ### About Kagi
