@@ -13,7 +13,7 @@ The easiest way to set Kagi as default on Firefox is by installing our [browser 
 
 <br />
 
-To enhance your browsing experience with Kagi, follow these steps to set Kagi as your default search engine in Mozilla Firefox:
+To enhance your browsing experience with Kagi, follow these steps to set Kagi as your default search engine in Firefox:
 
 1. Launch Firefox.
 2. Install the Kagi Search extension from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/) by clicking the **Add to Firefox** button.
