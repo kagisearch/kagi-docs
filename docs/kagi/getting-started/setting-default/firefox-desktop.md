@@ -5,6 +5,14 @@
 
 The easiest way to set Kagi as default on Firefox is by installing our [browser extension](https://addons.mozilla.org/en-US/firefox/addon/kagi-search-for-firefox/).
 
+### Setting up the Kagi Extension in Google Chrome
+
+<br />
+
+<video src="./media/kagi_extension_firefox.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
+
 ## Manual Configuration
 
 1. Open [https://kagi.com](https://kagi.com), then right-click the browser address/search bar and select **Add Kagi Search**.
