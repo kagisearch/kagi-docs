@@ -21,6 +21,7 @@ To enhance your browsing experience with Kagi, follow these steps to set Kagi as
 4. In the next dialog, check **Pin extension to toolbar** and click **OK**.
 5. A dialog will ask *"Kagi Search for Firefox would like to change your default search engine from Google to Kagi. Is that OK?"* Click **Yes**.
 6. Click the **Kagi** icon in Firefox's toolbar. It will display Kagi's Privacy Notice. Click **Allow access**.
+7. If you see a message saying *No Kagi session found*, click the **Let's go!** link (you may need to log into Kagi if you haven't already).
 
 ## Manual Configuration
 
