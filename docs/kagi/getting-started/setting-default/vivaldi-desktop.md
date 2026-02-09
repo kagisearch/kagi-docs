@@ -3,6 +3,12 @@
 
 ## Preferred Method
 
+<br />
+
+<video src="./media/kagi_extension_vivaldi_desktop.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
+
 1. Visit [kagi.com](https://kagi.com/) and sign in if needed.
 2. Right-click on **Kagi's search bar** (the search field on the Kagi website, not Vivaldi's address bar) and select **Add as Search Engine**.
 3. Check the **Set as Default Search** checkbox and click **Add**.
