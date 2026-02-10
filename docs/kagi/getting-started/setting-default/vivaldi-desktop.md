@@ -5,7 +5,7 @@
 
 <br />
 
-<video src="./media/kagi_extension_vivaldi_desktop.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi-extension-vivaldi-desktop.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 <br />
 
