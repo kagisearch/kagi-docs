@@ -3,7 +3,7 @@
 
 <br />
 
-<video src="./media/kagi_extension_safari_mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi-extension-safari-mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 <br />
 

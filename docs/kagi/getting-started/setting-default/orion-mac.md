@@ -1,6 +1,12 @@
 > Not your browser/OS? Return to [the hub page](../../../kagi/getting-started/setting-default.md) for setting Kagi as the default search engine.
 # Setting Kagi as Default on Orion (Mac)
 
+<br />
+
+<video src="./media/orion-kagi-setup-mac.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
+
 Orion already includes Kagi. Pick it once in Settings and you are ready to search.
 
 1. **Open Orion**, then choose **Orion › Settings**.  

@@ -9,7 +9,7 @@ The easiest way to set Kagi as default on Chromium based browsers is by installi
 
 <br />
 
-<video src="./media/kagi_extension_google_chrome_desktop.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi-extension-google-chrome-desktop.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 <br />
 
