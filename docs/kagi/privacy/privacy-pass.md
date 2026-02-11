@@ -146,3 +146,7 @@ If you see a "Generate more tokens" button, it usually means the extension could
 Also check the [Kagi privacy pass FAQ](https://blog.kagi.com/kagi-privacy-pass#faq).
 
 Simply ensure you're logged in and online, then click the "Generate more tokens" button to try again. If you continue experiencing issues, please reach out to our support team at support@kagi.com.
+
+## Anonymity & Privacy Philosophy
+
+[Learn more](https://help.kagi.com/kagi/privacy/anonymity.html) about our commitment to privacy and more methods to enjoy Kagi anonymously.
