@@ -2,7 +2,7 @@
 
 ## What is Kagi Privacy Pass?
 
-**Privacy Pass** is a powerful privacy feature that allows you to use Kagi Search without revealing your identity. When enabled, it lets you perform searches anonymously while still verifying that you're a valid Kagi subscriber. Think of it as a digital token system - similar to getting tokens at an arcade, where once you have them, you can use the services without showing your ID each time.
+**Privacy Pass** is a powerful privacy feature that allows you to use Kagi Search with greater anonymity. When enabled, it lets you perform searches more anonymously while still verifying that you're a valid Kagi subscriber. Think of it as a digital token system - similar to getting tokens at an arcade, where once you have them, you can use the services without showing your ID each time.
 
 ## How does it work?
 
