@@ -238,17 +238,30 @@ function sidebarKagi() {
                 { text: 'Turning Off Animations', link: '/kagi/features/turning-off-animations' }
   		]
 		},
-                {
-                    text: 'Community Add-ons', link: '/kagi/community-addons/',
-                },
-                {
-                    text: 'Community Themes', link: 'https://openkagi.com/themes',
-                },
-                {
-                    text: 'Community Lenses', link: 'https://openkagi.com/lenses',
-                }
 
-            ]
+
+        ]
+        },
+        {
+          text: "Community Resources",
+          items: [
+            {
+              text: "Add-ons",
+              link: "/kagi/community-addons/",
+            },
+            {
+              text: "Themes",
+              link: "https://openkagi.com/themes",
+            },
+            {
+              text: "Lenses",
+              link: "https://openkagi.com/lenses",
+            },
+          ],
+        },
+        {
+          text: "Third-Party Integrations",
+          link: "/kagi/third-party-integrations/",
         },
         {
             text: 'Developers',

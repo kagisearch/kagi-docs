@@ -59,13 +59,9 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 ## Emacs
 - [kagi.el](https://codeberg.org/bram85/kagi.el): Emacs package that provides access to the Kagi FastGPT and Universal Summarizer API.
 
-## 3rd party apps
+## Third party apps
 
 - [Lensai](https://github.com/FaFre/lensai) browser has **[Kagi Integration](https://github.com/FaFre/lensai/wiki/Kagi-Tools)** integrating Kagi's search, assistant, and summarizer tools within a user-friendly interface.
-
-## Kagi Translate Extension
-
-- [Kagi Translate Extension](https://github.com/mosk-it/kagi-translate-ext) is webextension to translate selected text from selected languages in firefox and Chrome
 
 ## Kagi FastGPT CLI
 
