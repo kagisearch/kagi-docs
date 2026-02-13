@@ -11,7 +11,7 @@ Set Kagi as your default search engine in Safari by installing the [Kagi for Saf
 
 <br />
 
-<video src="./media/install_kagi_for_safari_ios.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi-extension-safari-ios.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 <br />
 

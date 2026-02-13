@@ -26,7 +26,7 @@ You can use Kagi on your phone or tablet with the Kagi App.
 
 ### Android
 
-The Kagi App is currently available for Android. Download it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.kagi.search&hl=en).
+The Kagi app is currently available for Android. Download it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.kagi.search&hl=en). You can watch a setup video [here](./setting-default/kagi-android-app.md).
 
 - Add Kagi search widgets to your homescreen for quick access.
 - Use the app directly to search with Kagi on your device.
