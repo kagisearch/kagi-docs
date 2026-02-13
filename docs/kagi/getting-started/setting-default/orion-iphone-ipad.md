@@ -3,7 +3,7 @@
 
 <br />
 
-<video src="./media/kagi-extension-safari-ios.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/orion-kagi-setup-ios.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 <br />
 
