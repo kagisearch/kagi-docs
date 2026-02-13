@@ -7,7 +7,29 @@ Kagi can be integrated with other applications to make it easy to quickly search
 [BoltAI](https://boltai.com) is a native AI app for Mac, it includes built-in support for using Kagi Search to provide context to the LLMs.
 To set it up, launch BoltAI and navigate to **Settings** > **Plugins** > **Kagi Search**, then select the **Settings** tab and paste your [API key](https://kagi.com/settings/api).
 
-**Note:** The Search API is only available in our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html) (invite-only at the moment). 
+**Note:** Email support@kagi.com to request access to the Search API beta.
+
+## Monarch Launcher
+
+[Monarch](https://www.monarchlauncher.com) is a productivity engine for macOS that allows you to perform tasks such as calculations, clipboard management, and web searches without leaving your current workflow. Kagi is available as a built-in search engine option in Monarch.
+
+To configure Kagi as the default search engine in Monarch Launcher:
+
+1. Activate Monarch Launcher.
+![Monarch Launcher](./media/app_monarch_launcher.png){width=675px data-zoomable}
+
+2. Type monarch settings and select Monarch Settings.
+![Monarch Settings Search](./media/app_monarch_settings_search.png){width=675px data-zoomable}
+
+3. Click General in the sidebar.
+4. Under the Web Search section, select Kagi from the Search engine dropdown.
+5. Optionally, choose whether to Open in Monarch or Open in default browser.
+
+![Monarch General Settings](./media/app_monarch_settings_general.png){width=675px data-zoomable}
+
+You should now be able to search Kagi directly from Monarch Launcher by typing your query and selecting Search the Web.
+
+![Monarch Example Search](./media/app_monarch_example_search.png){width=675px data-zoomable}
 
 ## Alfred
 
@@ -29,7 +51,7 @@ To configure Kagi as a custom search in Alfred:
 
 Your configuration should now look like this:
 
-<img src="./media/app_alfred_custom_search_setup.png" width="675" alt="Alfred Custom Search Setup">
+![Alfred Custom Search Setup](./media/app_alfred_custom_search_setup.png){width=675px data-zoomable}
 
 6. Click **Test** in the **Validation** section to verify that the search works.
     1. Your default web browser should open and perform a Kagi search for the word **alfredapp**.
@@ -37,11 +59,12 @@ Your configuration should now look like this:
 
 You should now have an entry for Kagi:
 
-<img src="./media/app_alfred_custom_search.png" width="675" alt="Alfred Custom Search Setup">
+![Alfred Custom Search](./media/app_alfred_custom_search.png){width=675px data-zoomable}
 
 Now you can search Kagi from within Alfred by typing **kagi** followed by your search terms. For example, to search Kagi for **Orion** you would activate Alfred and type **kagi Orion**.
 
-<img src="./media/app_alfred_example_search.png" width="675" alt="Alfred Custom Search Example Search">
+![Alfred Custom Search Example Search](./media/app_alfred_example_search.png){width=675px data-zoomable}
+
 
 ### Fallback Search
 
@@ -59,11 +82,11 @@ To configure Kagi as a fallback search in Alfred:
 
 You should now see Kagi in the list:
 
-<img src="./media/app_alfred_fallback_search.png" width="675" alt="Alfred Fallback Search">
+![Alfred Fallback Search](./media/app_alfred_fallback_search.png){width=675px data-zoomable}
 
 8. Drag the **Search Kagi for {query}** search to the top of the list, or any other position you prefer.
 9. Click the **Save** button.
 
 You should now have Kagi available as a fallback search:
 
-<img src="./media/app_alfred_fallback_search_example.png" width="675" alt="Alfred Fallback Search Example">
+<![Alfred Fallback Search Example](./media/app_alfred_fallback_search_example.png){width=675px data-zoomable}
