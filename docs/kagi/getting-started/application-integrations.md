@@ -2,6 +2,8 @@
 
 Kagi can be integrated with other applications to make it easy to quickly search the web from within those applications. If the application supports an [OpenSearch](https://github.com/dewitt/opensearch) description file, use https://kagi.com/opensearch.xml.
 
+Additional integrations are available through [add-ons](../community-addons/) contributed by Kagi users. Check them out to extend Kagi's functionality even further.
+
 ## BoltAI
 
 [BoltAI](https://boltai.com) is a native AI app for Mac, it includes built-in support for using Kagi Search to provide context to the LLMs.
