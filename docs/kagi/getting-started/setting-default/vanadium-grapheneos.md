@@ -3,6 +3,12 @@
 
 ## OpenSearch Metadata Method
 
+<br />
+
+<video src="./media/vanadium-kagi-setup-grapheneos.mp4" width="450" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+<br />
+
 To set Kagi as the default search engine on Vanadium for mobile devices running Graphene OS:
 
 1. Open a new tab in the Vanadium browser and log in to the Kagi.com search page.
