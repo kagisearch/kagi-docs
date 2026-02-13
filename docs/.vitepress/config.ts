@@ -260,10 +260,6 @@ function sidebarKagi() {
           ],
         },
         {
-          text: "Third-Party Integrations",
-          link: "/kagi/third-party-integrations/",
-        },
-        {
             text: 'Developers',
             items: [
                 {
