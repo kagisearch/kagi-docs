@@ -8,7 +8,7 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
-Last task list revision: **December 24th, 2025**
+Last task list revision: **February 13th, 2026**
 Tasks: **116**
 Input Tokens (all tasks): **15256**
 
@@ -20,15 +20,19 @@ Please see notes below the table if you see results you find surprising, or get 
 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
 |-------------------------------------|-------------|-----------|-------------|----------|-------|------------|
+| claude-4-6-opus-thinking            |        83.6 |       4.8 |        24.3 |   163617 |  19.3 | kagi (ult) |
 | claude-4-5-opus-thinking            |        80.2 |       4.5 |        32.7 |   146771 |  12.7 | kagi (ult) |
 | gemini-3-pro                        |        80.1 |       0.4 |        54.9 |    15114 |   0.8 | kagi (ult) |
+| kimi-k2-5-thinking                  |        78.5 |       0.5 |        15.2 |   355940 |  66.0 | kagi       |
 | gpt-5-pro                           |        76.8 |      31.8 |       193.2 |   330943 |   5.2 | kagi (ult) |
+| glm-5-thinking                      |        75.0 |       2.0 |        74.9 |   620281 |  23.4 | openrouter |
 | claude-4-opus-thinking              |        74.3 |      22.4 |        13.3 |    17058 |  11.0 | kagi (ult) |
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
 | gpt-5-2                             |        73.3 |       1.4 |        17.6 |    93386 |  15.0 | kagi (ult) |
 | claude-4-sonnet-thinking            |        73.0 |       5.4 |        14.1 |    17872 |  10.0 | kagi (ult) |
 | gpt-5                               |        72.7 |       7.1 |        32.8 |     6282 |   1.6 | kagi (ult) |
 | qwen3-max                           |        72.5 |       1.9 |        15.7 |   148347 |  22.1 | openrouter |
+| claude-4-6-opus                     |        72.4 |       1.6 |         7.1 |    32038 |  12.7 | kagi (ult) |
 | o3-pro                              |        72.1 |      34.2 |        87.8 |    12054 |   1.1 | kagi (ult) |
 | claude-4-5-opus                     |        70.7 |       1.4 |        10.7 |    20716 |   5.5 | kagi (ult) |
 | gemini-2-5-pro                      |        70.3 |       1.7 |        20.9 |    13581 |   5.4 | kagi (ult) |
@@ -44,6 +48,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
 | arcee-ai/maestro-reasoning          |        64.9 |       2.7 |        16.7 |   200565 | 103.4 | openrouter |
 | moonshotai/kimi-k2-thinking         |        64.4 |       0.8 |        47.4 |   338746 |  20.2 | openrouter |
+| kimi-k2-5                           |        63.8 |       0.1 |         2.5 |    50590 |  58.1 | kagi       |
 | qwen-plus-2025-07-28                |        63.3 |       1.1 |         9.0 |   143402 |  37.0 | openrouter |
 | stepfun-ai/step3                    |        62.3 |       1.6 |       174.2 |   417415 |   7.0 | openrouter |
 | gpt-5-nano                          |        62.2 |       0.4 |        20.5 |     9587 |   3.9 | kagi       |
@@ -80,6 +85,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | kimi-k2-0905 (see note below)       |        52.2 |       0.3 |        11.3 |    30772 |  23.1 | openrouter |
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | nvidia/nemotron-nano-12b-v2-vl      |        51.7 |       0.1 |        24.6 |   153175 |  19.7 | openrouter |
+| glm-5                               |        51.7 |       0.2 |        13.6 |    62471 |  13.0 | openrouter |
 | mistral-large-3                     |        50.9 |       0.1 |        12.4 |    30715 |   7.0 | kagi    |
 | mistral-medium                      |        50.0 |       0.5 |         2.9 |   120090 |  67.8 | kagi       |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
