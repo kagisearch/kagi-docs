@@ -55,7 +55,7 @@ Our security team will:
 2. Perform initial triage to verify:
 - Uniqueness of the report
 - Current fix status
-- Reproduction of the issue
+- Reproduction of the issuef
 3. Assess severity level according to the reward matrix
 4. Communicate the assessed reward amount
 5. Provide regular updates on fix progress
