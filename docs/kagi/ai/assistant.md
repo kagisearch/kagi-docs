@@ -309,3 +309,6 @@ Here are some suggestions to reduce token usage:
 
 **Q**: What is Kagi’s stance about using LLMs in search?\
 **A**: We continue to relentlessly focus on the core search experience and build thoughtfully integrated features on top of it. Read more about it in our [AI Integration Philosophy](../why-kagi/ai-philosophy.md) page.
+
+**Q**: Why is Assistant unable to access the web?\
+**A**: Check to make sure you haven't disabled web access. Look for the lens selector dropdown under the prompt entry box to the right of the model selector. Tap the globe to enable or disable web access. It should be colored light purple when web access is enabled. If you are still having issues, please contact support.
