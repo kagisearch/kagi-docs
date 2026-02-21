@@ -50,5 +50,9 @@ Shared by Mikhail O.
 ![WeatherCAN](./media/weathercan.png){data-zoomable}
 Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1462583535968850114)
 
+## Chicken stock
+![Chicken stock](./media/cstock.png){data-zoomable}
+Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1474772670221652019)
+
 ## Share a blooper
 Have you come across a funny result yourself? [Share it with us!](mailto:esra@kagi.com)
