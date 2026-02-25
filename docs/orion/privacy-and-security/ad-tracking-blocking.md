@@ -68,6 +68,7 @@ This list currently consists of:
 
 -   browserbench.org - The content blocker interferes with JavaScript performance benchmarking. We decided it is best to have it off to measure the real speed of WebKit's JavaScript engine.
 -   wizzair.com - The content blocker interferes with rendering of the website.
+-   webflow.com - Safari useragent effects the site's functionality, so a Chrome UA is sent instead.
 
 If you wish, you can enable blocking on any whitelisted website using the instructions above.
 
