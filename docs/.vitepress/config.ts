@@ -284,6 +284,7 @@ function sidebarKagi() {
                         { text: 'Small Web RSS Feed', link: '/kagi/api/smallweb' },
                     ],
                 },
+                { text: 'Webmaster Tools', link: '/kagi/developer/webmaster-tools' },
                 { text: 'Kagi Sidekick', link: '/kagi/sidekick/' },
             ]
         },
