@@ -1,14 +1,19 @@
 # Bangs
 
-Bangs are shortcuts starting with exclamation points (!) that quickly take you to search results on other sites. For example, searching Kagi for **!w Monty Python** will search Wikipedia directly for "Monty Python" and take you to that Wikipedia search result. Bangs that perform searches on external sites are [never counted as searches](../plans/plan-types.md#how-searches-are-counted) for the purpose of billing/usage.
+<br>
 
-![Bang Example](media/bang.gif){data-zoomable}
+<video src="./media/kagi-search-bangs.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+
+Bangs are shortcuts starting with exclamation points (!) that quickly take you to search results on other sites. For example, searching Kagi for **!w Monty Python** will search Wikipedia directly for "Monty Python" and take you to that Wikipedia search result.
 
 To take advantage of Bangs make sure you have enabled Bangs in your [Search](https://kagi.com/settings/search) settings. You can also set up Quick Bangs and Custom Bangs, continue reading to learn more.
 
-![Enable Bangs](media/enable_bangs.png){data-zoomable}
+![Enable Bangs](media/kagi-search-enable-bangs.png){data-zoomable}
 
 You can use the community-created [Kagi Bangs Explorer](https://kbe.smaertness.net) to find bangs for your favorite sites.
+
+:::info Bangs that perform searches on *external sites* are [never counted as searches](../plans/plan-types.md#how-searches-are-counted) for the purpose of billing/usage.
+:::
 
 ## Bang Examples
 
@@ -166,23 +171,23 @@ Configure Quick Bangs under [Search](https://kagi.com/settings/search) in the Ka
 
 You can also create your own Custom Bangs in [Advanced Settings](https://kagi.com/settings/advanced).
 
-![Custom Bangs](./media/custom_bang_settings.png){data-zoomable}
+![Custom Bangs](./media/kagi-custom-bang-setting.png){data-zoomable}
 
 Once you "Open Bangs" you will see any existing custom bangs.
 
-![Custom Bang in Settings](./media/custom_bang_in_settings.png){data-zoomable}
+![Custom Bang in Settings](./media/kagi-custom-bangs-in-settings.png){data-zoomable}
 
 From here you can "Add Bang" to define new custom bangs.
 
-![Custom Bang Editor in Settings](./media/custom_bang_editor_settings.png){data-zoomable}
+![Custom Bang Editor in Settings](./media/kagi-custom-bang-editor-settings.png){data-zoomable}
 
 You can create your own Custom Bangs in Kagi using the [Search Shortcuts menu](search-shortcuts.md).
 
-## Watch a Demo
+## Watch a Tutorial
 
-You can see a full demo of using bangs - default, new and custom - by watching the video below.
+You can see Bangs in action - default, new and custom - by watching the video tutorial below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Cy8PHrVs5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://youtube.com/watch?v=JwLDrZmNIIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Feeling Lucky
 
@@ -191,7 +196,7 @@ Or, you could be "feeling lucky" enough to take the chance!
 
 When you start your query with `!(space)query`, Kagi will redirect you to the first search result.
 
-![Feeling Lucky Example](media/feeling-lucky-example.png){data-zoomable}
+![Feeling Lucky Example](media/kagi-feeling-lucky-example.png){data-zoomable}
 
 Here is the full list of "feeling lucky" patterns that we support:
 
