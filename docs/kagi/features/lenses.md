@@ -43,27 +43,28 @@ The following lenses need to be activated from the [Lenses](https://kagi.com/set
 
 Let's say you love movie news and reviews. You can make a Lens that searches only the movie-related websites you find most useful.
 
-1. Go to the [Lenses page](https://kagi.com/settings/lenses) and click the **Create New** button at the bottom of the page.
+1. Go to the [Lenses page](https://kagi.com/settings/lenses) and click the **Create New** button.
+
 2. Fill in the "Create Lens" page with the details of how you want the Lens to constrain searches. Perhaps you live in the United States and you like certain movie-focused websites.
 
-<img src="./media/lens_form.png" width="400" alt="Lens Form"><br />
+![Lens Form](./media/kagi-search-lens-form.png){width=675px data-zoomable}
 
 3. Click the **Save** button at the bottom of the page.
 4. Back on the Lenses page, switch your new Movies Lens to **On**.
 
-<img src="./media/turn_lens_on.png" width="500" alt="Turn Lens On"><br />
+![Lens Switch](./media/kagi-search-lens-turn-on.png){data-zoomable}
 
 5. Do a search in Kagi for a movie title.
 
-<img src="./media/search.png" width="675" alt="Search Results"><br />
+![Lens Initial Search](./media/kagi-search-lens-initial-search.png){data-zoomable}
 
 6. Once you see the search results, enable your Movies Lens.
 
-<img src="./media/enable_lens.png" width="300" alt="Enable Lens"><br />
+![Lens Enable](./media/kagi-search-lens-enable.png){data-zoomable}
 
 7. You will see the search results constrained to specific websites based on the Lens.
 
-<img src="./media/lens_results.png" width="500" alt="Lens Results"><br />
+![Lens Result](./media/kagi-search-lens-result.png){data-zoomable}
 
 Lenses are a powerful tool for making searches more useful. If you think about the types of things you search for often, you can probably create Lenses to make those searches more efficient and effective.
 
@@ -71,18 +72,18 @@ Lenses are a powerful tool for making searches more useful. If you think about t
 
 You can share a copy of your lens with other Kagi users.
 
-To enable lens sharing, first find the lens you want to share in your [Active Lens list](https://kagi.com/settings/lenses), and click the pencil icon to edit the lens.
+To enable lens sharing, first find the lens you want to share in your [Active Lenses list](https://kagi.com/settings/lenses), and click the pencil icon to edit the lens.
 
-![Navigating to the lens you want to share](./media/share_lens_copy_navigate.png)
+![Lens Edit](./media/kagi-search-lens-edit.png){data-zoomable}
 
 In the Edit Lens form, find the checkbox Share Lens Link.
 Enable it, then press save at the bottom of the page.
 
-![Toggle Share Lens Link in your lens settings](./media/share_lens_copy_toggle.png)
+![Lens Share](./media/kagi-search-lens-share.png){data-zoomable}
 
 When you return to your lens list, you will see a new sharing icon that you can click to copy a sharing URL to your clipboard.
 
-![Appearance of lens with sharing enabled](./media/share_lens_copy_enabled.png)
+![Lens Share Link](./media/kagi-search-lens-share-link.png){data-zoomable}
 
 You can send this link to anyone with a Kagi account.
 When they open the link, they will be brought to the Create Lens form with all the options from your lens pre-filled.
