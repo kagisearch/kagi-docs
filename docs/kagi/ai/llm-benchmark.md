@@ -28,6 +28,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | glm-5-thinking                      |        75.0 |       2.0 |        74.9 |   620281 |  23.4 | openrouter |
 | chatgpt-4o (points to gpt 5.3)      |        75.0 |       0.8 |         7.3 |    53354 |  20.6 | kagi (ult) |
 | claude-4-opus-thinking              |        74.3 |      22.4 |        13.3 |    17058 |  11.0 | kagi (ult) |
+| qwen-3-5-397b                       |        73.7 |       1.8 |       157.5 |   490938 |   9.0 | together   |      
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
 | gpt-5-2                             |        73.3 |       1.4 |        17.6 |    93386 |  15.0 | kagi (ult) |
 | claude-4-sonnet-thinking            |        73.0 |       5.4 |        14.1 |    17872 |  10.0 | kagi (ult) |
