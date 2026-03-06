@@ -26,6 +26,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | kimi-k2-5-thinking                  |        78.5 |       0.5 |        15.2 |   355940 |  66.0 | kagi       |
 | gpt-5-pro                           |        76.8 |      31.8 |       193.2 |   330943 |   5.2 | kagi (ult) |
 | glm-5-thinking                      |        75.0 |       2.0 |        74.9 |   620281 |  23.4 | openrouter |
+| chatgpt-4o (points to gpt 5.3)      |        75.0 |       0.8 |         7.3 |    53354 |  20.6 | kagi (ult) |
 | claude-4-opus-thinking              |        74.3 |      22.4 |        13.3 |    17058 |  11.0 | kagi (ult) |
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
 | gpt-5-2                             |        73.3 |       1.4 |        17.6 |    93386 |  15.0 | kagi (ult) |
@@ -43,12 +44,14 @@ Please see notes below the table if you see results you find surprising, or get 
 | claude-4-haiku-thinking             |        69.0 |       0.8 |         9.8 |   297024 |  85.5 | kagi       |
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
 | o4-mini                             |        67.6 |       3.1 |        16.0 |    11224 |   6.1 | kagi       |
+| gemini-3-1-flash-lite               |        67.2 |       0.0 |         5.7 |    20749 |  10.4 | kagi       |
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
 | inclusionai/ring-1t                 |        66.4 |       1.0 |       269.7 |   406334 |   4.3 | openrouter |
 | grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
 | arcee-ai/maestro-reasoning          |        64.9 |       2.7 |        16.7 |   200565 | 103.4 | openrouter |
 | moonshotai/kimi-k2-thinking         |        64.4 |       0.8 |        47.4 |   338746 |  20.2 | openrouter |
 | kimi-k2-5                           |        63.8 |       0.1 |         2.5 |    50590 |  58.1 | kagi       |
+| gpt-5-4                             |        63.8 |       0.3 |         3.4 |    14170 |  11.9 | kagi (ult) |
 | qwen-plus-2025-07-28                |        63.3 |       1.1 |         9.0 |   143402 |  37.0 | openrouter |
 | stepfun-ai/step3                    |        62.3 |       1.6 |       174.2 |   417415 |   7.0 | openrouter |
 | gpt-5-nano                          |        62.2 |       0.4 |        20.5 |     9587 |   3.9 | kagi       |
@@ -74,7 +77,6 @@ Please see notes below the table if you see results you find surprising, or get 
 | Qwen3-32B-fast (thinking)           |        54.9 |       0.5 |         3.0 |   299527 |  86.4 | nebius     |
 | Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
 | qwen3-next-80b-a3b-instruct         |        54.4 |       0.1 |         4.2 |   161977 | 110.9 | openrouter |
-| chatgpt-4o                          |        54.1 |       2.6 |         2.6 |    42545 | 163.1 | deprecated |
 | gpt-oss-20b                         |        53.2 |       0.5 |         3.3 |    38619 |  96.0 | kagi       |
 | deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi (depr)|
 | grok-code-fast-1                    |        52.5 |       1.0 |        10.1 |   323883 | 280.0 | kagi       |

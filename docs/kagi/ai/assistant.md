@@ -189,6 +189,7 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Google        | [Gemini 2.5 Flash Lite](https://kagi.com/assistant?profile=gemini-2-5-flash-lite)                 | gemini-2-5-flash-lite    | All      |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | gemini-2-5-pro           | Ultimate |
 | Google        | [Gemini 3 Pro](https://kagi.com/assistant?profile=gemini-3-pro)                                   | gemini-3-pro             | Ultimate |
+| Google        | [Gemini 3.1 Flash Lite (preview)](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)       | gemini-3-1-flash-lite    | All      |
 | Meta          | [Llama 4 Maverick](https://kagi.com/assistant?profile=llama-4-maverick)                           | llama-4-maverick         | All      |
 | Mistral AI    | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                 | mistral-small            | All      |
 | Mistral AI    | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                               | mistral-medium           | All      |
@@ -200,6 +201,7 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 5.1](https://kagi.com/assistant?profile=gpt-5.1)                                             | gpt-5.1                  | Ultimate |
 | OpenAI        | [GPT 5.1 Codex](https://kagi.com/assistant?profile=gpt-5.1-codex)                                 | gpt-5.1-codex            | Ultimate |
+| OpenAI        | [GPT 5.4](https://kagi.com/assistant?profile=gpt-5-4)                                             | gpt-5-4                  | Ultimate |
 | OpenAI        | [o3 pro](https://kagi.com/assistant?profile=o3-pro)                                               | o3-pro                   | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
 | xAI           | [Grok 4 Fast](https://kagi.com/assistant?profile=grok-4-fast)                                     | grok-4-fast              | All      |
