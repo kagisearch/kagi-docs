@@ -73,6 +73,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | llama-4-maverick                    |        55.9 |       0.2 |         0.6 |    33516 | 456.3 | kagi       |
 | claude-4-sonnet                     |        55.9 |       1.8 |         5.6 |    20574 |  31.1 | kagi (ult) |
 | hermes-4-405b (thinking)            |        55.8 |       2.6 |        87.4 |    18490 |   1.8 | kagi       |
+| minimax-m2-5                        |        55.2 |       1.9 |        89.7 |  1554440 |  48.7 | fireworks  |
 | claude-4-haiku                      |        55.2 |       0.3 |         3.2 |   197112 | 173.7 | kagi       |
 | qwen-3-235b-a22b (no thinking)      |        55.0 |       0.4 |        11.3 |   119875 |  85.3 | kagi       |
 | Qwen3-32B-fast (thinking)           |        54.9 |       0.5 |         3.0 |   299527 |  86.4 | nebius     |
