@@ -191,7 +191,6 @@ function sidebarKagi() {
                         { text: 'Redirects', link: '/kagi/features/redirects' },
                         { text: 'Code Searches', link: '/kagi/features/code' },
                         { text: 'Verbatim Search', link: '/kagi/features/verbatim' },
-                        { text: 'Kagi Maps', link: '/kagi/features/maps' },
                         { text: 'Widgets', link: '/kagi/features/widgets' },
                         { text: 'Snaps', link: '/kagi/features/snaps' },
                         { text: 'Exclude AI Images', link: '/kagi/features/exclude-ai-images' },
@@ -211,6 +210,7 @@ function sidebarKagi() {
                     ]
                 },
                 { text: 'Kagi Translate', link: '/kagi/translate/' },
+                { text: 'Kagi Maps', link: '/kagi/maps' },
                 { text: 'Kagi News', link: '/kagi/news/' },
                 { text: 'Kagi Summarize', link: '/kagi/summarizer/' },
 
