@@ -26,6 +26,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | kimi-k2-5-thinking                  |        78.5 |       0.5 |        15.2 |   355940 |  66.0 | kagi       |
 | gpt-5-pro                           |        76.8 |      31.8 |       193.2 |   330943 |   5.2 | kagi (ult) |
 | glm-5-thinking                      |        75.0 |       2.0 |        74.9 |   620281 |  23.4 | openrouter |
+| grok-4-20-thinking                  |        75.0 |       1.3 |        10.2 |   213176 |  61.4 | kagi (ult) |
 | chatgpt-4o (points to gpt 5.3)      |        75.0 |       0.8 |         7.3 |    53354 |  20.6 | kagi (ult) |
 | claude-4-opus-thinking              |        74.3 |      22.4 |        13.3 |    17058 |  11.0 | kagi (ult) |
 | qwen-3-5-397b                       |        73.7 |       1.8 |       157.5 |   490938 |   9.0 | together   |      
@@ -103,6 +104,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | baidu/ernie-4.5-300b-a47b           |        45.0 |       0.2 |         7.9 |    35671 |  36.2 | openrouter |
 | kimi-k2-0711 (see note below)       |        45.0 |       1.1 |         3.3 |    84371 | 201.1 | kagi       |
 | amazon/nova-premier-v1              |        44.8 |       0.4 |         2.5 |     8368 |   9.4 | openrouter |
+| grok-4-20                           |        44.8 |       0.4 |         3.3 |    43774 |  36.9 | kagi (ult) |
 | gemini-2-5-flash                    |        44.1 |       0.4 |         2.0 |    34698 | 152.3 | kagi       |
 | meituan/longcat-flash-chat          |        43.9 |       0.1 |         5.2 |   125956 |  68.9 | openrouter |
 | z-ai/glm-4.5-air                    |        43.0 |       0.2 |         3.5 |   117415 | 160.1 | openrouter |
