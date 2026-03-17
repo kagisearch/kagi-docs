@@ -189,12 +189,15 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
  Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | gemini-2-5-pro           | Ultimate |
 | Google        | [Gemini 3 Pro](https://kagi.com/assistant?profile=gemini-3-pro)                                   | gemini-3-pro             | Ultimate |
 | Google        | [Gemini 3.1 Flash Lite (preview)](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)       | gemini-3-1-flash-lite    | All      |
+| Mistral AI    | [Mistral Small 4](https://kagi.com/assistant?profile=mistral-small-4)                             | mistral-small-4          | All      |
 | Mistral AI    | [Mistral Small](https://kagi.com/assistant?profile=mistral-small)                                 | mistral-small            | All      |
 | Mistral AI    | [Mistral Medium](https://kagi.com/assistant?profile=mistral-medium)                               | mistral-medium           | All      |
 | MiniMax       | [MiniMax M2.5](https://kagi.com/assistant?profile=minimax-m2-5)                                   | minimax-m2-5             | All      |
 | Moonshot AI   | [Kimi K2](https://kagi.com/assistant?profile=kimi-k2)                                             | kimi-k2                  | All      |
 | Moonshot AI   | [Kimi K2 (reasoning) (preview)](https://kagi.com/assistant?profile=kimi-k2-thinking)              | kimi-k2-thinking         | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
+| OpenAI        | [GPT 5.4 Mini](https://kagi.com/assistant?profile=gpt-5-4-mini)                                   | gpt-5-4-mini             | All      |
+| OpenAI        | [GPT 5.4 Nano](https://kagi.com/assistant?profile=gpt-5-4-nano)                                   | gpt-5-4-nano             | All      |
 | OpenAI        | [GPT 5 Mini](https://kagi.com/assistant?profile=gpt-5-mini)                                       | gpt-5-mini               | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 5.1](https://kagi.com/assistant?profile=gpt-5.1)                                             | gpt-5.1                  | Ultimate |

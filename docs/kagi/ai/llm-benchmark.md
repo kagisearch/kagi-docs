@@ -111,9 +111,12 @@ Please see notes below the table if you see results you find surprising, or get 
 | minimax/minimax-01                  |        42.5 |       0.1 |         3.1 |   107414 |  30.7 | openrouter |
 | thudm/glm-4-32b                     |        42.3 |       0.1 |        10.9 |    28236 |  20.5 | openrouter |
 | gemini-2-5-flash-lite               |        40.5 |       0.1 |         2.2 |    43989 | 171.8 | kagi       |
+| mistral-small-4                     |        40.5 |       0.0 |         3.7 |    41360 |  31.9 | kagi       |
 | mistral-small-3.2-24b-it            |        40.4 |       0.0 |         7.4 |   128081 |  68.0 | openrouter |
 | google/gemma-3-27b-it-fast          |        40.4 |       0.1 |         2.9 |   112726 |  62.4 | nebius     |
+| gpt-5-4-nano                        |        39.7 |       0.0 |         2.7 |    18371 |  19.2 | kagi       |
 | thedrummer/anubis-70b-v1.1          |        39.6 |       0.2 |         7.7 |    17933 |  19.3 | openrouter |
+| gpt-5-4-mini                        |        37.9 |       0.1 |         3.0 |    10620 |  10.1 | kagi       |
 | microsoft/phi-4-reasoning-plus      |        37.8 |       0.2 |        49.8 |   441209 |  75.6 | openrouter |
 | mistral-small                       |        37.8 |       0.1 |         2.2 |    31453 | 120.0 | Mistral    |
 | gemini-flash 2.0                    |        37.8 |       0.1 |         2.1 |    21882 |  92.4 | deprecated |
