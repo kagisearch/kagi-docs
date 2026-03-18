@@ -76,3 +76,9 @@ Clicking on the three dots (...) to the right of each search result will bring a
 - **Open page in Web Archive** will show you the history of the webpage at the [Wayback Machine](https://archive.org/).
 - **Quick Summary** will use [Kagi Summarize](../summarizer.md) to give you a summary of the webpage.
 - **Continue in Assistant** will take you to [Kagi Assistant](../ai/assistant.md) and use the webpage as context for asking questions.
+
+## Watch a Tutorial
+
+You can also watch our video tutorial on personalized results here:
+
+<iframe width="560" height="315" src="https://youtube.com/embed/Vt-Ly9TJA0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
