@@ -53,7 +53,7 @@ Expand the page options next to a search results and select `Quick Summary`, Kag
 
 ![Summarize Page](media/kagi-summarize-search-result-summarized.png){data-zoomable}
 
-Once complete you will see the individual page summary appear below the result. After reading the summary you can even choose to proceed to [Continue in Assistant](../ai/assistant.md).
+Once complete you will see the individual page summary appear below the result. After reading the summary you can even [Continue in Assistant](../ai/assistant.md).
 
 ## Via Bang
 
