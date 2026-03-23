@@ -380,8 +380,8 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|LOW|[Kagi Search] Unauthorized resource access in Rewrite API |$50|19-11-2026|
-|LOW|[Kagi Search] CSRF in billing credits |$70|04-12-2026|
+|LOW|[Kagi Search] Unauthorized resource access in Rewrite API |$50|19-11-2025|
+|LOW|[Kagi Search] CSRF in billing credits |$70|04-12-2025|
 
 **Ola**
 - Email: `***897@icloud.com`
@@ -389,7 +389,7 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|LOW|[Kagi Search] RXSS in forgot password endpoint |$70|04-12-2026|
+|LOW|[Kagi Search] RXSS in forgot password endpoint |$70|04-12-2025|
 
 **Erick Fernando Xavier de Oliveira**
 
