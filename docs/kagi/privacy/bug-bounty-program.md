@@ -190,6 +190,9 @@ that enhance the security and consistency of our services.
 |LOW|[Orion Browser] Lack of Authentication on Private Tab Lock |$50|25-05-2025|
 |LOW|[Orion Browser] Filename Spoofing via Right-to-Left Override (RLO) Character in Data URI Download |$100|26-06-2025|
 |LOW|[Orion Browser] Improper URL Handling in iOS Share Sheet Leads to XSS |$100|04-07-2025|
+|MEDIUM|[Orion Browser] Permission Request Spoofing via Embedded iFrame |$100|08-09-2025|
+|LOW|[Orion Browser] JavaScript Bypass via Private Tab |50$|15-09-2025|
+|LOW|[Orion Browser] JavaScript Bypass via Bookmarklets |80$|25-11-2025|
 
 
 **Cheripally Sathwik**
@@ -199,7 +202,7 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|HIGH |[Kagi Browser Extension] Npm package confusion |$250|10-03-2025|
+|HIGH|[Kagi Browser Extension] Npm package confusion |$250|10-03-2025|
 
 **Vinit Lakra**
 
@@ -257,7 +260,7 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|HIGH|[Kagi Browser] Git files leaking caused by server misconfiguration |$200|15-05-2025|
+|HIGH|[Orion Browser] Git files leaking caused by server misconfiguration |$200|15-05-2025|
 
 **Kaushik**
 
@@ -286,6 +289,10 @@ that enhance the security and consistency of our services.
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
 |HIGH|[Kagi Assistant] Assistant's access control broken |$150|28-05-2025|
+|LOW|[Orion Browser] URL Spoof via JS prompt() modal dialog |$120|20-10-2025|
+|LOW|[Orion Browser] Address bar spoofing via window.open() |$70|24-11-2025|
+|LOW|[Orion Browser] URL spoofing in page loading component |$70|21-12-2025|
+|LOW|[Orion Browser] UI deception via window-name reuse |$70|09-02-2026|
 
 
 **Syarif Muhammad Sajjad**
@@ -306,3 +313,89 @@ that enhance the security and consistency of our services.
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
 |MODERATE|[Kagi Assistant] Authentication broken on threads |$200|31-05-2025|
+
+
+**Bharat Thakur**
+
+- Email: `***790@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Orion Browser] Missing fullscreen warning allows UI spoofing |$100|17-09-2025|
+|LOW|[Orion Browser] File-picker spoofing on Orion MacOS |$50|16-10-2025|
+|LOW|[Orion Browser] Permission-jacking on Orion |$100|28-10-2025|
+|MODERATE|[Orion Browser] Address bar spoofing through pop-up windows |$200|30-10-2025
+|LOW|[Orion Browser] Timing-based JavaScript alert() UI spoofing |$50|25-11-2025|
+|LOW|[Orion Browser] UI/address-bar spoofing via about:blank# |$80|18-12-2025|
+|LOW|[Orion Browser] Adress bar spoofing through invalid scheme |$60|31-12-2025|
+|LOW|[Orion Browser] UXSS via bookmarklet on MacOS and unsafe redirect/confirmation flow allows script execution in destination origin |$165|20-01-2026|
+|LOW|[Orion Browser] External protocol / Permission prompt origin spoofing via delayed navigation |$50|17-03-2026|
+
+
+**Umar Zaid Ridwan**
+
+- Email: `***n11@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Orion Browser] RTLO characters override |$120|09-02-2026|
+|LOW|[Orion Browser] Link preview spoofing via long URL encoding |$80|09-03-2026|
+
+**Duplicake**
+
+- Email: `***kee@proton.me`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Summarizer] Hardcoded API key in compiled application |$120|30-12-2025|
+
+
+**Prashanth Pambala**
+
+- Email: `***kee@proton.me`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Search] RXSS in search functionality |$50|01-07-2025|
+
+
+**Kunal Gavade**
+
+- Email: `***kee@proton.me`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Feedback] XSS in create post feature |$120|28-11-2025|
+
+
+**Seth Akuoko Henneh**
+
+- Email: `***007@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Unauthorized resource access in Rewrite API |$50|19-11-2026|
+|LOW|[Kagi Search] CSRF in billing credits |$70|04-12-2026|
+
+**Ola**
+- Email: `***897@icloud.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] RXSS in forgot password endpoint |$70|04-12-2026|
+
+**Erick Fernando Xavier de Oliveira**
+
+- Email: `***dox@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Search] CSRF bypass via RXSS in Smallweb API|$120|05-03-2026|
