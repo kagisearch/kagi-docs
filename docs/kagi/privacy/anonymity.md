@@ -10,7 +10,6 @@ Kagi has evolved to provide features for users who wish to maximize their anonym
 - Accessing our services via an official [Tor onion service](https://help.kagi.com/kagi/privacy/tor.html)
 - You can use any email address to register including via solutions like [SimpleLogin](https://simplelogin.io/)
 - You can also opt to pay via [cryptocurrency](https://help.kagi.com/kagi/plans/payment-methods.html#using-paypal-and-opennode-with-kagi)
-- Coming soon: [Monero](https://www.getmonero.org) (XMR) payments will be accepted later this year. Monero is a privacy-focused cryptocurrency designed to protect your financial privacy, and is used primarily for anonymous payments.
 
 # Privacy Philosophy
 
