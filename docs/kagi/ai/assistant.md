@@ -192,7 +192,7 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Mistral AI    | [Mistral Small 4](https://kagi.com/assistant?profile=mistral-small-4)                             | mistral-small-4          | All      |
 | Mistral AI    | [Mistral Small 3](https://kagi.com/assistant?profile=mistral-small)                               | mistral-small            | All      |
 | Mistral AI    | [Mistral Large 3](https://kagi.com/assistant?profile=mistral-large)                               | mistral-large            | All      |
-| MiniMax       | [MiniMax M2.5](https://kagi.com/assistant?profile=minimax-m2-5)                                   | minimax-m2-5             | All      |
+| MiniMax       | [MiniMax M2.7](https://kagi.com/assistant?profile=minimax-m2-7)                                   | minimax-m2-7             | All      |
 | Moonshot AI   | [Kimi K2.5](https://kagi.com/assistant?profile=kimi-k2-5)                                         | kimi-k2-5                | All      |
 | Moonshot AI   | [Kimi K2.5 (reasoning)](https://kagi.com/assistant?profile=kimi-k2-5-thinking)                    | kimi-k2-5-thinking       | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
