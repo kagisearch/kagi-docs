@@ -21,6 +21,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
 |-------------------------------------|-------------|-----------|-------------|----------|-------|------------|
 | claude-4-6-opus-thinking            |        83.6 |       4.8 |        24.3 |   163617 |  19.3 | kagi (ult) |
+| claude-4-7-opus-thinking            |        80.7 |       2.8 |        13.7 |   104370 |  33.1 | kagi (ult) |
 | claude-4-5-opus-thinking            |        80.2 |       4.5 |        32.7 |   146771 |  12.7 | kagi (ult) |
 | gemini-3-pro                        |        80.1 |       0.4 |        54.9 |    15114 |   0.8 | kagi (ult) |
 | kimi-k2-5-thinking                  |        78.5 |       0.5 |        15.2 |   355940 |  66.0 | kagi       |
@@ -32,6 +33,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | qwen-3-5-397b                       |        73.7 |       1.8 |       157.5 |   490938 |   9.0 | together   |      
 | grok-4                              |        73.6 |       1.0 |        65.1 |     3660 |   0.5 | kagi (ult) |
 | gpt-5-2                             |        73.3 |       1.4 |        17.6 |    93386 |  15.0 | kagi (ult) |
+| claude-4-7-opus                     |        73.3 |       2.2 |        11.0 |    81466 |  32.1 | kagi (ult) |
 | claude-4-sonnet-thinking            |        73.0 |       5.4 |        14.1 |    17872 |  10.0 | kagi (ult) |
 | gpt-5                               |        72.7 |       7.1 |        32.8 |     6282 |   1.6 | kagi (ult) |
 | qwen3-max                           |        72.5 |       1.9 |        15.7 |   148347 |  22.1 | openrouter |

@@ -178,9 +178,9 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Alibaba       | [Qwen3.6 Plus](https://kagi.com/assistant?profile=qwen-3-6-plus)                                  | qwen-3-6-plus            | All      |
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | claude-4-sonnet          | Ultimate |
-| Anthropic     | [Claude 4.6 Opus](https://kagi.com/assistant?profile=claude-4-6-opus)                             | claude-4-6-opus          | Ultimate |
+| Anthropic     | [Claude 4.7 Opus](https://kagi.com/assistant?profile=claude-4-7-opus)                             | claude-4-7-opus          | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet (Reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | claude-4-sonnet-thinking | Ultimate |
-| Anthropic     | [Claude 4.6 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-6-opus-thinking)        | claude-4-6-opus-thinking | Ultimate |
+| Anthropic     | [Claude 4.7 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-7-opus-thinking)        | claude-4-7-opus-thinking | Ultimate |
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | claude-4-haiku-thinking  | Ultimate |
 | Deepseek      | [DeepSeek Chat V3.2](https://kagi.com/assistant?profile=deepseek)                                 | deepseek                 | All      |
 | Google        | [Gemini 3 Flash (preview)](https://kagi.com/assistant?profile=gemini-3-flash)                     | gemini-3-flash           | All      |
