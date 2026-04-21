@@ -195,6 +195,8 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | MiniMax       | [MiniMax M2.7](https://kagi.com/assistant?profile=minimax-m2-7)                                   | minimax-m2-7             | All      |
 | Moonshot AI   | [Kimi K2.5](https://kagi.com/assistant?profile=kimi-k2-5)                                         | kimi-k2-5                | All      |
 | Moonshot AI   | [Kimi K2.5 (reasoning)](https://kagi.com/assistant?profile=kimi-k2-5-thinking)                    | kimi-k2-5-thinking       | All      |
+| Moonshot AI   | [Kimi K2.6](https://kagi.com/assistant?profile=kimi-k2-6)                                         | kimi-k2-6                | All      |
+| Moonshot AI   | [Kimi K2.6 (reasoning)](https://kagi.com/assistant?profile=kimi-k2-6-thinking)                    | kimi-k2-6-thinking       | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT 5.4 Mini](https://kagi.com/assistant?profile=gpt-5-4-mini)                                   | gpt-5-4-mini             | All      |
 | OpenAI        | [GPT 5.4 Nano](https://kagi.com/assistant?profile=gpt-5-4-nano)                                   | gpt-5-4-nano             | All      |
