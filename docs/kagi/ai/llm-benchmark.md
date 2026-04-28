@@ -83,6 +83,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | Qwen3-32B-fast (thinking)           |        54.9 |       0.5 |         3.0 |   299527 |  86.4 | nebius     |
 | Qwen3-30B-A3B-Thinking-2507         |        54.9 |       0.6 |         7.9 |   381277 |  41.7 | nebius     |
 | qwen3-next-80b-a3b-instruct         |        54.4 |       0.1 |         4.2 |   161977 | 110.9 | openrouter |
+| deepseek-v4-pro                     |        53.5 |       0.2 |        10.5 |    40098 |  16.1 | kagi (ult) |
 | gpt-oss-20b                         |        53.2 |       0.5 |         3.3 |    38619 |  96.0 | kagi       |
 | deepseek chat v3.1                  |        53.2 |       0.4 |         3.3 |   123525 | 327.9 | kagi (depr)|
 | grok-code-fast-1                    |        52.5 |       1.0 |        10.1 |   323883 | 280.0 | kagi       |
