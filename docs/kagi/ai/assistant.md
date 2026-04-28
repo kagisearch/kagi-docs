@@ -108,7 +108,7 @@ To upload a file:
 
 Important considerations for file uploads:
 
-- **File size limit:** The maximum file size for uploads is 32MB.
+- **File size limit:** The maximum file size for uploads is 30MB.
 - **Processing time:** Larger files may take a few moments to process.
 - **Context retention:** Uploaded file content remains in the conversation context for subsequent messages.
 
