@@ -212,8 +212,6 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | xAI           | [Grok 4.1 Fast](https://kagi.com/assistant?profile=grok-4-fast)                                   | grok-4-fast              | All      |
 | xAI           | [Grok 4.1 Fast (Reasoning)](https://kagi.com/assistant?profile=grok-4-fast-thinking)              | grok-4-fast-thinking     | All      |
 | xAI           | [Grok 4](https://kagi.com/assistant?profile=grok-4)                                               | grok-4                   | Ultimate |
-| Z.ai          | [GLM-5 (preview)](https://kagi.com/assistant?profile=glm-5)                                       | glm-5                    | All      |
-| Z.ai          | [GLM-5 (reasoning) (preview)](https://kagi.com/assistant?profile=glm-5-thinking)                  | glm-5-thinking           | All      |
 | Z.ai          | [GLM-5.1](https://kagi.com/assistant?profile=glm-5-1)                                             | glm-5-1                  | All      |
 | Z.ai          | [GLM-5.1 (reasoning)](https://kagi.com/assistant?profile=glm-5-1-thinking)                        | glm-5-1-thinking         | All      |
 | Z.ai          | [GLM-4.7](https://kagi.com/assistant?profile=glm-4-7)                                             | glm-4-7                  | All      |
