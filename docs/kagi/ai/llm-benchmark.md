@@ -91,6 +91,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | deepseek chat v3                    |        52.3 |       0.4 |         3.9 |    36165 |  73.1 | deprecated |
 | deepseek-r1-distill-llama-70b       |        52.3 |       1.0 |         4.7 |    10321 |  17.8 | deprecated |
 | deepseek/deepseek-v3.2-exp          |        52.2 |       0.2 |        17.7 |   114357 |  16.0 | openrouter |
+| deepseek-v4-flash                   |        52.2 |       0.0 |        17.7 |    26088 |   6.3 | kagi       |
 | kimi-k2-0905 (see note below)       |        52.2 |       0.3 |        11.3 |    30772 |  23.1 | openrouter |
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | nvidia/nemotron-nano-12b-v2-vl      |        51.7 |       0.1 |        24.6 |   153175 |  19.7 | openrouter |
