@@ -182,8 +182,8 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Anthropic     | [Claude 4.6 Sonnet (Reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | claude-4-sonnet-thinking | Ultimate |
 | Anthropic     | [Claude 4.7 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-7-opus-thinking)        | claude-4-7-opus-thinking | Ultimate |
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | claude-4-haiku-thinking  | Ultimate |
-| Deepseek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
-| Deepseek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
+| DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
+| DeepSeek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
 | Google        | [Gemini 3 Flash (preview)](https://kagi.com/assistant?profile=gemini-3-flash)                     | gemini-3-flash           | All      |
 | Google        | [Gemini 3 Flash (reasoning) (preview)](https://kagi.com/assistant?profile=gemini-3-flash-thinking) | gemini-3-flash-thinking  | All      |
 | Google        | [Gemini 2.5 Flash](https://kagi.com/assistant?profile=gemini-2-5-flash)                           | gemini-2-5-flash         | All      |
@@ -213,8 +213,8 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | xAI           | [Grok 4.1 Fast](https://kagi.com/assistant?profile=grok-4-fast)                                   | grok-4-fast              | All      |
 | xAI           | [Grok 4.1 Fast (Reasoning)](https://kagi.com/assistant?profile=grok-4-fast-thinking)              | grok-4-fast-thinking     | All      |
 | xAI           | [Grok 4](https://kagi.com/assistant?profile=grok-4)                                               | grok-4                   | Ultimate |
-| Z.ai          | [GLM-5.1](https://kagi.com/assistant?profile=glm-5-1)                                             | glm-5-1                  | All      |
-| Z.ai          | [GLM-5.1 (reasoning)](https://kagi.com/assistant?profile=glm-5-1-thinking)                        | glm-5-1-thinking         | All      |
+| Z.ai          | [GLM-5.1](https://kagi.com/assistant?profile=glm-5-1)                                             | glm-5-1                  | Ultimate |
+| Z.ai          | [GLM-5.1 (reasoning)](https://kagi.com/assistant?profile=glm-5-1-thinking)                        | glm-5-1-thinking         | Ultimate |
 | Z.ai          | [GLM-4.7](https://kagi.com/assistant?profile=glm-4-7)                                             | glm-4-7                  | All      |
 | Z.ai          | [GLM-4.7 (reasoning)](https://kagi.com/assistant?profile=glm-4-7-thinking)                        | glm-4-7-thinking         | All      |
 
