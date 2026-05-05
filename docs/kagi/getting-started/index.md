@@ -66,7 +66,7 @@ Example:
 
 ## Summarize Page
 
-Clicking the three dot icon next to a search result brings up page options. [Summarize Page](https://help.kagi.com/kagi/ai/summarize-page.html) provides a synopsis of the page.
+Clicking the three dot icon next to a search result brings up page options. [Summarize Page](https://help.kagi.com/kagi/summarizer/) provides a synopsis of the page.
 
 <img src="./media/summarize_page.png" width="675" alt="Summarize Page"><br />
 <br />
