@@ -279,7 +279,7 @@ There's no fixed limit on conversation length. We automatically optimize lengthy
 
 #### File uploads
 
-- **Maximum total size: 16 MB** (applies to single or multiple files)
+- **Maximum total size: 30 MB** (applies to single or multiple files)
 - **URL content: 50 MB** maximum retrievable size
 
 ### Custom Instructions
