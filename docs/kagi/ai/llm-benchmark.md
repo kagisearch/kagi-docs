@@ -115,6 +115,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | z-ai/glm-4.5-air                    |        43.0 |       0.2 |         3.5 |   117415 | 160.1 | openrouter |
 | minimax/minimax-01                  |        42.5 |       0.1 |         3.1 |   107414 |  30.7 | openrouter |
 | thudm/glm-4-32b                     |        42.3 |       0.1 |        10.9 |    28236 |  20.5 | openrouter |
+| mistral-medium-3-5                  |        41.4 |       0.4 |         4.2 |    49110 |  50.1 | kagi (ult) |
 | gemini-2-5-flash-lite               |        40.5 |       0.1 |         2.2 |    43989 | 171.8 | kagi       |
 | mistral-small-4                     |        40.5 |       0.0 |         3.7 |    41360 |  31.9 | kagi       |
 | mistral-small-3.2-24b-it            |        40.4 |       0.0 |         7.4 |   128081 |  68.0 | openrouter |
