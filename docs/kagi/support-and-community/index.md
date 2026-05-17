@@ -43,8 +43,6 @@ To make specific feature requests or bug reports, please use our [Kagi Search fe
 
 - [Kagi on Nostr](https://primal.net/p/npub1xsgymm0ne3vndqpvsvy285qfpu59049t5n5twg9vetmt92cyn95snyzazx)
 
-- [Kagi on Facebook](https://www.facebook.com/kagihq/)
-
 - [Orion Browser on X](https://x.com/OrionBrowser)
 
 ## Feedback Forum
