@@ -201,17 +201,10 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT 5.4 Mini](https://kagi.com/assistant?profile=gpt-5-4-mini)                                   | gpt-5-4-mini             | All      |
 | OpenAI        | [GPT 5.4 Nano](https://kagi.com/assistant?profile=gpt-5-4-nano)                                   | gpt-5-4-nano             | All      |
-| OpenAI        | [GPT 5 Mini](https://kagi.com/assistant?profile=gpt-5-mini)                                       | gpt-5-mini               | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
-| OpenAI        | [GPT 5.2](https://kagi.com/assistant?profile=gpt-5-2)                                             | gpt-5-2                  | Ultimate |
-| OpenAI        | [GPT 5.1 Codex](https://kagi.com/assistant?profile=gpt-5-1-codex)                                 | gpt-5-1-codex            | Ultimate |
-| OpenAI        | [GPT 5.4](https://kagi.com/assistant?profile=gpt-5-4)                                             | gpt-5-4                  | Ultimate |
 | OpenAI        | [GPT 5.5](https://kagi.com/assistant?profile=gpt-5-5)                                             | gpt-5-5                  | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
 | xAI           | [Grok 4.3](https://kagi.com/assistant?profile=grok-4-3)                               | grok-4-20                | All |
-| xAI           | [Grok 4.20 (preview)](https://kagi.com/assistant?profile=grok-4-20)                               | grok-4-20                | Ultimate |
-| xAI           | [Grok 4.20 (reasoning) (preview)](https://kagi.com/assistant?profile=grok-4-20-thinking)          | grok-4-20-thinking       | Ultimate |
-| xAI           | [Grok 4](https://kagi.com/assistant?profile=grok-4)                                               | grok-4                   | Ultimate |
 | Z.ai          | [GLM-5.1](https://kagi.com/assistant?profile=glm-5-1)                                             | glm-5-1                  | Ultimate |
 | Z.ai          | [GLM-5.1 (reasoning)](https://kagi.com/assistant?profile=glm-5-1-thinking)                        | glm-5-1-thinking         | Ultimate |
 | Z.ai          | [GLM-4.7](https://kagi.com/assistant?profile=glm-4-7)                                             | glm-4-7                  | All      |
