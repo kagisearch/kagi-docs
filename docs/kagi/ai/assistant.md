@@ -185,6 +185,8 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | DeepSeek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
 | Google        | [Gemini 3 Flash (preview)](https://kagi.com/assistant?profile=gemini-3-flash)                     | gemini-3-flash           | All      |
 | Google        | [Gemini 3 Flash (reasoning) (preview)](https://kagi.com/assistant?profile=gemini-3-flash-thinking) | gemini-3-flash-thinking  | All      |
+| Google        | [Gemini 3.5 Flash](https://kagi.com/assistant?profile=gemini-3-5-flash)                     | gemini-3-flash           | All      |
+| Google        | [Gemini 3 Flash (reasoning)](https://kagi.com/assistant?profile=gemini-3-5-flash-thinking) | gemini-3-flash-thinking  | All      |
 | Google        | [Gemini 2.5 Flash](https://kagi.com/assistant?profile=gemini-2-5-flash)                           | gemini-2-5-flash         | All      |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | gemini-2-5-pro           | Ultimate |
 | Google        | [Gemini 3.1 Pro (Preview)](https://kagi.com/assistant?profile=gemini-3-pro)                       | gemini-3-pro             | Ultimate |
