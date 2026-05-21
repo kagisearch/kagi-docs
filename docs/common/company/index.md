@@ -25,6 +25,9 @@ Selected interviews with our founder and CEO, Vladimir Prelovac:
 - [John Gruber's The Talk Show](https://daringfireball.net/thetalkshow/2024/12/24/ep-416)
 - [Mac Power Users by David Sparks](https://www.macsparky.com/blog/2025/08/mac-power-users-809-exploring-kagi-with-ceo-vladimir-prelovac/)
 
+Watch Kagi origin story presentation by founder and CEO, Vladimir Prelovac, at HOPE Conf 2025:
+- [Hacking Search: Kagi's Revolt Against the Ad-Tech Machine](https://www.youtube.com/watch?v=qSntB1ip4RE)
+
 Read about [Kagi's origin story](https://dkb.io/post/DEPR_kagi-interview) and [The age of PageRank is over](https://blog.kagi.com/age-pagerank-over) editorial, which serves as our manifesto.
 
 We want to bring a friendly internet - one that has your best interest in mind - into [homes](https://blog.kagi.com/family-plan), [workplaces](https://help.kagi.com/kagi/plans/team-plan.html), [public service](https://kagi.com/libraries) and educational institutions worldwide (coming soon!). We're actively [hiring](https://help.kagi.com/kagi/company/hiring-kagi.html).
