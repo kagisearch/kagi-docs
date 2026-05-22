@@ -263,23 +263,13 @@ function sidebarKagi() {
             text: 'Developers',
             items: [
                 {
-                    text: 'API', link: '/kagi/api/overview',
+                    text: 'API Portal', link: '/kagi/api/overview',
                     collapsed: true,
                     items: [
-                        {
-                            text: 'Introduction', link: '/kagi/api/overview',
-                            collapsed: true,
-                            items: [
-                                { text: 'API Version', link: '/kagi/api/intro/api-version' },
-                                { text: 'Authentication', link: '/kagi/api/intro/auth' },
-                                { text: 'Base API URL', link: '/kagi/api/intro/api-url' },
-                                { text: 'Response Format', link: '/kagi/api/intro/response-format' },
-                                { text: 'Image Proxy URLs', link: '/kagi/api/intro/image-proxy-urls' },
-                            ]
-                        },
-                        { text: 'Universal Summarizer API', link: '/kagi/api/summarizer' },
-                        { text: 'FastGPT API', link: '/kagi/api/fastgpt' },
-                        { text: 'Search API', link: '/kagi/api/search' },
+                        { text: 'Quick Start', link: '/kagi/api/quick-start' },
+                        { text: 'Search API', link: 'https://kagi.redocly.app/openapi' },
+                        { text: 'Kagi Summarizer', link: '/kagi/api/summarizer' },
+                        { text: 'FastGPT', link: '/kagi/api/fastgpt' },
                         { text: 'Enrichment API', link: '/kagi/api/enrich' },
                         { text: 'Small Web RSS Feed', link: '/kagi/api/smallweb' },
                     ],
