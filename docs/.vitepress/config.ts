@@ -267,7 +267,7 @@ function sidebarKagi() {
                     collapsed: true,
                     items: [
                         { text: 'Quick Start', link: '/kagi/api/quick-start' },
-                        { text: 'Search API', link: 'https://kagi.redocly.app/openapi' },
+                        { text: 'Search API', link: 'https://kagi.com/api/docs' },
                         { text: 'Kagi Summarizer', link: '/kagi/api/summarizer' },
                         { text: 'FastGPT', link: '/kagi/api/fastgpt' },
                         { text: 'Enrichment API', link: '/kagi/api/enrich' },

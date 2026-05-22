@@ -122,7 +122,7 @@ A [Kagi MCP server](https://github.com/kagisearch/kagimcp/tree/rehan/v1-api#prer
 - **[Go](https://github.com/kagisearch/kagi-api-golang)**
 - **[Rust](https://github.com/kagisearch/kagi-api-rust)**
 - **[TypeScript](https://github.com/kagisearch/kagi-api-typescript)**
-- **[OpenAPI Spec](https://kagi.redocly.app/_spec/openapi.yaml)**
+- **[OpenAPI Spec](https://kagi.com/api/docs/_spec/openapi.yaml)**
 
 ## GitHub Discussions
 
