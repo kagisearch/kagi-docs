@@ -114,7 +114,7 @@ For custom pricing or to discuss specific needs, contact us at [support@kagi.com
 A [Kagi MCP server](https://github.com/kagisearch/kagimcp/tree/rehan/v1-api#prerelease-instructions) is available for use with MCP-compatible clients.
 
 > [!NOTE]
-> The MCP server docs include Summarize and FastGPT tools, but these tools are expected to error in this preview. They will be available in a later release.
+> The MCP server currently only supports the new Search and Extract APIs. Support for our other APIs will be added.
 
 ## Client Libraries
 
