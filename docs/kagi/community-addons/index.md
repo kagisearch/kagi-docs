@@ -82,3 +82,5 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 ## Pebble
 - [Kagi News app](https://apps.rebble.io/en_US/application/692b3f0549be450009b545ce) for Pebble watches
 
+## Terminal reader for Kagi News
+- [Kite TUI](https://github.com/KernelFreeze/kite-tui) is a terminal reader for Kagi News. It loads the public category index, fetches category RSS feeds, and lets you browse the latest Kagi summaries without leaving the terminal.
