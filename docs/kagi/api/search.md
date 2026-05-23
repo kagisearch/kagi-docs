@@ -4,7 +4,7 @@ The Search API gives programmable access to Kagi's premium search results.
 
 ## API Reference
 
-The full Search API reference is available at **[kagi.redocly.app/openapi](https://kagi.redocly.app/openapi)**.
+The full Search API reference is available at **[kagi.com/api/docs](https://kagi.com/api/docs)**.
 
 ## Example
 
