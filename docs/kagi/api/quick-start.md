@@ -12,9 +12,9 @@ Get up and running with the Kagi API in a few minutes.
 
 Go to `Settings → API`, or navigate directly to [kagi.com/api](https://kagi.com/api).
 
-### Step 2.1: Add a Payment Method or Top Up Your API Balance
+### Step 2.1: Add a Payment Method
 
-API usage is billed separately from a Kagi subscription. Add funds to your prepaid API balance from the [API Billing panel](https://kagi.com/api/billing). You can top up your balance at any time.
+API usage is billed separately from a Kagi subscription. You can add a payment method from the [API Billing panel](https://kagi.com/api/billing).
 
 ### Step 2.2: Copy Your API Key
 
