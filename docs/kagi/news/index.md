@@ -87,7 +87,7 @@ This only affects the UI of Kagi News and not articles.
 
 <video src="./media/kagi_news_categories.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-Articles are sorted into Categories based on one or more topic or other charateristic (such as the country) with a few enabled by default.
+Articles are sorted into Categories based on one or more topic or other characteristic (such as the country) with a few enabled by default.
 You can change or toggle these categories by going to **Settings** > **Categories**. They can be reordered by holding and dragging.
 
 ![NewsFilter](./media/kagi_news_categories_filter.png){data-zoomable}

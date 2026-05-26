@@ -1,6 +1,6 @@
 # Commitment to Open-source
 
-Kagi is increasingly open-source and we welcome your contributions. Check us out on [Kagi Github](https://github.com/kagisearch).
+Kagi is increasingly open-source and we welcome your contributions. Check us out on [Kagi GitHub](https://github.com/kagisearch).
 
 Here is the list of our current OSS initiatives.
 

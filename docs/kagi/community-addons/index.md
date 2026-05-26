@@ -7,10 +7,10 @@ If you created or found a Kagi integration with other products or tools, we woul
 
 ## Raycast
 
-[Raycast](https://www.raycast.com/) is a extendible launcher application for MacOS.
+[Raycast](https://www.raycast.com/) is an extendable launcher application for macOS.
 
 - [FastGPT for Raycast](https://www.raycast.com/http.james/kagi-fastgpt): Bring the power of our [FastGPT API](../api/fastgpt.md) right to your desktop.
-- [Kagi Search](https://www.raycast.com/fearoffish/kagi-search): Instant search with using the Kagi Search API, with autosuggestions, bang support and access to FastGPT.
+- [Kagi Search](https://www.raycast.com/fearoffish/kagi-search): Instant search using the Kagi Search API, with autosuggestions, bang support and access to FastGPT.
 - [Kagi News](https://www.raycast.com/mickaphd/kagi-news): Browse [news](https://news.kagi.com/) across 80+ categories with quick summaries featuring key points, source references, and availability in 25+ languages.
 
 ## Alfred
@@ -69,7 +69,7 @@ You can drag one of the following links to the bookmarks bar in your browser to 
 
 ## Kagi FastGPT Sidebar
 
-- [Kagi FastGPT Sidebar](https://github.com/0xgingi/kagi-fastgpt-sidebar) is an Chrome/Firefox extension that lets you to ask questions about a web page using the FastGPT API.
+- [Kagi FastGPT Sidebar](https://github.com/0xgingi/kagi-fastgpt-sidebar) is a Chrome/Firefox extension that lets you ask questions about a web page using the FastGPT API.
 
 ## Playdate
 
