@@ -187,7 +187,7 @@ function sidebarKagi() {
                         { text: 'Sharing Results', link: '/kagi/features/share-results' },
                         { text: 'Search Shortcuts', link: '/kagi/features/search-shortcuts' },
                         { text: 'Filtering Results', link: '/kagi/features/filtering-results' },
-                        { text: 'Customizing Kagi CSS', link: '/kagi/features/custom-css' },
+                        { text: 'User Themes', link: '/kagi/features/custom-css' },
                         { text: 'Redirects', link: '/kagi/features/redirects' },
                         { text: 'Code Searches', link: '/kagi/features/code' },
                         { text: 'Verbatim Search', link: '/kagi/features/verbatim' },
