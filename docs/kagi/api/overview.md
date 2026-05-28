@@ -103,8 +103,6 @@ v1 runs on a pay-per-use model, once your v0 credits are exhausted, you will nee
 
 For up-to-date pricing, see [kagi.com/api/pricing](https://kagi.com/api/pricing).
 
-You can add funds to your API balance from the [API Billing panel](https://kagi.com/api/keys).
-
 ## Custom Terms
 
 For custom pricing or to discuss specific needs, contact us at [support@kagi.com](mailto:support@kagi.com).
