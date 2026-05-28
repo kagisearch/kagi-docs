@@ -55,7 +55,7 @@ Originally on [Discord.](https://discord.com/channels/1256077108111868035/126275
 Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1474772670221652019)
 
 ## British actor
-Wikipedia widget
+Wikipedia widget read too much into the query:
 
 ![White haired British actor](./media/britishactor.png){data-zoomable}
 Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1509264977800986764)
