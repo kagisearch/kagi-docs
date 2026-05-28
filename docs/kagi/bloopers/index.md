@@ -54,5 +54,11 @@ Originally on [Discord.](https://discord.com/channels/1256077108111868035/126275
 ![Chicken stock](./media/cstock.png){data-zoomable}
 Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1474772670221652019)
 
+## British actor
+Wikipedia widget
+
+![White haired British actor](./media/britishactor.png){data-zoomable}
+Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1509264977800986764)
+
 ## Share a blooper
 Have you come across a funny result yourself? [Share it with us!](mailto:esra@kagi.com)
