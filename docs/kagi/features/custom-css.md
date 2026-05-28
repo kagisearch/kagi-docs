@@ -378,6 +378,25 @@ by [jcrabapple](https://github.com/jcrabapple/)
 
 
 
+### High Contrast Purple Kagi Theme for Low Vision
+
+by [Veroniiiica](https://veroniiiica.com/)  
+
+[**Get it**](https://veroniiiica.com/wp-content/uploads/2026/05/kagi_low_vision_theme_purple_high_contrast.txt)
+
+| ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
+|---:|---:|
+| ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+
+
+<br>
+
+---
+
+<br>
+
+
+
 You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
