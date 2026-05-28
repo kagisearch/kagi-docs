@@ -27,4 +27,4 @@ If you want to cancel your Premium plan, you can do so in your Kagi account's [B
 2. Click/tap the **Cancel plan** button.
 3. On the next webpage, click/tap another **Cancel plan** button to confirm the cancellation.
 
-No refunds or credits are available for canceled Premium plans.
+After canceling, your plan remains active until the end of your current billing cycle. If you'd prefer a prorated refund instead, just email [support@kagi.com](mailto:support@kagi.com) to request it, no questions asked.
