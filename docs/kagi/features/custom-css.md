@@ -1,15 +1,7 @@
-# Customizing Kagi CSS
-
-[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings/custom_css).
-
-Custom CSS does not apply to Settings pages, and is currently limited to 40,000 characters --- including whitespace.
-
-Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
-
 ## User Themes
 
 Themes allow you to customize the look and feel of Kagi, enhancing your search experience with personalized colors, layouts, and styles.
-Our community has created and shared numerous themes, which you can explore on [awesome-kagi-css](https://github.com/kawaiier/awesome-kagi-css/) or browse the selection below.
+Our community has created and shared numerous themes, which you can explore on [OpenKagi](https://openkagi.com/) or browse the selection below.
 
 To apply a theme:
 
@@ -455,6 +447,14 @@ Hide the floating Quick Search button from Kagi search results page.
 [**Get it**](https://gist.github.com/matteo-lgtm/4e84f1fb97d7abacf7c12cd561749aff)
 
 </details>
+
+# Creating Your Own Theme
+
+[Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings/custom_css).
+
+Custom CSS does not apply to Settings pages, and is currently limited to 40,000 characters --- including whitespace.
+
+Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
 
 ## Learn
 
