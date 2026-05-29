@@ -57,6 +57,13 @@ First prototype of Orion browser with support for web extensions on iOS is made,
 
 2025
 
-- Launched Privacy Pass & Tor Onion Service
-- Team now numbers 45
+- Kagi launches Privacy Pass & our Tor Onion Service
+- Team numbers 45
 - Orion exits beta
+- Kagi launches Kagi News
+
+2026
+
+- We release the Kagi Translate app
+- The Kagi Search API preview opens to all users
+- Team size reaches 50
