@@ -19,7 +19,7 @@ Select your browser for set up instructions:
 <details>
 <summary>Orion browser</summary>
 
-**macOS**
+<p id="orion-setup" style="scroll-margin-top: calc(var(--vp-nav-height) + var(--vp-layout-top-height, 0px) + 24px)"><strong>macOS</strong></p>
 
 To use Privacy Pass in [Orion for Mac](https://kagi.com/orion/#download_sec), ensure you have version 0.99.131 or later. Then follow these steps:
 
