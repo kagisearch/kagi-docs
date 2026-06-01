@@ -293,6 +293,7 @@ that enhance the security and consistency of our services.
 |LOW|[Orion Browser] Address bar spoofing via window.open() |$70|24-11-2025|
 |LOW|[Orion Browser] URL spoofing in page loading component |$70|21-12-2025|
 |LOW|[Orion Browser] UI deception via window-name reuse |$70|09-02-2026|
+|LOW|[Orion Browser] URL spoofing via slow page loading on iOS |$50|09-05-2026|
 
 
 **Syarif Muhammad Sajjad**
@@ -399,3 +400,12 @@ that enhance the security and consistency of our services.
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
 |MODERATE|[Kagi Search] CSRF bypass via RXSS in Smallweb API|$120|05-03-2026|
+
+**Abdelillah**
+
+- Email: `***oui@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Translate] DOM-based XSS on translate.kagi.com |$120|27-04-2026|
