@@ -408,4 +408,4 @@ that enhance the security and consistency of our services.
 
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
-|MODERATE|[Kagi Translate] DOM-based XSS on translate.kagi.com |$120|27-04-2026|
+|MODERATE|[Kagi Translate] DOM-based XSS |$120|27-04-2026|
