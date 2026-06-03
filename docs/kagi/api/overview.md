@@ -9,7 +9,7 @@ The Kagi API Portal is where you manage your API keys, monitor usage, handle bil
 
 ### Commercial
 
-- **[Search API](search.md)**: Kagi's premium search results
+- **[Search API](https://kagi.com/api/docs)**: Kagi's premium search results
 - **[Enrichment API](enrich.md)**: Kagi's own Teclis (web) and TinyGem (news) indexes
 - **[Universal Summarizer API](summarizer.md)**: Summarize any content in any format
 - **[FastGPT API](fastgpt.md)**: LLM-powered answers with live web search
