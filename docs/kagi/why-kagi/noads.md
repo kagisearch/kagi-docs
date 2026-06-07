@@ -1,4 +1,4 @@
-# Say no to Ads
+# Say No to Ads
 
 Removing advertising from the web is the way forward.
 
