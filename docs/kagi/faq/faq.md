@@ -21,7 +21,7 @@ Try some of our most popular tools and products right now:
 ### About Kagi
 - [What is Kagi?](#what-is-kagi)
 - [How do you pronounce Kagi?](#how-do-you-pronounce-kagi)
-- [What is the name of Kagi mascot?](#what-is-the-name-of-kagi-mascot)
+- [What is the name of the Kagi mascot?](#what-is-the-name-of-the-kagi-mascot)
 - [I'm keen to support Kagi but concerned about its longevity given the history of search startups. How can I be assured Kagi is here to stay before making a commitment?](#i-m-keen-to-support-kagi-but-concerned-about-its-longevity-given-the-history-of-search-startups-how-can-i-be-assured-kagi-is-here-to-stay-before-making-a-commitment)
 - [Are you hiring?](#are-you-hiring)
 
@@ -80,7 +80,7 @@ Try some of our most popular tools and products right now:
 ### Family & Duo Plans
 - [I subscribed to Kagi Duo or Family Plan, how can I add family members to the plan?](#i-subscribed-to-kagi-duo-or-family-plan-how-can-i-add-family-members-to-the-plan)
 - [How can I get the new Ultimate plan level features in the Family plan?](#how-can-i-get-the-new-ultimate-plan-level-features-in-the-family-plan)
-- [If a user is part of a family plan, is there any potential for either the plan holder or the other family plan sub-users to potentially access user data from another account?](#if-a-user-is-part-of-a-family-plan-is-there-any-potential-for-either-the-plan-holder-or-the-other-family-plan-sub-users-to-potentially-access-user-data-from-another-account)
+- [Can family plan members access user data of other family members?](#can-family-plan-members-access-user-data-of-other-family-members)
 - [Can someone who is part of my family plan leave the family plan and subscribe independently?](#can-someone-who-is-part-of-my-family-plan-leave-the-family-plan-and-subscribe-independently)
 
 ### Developers
@@ -109,7 +109,7 @@ Kagi is currently [Kagi Search](https://kagi.com), a fast, private search engine
 
 Kagi is pronounced as Kah-gee, with the "g" sounding like the "g" in "gift." You can also listen to it [here](https://www.youtube.com/watch?v=ig4VTr0rt4Q).
 
-### What is the name of Kagi mascot?
+### What is the name of the Kagi mascot?
 
 We simply call him "doggo" for now. We have [media assets](https://kagi.com/assets) of him available. 
 
@@ -136,7 +136,7 @@ Check out our [documentation](../getting-started/setting-default.md) for details
 
 ### How can I switch all my browsers and devices to Kagi?
 
-We have several options available, from easy to full manual. See [here](../getting-started/setting-default.md) for instructions.
+For most devices and browsers, it's as easy as installing an app or extension. You can also set one up manually if you prefer. See our instructions [here](../getting-started/setting-default.md) for more info.
 
 ---
 
@@ -223,17 +223,19 @@ Upon purchasing the product subscriptions you will receive a standard invoice th
 
 Kagi Search requires an account only because it is a paid service which requires an account for the transaction. Kagi is a paid service because we want to show you high quality, unbiased search results that are in your best interest. Ad supported search engines will always bias towards what the advertisers (their real customers) demand.
 
-Note that Kagi does not collect any personal information for billing and that you can even use an anonymous payment card such as [Privacy](https://privacy.com/) if you want to.
+Kagi does not collect any personal information for billing. We also fully support virtual card usage such as [Privacy](https://privacy.com/).
+
+Kagi can be accessed using [Privacy Pass](https://help.kagi.com/kagi/privacy/privacy-pass.html#using-privacy-pass), a token-based authentication method that passes along no information about the account that's making the search.
 
 ### Why does Kagi Search require an email address?
 
 We require an email address to be able to verify the account really belongs to you in the following cases:
 
-- To handle the account recovery (in case you lose your password)
+- To handle account recovery (in case you lose your password)
 - In case you contact us via email with an account related questions (in particular requests to delete your account or change your subscription)
 - To occasionally send product updates, which you can disable in your Kagi settings or unsubscribe directly from the email
 
-Note that you can use an anonymous email provider such as [SimpleLogin](https://simplelogin.io) with Kagi Search and it is up to you what email address you want to use.
+Note that you can use an anonymous email provider such as [SimpleLogin](https://simplelogin.io) with Kagi Search.
 
 Kagi does not need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription product business.
 
@@ -248,7 +250,7 @@ Yes, Kagi features a 'login token' which is simply a URL parameter that you can 
 
 This token is attached to the session it was copied from. You can log out of that session if you need to invalidate it for any reason.
 
-You can use private session token manually, or through [Kagi browser extensions](../getting-started/setting-default.md).
+You can use a private session token manually, or through [Kagi browser extensions](../getting-started/setting-default.md).
 
 Read more about [Session Link](../privacy/private-browser-sessions.md).
 
@@ -377,9 +379,9 @@ Adding family members is easy, you can invite them via email from the [Family Pl
 
 If you have a Family or Duo plan, you can upgrade family members to the Ultimate plan features from the [Family Members](https://kagi.com/settings/account_members) page for an additional $15 per month, per upgraded family member.
 
-### If a user is part of a family plan, is there any potential for either the plan holder or the other family plan sub-users to potentially access user data from another account?
+### Can family plan members access user data of other family members?
 
-There is no potential for users to see each other's search history or any other data. That stands even for kids' accounts as we want to keep their privacy (you should still have parental controls though).
+There is no potential for users to see each other's search history or any other data. That stands even for kids' accounts as we want to keep their privacy (you'll still have parental controls, however).
 
 ### Can someone who is part of my family plan leave the family plan and subscribe independently?
 
