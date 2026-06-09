@@ -25,7 +25,6 @@ You can read our [blog post](https://blog.kagi.com/kagi-news) for more informati
 - **Content Filtering** to filter out topics or words.
 - **Cloud Syncing** to have your settings and read history available across devices.
 - **Community-driven and open-source**, ensuring transparency in news selection.
-- **Built-in translation capabilities** to read news in your preferred language.
 - **Respectful of publishers** by using public RSS feeds rather than scraping content.
 
 ---
@@ -39,49 +38,6 @@ Kagi News refreshes worldwide once a day at around **noon UTC**, it may take a w
 Kagi News does not track or monetize your attention. 
 
 We don’t know which articles you’ve visited (cloud sync is entirely optional, and you can delete synced data at any time) nor does the source: all requests to the RSS feeds are proxied by us.
-
-## Language Settings
-
-<video src="./media/kagi_news_translation.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
-
-You can change your language preferences in **Settings** > **General** > **Language & Region**. 
-
-#### Interface Language
-- **Default**: Sets the UI language (buttons, menus and interface text) to your browser's language. 
-This only affects the UI of Kagi News and not articles.
-
-#### Content Language
-- **Default**: Most categories are in the language of your browser, while news in country categories will remain in its original language.
-- **Source**: All content is displayed in the original language of the article.
-- **Custom**: After choosing a main language and other languages that you speak, articles in those languages will be shown without translation, while others will be translated to your main language.
-
-:::details Current list of available languages
-- English
-- Portuguese
-- Brazilian Portuguese
-- Italian
-- French
-- Spanish
-- German
-- Dutch
-- Simplified Chinese
-- Traditional Chinese
-- Japanese
-- Hindi
-- Ukrainian
-- Arabic
-- Hebrew
-- Catalan
-- Finnish
-- Korean
-- Luxembourgish
-- Norwegian Bokmål
-- Polish
-- Russian
-- Swedish
-- Thai
-- Turkish
-:::
 
 ## Categories
 
