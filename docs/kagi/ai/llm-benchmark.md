@@ -20,6 +20,8 @@ Please see notes below the table if you see results you find surprising, or get 
 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
 |-------------------------------------|-------------|-----------|-------------|----------|-------|------------|
+| claude-5-fable-thinking             |        91.4 |      10.4 |        12.6 |    74969 |  25.3 | kagi (ult) |
+| claude-5-fable                      |        88.8 |       9.9 |        12.1 |    67320 |  23.8 | kagi (ult) |
 | claude-4-8-opus-thinking            |        88.8 |       8.8 |        17.3 |   139172 |  34.1 | kagi (ult) |
 | gpt-5-5                             |        88.8 |       2.2 |        12.0 |    69488 |  24.5 | kagi (ult) |
 | claude-4-6-opus-thinking            |        83.6 |       4.8 |        24.3 |   163617 |  19.3 | kagi (ult) |

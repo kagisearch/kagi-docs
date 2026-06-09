@@ -178,8 +178,10 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | claude-4-sonnet          | Ultimate |
 | Anthropic     | [Claude 4.8 Opus](https://kagi.com/assistant?profile=claude-4-8-opus)                             | claude-4-8-opus          | Ultimate |
+| Anthropic     | [Claude Fable 5](https://kagi.com/assistant?profile=claude-5-fable)                               | claude-5-fable           | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet (Reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | claude-4-sonnet-thinking | Ultimate |
 | Anthropic     | [Claude 4.8 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-8-opus-thinking)        | claude-4-8-opus-thinking | Ultimate |
+| Anthropic     | [Claude Fable 5 (Reasoning)](https://kagi.com/assistant?profile=claude-5-fable-thinking)          | claude-5-fable-thinking  | Ultimate |
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | claude-4-haiku-thinking  | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
 | DeepSeek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
