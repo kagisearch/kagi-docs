@@ -174,7 +174,7 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Developer     | Model                                                                                             | Profile                  | Plan     |
 | :------------ | :------------------------------------------------------------------------------------------------ | :----------------------- | :------- |
 | Alibaba       | [Qwen3-Coder](https://kagi.com/assistant?profile=qwen-3-coder)                                    | qwen-3-coder             | All      |
-| Alibaba       | [Qwen3.6 Plus](https://kagi.com/assistant?profile=qwen-3-6-plus)                                  | qwen-3-6-plus            | All      |
+| Alibaba       | [Qwen3.7 Plus](https://kagi.com/assistant?profile=qwen-3-7-plus)                                  | qwen-3-7-plus            | All      |
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | claude-4-sonnet          | Ultimate |
 | Anthropic     | [Claude 4.8 Opus](https://kagi.com/assistant?profile=claude-4-8-opus)                             | claude-4-8-opus          | Ultimate |
@@ -185,7 +185,7 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | claude-4-haiku-thinking  | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
 | DeepSeek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
-| Google        | [Gemini 3.5 Flash](https://kagi.com/assistant?profile=gemini-3-5-flash)                     | gemini-3-flash           | All      |
+| Google        | [Gemini 3.5 Flash](https://kagi.com/assistant?profile=gemini-3-5-flash)                           | gemini-3-5-flash         | Ultimate |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | gemini-2-5-pro           | Ultimate |
 | Google        | [Gemini 3.1 Pro (Preview)](https://kagi.com/assistant?profile=gemini-3-pro)                       | gemini-3-pro             | Ultimate |
 | Google        | [Gemini 3.1 Flash Lite (preview)](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)       | gemini-3-1-flash-lite    | All      |
@@ -193,18 +193,15 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | Mistral AI    | [Mistral Small 3](https://kagi.com/assistant?profile=mistral-small)                               | mistral-small            | All      |
 | Mistral AI    | [Mistral Medium 3.5](https://kagi.com/assistant?profile=mistral-medium-3-5)                       | mistral-medium-3-5       | Ultimate |
 | Mistral AI    | [Mistral Large 3](https://kagi.com/assistant?profile=mistral-large)                               | mistral-large            | All      |
-| MiniMax       | [MiniMax M2.7](https://kagi.com/assistant?profile=minimax-m2-7)                                   | minimax-m2-7             | All      |
-| Moonshot AI   | [Kimi K2.5](https://kagi.com/assistant?profile=kimi-k2-5)                                         | kimi-k2-5                | All      |
-| Moonshot AI   | [Kimi K2.5 (reasoning)](https://kagi.com/assistant?profile=kimi-k2-5-thinking)                    | kimi-k2-5-thinking       | All      |
-| Moonshot AI   | [Kimi K2.6](https://kagi.com/assistant?profile=kimi-k2-6)                                         | kimi-k2-6                | All      |
-| Moonshot AI   | [Kimi K2.6 (reasoning)](https://kagi.com/assistant?profile=kimi-k2-6-thinking)                    | kimi-k2-6-thinking       | All      |
+| MiniMax       | [MiniMax M3](https://kagi.com/assistant?profile=minimax-m3)                                       | minimax-m3               | All      |
+| Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | Ultimate |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT 5.4 Mini](https://kagi.com/assistant?profile=gpt-5-4-mini)                                   | gpt-5-4-mini             | All      |
 | OpenAI        | [GPT 5.4 Nano](https://kagi.com/assistant?profile=gpt-5-4-nano)                                   | gpt-5-4-nano             | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 5.5](https://kagi.com/assistant?profile=gpt-5-5)                                             | gpt-5-5                  | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
-| xAI           | [Grok 4.3](https://kagi.com/assistant?profile=grok-4-3)                               | grok-4-20                | All |
+| xAI           | [Grok 4.3](https://kagi.com/assistant?profile=grok-4-3)                                           | grok-4-20                | All |
 | Z.ai          | [GLM-5.1](https://kagi.com/assistant?profile=glm-5-1)                                             | glm-5-1                  | Ultimate |
 | Z.ai          | [GLM-5.1 (reasoning)](https://kagi.com/assistant?profile=glm-5-1-thinking)                        | glm-5-1-thinking         | Ultimate |
 | Z.ai          | [GLM-4.7](https://kagi.com/assistant?profile=glm-4-7)                                             | glm-4-7                  | All      |
