@@ -61,11 +61,13 @@ Please see notes below the table if you see results you find surprising, or get 
 | kimi-k2-5                           |        63.8 |       0.1 |         2.5 |    50590 |  58.1 | kagi       |
 | gpt-5-4                             |        63.8 |       0.3 |         3.4 |    14170 |  11.9 | kagi (ult) |
 | qwen-plus-2025-07-28                |        63.3 |       1.1 |         9.0 |   143402 |  37.0 | openrouter |
+| glm-5-2                             |        62.6 |       0.7 |         9.1 |    30594 |  14.4 | fireworks  |
 | stepfun-ai/step3                    |        62.3 |       1.6 |       174.2 |   417415 |   7.0 | openrouter |
 | gpt-5-nano                          |        62.2 |       0.4 |        20.5 |     9587 |   3.9 | kagi       |
 | grok-3                              |        61.3 |       2.6 |         6.0 |    28865 |  42.4 | kagi (ult) |
 | grok-3-mini                         |        61.3 |       0.3 |         7.6 |     8661 |   9.5 | kagi       |
 | cogito-v2-preview-llama-405b        |        61.1 |       2.1 |        35.4 |   201098 |  49.7 | together   |
+| glm-5-2-thinking                    |        60.0 |       1.0 |        12.7 |    66976 |  22.6 | fireworks  |
 | z-ai/glm-4.5v                       |        59.8 |       0.7 |        12.9 |   171618 |  34.0 | openrouter |
 | claude-4-opus                       |        59.6 |       8.4 |         5.7 |    19505 |  29.3 | kagi (ult) |
 | gpt-oss-120b                        |        58.6 |       0.4 |         2.3 |    14764 |  54.8 | kagi       |

@@ -202,6 +202,8 @@ The following keyboard shortcuts are available in Assistant on Mac and PC.
 | OpenAI        | [GPT 5.5](https://kagi.com/assistant?profile=gpt-5-5)                                             | gpt-5-5                  | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
 | xAI           | [Grok 4.3](https://kagi.com/assistant?profile=grok-4-3)                                           | grok-4-20                | All |
+| Z.ai          | [GLM-5.2](https://kagi.com/assistant?profile=glm-5-2)                                             | glm-5-2                  | Ultimate |
+| Z.ai          | [GLM-5.2 (reasoning)](https://kagi.com/assistant?profile=glm-5-2-thinking)                        | glm-5-2-thinking         | Ultimate |
 | Z.ai          | [GLM-5.1](https://kagi.com/assistant?profile=glm-5-1)                                             | glm-5-1                  | Ultimate |
 | Z.ai          | [GLM-5.1 (reasoning)](https://kagi.com/assistant?profile=glm-5-1-thinking)                        | glm-5-1-thinking         | Ultimate |
 | Z.ai          | [GLM-4.7](https://kagi.com/assistant?profile=glm-4-7)                                             | glm-4-7                  | All      |
