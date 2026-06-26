@@ -32,6 +32,30 @@ The Kagi app is currently available for Android. Download it from the [Google Pl
 - Use the app directly to search with Kagi on your device.
 - Privacy Pass is supported in the Android app. For setup instructions, see the [Getting Started with Privacy Pass](../privacy/privacy-pass.html#getting-started) page.
 
+#### Pixel Launcher (Advanced)
+
+If you are using the Pixel Launcher, you can replace the default Google Search widget with the Kagi Search widget, even though Kagi is not currently offered in Google's list of supported search providers.
+
+> **Note**<br />This method is intended for advanced users. It requires enabling **Developer Options** and **USB debugging**, and using Android Debug Bridge (ADB).
+
+1. Install the Kagi app.
+2. Connect your device to a computer with ADB installed.
+3. Run:
+
+```bash
+adb shell settings put secure selected_search_engine com.kagi.search
+```
+
+The default Google Search widget will be replaced with the Kagi Search widget.
+
+To restore the default Google Search widget, choose **Google** as the default search engine in the Pixel Launcher settings. Alternatively, you can run:
+
+```bash
+adb shell settings put secure selected_search_engine com.google.android.googlequicksearchbox
+```
+
+> **Note**<br />This workaround relies on an undocumented Android system setting and may stop working in future Android releases.
+
 ### iPhone
 
 An iOS app is not yet available. Once released, it will include support for homescreen widgets and direct search. Updates will be posted here when the app is available.
