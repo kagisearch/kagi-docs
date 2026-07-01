@@ -16,12 +16,12 @@ Kagi Research Assistants offer two modes: Quick and Research:
 | **Avg. Research & Analysis Time** | <5 secs | 30sec + |
 | **Kagi Search** | ✓ | ✓ |
 | **Librarian** (in-depth source analysis) | ✓ | ✓ |
-| **Response Planning** |  | ✓ |
-| **Research Planning** |  | ✓ |
-| **Python Interpreter** |  | ✓ |
-| **Image Generation** |  | ✓ |
-| **Image Editing** |  | ✓ |
-| **Wolfram\|Alpha** |  | ✓ |
+| **Response Planning** | - | ✓ |
+| **Research Planning** | - | ✓ |
+| **Python Interpreter** | - | ✓ |
+| **Image Generation** | - | ✓ |
+| **Image Editing** | - | ✓ |
+| **Wolfram\|Alpha** | - | ✓ |
 
 **Quick** is Kagi's fast agent, designed for quick agentic capabilities. It provides rapid responses with tool usage but prioritizes speed over depth. Choose Kagi Quick when you need quick answers to straightforward tasks.
 
