@@ -55,6 +55,14 @@ This widget presents a color picker, and if a color is specified in the query, w
 - `rgb(0,0,1)`
 - `hsl(100 10% 10%)`
 
+## Dice
+
+This widget rolls virtual dice inline with the results page.
+
+#### Example Queries
+- `roll 2d6`
+- `d20`
+
 ## Dictionary
 
 The dictionary widget displays word definitions and pronunciation, powered by Kagi Translate.
@@ -67,6 +75,14 @@ The dictionary widget displays word definitions and pronunciation, powered by Ka
 ## Discussions
 
 This widget surfaces relevant discussions on forums.
+
+## Flip Coins
+
+This widget flips a virtual coin inline with the results page.
+
+#### Example Queries
+- `flip a coin`
+- `flip 2 coins`
 
 ## Images
 
@@ -140,6 +156,14 @@ This widget provides a basic internet speed test, powered by Cloudflare.
 #### Example Queries
 - `speedtest`
 - `internet speed test`
+
+## Sports
+
+This widget shows live scores, dates, and standings for teams and leagues.
+
+#### Example Queries
+- `world cup games`
+- `premier league standings`
 
 ## Stock Widget
 
