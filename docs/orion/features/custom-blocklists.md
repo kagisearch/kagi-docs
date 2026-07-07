@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Default Blocklists](#default_blocklists)
+- [YouTube Ad-blocking](#youtube)
 - [Custom Blocklists](#custom_blocklists)
 - [Updating Blocklists](#updating_blocklists)
 - [Adding Blocklists on macOS](#adding_blocklists_macos)
@@ -20,6 +21,7 @@ Orion includes the following blocklists by default.
 The blocklists in **bold** are enabled by default and provide sufficient protection against most ads and trackers.
 - **EasyList**
 - **EasyPrivacy**
+- **AdGuard Base (Site-Specific)**
 - Hagezi Light DNS Blocklist
 - Hagezi Pro Plus Mini
 - Fanboy's Annoyance
@@ -29,6 +31,18 @@ The blocklists in **bold** are enabled by default and provide sufficient protect
 On macOS, you can enable or disable these blocklists in **Orion** > **Settings** > **Privacy**, then click the **Manage Filter Lists...** button.
 
 On iOS, the blocklists can be managed in the settings: **⋯** > **Settings** > Scroll down to the **Content Blockers** section, open it and tap **Manage Content Blocker**.
+
+<a id="youtube"></a>
+## YouTube ad-blocking 
+
+For ideal YouTube ad-blocking, Orion ships with a YouTube Ad Blocker userscript.
+This is located in the same menu as all other blocklists.
+It is not enabled by default, so if you experience unbearable advertising on YouTube, enabling this userscript should get rid of the ads.
+
+
+<img src="./media/macos_yt_adblocker.png" width="500" alt="The location of the YT adblock on macOS"><br />
+
+<img src="./media/iOS_yt_adblocker.png" width="500" alt="The location of the YT adblock on iOS"><br />
 
 <a id="custom_blocklists"></a>
 ## Custom Blocklists {#custom_blocklists}

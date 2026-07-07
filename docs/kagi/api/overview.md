@@ -9,7 +9,7 @@ The Kagi API Portal is where you manage your API keys, monitor usage, handle bil
 
 ### Commercial
 
-- **[Search API](search.md)**: Kagi's premium search results
+- **[Search API](https://kagi.com/api/docs)**: Kagi's premium search results
 - **[Enrichment API](enrich.md)**: Kagi's own Teclis (web) and TinyGem (news) indexes
 - **[Universal Summarizer API](summarizer.md)**: Summarize any content in any format
 - **[FastGPT API](fastgpt.md)**: LLM-powered answers with live web search
@@ -103,8 +103,6 @@ v1 runs on a pay-per-use model, once your v0 credits are exhausted, you will nee
 
 For up-to-date pricing, see [kagi.com/api/pricing](https://kagi.com/api/pricing).
 
-You can add funds to your API balance from the [API Billing panel](https://kagi.com/api/keys).
-
 ## Custom Terms
 
 For custom pricing or to discuss specific needs, contact us at [support@kagi.com](mailto:support@kagi.com).
@@ -114,7 +112,7 @@ For custom pricing or to discuss specific needs, contact us at [support@kagi.com
 A [Kagi MCP server](https://github.com/kagisearch/kagimcp/tree/rehan/v1-api#prerelease-instructions) is available for use with MCP-compatible clients.
 
 > [!NOTE]
-> The MCP server docs include Summarize and FastGPT tools, but these tools are expected to error in this preview. They will be available in a later release.
+> The MCP server currently only supports the new Search and Extract APIs. Support for our other APIs will be added.
 
 ## Client Libraries
 
@@ -122,7 +120,7 @@ A [Kagi MCP server](https://github.com/kagisearch/kagimcp/tree/rehan/v1-api#prer
 - **[Go](https://github.com/kagisearch/kagi-api-golang)**
 - **[Rust](https://github.com/kagisearch/kagi-api-rust)**
 - **[TypeScript](https://github.com/kagisearch/kagi-api-typescript)**
-- **[OpenAPI Spec](https://kagi.redocly.app/_spec/openapi.yaml)**
+- **[OpenAPI Spec](https://kagi.com/api/docs/_spec/openapi.yaml)**
 
 ## GitHub Discussions
 
