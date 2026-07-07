@@ -60,6 +60,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | moonshotai/kimi-k2-thinking         |        64.4 |       0.8 |        47.4 |   338746 |  20.2 | openrouter |
 | kimi-k2-5                           |        63.8 |       0.1 |         2.5 |    50590 |  58.1 | kagi       |
 | gpt-5-4                             |        63.8 |       0.3 |         3.4 |    14170 |  11.9 | kagi (ult) |
+| gemma-4-31b                         |        63.5 |       1.0 |        30.6 |    22788 |   3.2 | cerebras   |
 | qwen-plus-2025-07-28                |        63.3 |       1.1 |         9.0 |   143402 |  37.0 | openrouter |
 | glm-5-2                             |        62.6 |       0.7 |         9.1 |    30594 |  14.4 | fireworks  |
 | stepfun-ai/step3                    |        62.3 |       1.6 |       174.2 |   417415 |   7.0 | openrouter |
