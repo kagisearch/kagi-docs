@@ -43,6 +43,7 @@ Try some of our most popular tools and products right now:
 ### AI Features
 - [How do you balance development of AI features and Search?](#how-do-you-balance-development-of-ai-features-and-search)
 - [Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?](#is-using-kagi-assistant-better-in-terms-of-privacy-than-using-one-of-the-llm-models-directly)
+- [Can I toggle AI features on or off?](#can-i-toggle-ai-features-on-or-off)
 
 ### Orion Browser
 - [Can I expense Kagi and Orion at work?](#can-i-expense-kagi-and-orion-at-work)
@@ -204,6 +205,10 @@ Kagi is in the business of search, not in the business of selling AI; our philos
 ### Is using Kagi Assistant better in terms of privacy than using one of the LLM models directly?
 
 Yes, that's because Kagi acts as a proxy between you and the LLM (both from an internet connection and payments perspective). Additionally, because Kagi is using the API access rather than the frontend, the provider does not use the data for training the LLM models. Note that during beta, Kagi will store conversations for 7 days in order to handle bug reports, however we plan to reduce this window to 24 hours when Assistant officially launches.
+
+### Can I toggle AI features on or off?
+
+Yes. All Kagi AI features are on-demand, meaning your searches never use generative AI without you explicitly invoking them. If you'd like to hide the AI UI elements and disable their triggers within search, go to [Search AI Settings](https://kagi.com/settings/ai) and turn off `AI Feature Access`. It won't hide links to other products such as Kagi Translate, Kagi Summarizer, or Kagi News.
 
 ---
 
