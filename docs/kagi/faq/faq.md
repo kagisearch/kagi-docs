@@ -208,7 +208,7 @@ Yes, that's because Kagi acts as a proxy between you and the LLM (both from an i
 
 ### Can I toggle AI features on or off?
 
-Yes. All Kagi AI features are on-demand, meaning your searches never use generative AI without you explicitly invoking them. If you'd like to hide the AI UI elements and disable their triggers entirely, go to [Search AI Settings](https://kagi.com/settings/ai) and turn off `AI Feature Access`.
+Yes. All Kagi AI features are on-demand, meaning your searches never use generative AI without you explicitly invoking them. If you'd like to hide the AI UI elements and disable their triggers within search, go to [Search AI Settings](https://kagi.com/settings/ai) and turn off `AI Feature Access`. It won't hide links to other products such as Kagi Translate, Kagi Summarizer, or Kagi News.
 
 ---
 
