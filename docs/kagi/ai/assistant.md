@@ -4,7 +4,9 @@
 
 <video src="./media/assistant.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-Kagi Assistant combines the top large language models (LLMs) with optional results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! All this is included in a single subscription!
+Kagi Assistant combines the top large language models (LLMs) with optional results from Kagi Search, making it the perfect companion for creative, research, and programming tasks — alongside everything else you can think of! 
+
+All this is included in a single subscription!
 
 ## Features
 
@@ -15,21 +17,21 @@ Kagi Assistant combines the top large language models (LLMs) with optional resul
 - Saving Assistant threads
 - Uploading files to use as context
 - Altering the Assistant configuration within the thread
-	- For example, you can ask the initial question with web access enabled and then disable it for subsequent questions!
+	- For example, you can ask the initial question with web access enabled and then disable it for subsequent questions
 	- It is also possible to switch to a different LLM in the middle of a thread
 - Code syntax highlighting
 - [Keyboard Shortcuts](#keyboard-shortcuts)
-- Export conversations to markdown
+- Export conversations as markdown or JSON
 - Share threads with others using a link
 - Voice input
 
 ## Privacy
 
-When you use the Assistant by Kagi, your data is never used to train AI models (not by us or by the LLM providers), and no account information is shared with the LLM providers. By default, threads are deleted after 24 hours of inactivity. This behavior can be adjusted in the [settings](https://kagi.com/settings/assistant).
+When you use the Assistant by Kagi, your data is never used to train AI models (not by us or by the LLM providers), and no account information is shared with the LLM providers. By default, threads are deleted after 24 hours of inactivity. This behavior can be adjusted in the [settings](#settings).
 
 ## Using the Assistant
 
-Kagi Assistant can be accessed via the apps menu located in the top right corner of all Kagi pages or [by using bangs in search](#bangs). You can also use [this direct link](https://kagi.com/assistant).
+Kagi Assistant can be accessed via the apps menu located in the top right corner of all Kagi pages or [by using bangs in search](#bangs). You can also use [this direct link](https://assistant.kagi.com).
 
 When you first access the Assistant, you will be greeted by a familiar-looking landing page, allowing you to get right into using it.
 You can either type your prompt or use voice input by pressing the microphone symbol.
@@ -45,7 +47,7 @@ To aid in this, Kagi maintains a list of recommended models at the top of the LL
 
 ![Screenshot showing the recommended models in Assistant model selection menu](./media/kagi_recommended.png){width=330 height=308}
 
-*Kagi recommended models as of July 27, 2025.*
+*Kagi recommended models as of July 1, 2026.*
 
 The recommendations are based on the [Kagi LLM Benchmarking Project](./llm-benchmark.md).
 The benchmark tests measure model quality in various scenarios.
@@ -53,41 +55,87 @@ The benchmark tests measure model quality in various scenarios.
 Another important aspect is the privacy policy of the model provider.
 See our [LLM Privacy Comparison](./llms-privacy.md) for a detailed overview of how each provider handles your data.
 
+## Settings {#settings}
+
+You can manage your Assistant settings by clicking the Settings button in the bottom-left corner of the Assistant window.
+Depending on device type and window size, you may have to first open the sidebar by clicking the sidebar icon <svg width="24" height="24" viewBox="-2 -2 28 28" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" style="display:inline; vertical-align:middle;" role="img" aria-label="Assistant Sidebar logo"><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z"/><path d="M9 4l0 16"/></svg> on desktop or <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline; vertical-align:middle;" role="img" aria-label="Mobile menu logo"><path d="M20 5C20.5523 5 21 5.44772 21 6C21 6.55228 20.5523 7 20 7H4C3.44772 7 3 6.55228 3 6C3 5.44772 3.44772 5 4 5H20Z" fill="currentColor"/><path d="M17 11C17.5523 11 18 11.4477 18 12C18 12.5523 17.5523 13 17 13H4C3.44772 13 3 12.5523 3 12C3 11.4477 3.44772 11 4 11H17Z" fill="currentColor"/><path d="M14 17C14.5523 17 15 17.4477 15 18C15 18.5523 14.5523 19 14 19H4C3.44772 19 3 18.5523 3 18C3 17.4477 3.44772 17 4 17H14Z" fill="currentColor"/></svg> on mobile devices.
+
+
+### General
+
+**Thread Saving**
+  - This allows you to configure the thread retention setting. The options are temporary (threads expire 24 hours after the last message) or permanent.
+  
+**Default Assistant**
+  - Choose which assistant is selected by default when opening the Assistant.
+  
+**Custom Instructions**
+  - This text box will allow you to provide instructions and context to the Assistant. These instructions are applied to all interactions unless you are using a custom assistant with its own instructions.
+  
+### Appearance
+
+**Workspace area**
+  - Configure whether the assistant chat utilizes the entire screen (Wide) or is displayed in a more compact view (Standard).
+
+**Font Size**
+  - Set the font size for the entire Assistant site (small, medium, normal, large, larger).
+
+**Theme**
+  - Choose the theme for the Assistant.
+  - Note that this setting is saved locally on your device. If you have a browser extension that clears local storage, it will also reset this setting.
+
+### Custom Assistants
+ 
+  - Kagi Assistant supports creating custom assistants. This allows you to have a customized assistant with the desired LLM, custom instructions, and web search access (including lenses and/or personalized results).
+  -  Please see [Custom Assistants](./custom-assistants.md) for further information.
+  
+### Shortcuts {#keyboard-shortcuts}
+
+You can configure the keyboard shortcuts to fit your workflow.
+
+**Prompt submission trigger** controls whether the shortcut to send a message is Enter or &#8984;/Ctrl + Enter. Adding a modifier key makes it less likely to accidentally submit a prompt before you are finished writing it.
+
+Below you can find the default keybinds.
+
+| Mac Shortcut                | PC shortcut              | Action                  |
+|:----------------------------|:-------------------------|:------------------------|
+| /                           | /                        | Focus prompt            |
+| &#8984; + K                 | Ctrl + K                 | New thread              |
+| &#8984; + Shift + Backspace | Ctrl + Shift + Backspace | Delete thread           |
+| &#8984; + Shift + S         | Ctrl + Shift + S         | Toggle sidebar          |
+| &#8984; + Shift + C         | Ctrl + Shift + C         | Copy last response      |
+| &#8984; + Shift + E         | Ctrl + Shift + E         | Edit last message       |
+| &#8984; + Shift + G         | Ctrl + Shift + G         | Regenerate last message |
+| &#8984; + Shift + M         | Ctrl + Shift + M         | Open model selector     |
+| &#8984; + U                 | Ctrl + U                 | Upload file             |
+| &#8984; + .                 | Ctrl + .                 | Show keyboard shortcuts |
+
+
+
+
 ## Threads
 
-The Assistant supports threads, allowing you to keep your bagel topping ideas separate from your weekend projects.
+Interactions with the Assistant are stored in threads.
 
-The search bar enables you to search for that one elusive thread.
+The search bar enables you to find that one elusive thread.
 
 By default, threads are kept for 24 hours after the last message.
-If keeping threads alive permanently better fits your workflow, you can adjust this setting in [Assistant Settings](https://kagi.com/settings/assistant).
-Please note that the thread saving setting is applied **when the thread is created**.
+If keeping threads alive permanently better fits your workflow, you can adjust this in [the settings](#settings).\
+Please note that the thread-saving setting is applied **when the thread is created**.
 
-Threads can be renamed, downloaded, shared, and  deleted via the `⋮` button which is displayed when you hover over the thread.
-Threads can be further organized by adding tags to them.
+Threads can be renamed, pinned, made permanent, shared, added to folders, exported, and deleted via the `⋮` button, which is displayed when you hover over the thread.
 
-## Tags
+## Folders
 
-Tags allow you to keep your Assistant threads organized and easily accessible.
-You can access the tag settings for the currently active thread at the top of the thread.
-![Desktop tag location](./media/desktop_tag_location.png)
-On mobile devices the tag settings can be found by tapping <img src="./media/kagi_logo_dark.svg" alt="Kagi logo" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> at the top of the page and selecting **Edit tags**.
-![Mobile tag location](./media/mobile_tag_location.jpeg){width=390}
+Folders are how Kagi Assistant enables you to organize your threads.
+By utilizing folders, you can group threads by topic, so your work and leisure are never mixed.
 
-If you have configured your threads to expire after 24 hours, each thread you create will automatically have the **Temporary** tag.
-You can prevent threads from expiring by removing that tag.
-Please note that adding a tag does not automatically remove the **Temporary** tag.
+Folders are mutually exclusive, so a single thread can only be in one folder at a time.
 
-Each thread can have up to 100 tags.
-Tags can be removed in the same menu where they were added.
+You can customize the look of your folders in the sidebar, making them easier to distinguish.
 
-![Assistant tag list](./media/assistant_tag_list.png){width=375 height=587}
+<video src="./media/assistant-new-folder.mp4" width="240" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-Tags appear in the Assistant sidebar which allows you to quickly access tagged threads.
-The sidebar can be accessed by clicking the sidebar icon  <img src="./media/sidebar.svg" alt="Assistant Sidebar logo" style="display:inline; vertical-align:middle; width:24px; height:24px;" />.
-Selecting a tag will show all threads that have said tag, and the most recent thread with the tag will be automatically opened.
-Creating a new thread when a tag is selected will automatically apply that tag to the created thread.
-![Example screenshot of tag list on mobile](./media/tags_mobile.jpeg){width=324}
 ## Uploading Files to Assistant
 
 Kagi Assistant supports file uploads, allowing you to provide additional context or information for your queries.
@@ -102,13 +150,13 @@ This can be useful for tasks like:
 
 To upload a file:
 
-1. Click the paperclip icon <img src="./media/paperclip.svg" alt="Attachment icon" style="display:inline; vertical-align:middle; width:24px; height:24px;" /> in the prompt input box.
+1. 1. Click the paperclip icon <svg width="24" height="24" viewBox="0 0 15.2936 16.9616" xmlns="http://www.w3.org/2000/svg" style="display:inline; vertical-align:middle;" role="img" aria-label="Attachment icon"><path d="M12.7327 8.95343L6.99054 14.6956C5.49835 16.1956 3.49054 16.0472 2.20929 14.7503C0.920227 13.4691 0.77179 11.4769 2.26398 9.97687L10.0999 2.14874C10.9984 1.25031 12.3187 1.12531 13.178 1.97687C14.0296 2.84406 13.9046 4.15656 13.014 5.05499L5.35773 12.7112C4.97491 13.1097 4.50616 12.9925 4.24054 12.7269C3.97491 12.4534 3.86554 12.0003 4.24835 11.6019L9.59991 6.26593C9.83429 6.02374 9.84991 5.67999 9.62335 5.45343C9.39679 5.23468 9.05304 5.25031 8.81866 5.48468L3.45148 10.8519C2.6546 11.6487 2.68585 12.8675 3.38898 13.5706C4.1546 14.3362 5.31085 14.3206 6.11554 13.5159L13.803 5.82843C15.264 4.36749 15.2015 2.44562 13.928 1.17218C12.6859-0.070006 10.7327-0.163756 9.27179 1.29718L1.39679 9.17999C-0.532898 11.1097-0.38446 13.8675 1.35773 15.6097C3.09991 17.3441 5.85773 17.4925 7.78741 15.5706L13.5687 9.78937C13.7952 9.56281 13.7952 9.14874 13.5609 8.93781C13.3343 8.69562 12.9671 8.72687 12.7327 8.95343Z" fill="currentColor" fill-opacity="0.85"/></svg> in the prompt input box or use the upload shortcut (&#8984;/Ctrl + U by default).
 2. Select the file or image you wish to upload.
-3. Provide a prompt with instructions to process the file or leave it blank to summarize it.
+3. Provide a prompt with instructions to process the file, or leave it blank to summarize it.
 
 Important considerations for file uploads:
 
-- **File size limit:** The maximum file size for uploads is 30MB.
+- **File size limit:** The maximum file size for uploads is 30 MB.
 - **Processing time:** Larger files may take a few moments to process.
 - **Context retention:** Uploaded file content remains in the conversation context for subsequent messages.
 
@@ -128,46 +176,6 @@ Note: Unsupported formats may be treated as binary files.
 
 Assistant can fetch webpages and online documents (up to 50 MB) to use them as context for your conversation.
 To use this feature, simply paste the URL in your Assistant conversation (make sure the Entire Web toggle is on).
-
-## Custom Instructions
-
-Do you prefer a more personalized Assistant experience?
-You can provide custom instructions in the [Assistant Settings](https://kagi.com/settings/assistant).
-These instructions can be utilized to refine the Assistant's responses.
-You can, for instance, instruct the Assistant to be more succinct or to consider your profession and location.
-
-## Custom Assistants {#custom-assistants}
-
-You can create Custom Assistants in the [Assistant Settings](https://kagi.com/settings/assistant).
-It is possible to customize the LLM, settings (the use of web access, lenses, and personalized results), and the instructions for each Custom Assistant.
-
-Assistant comes with a built-in **Code** Custom Assistant that is optimized for programming tasks. It uses Claude 4 Sonnet and has web access.
-
-For more details, refer to the [Custom Assistants](./custom-assistants.md) page.
-
-## Keyboard Shortcuts {#keyboard-shortcuts}
-
-The following keyboard shortcuts are available in Assistant on Mac and PC.
-
-| Mac Shortcut                | Action                  |
-| :-------------------------- | :---------------------- |
-| &#8984; + K                 | New Thread              |
-| &#8984; + Shift + S         | Toggle Sidebar          |
-| &#8984; + Shift + C         | Copy Last Response      |
-| &#8984; + Shift + E         | Edit Last Message       |
-| &#8984; + Shift + Backspace | Delete Current Thread   |
-| &#8984; + /                 | Focus Prompt Box        |
-| &#8984; + .                 | Show Keyboard Shortcuts |
-
-| PC Shortcut              | Action                  |
-| :----------------------- | :---------------------- |
-| Ctrl + K                 | New Thread              |
-| Ctrl + Shift + S         | Toggle Sidebar          |
-| Ctrl + Shift + C         | Copy Last Response      |
-| Ctrl + Shift + E         | Edit Last Message       |
-| Ctrl + Shift + Backspace | Delete Current Thread   |
-| Ctrl + /                 | Focus Prompt Box        |
-| Ctrl + .                 | Show Keyboard Shortcuts |
 
 ## Available LLMs
 
@@ -225,7 +233,13 @@ You can quickly access Assistant using the following [bangs](../features/bangs.m
 
 - `!code`: Use this bang to access the built-in **Code** Custom Assistant, which is tailored for coding-related queries.
 
-- `!ki`: This bang accesses Assistant with the Ki profile, providing a specialized interaction.
+- `!ki` and `!quick`: These bangs access Assistant with the Quick profile, providing a fast, direct answer to your queries.
+
+- `!study`: This bang opens the Assistant with the Study assistant.
+
+- `!news`: This bang opens the Assistant with the News custom assistant.
+
+See [Custom Assistants](./custom-assistants.md) for further information about the custom assistants.
 
 Each bang is designed to optimize your search experience by directing you to the most appropriate version of Assistant for your needs.
 
@@ -234,8 +248,6 @@ Each bang is designed to optimize your search experience by directing you to the
 You can specify a particular model in the Assistant's URL by including a `profile` parameter.
 `https://kagi.com/assistant?profile=gpt-5`
 The available model names can be found in the table above.
-
-This can also be used with custom assistants, as described on the [custom assistant documentation](./custom-assistants.md#url-parameters).
 
 The `internet` parameter can be used to turn on and off internet access, set to `true` to enable, anything else to disable. This overrides the internet setting of the profile used.
 

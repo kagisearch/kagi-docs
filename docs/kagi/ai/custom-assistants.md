@@ -4,21 +4,21 @@
 
 ## Creating a Custom Assistant
 
-1. Navigate to the [Custom Assistants](https://kagi.com/settings/assistant) page (Settings > Assistant > Custom Assistants)
+1. Navigate to Assistant settings -> Custom Assistants
 2. Click **Add New**.
 3. Configure your assistant with these settings:
 
 - **Assistant Name**: Give your assistant a memorable name
 - **Custom Bang Name**: Create a shortcut to quickly access this assistant
 - **Internet Access**: Toggle to allow access to Kagi Search results
-- **Lens**: Choose a specific lens to focus searches on particular domains
-- **Personalized Results**: Enable to apply your search customizations
+  - **Lens**: Choose a specific lens to focus searches on particular domains
+  - **Personalized Results**: Enable to apply your search customizations
 - **Model**: Select your preferred LLM model based on:
 	- Speed
 	- Quality
 	- Cost
 	- Context Window
-- **Response Instructions**: Define how your assistant should interact (1500 characters max)
+- **Response Instructions**: Define how your assistant should interact (20,000 characters max)
 
 ## Tips for Effective Instructions
 
@@ -47,21 +47,10 @@ Remember that well-crafted instructions lead to more accurate and useful respons
 
 Select your Custom Assistant from the model-selection dropdown menu below the prompt bar to begin interaction.
 
-## URL Parameters
-
-You can specify a custom assistant by adding a `profile` parameter to the URL, using either the name (in lowercase format) or the UUID of your custom assistant.
-
-For instance, if you want to use a specific custom assistant, locate its UUID by navigating to your [Custom Assistants settings page](https://kagi.com/settings/assistant), and copy the long UUID found in the URL when editing the assistant. You can then create a custom bang template, like:
-
-```
-/assistant?q=%s&profile=c03f3098-9ead-408f-93f0-407a77e697db
-```
-
-This setup will direct the request to your specified assistant.
-
-More information about assistant URL parameters can be found in the [assistant documentation](./assistant.md#url-parameters).
-
 ## Default Custom Assistants
+
+
+![Screenshot of the currently available default custom assistants](./media/custom_assistant_list.png){width=330 height=308}
 
 Kagi Assistant comes with carefully pre-configured assistants designed to enhance your productivity.
 
@@ -72,7 +61,19 @@ Powered by the best AI model for programming tasks and equipped with web access,
 - Debugging and troubleshooting
 - Providing practical coding solutions
 
-Simply use the ```!code``` shortcut or select "Code" from the model dropdown to access this specialized assistant. Whether you're debugging a tricky issue, learning a new programming language, or seeking to optimize your code, the Code Assistant is your go-to programming companion.
+Whether you're debugging a tricky issue, learning a new programming language, or seeking to optimize your code, the Code Assistant is your go-to programming companion.
+
+The Code Assistant can be accessed via the ```!code``` bang or by selecting "Code" from the model dropdown to access this specialized assistant. 
+
+### Study Assistant
+The Study Assistant guides your learning journey through active discovery. Using the Socratic method, evidence-based learning techniques, and collaborative exploration, it helps you uncover answers rather than simply providing them.
+
+The Study Assistant can be accessed via the ```!study``` bang, or by selecting it from the Custom assistant list.
+
+### News Assistant
+Enter a news event (e.g. "apple event 2026" or "world cup results for this week"), and the News Assistant will gather information from multiple sources to provide a report on the event. It searches news sources, analyzes events, and presents structured reports with key highlights, perspectives, and timelines.
+
+The News Assistant can be accessed via the ```!news``` bang or by selecting it from the Custom assistant list.
 
 ## Example Custom Configurations
 
