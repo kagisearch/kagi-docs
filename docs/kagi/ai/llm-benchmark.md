@@ -25,6 +25,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | claude-4-8-opus-thinking            |        88.8 |       8.8 |        17.3 |   139172 |  34.1 | kagi (ult) |
 | gpt-5-5                             |        88.8 |       2.2 |        12.0 |    69488 |  24.5 | kagi (ult) |
 | claude-4-6-opus-thinking            |        83.6 |       4.8 |        24.3 |   163617 |  19.3 | kagi (ult) |
+| grok-4-5                            |        83.5 |       1.0 |        16.7 |    16896 |   4.3 | kagi (ult) |
 | claude-4-7-opus-thinking            |        80.7 |       2.8 |        13.7 |   104370 |  33.1 | kagi (ult) |
 | claude-4-5-opus-thinking            |        80.2 |       4.5 |        32.7 |   146771 |  12.7 | kagi (ult) |
 | gemini-3-pro                        |        80.1 |       0.4 |        54.9 |    15114 |   0.8 | kagi (ult) |
@@ -53,6 +54,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
 | o4-mini                             |        67.6 |       3.1 |        16.0 |    11224 |   6.1 | kagi       |
 | gemini-3-1-flash-lite               |        67.2 |       0.0 |         5.7 |    20749 |  10.4 | kagi       |
+| gpt-5-6-sol                         |        67.0 |       2.7 |         3.4 |     8294 |  10.4 | kagi (ult) |
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
 | inclusionai/ring-1t                 |        66.4 |       1.0 |       269.7 |   406334 |   4.3 | openrouter |
 | grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
@@ -102,9 +104,11 @@ Please see notes below the table if you see results you find surprising, or get 
 | cogito-v2-preview-llama-4-scout     |        52.2 |       0.3 |        12.0 |   215842 | 158.4 | together   |
 | nvidia/nemotron-nano-12b-v2-vl      |        51.7 |       0.1 |        24.6 |   153175 |  19.7 | openrouter |
 | glm-5                               |        51.7 |       0.2 |        13.6 |    62471 |  13.0 | openrouter |
+| gpt-5-6-terra                       |        51.3 |       2.5 |         3.2 |     7992 |  10.8 | kagi (ult) |
 | mistral-large-3                     |        50.9 |       0.1 |        12.4 |    30715 |   7.0 | kagi    |
 | mistral-medium                      |        50.0 |       0.5 |         2.9 |   120090 |  67.8 | kagi       |
 | qwen-3-coder                        |        49.5 |       0.8 |        13.8 |   116600 |  67.0 | kagi       |
+| gpt-5-6-luna                        |        49.1 |       1.0 |         2.9 |     7976 |  11.9 | kagi (ult) |
 | Qwen3-14B                           |        49.1 |       0.5 |        15.2 |   277558 |  78.8 | nebius     |
 | Qwen3-32B (No Thinking)             |        48.7 |       0.5 |         9.9 |   292277 | 50.0  | nebius     |
 | gpt-4-1-mini                        |        48.6 |       0.4 |         6.1 |    63524 |  85.9 | deprecated |
