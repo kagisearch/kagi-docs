@@ -72,9 +72,6 @@ Choose the option that best fits your privacy preferences. If you want to minimi
 
 ## Control Center
 
-<!-- last-verified: 2026-07-13 -->
-![Kagi Maps - Control Center panel](./media/kagi-maps-control-center.png){data-zoomable}
-
 Kagi Maps includes a Control Center that allows you to customize your map experience to better suit your needs. You can access the Control Center from the map's toolbar.
 
 The Control Center is organized into three groups of settings:
