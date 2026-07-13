@@ -2,7 +2,7 @@
 
 <br>
 
-<video src="./media/kagi_maps.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/kagi-maps-hero.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 [Kagi Maps](https://kagi.com/maps) is a powerful tool that simplifies the process of finding businesses, points of interest, and addresses. With Kagi Maps, you can easily search for locations and discover interesting stops.
 
@@ -11,18 +11,14 @@
 - [Kagi Maps Website](https://kagi.com/maps)
 - iOS and Android apps coming soon.
 
-::: warning Note
-Kagi Maps got a full rework in Q2 2025 and might lack some features such as directions, or ability to manually set your location.
-In the meantime, be sure to look at the suggestions for features on our [Feedback Forum](https://kagifeedback.org/t/feature-maps?sort=latest).
-:::
-
 ## Privacy
 
 Unlike other competing Map services that track your location to serve you ads, Kagi does not track or store your search history or location data.
 
 ## 3D View
 
-<video src="./media/kagi-maps-3d-view.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<!-- last-verified: 2026-07-13 -->
+![Kagi Maps - 3D View](./media/kagi-maps-3d-view.png){data-zoomable}
 
 If you are using the Kagi Basemap, you can tilt the map into a 3D view in two ways:
 
@@ -31,19 +27,30 @@ If you are using the Kagi Basemap, you can tilt the map into a 3D view in two wa
 
 Both methods adjust the viewing angle, transforming the map from a top-down view to an angled, oblique perspective. This reveals buildings and trees in three dimensions, providing a more realistic representation of the urban landscape. Release the mouse or lift your fingers when you've reached your desired tilt angle.
 
-## Layer View
+## Basemap & Overlays
 
-<video src="./media/kagi-maps-layers.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<!-- last-verified: 2026-07-13 -->
 
-You can choose different layer views depending on your needs. These layers include:
+Kagi Maps lets you choose a basemap style and layer additional overlays on top of it, depending on your needs.
 
-- **Day**: Daytime view of the globe.
-- **Night**: A darker view of the globe, useful for viewing at night and for population density.
-- **Satellite**: Satellite view.
-- **OSM**: View the map in the style of OpenStreetMap.
-- **Popular Areas**: A heat map showing locally owned businesses. Corporate chains are excluded.
+**Basemap**
+
+- `Day`: Daytime view of the globe.
+- `Night`: A darker view of the globe, useful for viewing at night and for population density.
+- `Satellite`: Satellite view.
+- `OSM`: View the map in the style of OpenStreetMap. This mode shows raw map data and does not support overlays.
+
+**Overlays**
+
+Layer additional information on top of your basemap, grouped into categories such as:
+
+- Terrain: shading and elevation lines, such as `Hillshade` and `Contour`.
+- Live Data: real-time layers, such as `Traffic` and `Popular areas`, a heat map showing locally owned businesses (corporate chains are excluded).
+- 3D Details: individual 3D elements you can toggle, such as `Trees`, `Buildings`, and `Landmarks`.
 
 ## Enabling Geolocation {#enabling_geolocation}
+
+<!-- last-verified: 2026-07-13 -->
 
 By default, Kagi Maps uses your IP address to determine your approximate location and use it as the initial location of the map.
 
@@ -63,32 +70,29 @@ Depending on your browser, you may see options such as:
 
 Choose the option that best fits your privacy preferences. If you want to minimize ongoing access, select "Allow Once" If you’re comfortable with Kagi Maps accessing your location whenever you use the site, choose "Always Allow for This Website"
 
-## Control Panel
+## Control Center
 
-Kagi Maps includes a Control Panel that allows you to customize your map experience to better suit your needs. You can access the Control Panel from the main map interface using the icon in the top right.
+<!-- last-verified: 2026-07-13 -->
+![Kagi Maps - Control Center panel](./media/kagi-maps-control-center.png){data-zoomable}
 
-The Control Panel currently offers the following options:
+Kagi Maps includes a Control Center that allows you to customize your map experience to better suit your needs. You can access the Control Center from the map's toolbar.
 
-- **Additional Wikipedia POIs**  
-  Enable this to display extra geospatial Wikipedia articles that are considered more controversial or historic (such as plane crashes, riots, or shipwrecks). This feature is opt-in and can be toggled on or off.
+The Control Center is organized into three groups of settings:
 
-- **Distance Units**  
-  Choose between Metric and Imperial units for navigation and the map’s scalebar. By default, Kagi Maps uses the metric system, but you can switch to imperial if you prefer.
+**Preferences**
 
-- **Show Local Businesses Only (beta)**  
-  Toggle this option to filter out most chain stores and major brands, showing primarily local points of interest on the map. Note that this does not affect search results, it only changes which POIs are displayed on the map itself.
+- `Distance Units`: Choose between Metric and Imperial units for navigation and the map's scalebar. By default, Kagi Maps uses the metric system, but you can switch to imperial if you prefer.
+- `Animations`: Toggle this option off to disable the flying animation when the map moves to a search result.
+- `Zoom controls`: Choose how close the map gets after clicking on a point of interest, ranging from a wider view up to a fully tilted 3D angle.
 
-- **Filter POIs**  
-  Toggle this option to remove specific POIs on the map.
-  Note that this does not affect search results, it only changes which POIs are displayed on the map itself.
+**Map Display**
 
-- **Animations**  
-  Toggle this option off to disable panning and zooming animations when selecting a POI.
+- `Wikipedia markers`: Enable this to display extra geospatial Wikipedia articles that are considered more controversial or historic (such as plane crashes, riots, or shipwrecks). This feature is opt-in and can be toggled on or off.
+- `Independent business` (beta): Toggle this option to prioritize local and independent venues over corporate chains on the map. Note that this does not affect search results, it only changes which POIs are displayed on the map itself.
 
-- **Zooming in on a Selected POI**  
-  Choose the level of zoom when selecting a POI, ranging from far to 3D view.
+**Categories**
 
-These settings help you tailor Kagi Maps to your preferences, whether you want a more local experience or need to adjust measurement units for your region.
+Choose which types of points of interest appear on the map, grouped into categories such as Food & Drink, Shopping, and Transport. Expand a category to toggle individual subtypes on or off, such as Restaurants or Cafés & Bakeries within Food & Drink. Note that this does not affect search results, it only changes which POIs are displayed on the map itself.
 
 ::: info Note
 Many more customization options are planned for future releases.
