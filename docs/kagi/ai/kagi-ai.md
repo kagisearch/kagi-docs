@@ -25,6 +25,6 @@ Kagi is thrilled to introduce next-generation AI into our product offering:
 1. [Kagi Assistant](./assistant.md)
 2. [Quick Answer](./quick-answer.md)
 3. [Summarize Page](./summarize-page.md)
-4. [Ask Question about Document](./ask-questions.md)
+4. [Ask Questions about a Page](./ask-questions.md)
 
 For a longer discussion about our AI journey please read our blog ["Kagi's approach to AI in search"](https://blog.kagi.com/kagi-ai-search) by our founder Vlad.
