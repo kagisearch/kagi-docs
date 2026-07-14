@@ -1,6 +1,6 @@
 # Ask Questions about a Document or a page
 
-You can quickly ask an LLM further questions about a search result through `⋮` and selecting *Ask questions about page*.
+You can quickly ask an LLM further questions about a search result through `⋮` and selecting `Continue in Assistant`.
 
 ![Ask Questions](media/ask_questions.png){data-zoomable}
 
