@@ -193,10 +193,11 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | claude-4-haiku-thinking  | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
 | DeepSeek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
-| Google        | [Gemini 3.5 Flash](https://kagi.com/assistant?profile=gemini-3-5-flash)                           | gemini-3-5-flash         | Ultimate |
+| Google        | [Gemini 3.6 Flash](https://kagi.com/assistant?profile=gemini-3-6-flash)                           | gemini-3-6-flash         | Ultimate |
+| Google        | [Gemini 3.5 Flash Lite](https://kagi.com/assistant?profile=gemini-3-5-flash-lite)                | gemini-3-5-flash-lite    | Ultimate |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | gemini-2-5-pro           | Ultimate |
 | Google        | [Gemini 3.1 Pro (Preview)](https://kagi.com/assistant?profile=gemini-3-pro)                       | gemini-3-pro             | Ultimate |
-| Google        | [Gemini 3.1 Flash Lite (preview)](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)       | gemini-3-1-flash-lite    | All      |
+| Google        | [Gemini 3.1 Flash Lite](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)                 | gemini-3-1-flash-lite    | All      |
 | Google        | [Gemma 4 31B](https://kagi.com/assistant?profile=gemma-4-31b)                                     | gemma-4-31b              | All      |
 | Mistral AI    | [Mistral Small 4](https://kagi.com/assistant?profile=mistral-small-4)                             | mistral-small-4          | All      |
 | Mistral AI    | [Mistral Small 3](https://kagi.com/assistant?profile=mistral-small)                               | mistral-small            | All      |
