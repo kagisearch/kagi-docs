@@ -49,7 +49,7 @@ You may find individual pages that you would like to summarize and Kagi is the f
 
 ![Summarize Page](media/kagi-summarize-search-result.png){data-zoomable}
 
-Expand the page options next to a search results and select `Quick Summary`, Kagi will then use its proprietary Summarizer technology in the back end to provide an easily digestible synthesis.
+Under each individual search result a `Summarize` button will show. When clicked, Kagi will then use its proprietary Summarizer technology in the back end to provide an easily digestible synthesis.
 
 ![Summarize Page](media/kagi-summarize-search-result-summarized.png){data-zoomable}
 
