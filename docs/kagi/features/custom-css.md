@@ -395,38 +395,33 @@ You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) s
 
 Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings/custom_css).
 
-<details><summary>Remove Underlined Links</summary>
-
-Remove the underline from links from Kagi search results page.
+<details><summary>Remove link underlines</summary>
 
 ```css
-
-/* Remove bottom border from links */
+/* Remove underline from links */
 .__sri_title_link._0_sri_title_link._0_URL {
   border-bottom: none;
 }
 
-/* Remove underline with nested links */
+/* ... nested links, */
 .__srgi-title a {
-border-bottom: none; var(--result-item-title-border);
+  border-bottom: none;
 }
 
-/* Remove underline with News module */
+/* ... links in the News module, */
 .newsResultItem .newsResultHeader .newsResultTitle a._0_TITLE {
-  border-bottom: none; var(--result-item-title-border);
+  border-bottom: none;
 }
 
-/* Remove underline from links in Wikipedia module */
+/* ... and links in the Wikipedia module. */
 .wikipediaResult a {
-  border-bottom: none; var(--result-item-title-border);
+  border-bottom: none;
 }
 ```
 
 </details>
 
-<details><summary>Hide Quick Search button</summary>
-
-Hide the floating Quick Search button from Kagi search results page.
+<details><summary>Hide floating quick search button on mobile</summary>
 
 ```css
 .quick-search-btn {
@@ -442,23 +437,23 @@ Hide the floating Quick Search button from Kagi search results page.
 
 </details>
 
-<details><summary>Hide Stats</summary>
+<details><summary>Hide stats</summary>
 
 [**Get it**](https://gist.github.com/matteo-lgtm/4e84f1fb97d7abacf7c12cd561749aff)
 
 </details>
 
-# Creating Your Own Theme
+## Creating Your Own Theme
 
 [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings/custom_css).
 
-Custom CSS does not apply to Settings pages, and is currently limited to 40,000 characters --- including whitespace.
+Custom CSS does not apply to settings pages and is currently limited to 40,000 characters, including whitespace.
 
-Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
+Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
 
-## Learn
+### Learn
 
-If you want to learn more about how to customize your Kagi Search CSS, below is a video tutorial. The video features a slightly older design of Kagi Search, but the CSS principles are the same.
+If you want to learn more about how to customize your Kagi Search CSS, below is a video tutorial. The video features an older design of Kagi Search, but the CSS principles are the same.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xpk5TAhGasc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

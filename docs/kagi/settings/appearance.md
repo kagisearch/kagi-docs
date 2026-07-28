@@ -12,21 +12,6 @@ These settings control various visual options.
 - **Default Dark Theme** — Choose between Kagi Dark (Default) and Old School Dark for the Default Dark Theme.
 - **Show Results** — Choose between showing results aligned to the left or center of your screen.
 - **Show URL Favicons** — Choose whether to display a favicon next to the result title, the result URL, or not at all.
-- **URL Display Style** - Choose between displaying the full URL or a breadcrumb view (e.g., help.kagi.com > kagi > index.html).
+- **URL Display Style** — Choose between displaying the full URL or a breadcrumb view (e.g., help.kagi.com > kagi > index.html).
 - **URL Placement** - Choose whether the URL is placed below or above the result title.
-- **Custom CSS** — Access settings to [customize the CSS](../features/custom-css.md) of Kagi search and landing pages.
-
-## Customizing Display
-
-In some cases you may want to apply custom CSS, a common example is removing the summary boxes at the top of search results.
-
-![The Three Boxes](media/threeboxes.png)
-
-This can be accomplished from within the [Custom CSS](https://kagi.com/settings/custom_css) editor.
-
-In the editor add following contents:
-<code>.searchResultAnswers {
-  display: none;
-}</code>
-
-Once entered click "Apply Custom CSS" and refresh search results.
+- **Custom CSS** — Add custom CSS to [tweak or totally retheme search and landing pages](../features/custom-css.md).
