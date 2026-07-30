@@ -1,0 +1,163 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.000
+ Hello, in this video we will be going over how to get started using custom CSS for Kagi.
+
+00:00:07.000 --> 00:00:13.000
+ We will make some basic tweaks to text, colors, and add a cool little animation as well.
+
+00:00:13.000 --> 00:00:20.000
+ I will be using Chrome for this demonstration, but all major browsers support these techniques in very similar ways.
+
+00:00:20.000 --> 00:00:28.000
+ We will start by opening the Inspector. This is a browser tool that will let us edit the page and preview our changes.
+
+00:00:28.000 --> 00:00:35.000
+ This can be done by right-clicking and selecting Inspector or pressing Ctrl+Shift+I on your keyboard.
+
+00:00:35.000 --> 00:00:38.000
+ We will start in the Elements section shown here.
+
+00:00:38.000 --> 00:00:47.000
+ This section shows a tree view of the page's HTML and the currently applied CSS rules.
+
+00:00:47.000 --> 00:00:50.000
+ I am first going to click on what I want to change.
+
+00:00:50.000 --> 00:01:08.000
+ Since I want this to apply to all text on the page, I am going to select the body element and press the plus icon to create a new CSS rule.
+
+00:01:08.000 --> 00:01:11.000
+ Next, we are going to make all the titles uppercase.
+
+00:01:11.000 --> 00:01:16.000
+ To help us find the element we want to change, we can click this cursor icon.
+
+00:01:16.000 --> 00:01:27.000
+ This will allow us to use our mouse to click on what we want to edit on the page.
+
+00:01:27.000 --> 00:01:33.000
+ In this case, the browser selected the title link for us, but this isn't exactly what we want.
+
+00:01:33.000 --> 00:01:36.000
+ We don't want to change every link on the page, just the title.
+
+00:01:36.000 --> 00:01:42.000
+ Instead, I will use the tree here to select the container that holds the link.
+
+00:01:42.000 --> 00:01:45.000
+ You can see here it says title in the class name.
+
+00:01:45.000 --> 00:02:04.000
+ Now, when we add a new rule with the plus icon, the browser will prefill the correct CSS class names for the rule we are going to add.
+
+00:02:04.000 --> 00:02:08.000
+ Next, let's change the color of hovered and active elements.
+
+00:02:08.000 --> 00:02:16.000
+ We could repeat the process we did before to achieve the same effect, but this time I will show you a different way using CSS variables.
+
+00:02:16.000 --> 00:02:27.000
+ If you scroll down in the CSS section, you will eventually find this list of colors that we use across the application.
+
+00:02:27.000 --> 00:02:34.000
+ Using CSS rules, we can redefine these colors to anything we like and have it apply consistently across the app.
+
+00:02:34.000 --> 00:02:40.000
+ To find out which color we're looking for, let's use the element state toggles.
+
+00:02:40.000 --> 00:02:46.000
+ First, I'll enable the cursor and click on the title.
+
+00:02:46.000 --> 00:02:56.000
+ Next, I'll put the element into hovered state here, and now we can find the colors that apply when the element is hovered.
+
+00:02:56.000 --> 00:03:00.000
+ You can see here that it's this color primary hover.
+
+00:03:00.000 --> 00:03:05.000
+ As you saw below, all the CSS variables are applied at the root of the document.
+
+00:03:05.000 --> 00:03:29.000
+ We can add a similar root rule to override that color to something else.
+
+00:03:29.000 --> 00:03:35.000
+ Now, we can see that every element that we hover over has this color that we picked.
+
+00:03:35.000 --> 00:03:40.000
+ Let's make one more tweak and remove these underlines underneath the titles.
+
+00:03:40.000 --> 00:03:51.000
+ First, I'll take the title back out of hovered state, and I can see here that it's this border bottom rule that adds the underlines.
+
+00:03:51.000 --> 00:04:07.000
+ So, in this case, I will copy these class names and add a new rule with the same class names.
+
+00:04:07.000 --> 00:04:22.000
+ And then add a border bottom rule that will disable it.
+
+00:04:22.000 --> 00:04:27.000
+ Okay, let's review the changes that we've made so far.
+
+00:04:27.000 --> 00:04:33.000
+ One way is on any of the custom rules that you made, you'll see this inspector style sheet reference here.
+
+00:04:33.000 --> 00:04:42.000
+ You can click on this and it will open in the sources panel this inspector style sheet file that has all of your edits that you made so far.
+
+00:04:42.000 --> 00:04:49.000
+ We will use this later to save our changes permanently to our account.
+
+00:04:49.000 --> 00:04:58.000
+ Next, I want to apply this cool blinking animation that I found to the result highlight bar here.
+
+00:04:58.000 --> 00:05:03.000
+ I thought that would be kind of a cool effect. So, let's walk through that.
+
+00:05:03.000 --> 00:05:15.000
+ I'm going to start by copying and pasting the CSS for the animation into the style sheet here.
+
+00:05:15.000 --> 00:05:20.000
+ Now, this animation applies to a class name blink.
+
+00:05:20.000 --> 00:05:27.000
+ Now, blink doesn't exist in this page. We need to replace this with the class name for this highlight bar right here.
+
+00:05:27.000 --> 00:05:37.000
+ So, we can use the cursor to find that.
+
+00:05:37.000 --> 00:05:58.000
+ We can see here it says zero highlight before class that we're going to copy and use for the animation.
+
+00:05:58.000 --> 00:06:12.000
+ Great, it now has a cool little blinking effect. You can see here it persists when we move up and down the results with J and K on the keyboard.
+
+00:06:12.000 --> 00:06:19.000
+ Okay, that is all the changes I wanted to make. So, let's go ahead and save these to our account.
+
+00:06:19.000 --> 00:06:26.000
+ I'll start by opening the control center and opening the settings page in a new tab.
+
+00:06:26.000 --> 00:06:33.000
+ And making my way to the custom CSS screen here.
+
+00:06:33.000 --> 00:06:43.000
+ I can then paste the CSS that we wrote here in the inspector.
+
+00:06:43.000 --> 00:06:51.000
+ And hit apply custom CSS and turn that on.
+
+00:06:51.000 --> 00:07:03.000
+ Now our CSS is saved with our account so that anytime we log into Kagi, we'll have our custom CSS with us across devices.
+
+00:07:03.000 --> 00:07:20.000
+ One more thing to note is once you have custom CSS active, you have a new option in the control center to turn it on and off whenever you want.
+
+00:07:20.000 --> 00:07:30.000
+ So that concludes this introduction. There is so much you can do with custom CSS here and this doesn't even begin to scratch the surface.
+
+00:07:30.000 --> 00:07:41.000
+ If you ever get stuck or have some questions, you can hop over to our appearance channel in the discord and maybe we can help you out, make something cool and share it with the rest of us.
+
+00:07:41.000 --> 00:07:44.000
+ Thanks for watching.
