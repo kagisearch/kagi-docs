@@ -15,3 +15,8 @@
   padding: 4px 8px;
 }
 .vp-doc .minimal-table-margins table th { text-align: left !important; }
+
+.vp-doc ::details-content {
+  border-left: 2px solid var(--vp-c-divider);
+  padding-left: 16px;
+}
