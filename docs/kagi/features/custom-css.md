@@ -456,8 +456,8 @@ Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) 
 If you want to learn more about how to customize your Kagi Search CSS, below is a video tutorial. The video features an older design of Kagi Search, but the CSS principles are the same.
 
 <video src="./media/custom-css.mp4" controls>
-  <track kind="captions" src="./media/custom-css.captions.vtt" srclang="en" />
-  <track kind="chapters" src="./media/custom-css.chapters.vtt" srclang="en" />
+  <track kind="captions" src="/custom-css.captions.vtt" srclang="en" />
+  <track kind="chapters" src="/custom-css.chapters.vtt" srclang="en" />
 </video>
 
 Also, here are some web resources about how to use CSS in general:
