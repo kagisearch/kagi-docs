@@ -16,16 +16,35 @@ Once applied, the theme will instantly update Kagi's appearance. You can switch 
 
 **Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings/appearance) page.
 
+<style>
+#user-themes ~ h3:not(#customizations ~ h3) {
+	display: inline;
+
+	+ p {
+		display: inline;
+
+		&::before { content: " " }
+	}
+}
+
+#user-themes ~ table:not(#customizations ~ table) {
+	img {
+		display: block;
+		margin: 0 auto;
+		max-height: 163px;
+		width: auto;
+	}
+}
+</style>
+
 ### Deep purple
 by [TheLastEnvoy](https://github.com/TheLastEnvoy)
 
 [**Get it**](https://gist.github.com/TheLastEnvoy/2e9c7723b7e35a9f1bdb8e78e117d194)
 
-| ![Deep Purple Theme](./themes/media/deep_purple_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Deep Purple Theme](./themes/media/deep_purple_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Deep Purple Theme](./themes/media/deep_purple_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Deep Purple Theme](./themes/media/deep_purple_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-<br>
+| ![](./themes/media/deep_purple_desktop_1.png){data-zoomable} | ![](./themes/media/deep_purple_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/deep_purple_mobile_1.png){data-zoomable} | ![](./themes/media/deep_purple_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Courvix Dark
@@ -33,11 +52,9 @@ by [Jeyso215](https://github.com/jeyso215)
 
 [**Get it**](https://gist.github.com/Jeyso215/76fd67b17d2407aa91a619fabc665887)
 
-| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Courvix Dark Theme](./themes/media/search-home.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Courvix Dark Theme](./themes/media/search-home.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+| ![](./themes/media/results-page.png){data-zoomable} | ![](./themes/media/search-home.png){data-zoomable} |
+|---|---|
 
-<br>
 
 ### Dark Mustard
 
@@ -45,17 +62,10 @@ by [Josh Ellington](https://github.com/joshellington/)
 
 [**Get it**](https://gist.github.com/joshellington/51765a15d8f780089619b638fc6aea6b)
 
+| ![](./themes/media/dark_mustard_desktop_1.png){data-zoomable} | ![](./themes/media/dark_mustard_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/dark_mustard_mobile_1.png){data-zoomable} | ![](./themes/media/dark_mustard_mobile_2.png){data-zoomable} |
 
-| ![Dark Mustard Theme](./themes/media/dark_mustard_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Dark Mustard Theme](./themes/media/dark_mustard_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Dark Mustard Theme](./themes/media/dark_mustard_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Dark Mustard Theme](./themes/media/dark_mustard_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Kagi Oranginum
 
@@ -63,17 +73,10 @@ by [sefidel](https://gist.github.com/sefidel)
 
 [**Get it**](https://gist.github.com/sefidel/ffb677da037e4d6951949a110132fe80#file-kagi-precompiled-css)
 
+| ![](./themes/media/kagi_oranginum_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_oranginum_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_oranginum_mobile_1.png){data-zoomable} | ![](./themes/media/kagi_oranginum_mobile_2.png){data-zoomable} |
 
-| ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Monokai Hack
 
@@ -81,17 +84,10 @@ by [maxpl01t](https://github.com/maxpl01t)
 
 [**Get it**](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0)
 
+| ![](./themes/media/monokai_hack_desktop_1.png){data-zoomable} | ![](./themes/media/monokai_hack_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/monokai_hack_mobile_1.png){data-zoomable} | ![](./themes/media/monokai_hack_mobile_2.png){data-zoomable} |
 
-| ![Monokai Hack Theme](./themes/media/monokai_hack_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Monokai Hack Theme](./themes/media/monokai_hack_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Monokai Hack Theme](./themes/media/monokai_hack_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Monokai Hack Theme](./themes/media/monokai_hack_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Nocturnal
 
@@ -99,17 +95,10 @@ by [Kel](https://github.com/Vexz00)
 
 [**Get it**](https://github.com/Vexz00/kagi-nocturnal-theme/blob/main/kagi-nocturnal-theme.css)
 
+| ![](./themes/media/nocturnal_desktop_1.png){data-zoomable} | ![](./themes/media/nocturnal_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/nocturnal_mobile_1.png){data-zoomable} | ![](./themes/media/nocturnal_mobile_2.png){data-zoomable} |
 
-| ![Nocturnal Theme](./themes/media/nocturnal_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Nocturnal Theme](./themes/media/nocturnal_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Nocturnal Theme](./themes/media/nocturnal_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Nocturnal Theme](./themes/media/nocturnal_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Minimal Fav Color
 
@@ -117,16 +106,9 @@ by [Matt Rangel](https://github.com/MattRangel)
 
 [**Get it**](https://github.com/MattRangel/kagi-search-custom-css/blob/main/custom.css)
 
-| ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_desktop_2.png){ data-zoomable  width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/minimal_fav_color_desktop_1.png){data-zoomable} | ![](./themes/media/minimal_fav_color_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/minimal_fav_color_mobile_1.png){data-zoomable} | ![](./themes/media/minimal_fav_color_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Mathiazom
@@ -135,16 +117,9 @@ by [mathiazom](https://github.com/mathiazom)
 
 [**Get it**](https://gist.github.com/mathiazom/ccbdd3bd8ff7da8e010546fa186b1e70)
 
-| ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_desktop_2.png){ data-zoomable  width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/kagi_mathiazom_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_mathiazom_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_mathiazom_mobile_1.png){data-zoomable} | ![](./themes/media/kagi_mathiazom_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Google-Style
@@ -153,16 +128,9 @@ by [neilio](https://github.com/neilio)
 
 [**Get it**](https://gist.github.com/neilio/c2c3495ff16c0a0401f4cf630438e1b3)
 
-| ![Kagi Google-Style Theme](./themes/media/kagi_google_style_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Google-Style Theme](./themes/media/kagi_google_style_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Google-Style Theme](./themes/media/kagi_google_style_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Google-Style Theme](./themes/media/kagi_google_style_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/kagi_google_style_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_google_style_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_google_style_mobile_1.png){data-zoomable} | ![](./themes/media/kagi_google_style_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Gruvbox Dark Theme
@@ -171,16 +139,9 @@ by [auphone](https://auphone.net/)
 
 [**Get it**](https://auphone.net/posts/kagi-gruvbox-dark-theme-css/)
 
-| ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/kagi_gruvbox_dark_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_gruvbox_dark_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_gruvbox_dark_mobile_1.png){data-zoomable} | ![](./themes/media/kagi_gruvbox_dark_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Darker
@@ -189,16 +150,9 @@ by [realrogue](https://github.com/realrogue/kagi-darker/)
 
 [**Get it**](https://github.com/realrogue/kagi-darker/releases/)
 
-| ![Kagi Darker Theme](./themes/media/roguedarker_dimages.jpg){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Darker Theme](./themes/media/roguedarker_dsearch.jpg){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Darker Theme](./themes/media/roguedarker_dsearchcomplete.jpg){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Darker Theme](./themes/media/roguedarker_iphone.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/roguedarker_dimages.jpg){data-zoomable} | ![](./themes/media/roguedarker_dsearch.jpg){data-zoomable} |
+|---|---|
+| ![](./themes/media/roguedarker_dsearchcomplete.jpg){data-zoomable} | ![](./themes/media/roguedarker_iphone.png){data-zoomable} |
 
 
 ### Slimmed Down Theme
@@ -335,20 +289,10 @@ by rasti
 
 </details>
 
-
-
-| ![Slimmed Down Theme](./themes/media/slimmed_down_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Slimmed Down Theme](./themes/media/slimmed_down_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Slimmed Down Theme](./themes/media/slimmed_down_desktop_3.png){data-zoomable width="350px" style="display: block; margin: 0 auto"} | ![Slimmed Down Theme](./themes/media/slimmed_down_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-| ![Slimmed Down Theme](./themes/media/slimmed_down_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Slimmed Down Theme](./themes/media/slimmed_down_mobile_3.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
-
+| ![](./themes/media/slimmed_down_desktop_1.png){data-zoomable} | ![](./themes/media/slimmed_down_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/slimmed_down_desktop_3.png){data-zoomable} | ![](./themes/media/slimmed_down_mobile_1.png){data-zoomable} |
+| ![](./themes/media/slimmed_down_mobile_2.png){data-zoomable} | ![](./themes/media/slimmed_down_mobile_3.png){data-zoomable} |
 
 
 ### Kagi Catppuccin Mocha
@@ -357,17 +301,9 @@ by [jcrabapple](https://github.com/jcrabapple/)
 
 [**Get it**](https://repo.jcrabapple.com/jcrabapple/82208449e52b434a8e695c8124fa3f79)
 
-| ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
-
+| ![](./themes/media/kagi_catppuccin_mocha_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_catppuccin_mocha_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_catppuccin_mocha_mobile_1.png){data-zoomable} | ![](./themes/media/kagi_catppuccin_mocha_mobile_2.png){data-zoomable} |
 
 
 ### High Contrast Purple Kagi Theme for Low Vision
@@ -376,20 +312,10 @@ by [Veroniiiica](https://veroniiiica.com/)
 
 [**Get it**](https://veroniiiica.com/wp-content/uploads/2026/05/kagi_low_vision_theme_purple_high_contrast.txt)
 
-| ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+| ![](./themes/media/high_contrast_purple_desktop_1.png){data-zoomable} | ![](./themes/media/high_contrast_purple_desktop_2.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/high_contrast_purple_mobile_1.png){data-zoomable} | ![](./themes/media/high_contrast_purple_mobile_2.png){data-zoomable} |
 
-
-<br>
-
----
-
-<br>
-
-
-
-You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
 
@@ -450,6 +376,8 @@ Apply the following custom CSS in your [Appearance settings](https://kagi.com/se
 Custom CSS does not apply to settings pages and is currently limited to 40,000 characters, including whitespace.
 
 Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
+
+You can collaborate on themes on the [Kagi Discord server](https://kagi.com/discord) or the [community-managed subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ### Learn
 
