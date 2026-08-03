@@ -18,7 +18,7 @@ Set Kagi as your default search engine in Safari by installing the [Kagi for Saf
 Follow these steps to set up the Kagi for Safari extension:
 
 1. Install [Kagi for Safari](https://apps.apple.com/app/kagi-search-for-safari/id1622835804) from the App Store. You can also scan the QR code below with your iPhone or iPad camera to go directly to the download page:
-![Kagi for Safari QR Code](./media/kagi_safari_extension_qr_code.png){width=256px data-zoomable}
+![Kagi for Safari QR Code](./media/kagi_safari_extension_qr_code.png){width=256 height=256}
 2. Open the **Settings** app and navigate to **Safari** > **Extensions** > **Kagi for Safari**.
 3. Enable the **Allow Extension** and **Allow in Private Browsing** toggles.
 4. Under Permissions, set **kagi.com** and **Other Websites** to **Allow**.

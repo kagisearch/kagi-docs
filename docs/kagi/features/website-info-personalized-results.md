@@ -20,7 +20,7 @@ To the right of each Kagi search result is a shield icon. Hovering over the icon
 Midway down the information window for the search result, you can tweak how the website for the result is treated in future Kagi searches.
 
 
-![Web Archive and More Results Links](./media/kagi-personalized-results-ranking.png){width=675px data-zoomable}
+![Web Archive and More Results Links](./media/kagi-personalized-results-ranking.png){data-zoomable}
 
 Your options are to:
 
@@ -36,7 +36,7 @@ You can see your Personalized Results for all websites in [Settings](https://kag
 Personalization can also be disabled for a single search via unchecking the "Personalized" option in the "Options" menu.
 
 
-![Personalized Option in Search Options Dropdown](./media/kagi-personalized-results-personalized_option.png){width=675px data-zoomable}
+![Personalized Option in Search Options Dropdown](./media/kagi-personalized-results-personalized_option.png){data-zoomable}
 
 You can also apply Personalization in image search results by clicking the shield icon.
 
@@ -46,7 +46,7 @@ Kagi Search allows you to block entire domains as part of its ranking tools, but
 
 ## Domain Leaderboard
 
-![Personalization Leaderboard](./media/kagi-personalized-results-domain-leaderboard.png){width=675px data-zoomable}
+![Personalization Leaderboard](./media/kagi-personalized-results-domain-leaderboard.png){data-zoomable}
 
 Wonder what are the most promoted and blocked domains among Kagi Search users?
 
@@ -54,7 +54,7 @@ Check the [Personalization Leaderboard](https://kagi.com/stats?stat=leaderboard)
 
 ## Website Information
 
-![Website Information](./media/kagi-personalized-results-website-info.png){width=675px data-zoomable}
+![Website Information](./media/kagi-personalized-results-website-info.png){data-zoomable}
 
 At the bottom of the information window for the search result is useful data about the website for the result.
 

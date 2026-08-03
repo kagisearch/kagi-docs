@@ -8,7 +8,7 @@ Small Web surfaces authentic content from independent creators who regularly sha
 ## Identifying Small Web content in your search results
 When clicking the shield icon next to any search result, Small Web content is distinguished by an image of Doggo appearing in the details window.
 
-![Doggo - Small Web Result](./media/doggo_kagis_index_result.png){width=622px data-zoomable}
+![Doggo - Small Web Result](./media/doggo_kagis_index_result.png)
 
 ## Surfacing content from the Small Web
 We are committed to surfacing content from the Small Web in our search results, which makes Kagi uniquely different to any other search engine out there. It is not only part of our mission to humanize the web but we genuinely feel that this improves the quality of search results and discoverability of high quality, relevant content.

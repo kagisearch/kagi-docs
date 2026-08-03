@@ -10,4 +10,4 @@ You can enable 120 fps page rendering in Orion by following these steps:
 2. In the Settings window, go to the **Appearance** tab.
 3. Enable the **Prefer Page Rendering Updates near 120fps** checkbox.
 
-![Orion - 120 fps Page Rendering](./media/120fps_page_rendering.gif){data-zoomable}
+![Orion - 120 fps Page Rendering](./media/120fps_page_rendering.gif)

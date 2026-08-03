@@ -16,4 +16,4 @@ To enable Compact Tabs follow these steps:
 2. Click on the **Tabs** tab.
 3. Select **Compact** in the **Tab Layout** section.
 
-![Orion - Compact Tabs Setting](./media/compact_tabs_setting.gif){data-zoomable}
+![Orion - Compact Tabs Setting](./media/compact_tabs_setting.gif)
