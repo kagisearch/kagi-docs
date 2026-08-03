@@ -321,7 +321,31 @@ by [Veroniiiica](https://veroniiiica.com/)
 
 ## Customizations
 
-Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings/custom_css).
+These are short snippets that you can copy into your custom CSS to accomplish specific things.
+
+<details><summary>Use a different font</summary>
+
+Note: If using a specific font makes reading significantly easier for you, we suggest using your browser's settings or a browser extension to apply your preferences across every website you visit instead of fixing things one site at a time. Our goal as a search engine is to launch you out into the rest of the web; if we're doing our job well, you'll be spending much more time out there than you do on our pages.
+
+If you want to set a custom font on Kagi pages, you can use any font installed on your computer like so,
+
+```css
+body { font-family: "Comic Sans MS", sans-serif; }
+```
+
+or import any of the fonts available on [Google Fonts](https://fonts.google.com/), for example Atkinson Hyperlegible or Lexend.
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700");
+body { font-family: "Atkinson Hyperlegible", sans-serif; }
+```
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900");
+body { font-family: "Lexend", sans-serif; }
+```
+
+</details>
 
 <details><summary>Remove link underlines</summary>
 
