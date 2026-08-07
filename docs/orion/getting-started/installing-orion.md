@@ -13,9 +13,9 @@ Orion is free, and no account or signup is required to use it.
 
 ## Linux
 
-The open beta version of Orion for Linux is currently available to everyone. The most recent build can be downloaded from [Orion's website](https://orionbrowser.com/platforms/linux).
-
 :::warning Note
+The open beta version of Orion for Linux is currently available to everyone.
+
 This version is intended for testing and [reporting bugs in the Orion Feedback Forum](https://orionfeedback.org/t/desktop-linux).
 
 While each version is a significant leap forward, some features may still be missing, so depending on your use case, Orion might not yet be ready for everyday use.
@@ -28,7 +28,15 @@ You can find instructions for installing and using Flatpak for your distro [here
 After you've set up Flatpak, you can install Orion using the `flatpak install` command:
 
 ```bash
-flatpak install /path/to/App.flatpak
+flatpak remote-add --if-not-exists  orion-beta https://flatpak.orionbrowser.com/orion-beta.flatpakrepo
 ```
 
-(Replace `/path/to/App.flatpak` with your downloaded file path)
+```bash
+flatpak install orion-beta com.kagi.Orion
+```
+
+#### Update Orion 
+
+```bash
+flatpak update
+```
