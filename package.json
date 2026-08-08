@@ -9,6 +9,7 @@
     "@vscode/markdown-it-katex": "^1.1.1",
     "esbuild": "^0.25.0",
     "kagi-sidekick-vitepress": "^0.0.1-alpha.22",
+    "markdown-it-image-size": "^15.1.0",
     "medium-zoom": "^1.1.0",
     "sortable-tablesort": "^4.0.1",
     "vitepress": "^1.6.3",

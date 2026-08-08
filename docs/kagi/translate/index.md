@@ -36,7 +36,7 @@ Less common languages may experience lower performance, while more common langua
 ![Translation Settings](./media/kagi_translate_translation_settings.png){data-zoomable}
 
 1. **Preset**: Choose or save your current settings as a preset. You can set a preset as the default from the presets dropdown to have it load automatically when opening the page.
-![Preset Settings](./media/kagi-translate-translation-preset.png){data-zoomable}
+![Preset Settings](./media/kagi-translate-translation-preset.png)
 2. **Translation Style**: Select style and formality
 3. **Reading Level**:  Simplify the translation based on reading level
 4. **Gender Preferences**: Refer to the speaker and addressee using different genders
@@ -53,7 +53,7 @@ Kagi Translate includes a proofreading mode that helps you correct mistakes, imp
 ![Proofreading Settings](./media/kagi_translate_proofread_settings.png){data-zoomable}
 
 1. **Preset**: Choose or save your current settings as a preset. You can set a preset as the default from the presets dropdown to have it load automatically when opening the page.
-![Preset Settings](./media/kagi-translate-proofread-preset.png){data-zoomable}
+![Preset Settings](./media/kagi-translate-proofread-preset.png)
 2. **Formality**: The formality of the text
 3. **Reading Level**: Simplify the text based on reading level
 4. **Writing Style**:

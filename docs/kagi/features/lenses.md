@@ -47,12 +47,12 @@ Let's say you love movie news and reviews. You can make a Lens that searches onl
 
 2. Fill in the "Create Lens" page with the details of how you want the Lens to constrain searches. Perhaps you live in the United States and you like certain movie-focused websites.
 
-![Lens Form](./media/kagi-search-lens-form.png){width=675px data-zoomable}
+![Lens Form](./media/kagi-search-lens-form.png)
 
 3. Click the **Save** button at the bottom of the page.
 4. Back on the Lenses page, switch your new Movies Lens to **On**.
 
-![Lens Switch](./media/kagi-search-lens-turn-on.png){data-zoomable}
+![Lens Switch](./media/kagi-search-lens-turn-on.png)
 
 5. Do a search in Kagi for a movie title.
 
@@ -60,7 +60,7 @@ Let's say you love movie news and reviews. You can make a Lens that searches onl
 
 6. Once you see the search results, enable your Movies Lens.
 
-![Lens Enable](./media/kagi-search-lens-enable.png){data-zoomable}
+![Lens Enable](./media/kagi-search-lens-enable.png)
 
 7. You will see the search results constrained to specific websites based on the Lens.
 
@@ -74,16 +74,16 @@ You can share a copy of your lens with other Kagi users.
 
 To enable lens sharing, first find the lens you want to share in your [Active Lenses list](https://kagi.com/settings/lenses), and click the pencil icon to edit the lens.
 
-![Lens Edit](./media/kagi-search-lens-edit.png){data-zoomable}
+![Lens Edit](./media/kagi-search-lens-edit.png)
 
 In the Edit Lens form, find the checkbox Share Lens Link.
 Enable it, then press save at the bottom of the page.
 
-![Lens Share](./media/kagi-search-lens-share.png){data-zoomable}
+![Lens Share](./media/kagi-search-lens-share.png)
 
 When you return to your lens list, you will see a new sharing icon that you can click to copy a sharing URL to your clipboard.
 
-![Lens Share Link](./media/kagi-search-lens-share-link.png){data-zoomable}
+![Lens Share Link](./media/kagi-search-lens-share-link.png)
 
 You can send this link to anyone with a Kagi account.
 When they open the link, they will be brought to the Create Lens form with all the options from your lens pre-filled.

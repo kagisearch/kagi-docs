@@ -7,7 +7,7 @@ This is our blooper reel of these moments. Enjoy and [share your own](#share-a-b
 
 ## NZ Dollar to US
 
-![NZ Dollars to US](./media/nz_dollars_to_us.jpg){width=675px data-zoomable}
+![NZ Dollars to US](./media/nz_dollars_to_us.jpg){data-zoomable}
 Originally on [Discord.](https://discord.com/channels/1256077108111868035/1262752714757247037/1430371370356838460)
 
 ## Hacker

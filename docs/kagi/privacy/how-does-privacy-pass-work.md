@@ -38,11 +38,11 @@ An **oblivious PRF** (OPRF), is a cryptographic protocol belonging to the family
 
 Consider the PRF-based authentication scheme described above. During an OPRF execution, the client is trying to protect the secrecy of the values $n_i$ which will become part of an authentication token, while the server is trying to protect the secrecy of the PRF key $k$. By the end of the exchange, the client should learn the value of $f(k, n_i)$, while the server should learn nothing.
 
-![OPRF diagram](./media/privacy_pass_oprf_diagram.png){width=700px data-zoomable}
+![OPRF diagram](./media/privacy_pass_oprf_diagram.png)
 
 With an OPRF in place, the client can rest assured that during the token generation phase, the server cannot track what tokens were given to what user. Unfortunately, there is still one way the server could cheat, and this is by using a different key $k$ for every user. Luckily, there is also a solution to this problem: we can ask the server to publish a _public key_, that is a public commitment $K$ to the secret key $k$, and force them to provide a [zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof) $\pi$ that during token generation they used the value of $k$ corresponding to the public commitment $K$. A protocol allowing this is called a **verifiable OPRF** (VOPRF). 
 
-![VOPRF diagram](./media/privacy_pass_voprf_diagram.png){width=700px data-zoomable}
+![VOPRF diagram](./media/privacy_pass_voprf_diagram.png)
 
 With VOPRFs, we can finally safely generate authentication tokens, making sure that the server can't keep track of users by either directly taking note of the tokens given out, or indirectly using different PRF keys with different users. This means that at the point of token redemption, the server will only be able to tell that the token presented by the user is valid, and won't be able to link them to a specific generation phase.
 

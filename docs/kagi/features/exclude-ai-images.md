@@ -8,13 +8,13 @@ At Kagi, we understand the importance of delivering high-quality, relevant searc
 
 By default, [Kagi Image Search](https://kagi.com/images) downranks images from websites with a high proportion of AI-generated content. Try the example search [here](https://kagi.com/images?q=baby+cat).
 
-![Kagi vs Google AI-generated images](./media/kagi_vs_google_image_search.png){width=720px data-zoomable}
+![Kagi vs Google AI-generated images](./media/kagi_vs_google_image_search.png)
 
 ## Labeling AI-generated images
 
 In addition to downranking, we have implemented an AI image labeling system. This feature adds a small badge or icon to thumbnails that are likely to be AI-generated content. The label helps users quickly identify potential AI images without completely removing them from search results. 
 
-![Kagi AI Image Label](./media/image_search_ai_label.png){width=720px data-zoomable}
+![Kagi AI Image Label](./media/image_search_ai_label.png){data-zoomable}
 
 ## Filtering AI-generated images
 
