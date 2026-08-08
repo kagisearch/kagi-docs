@@ -205,7 +205,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Mistral AI    | [Mistral Large 3](https://kagi.com/assistant?profile=mistral-large)                               | mistral-large            | All      |
 | MiniMax       | [MiniMax M3](https://kagi.com/assistant?profile=minimax-m3)                                       | minimax-m3               | All      |
 | Moonshot AI   | [Kimi K3](https://kagi.com/assistant?profile=kimi-k3)                                             | kimi-k3                  | Ultimate |
-| Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | Ultimate |
+| Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT 5.4 Mini](https://kagi.com/assistant?profile=gpt-5-4-mini)                                   | gpt-5-4-mini             | All      |
 | OpenAI        | [GPT 5.4 Nano](https://kagi.com/assistant?profile=gpt-5-4-nano)                                   | gpt-5-4-nano             | All      |
