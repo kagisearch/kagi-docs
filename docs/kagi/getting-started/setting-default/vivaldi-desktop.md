@@ -32,4 +32,13 @@ Then, scroll to the top of the settings page.
 1. Ensure that all three of the dropdowns are set to **Kagi Search**
 2. Under **Allow Search Suggestions**, check both **in address field** and **in search field**
 
-<img src="./media/kagi_default_vivaldi.png" width="541" alt="Setting Kagi as Default Search Engine in Vivaldi"><br />
+When you are done, everything should look like this:
+
+<img src="./media/kagi_default_vivaldi.png" alt="Setting Kagi as Default Search Engine in Vivaldi"><br />
+
+:::warning
+During manual setup, leave the `POST Parameters` field empty.
+Kagi does not fully support this field, and an incorrect value may cause unexpected issues.
+
+This is separate from `Image Search POST Parameters`, which should be set to `file={google:imageThumbnail}` as shown above.
+:::
