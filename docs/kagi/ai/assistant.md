@@ -199,6 +199,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Google        | [Gemini 3.1 Pro (Preview)](https://kagi.com/assistant?profile=gemini-3-pro)                       | gemini-3-pro             | Ultimate |
 | Google        | [Gemini 3.1 Flash Lite](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)                 | gemini-3-1-flash-lite    | All      |
 | Google        | [Gemma 4 31B](https://kagi.com/assistant?profile=gemma-4-31b)                                     | gemma-4-31b              | All      |
+| Meta          | [Muse Spark 1.2](https://kagi.com/assistant?profile=muse-spark-1-2)                               | muse-spark-1-2           | Ultimate |
 | Mistral AI    | [Mistral Small 4](https://kagi.com/assistant?profile=mistral-small-4)                             | mistral-small-4          | All      |
 | Mistral AI    | [Mistral Small 3](https://kagi.com/assistant?profile=mistral-small)                               | mistral-small            | All      |
 | Mistral AI    | [Mistral Medium 3.5](https://kagi.com/assistant?profile=mistral-medium-3-5)                       | mistral-medium-3-5       | Ultimate |

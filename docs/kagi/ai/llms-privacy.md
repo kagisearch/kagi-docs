@@ -23,6 +23,7 @@ When you use [Kagi Assistant](./assistant.md), we make API requests to third-par
 | <ul><li>MiniMax M2.5</li></ul> | <ul><li>Fireworks.ai</li></ul> | No | Not stored | <ul><li>[Fireworks.ai Privacy Policy](https://fireworks.ai/privacy-policy)</li><li>[Fireworks.ai FAQ](https://docs.fireworks.ai/guides/security_compliance/data_handling)</li></ul> |
 | <ul><li>GLM-4.7</li><li>GLM-4.7 (reasoning)</li></ul>                                                                                                                                                                                                                                      | <ul><li>Cerebras</li><li>Fireworks.ai</li><li>DeepInfra</li></ul>                                | No                          | Not stored                            | <ul><li>[Cerebras privacy Policy](https://www.cerebras.ai/policies)</li><li>[Fireworks.ai Privacy Policy](https://fireworks.ai/privacy-policy)</li><li>[Fireworks.ai FAQ](https://docs.fireworks.ai/guides/security_compliance/data_handling)</li><li>[DeepInfra Privacy Policy](https://deepinfra.com/privacy)</li></ul>
 | <ul><li>GLM-5.2 </li><li>GLM-5.2 (reasoning)</li></ul>                                                                                                                                                                                                                                      | <ul><li>Fireworks.ai</li><li>DeepInfra</li></ul>                                | No                          | Not stored                            | <ul><li>[Fireworks.ai Privacy Policy](https://fireworks.ai/privacy-policy)</li><li>[Fireworks.ai FAQ](https://docs.fireworks.ai/guides/security_compliance/data_handling)</li><li>[DeepInfra Privacy Policy](https://deepinfra.com/privacy)</li></ul>
+| <ul><li>Muse Spark 1.2</li></ul> | <ul><li>Meta</li></ul> | No | Not specified⁵ | <ul><li>[Meta Model API Terms of Service](https://dev.meta.ai/legal/terms-of-service)</li></ul> |
 
 ¹ The Assistant does not include a [unique user identifier](https://platform.openai.com/docs/guides/safety-best-practices#end-user-ids) for these requests.
 
@@ -31,3 +32,5 @@ When you use [Kagi Assistant](./assistant.md), we make API requests to third-par
 ³ o3/o3-pro models are not yet available to Kagi via Azure and go directly to OpenAI for now.
 
 ⁴ GPT 5 chat is labeled as ChatGPT in the Assistant.
+
+⁵ Meta does not state a retention period for API requests.
