@@ -181,6 +181,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 
 | Developer     | Model                                                                                             | Profile                  | Plan     |
 | :------------ | :------------------------------------------------------------------------------------------------ | :----------------------- | :------- |
+| Alibaba       | [Qwen3.8 Max](https://kagi.com/assistant?profile=qwen-3-8-max)                                    | qwen-3-8-max             | Ultimate |
 | Alibaba       | [Qwen3.7 Plus](https://kagi.com/assistant?profile=qwen-3-7-plus)                                  | qwen-3-7-plus            | All      |
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | claude-4-sonnet          | Ultimate |
