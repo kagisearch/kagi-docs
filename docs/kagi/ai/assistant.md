@@ -214,8 +214,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | OpenAI        | [GPT 5.6 Terra](https://kagi.com/assistant?profile=gpt-5-6-terra)                                 | gpt-5-6-terra            | Ultimate |
 | OpenAI        | [GPT 5.6 Luna](https://kagi.com/assistant?profile=gpt-5-6-luna)                                   | gpt-5-6-luna             | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
-| xAI           | [Grok 4.3](https://kagi.com/assistant?profile=grok-4-3)                                           | grok-4-20                | All |
-| xAI           | [Grok 4.5](https://kagi.com/assistant?profile=grok-4-5)                                           | grok-4-5                 | Ultimate |
+| xAI           | [Grok 4.6](https://kagi.com/assistant?profile=grok-4-6)                                           | grok-4-6                 | Ultimate |
 | Z.ai          | [GLM-5.2](https://kagi.com/assistant?profile=glm-5-2)                                             | glm-5-2                  | Ultimate |
 | Z.ai          | [GLM-5.2 (reasoning)](https://kagi.com/assistant?profile=glm-5-2-thinking)                        | glm-5-2-thinking         | Ultimate |
 
