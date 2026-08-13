@@ -208,8 +208,6 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Moonshot AI   | [Kimi K3](https://kagi.com/assistant?profile=kimi-k3)                                             | kimi-k3                  | Ultimate |
 | Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
-| OpenAI        | [GPT 5.4 Mini](https://kagi.com/assistant?profile=gpt-5-4-mini)                                   | gpt-5-4-mini             | All      |
-| OpenAI        | [GPT 5.4 Nano](https://kagi.com/assistant?profile=gpt-5-4-nano)                                   | gpt-5-4-nano             | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 5.5](https://kagi.com/assistant?profile=gpt-5-5)                                             | gpt-5-5                  | Ultimate |
 | OpenAI        | [GPT 5.6 Sol](https://kagi.com/assistant?profile=gpt-5-6-sol)                                     | gpt-5-6-sol              | Ultimate |
@@ -220,8 +218,6 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | xAI           | [Grok 4.5](https://kagi.com/assistant?profile=grok-4-5)                                           | grok-4-5                 | Ultimate |
 | Z.ai          | [GLM-5.2](https://kagi.com/assistant?profile=glm-5-2)                                             | glm-5-2                  | Ultimate |
 | Z.ai          | [GLM-5.2 (reasoning)](https://kagi.com/assistant?profile=glm-5-2-thinking)                        | glm-5-2-thinking         | Ultimate |
-| Z.ai          | [GLM-4.7](https://kagi.com/assistant?profile=glm-4-7)                                             | glm-4-7                  | All      |
-| Z.ai          | [GLM-4.7 (reasoning)](https://kagi.com/assistant?profile=glm-4-7-thinking)                        | glm-4-7-thinking         | All      |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
