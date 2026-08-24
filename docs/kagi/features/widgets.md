@@ -170,10 +170,10 @@ This widget shows live scores, dates, and standings for teams and leagues.
 This widget displays prices, charts, and other info for a given stock ticker query.
 
 #### Example Queries
-- `DOW`
+- `$VT`
 - `google stock`
 - `NVDA`
-- `nvidia stock`
+- `nvidia price`
 
 ## Stopwatch/Timer
 
