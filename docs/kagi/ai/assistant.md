@@ -216,6 +216,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | xAI           | [Grok 4.6](https://kagi.com/assistant?profile=grok-4-6)                                           | grok-4-6                 | Ultimate |
 | Z.ai          | [GLM-5.2](https://kagi.com/assistant?profile=glm-5-2)                                             | glm-5-2                  | Ultimate |
 | Z.ai          | [GLM-5.2 (reasoning)](https://kagi.com/assistant?profile=glm-5-2-thinking)                        | glm-5-2-thinking         | Ultimate |
+| Z.ai          | [GLM 5.3 Flash](https://kagi.com/assistant?profile=glm-5-3-flash)                                 | glm-5-3-flash            | All      |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.
