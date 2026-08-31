@@ -65,7 +65,9 @@ This widget rolls virtual dice inline with the results page.
 
 ## Dictionary
 
-The dictionary widget displays word definitions and pronunciation, powered by Kagi Translate.
+The dictionary widget displays word definitions and pronunciation.
+
+[![Powered by wordnik](media/wordnik_badge_a2.png)](https://www.wordnik.com/)
 
 #### Example Queries
 - [`elated`](https://kagi.com/search?q=elated)
