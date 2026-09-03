@@ -9,7 +9,7 @@ The Kagi "offline" Benchmark is an **unpolluted benchmark** to assess large lang
 Unlike standard benchmarks, the tasks in this benchmark are unpublished, not found in training data, or "gamed" in fine-tuning. The task set changes over time (mostly getting more difficult) to better represent the current state of the art.
 
 Last task list revision: **February 13th, 2026**
-Tasks: **116**
+Tasks: **117**
 Input Tokens (all tasks): **15256**
 
 **NOTE:** Since the July update, we have made major changes to the task set. We test much more aggressively on non-english languages, robustness to polluted tokens, noisy context and instruction following. We also replaced our hallucination benchmarks with new tasks.
@@ -17,6 +17,58 @@ Input Tokens (all tasks): **15256**
 Please see notes below the table if you see results you find surprising, or get in contact with us on [the user discord](https://kagi.com/discord)
 
 <div class="minimal-table-margins">
+
+<!-- benchmark-current:start run=20260829_001011_all_user_models date=2026-08-30 models=38 tasks=117 -->
+**Latest benchmark run:** August 30, 2026 · 38 models · 117 tasks
+
+| model | %accuracy | Cost($) | time/task | tokens | TPS | provider |
+|---|---:|---:|---:|---:|---:|---|
+| gemini-3-pro | 86.3 | 3.2933 | 19.8 | 271699 | 117.1 | gemini |
+| claude-5-opus-thinking | 83.8 | 2.3537 | 10.6 | 89431 | 72.2 | anthropic |
+| gemini-3-7-flash | 82.1 | 0.3645 | 4.1 | 93910 | 194.0 | gemini |
+| claude-5-opus | 80.3 | 2.359 | 10.5 | 89644 | 73.0 | anthropic |
+| gpt-5-6-sol | 80.3 | 0.9185 | 6.1 | 42519 | 59.9 | openai_response |
+| qwen-3-8-max | 80.3 | 4.038 | 52.3 | 665651 | 108.8 | fireworks |
+| deepseek-v4-pro | 76.9 | 2.6553 | 80.5 | 662927 | 70.4 | fireworks |
+| grok-4-6 | 76.9 | 1.7121 | 52.0 | 269854 | 44.4 | xai |
+| muse-spark-1-2 | 76.9 | 1.9461 | 40.1 | 453393 | 96.6 | meta_response |
+| claude-5-fable | 76.1 | 2.9057 | 8.2 | 53314 | 55.5 | anthropic |
+| claude-5-fable-thinking | 76.1 | 2.7163 | 8.0 | 49526 | 52.9 | anthropic |
+| gemma-4-31b | 74.4 | 0.2887 | 1.2 | 181691 | 1311.2 | cerebras |
+| kimi-k3 | 74.4 | 3.2169 | 41.2 | 209435 | 43.4 | fireworks |
+| glm-5-2-thinking | 73.5 | 1.6203 | 34.7 | 363042 | 89.5 | fireworks |
+| deepseek-v4-flash | 71.8 | 0.1489 | 114.1 | 804244 | 60.3 | deepinfra |
+| qwen-3-7-plus | 70.9 | 0.3245 | 84.0 | 250052 | 25.4 | together |
+| gpt-5-6-terra | 68.4 | 0.515 | 4.8 | 40081 | 71.9 | openai_response |
+| kimi-k2-6-thinking | 68.4 | 2.9243 | 67.7 | 727229 | 91.9 | fireworks |
+| kimi-k2-7-code | 65.8 | 2.2216 | 48.3 | 551534 | 97.7 | fireworks |
+| claude-5-sonnet | 65.0 | 1.0541 | 9.2 | 100692 | 93.4 | anthropic |
+| gemini-2-5-pro | 65.0 | 3.1245 | 18.7 | 310392 | 141.8 | gemini |
+| claude-5-sonnet-thinking | 64.1 | 1.1541 | 10.6 | 110690 | 89.2 | anthropic |
+| chatgpt-4o | 63.2 | 0.4034 | 1.8 | 10780 | 50.6 | openai |
+| nemotron-3-ultra | 61.5 | 0.6307 | 98.2 | 244780 | 21.3 | deepinfra |
+| gpt-5-6-luna | 59.8 | 0.0765 | 5.8 | 60875 | 89.4 | openai_response |
+| gemini-3-1-flash-lite | 59.0 | 0.0421 | 1.2 | 25342 | 176.2 | gemini |
+| minimax-m3 | 59.0 | 0.7122 | 30.0 | 588479 | 167.4 | fireworks |
+| gpt-oss-120b | 54.7 | 0.1175 | 1.1 | 145818 | 1114.7 | cerebras |
+| glm-5-2 | 52.1 | 0.5381 | 10.8 | 117157 | 92.6 | fireworks |
+| kimi-k2-6 | 51.3 | 0.5177 | 12.9 | 125553 | 83.4 | fireworks |
+| gemini-3-5-flash-lite | 47.9 | 0.0814 | 1.4 | 30602 | 188.6 | gemini |
+| mistral-large | 41.0 | 0.1309 | 7.8 | 81661 | 89.6 | mistral |
+| mistral-medium-3-5 | 39.3 | 0.4862 | 3.2 | 61181 | 162.6 | mistral |
+| claude-4-haiku-thinking | 38.5 | 0.1504 | 2.7 | 26213 | 83.8 | anthropic |
+| claude-4-haiku | 34.2 | 0.1553 | 2.7 | 27198 | 85.0 | anthropic |
+| grok-4-3 | 28.2 | 0.0571 | 1.3 | 11196 | 75.8 | xai |
+| hermes-4-405b-thinking | 28.2 | 0.0734 | 5.5 | 18904 | 29.2 | nebius |
+| mistral-small-4 | 27.4 | 0.0359 | 3.2 | 55275 | 147.7 | mistral |
+
+{.sortable}
+<!-- benchmark-current:end -->
+
+<!-- benchmark-history:start -->
+<!-- benchmark-snapshot:start run=legacy -->
+<details>
+<summary>Previous leaderboard (legacy)</summary>
 
 | model                               |   %accuracy |   Cost($) |   time/task |   tokens |   TPS | provider   |
 |-------------------------------------|-------------|-----------|-------------|----------|-------|------------|
@@ -167,6 +219,10 @@ Please see notes below the table if you see results you find surprising, or get 
 | magistral-small                     |         6.3 |       7.4 |        68.3 |     1039 |   0.1 | Mistral    |
 
 {.sortable}
+
+</details>
+<!-- benchmark-snapshot:end -->
+<!-- benchmark-history:end -->
 
 </div>
 
