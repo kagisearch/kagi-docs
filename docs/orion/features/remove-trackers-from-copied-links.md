@@ -4,4 +4,4 @@ Many websites add tracking parameters to links to analyze user behaviors and to 
 
 To use this feature, right click on the link you want to share and select **Copy Clean Link**. Note that this option will only be available for links that contain tracking parameters.
 
-![Orion - Remove Trackers from Copied Links](./media/copy_clean_link.png){data-zoomable}
+![Orion - Remove Trackers from Copied Links](./media/copy_clean_link.png)

@@ -80,7 +80,7 @@ To use Privacy Pass in [Orion for iOS](https://apps.apple.com/us/app/orion-brows
 5. Paste your Session Link into the "Session cookie" field, then click on "Save cookie".
 6. Back to the extension popup, click "Generate tokens".
 
-![Kagi Privacy Pass - Tor Browser](./media/kagi_privacy_pass_tor_browser.png){width=700px data-zoomable}
+![Kagi Privacy Pass - Tor Browser](./media/kagi_privacy_pass_tor_browser.png)
 
 </details>
 
@@ -111,11 +111,11 @@ If you're looking for a native WebKit-based browsing experience with Privacy Pas
 
 After installation, Privacy Pass is automatically enabled. You can easily turn it on or off by clicking the extension icon in your browser's toolbar and toggling the **Authenticate via Privacy Pass** option.
 
-![Kagi Privacy Pass - Extension Pop Up](./media/kagi_privacy_pass_extension.png){width=700px data-zoomable}
+![Kagi Privacy Pass - Extension Pop Up](./media/kagi_privacy_pass_extension.png)
 
 When enabled, you'll notice that certain settings and features such as custom bangs and lenses, as well as personalized results, aren't available - this is intentional to maintain your anonymity.
                 
-![Kagi Privacy Pass - Indicator Lock](./media/kagi_privacy_pass_lock.png){width=700px data-zoomable}
+![Kagi Privacy Pass - Indicator Lock](./media/kagi_privacy_pass_lock.png)
 
 The extension will automatically manage your tokens, generating new ones when needed. You can always switch back to normal authentication by turning off the "Authenticate via Privacy Pass" toggle in the extension popup.
 

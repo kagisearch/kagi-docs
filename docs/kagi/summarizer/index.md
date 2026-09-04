@@ -39,7 +39,7 @@ Kagi Summarize has three primary summarization modes selectable from the `Mode` 
 
 ### Translation
 
-![Summarize Page](media/kagi-summarize-translate-dropdown.png){data-zoomable}
+![Summarize Page](media/kagi-summarize-translate-dropdown.png)
 
 When summarizing, you can optionally have the summary translated using [Kagi Translate](../translate/index.md).
 
@@ -47,11 +47,11 @@ When summarizing, you can optionally have the summary translated using [Kagi Tra
 
 You may find individual pages that you would like to summarize and Kagi is the first engine to offer a Summarize option.
 
-![Summarize Page](media/kagi-summarize-search-result.png){data-zoomable}
+![Summarize Page](media/kagi-summarize-search-result.png)
 
-Expand the page options next to a search results and select `Quick Summary`, Kagi will then use its proprietary Summarizer technology in the back end to provide an easily digestible synthesis.
+Under each individual search result a `Summarize` button will show. When clicked, Kagi will then use its proprietary Summarizer technology in the back end to provide an easily digestible synthesis.
 
-![Summarize Page](media/kagi-summarize-search-result-summarized.png){data-zoomable}
+![Summarize Page](media/kagi-summarize-search-result-summarized.png)
 
 Once complete you will see the individual page summary appear below the result. After reading the summary you can even [Continue in Assistant](../ai/assistant.md).
 

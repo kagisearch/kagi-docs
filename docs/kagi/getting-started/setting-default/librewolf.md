@@ -55,9 +55,9 @@ To enable search suggestions in private windows:
 
 Kagi Maps requires WebGL and canvas access to render maps. LibreWolf disables these by default for privacy. To enable them:
 
-![Enabling WebGL in LibreWolf for Kagi Maps](./media/librewolf_enable_webgl.png){width=675px data-zoomable}
+![Enabling WebGL in LibreWolf for Kagi Maps](./media/librewolf_enable_webgl.png){data-zoomable}
 
-![Allowing canvas access for Kagi Maps in LibreWolf](./media/librewolf_allow_canvas_access.png){width=675px data-zoomable}
+![Allowing canvas access for Kagi Maps in LibreWolf](./media/librewolf_allow_canvas_access.png){data-zoomable}
 
 1. Go to `about:preferences#librewolf` and check **"Enable WebGL"**
 2. Visit [kagi.com/maps](https://kagi.com/maps)

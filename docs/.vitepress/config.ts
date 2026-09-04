@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://kagifeedback.org/d/7946-kagi-documentation-search-doesnt-work-on-mobile-devices/
 // import { SearchPlugin } from 'kagi-sidekick-vitepress'
 import markdownItKatex from '@vscode/markdown-it-katex'
+import { markdownItImageSize } from 'markdown-it-image-size';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -60,6 +61,7 @@ export default defineConfig({
                 return self.renderToken(tokens, idx, options)
             };
             md.use(markdownItKatex.default, { output: "mathml" });
+            markdownItImageSize(md, { publicDir: new URL('../public', import.meta.url) });
         },
     },
 })
@@ -179,7 +181,7 @@ function sidebarKagi() {
                     collapsed: true,
                     link: '/kagi/features/slopstop',
                     items: [
-                        { text: 'SlopStop', link: '/kagi/features/slopstop' },                      
+                        { text: 'SlopStop', link: '/kagi/features/slopstop' },
                         { text: 'Website Info & Personalized Results', link: '/kagi/features/website-info-personalized-results' },
                         { text: 'Lenses', link: '/kagi/features/lenses' },
                         { text: 'Keyboard Shortcuts', link: '/kagi/features/search-operators' },
@@ -195,7 +197,7 @@ function sidebarKagi() {
                         { text: 'Snaps', link: '/kagi/features/snaps' },
                         { text: 'Exclude AI Images', link: '/kagi/features/exclude-ai-images' },
                         { text: 'Quick Answer', link: '/kagi/ai/quick-answer' },
-                        { text: 'Discuss Document', link: '/kagi/ai/ask-questions' },
+                        { text: 'Ask Questions about a Page', link: '/kagi/ai/ask-questions' },
                     ]
                 },
                 {
@@ -229,6 +231,7 @@ function sidebarKagi() {
         			       { text: 'Personalized Results', link: '/kagi/settings/personalized-results'},
         			       { text: 'AI',                 link: '/kagi/settings/ai'                  },
        				       { text: 'Search Widgets',     link: '/kagi/settings/widgets'             },
+        			       { text: 'Privacy',            link: '/kagi/settings/privacy'             },
         			       { text: 'Advanced',           link: '/kagi/settings/advanced'            }
      				]
     			},

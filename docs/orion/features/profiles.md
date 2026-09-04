@@ -35,4 +35,4 @@ You can access this setting by following these steps:
 1. In your menu bar, select **Orion** > **Settings**.
 2. From the General tab, select your desired option in the **Open External Links In** dropdown.
 
-![Orion - Open External Links in Last/Default Profile](./media/open_external_links_in_last_or_default_profile.gif){data-zoomable}
+![Orion - Open External Links in Last/Default Profile](./media/open_external_links_in_last_or_default_profile.gif)

@@ -181,44 +181,42 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 
 | Developer     | Model                                                                                             | Profile                  | Plan     |
 | :------------ | :------------------------------------------------------------------------------------------------ | :----------------------- | :------- |
-| Alibaba       | [Qwen3-Coder](https://kagi.com/assistant?profile=qwen-3-coder)                                    | qwen-3-coder             | All      |
+| Alibaba       | [Qwen3.8 Max](https://kagi.com/assistant?profile=qwen-3-8-max)                                    | qwen-3-8-max             | Ultimate |
 | Alibaba       | [Qwen3.7 Plus](https://kagi.com/assistant?profile=qwen-3-7-plus)                                  | qwen-3-7-plus            | All      |
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | claude-4-sonnet          | Ultimate |
-| Anthropic     | [Claude 4.8 Opus](https://kagi.com/assistant?profile=claude-4-8-opus)                             | claude-4-8-opus          | Ultimate |
-| Anthropic     | [Claude Fable 5](https://kagi.com/assistant?profile=claude-5-fable)                               | claude-5-fable           | Ultimate |
+| Anthropic     | [Claude Opus 5](https://kagi.com/assistant?profile=claude-5-opus)                                 | claude-5-opus            | Ultimate |
+| Anthropic     | [Claude Fable 5.1](https://kagi.com/assistant?profile=claude-5-1-fable)                           | claude-5-1-fable         | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet (Reasoning)](https://kagi.com/assistant?profile=claude-4-sonnet-thinking)      | claude-4-sonnet-thinking | Ultimate |
-| Anthropic     | [Claude 4.8 Opus (Reasoning)](https://kagi.com/assistant?profile=claude-4-8-opus-thinking)        | claude-4-8-opus-thinking | Ultimate |
-| Anthropic     | [Claude Fable 5 (Reasoning)](https://kagi.com/assistant?profile=claude-5-fable-thinking)          | claude-5-fable-thinking  | Ultimate |
+| Anthropic     | [Claude Opus 5 (Reasoning)](https://kagi.com/assistant?profile=claude-5-opus-thinking)            | claude-5-opus-thinking   | Ultimate |
+| Anthropic     | [Claude Fable 5.1 (Reasoning)](https://kagi.com/assistant?profile=claude-5-1-fable-thinking)      | claude-5-1-fable-thinking| Ultimate |
 | Anthropic     | [Claude 4.5 Haiku (Reasoning)](https://kagi.com/assistant?profile=claude-4-haiku-thinking)        | claude-4-haiku-thinking  | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
 | DeepSeek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
-| Google        | [Gemini 3.5 Flash](https://kagi.com/assistant?profile=gemini-3-5-flash)                           | gemini-3-5-flash         | Ultimate |
+| Google        | [Gemini 3.8 Flash](https://kagi.com/assistant?profile=gemini-3-8-flash)                           | gemini-3-8-flash         | Ultimate |
+| Google        | [Gemini 3.5 Flash Lite](https://kagi.com/assistant?profile=gemini-3-5-flash-lite)                | gemini-3-5-flash-lite    | Ultimate |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | gemini-2-5-pro           | Ultimate |
 | Google        | [Gemini 3.1 Pro (Preview)](https://kagi.com/assistant?profile=gemini-3-pro)                       | gemini-3-pro             | Ultimate |
-| Google        | [Gemini 3.1 Flash Lite (preview)](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)       | gemini-3-1-flash-lite    | All      |
+| Google        | [Gemini 3.1 Flash Lite](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)                 | gemini-3-1-flash-lite    | All      |
 | Google        | [Gemma 4 31B](https://kagi.com/assistant?profile=gemma-4-31b)                                     | gemma-4-31b              | All      |
+| Meta          | [Muse Spark 1.2](https://kagi.com/assistant?profile=muse-spark-1-2)                               | muse-spark-1-2           | Ultimate |
 | Mistral AI    | [Mistral Small 4](https://kagi.com/assistant?profile=mistral-small-4)                             | mistral-small-4          | All      |
 | Mistral AI    | [Mistral Small 3](https://kagi.com/assistant?profile=mistral-small)                               | mistral-small            | All      |
 | Mistral AI    | [Mistral Medium 3.5](https://kagi.com/assistant?profile=mistral-medium-3-5)                       | mistral-medium-3-5       | Ultimate |
 | Mistral AI    | [Mistral Large 3](https://kagi.com/assistant?profile=mistral-large)                               | mistral-large            | All      |
 | MiniMax       | [MiniMax M3](https://kagi.com/assistant?profile=minimax-m3)                                       | minimax-m3               | All      |
-| Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | Ultimate |
+| Moonshot AI   | [Kimi K3](https://kagi.com/assistant?profile=kimi-k3)                                             | kimi-k3                  | Ultimate |
+| Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
-| OpenAI        | [GPT 5.4 Mini](https://kagi.com/assistant?profile=gpt-5-4-mini)                                   | gpt-5-4-mini             | All      |
-| OpenAI        | [GPT 5.4 Nano](https://kagi.com/assistant?profile=gpt-5-4-nano)                                   | gpt-5-4-nano             | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 5.5](https://kagi.com/assistant?profile=gpt-5-5)                                             | gpt-5-5                  | Ultimate |
 | OpenAI        | [GPT 5.6 Sol](https://kagi.com/assistant?profile=gpt-5-6-sol)                                     | gpt-5-6-sol              | Ultimate |
 | OpenAI        | [GPT 5.6 Terra](https://kagi.com/assistant?profile=gpt-5-6-terra)                                 | gpt-5-6-terra            | Ultimate |
 | OpenAI        | [GPT 5.6 Luna](https://kagi.com/assistant?profile=gpt-5-6-luna)                                   | gpt-5-6-luna             | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
-| xAI           | [Grok 4.3](https://kagi.com/assistant?profile=grok-4-3)                                           | grok-4-20                | All |
-| xAI           | [Grok 4.5](https://kagi.com/assistant?profile=grok-4-5)                                           | grok-4-5                 | Ultimate |
-| Z.ai          | [GLM-5.2](https://kagi.com/assistant?profile=glm-5-2)                                             | glm-5-2                  | Ultimate |
-| Z.ai          | [GLM-5.2 (reasoning)](https://kagi.com/assistant?profile=glm-5-2-thinking)                        | glm-5-2-thinking         | Ultimate |
-| Z.ai          | [GLM-4.7](https://kagi.com/assistant?profile=glm-4-7)                                             | glm-4-7                  | All      |
-| Z.ai          | [GLM-4.7 (reasoning)](https://kagi.com/assistant?profile=glm-4-7-thinking)                        | glm-4-7-thinking         | All      |
+| xAI           | [Grok 4.6](https://kagi.com/assistant?profile=grok-4-6)                                           | grok-4-6                 | Ultimate |
+| Z.ai          | [GLM 5.3](https://kagi.com/assistant?profile=glm-5-3)                                             | glm-5-3                  | Ultimate |
+| Z.ai          | [GLM 5.3 Flash](https://kagi.com/assistant?profile=glm-5-3-flash)                                 | glm-5-3-flash            | All      |
 
 
 You can learn more about how these models compare in the [Kagi LLM Benchmarking Project](./llm-benchmark.md) page.

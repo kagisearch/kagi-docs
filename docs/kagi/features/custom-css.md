@@ -16,16 +16,37 @@ Once applied, the theme will instantly update Kagi's appearance. You can switch 
 
 **Note:** Some themes might work better with a certain Dark Mode or Light Mode default theme selected in the [**Appearance Settings**](https://kagi.com/settings/appearance) page.
 
+<style>
+#user-themes ~ h3:not(#customizations ~ h3) {
+	display: inline;
+
+	+ p {
+		display: inline;
+
+		&::before { content: " " }
+	}
+}
+
+#user-themes ~ table:not(#customizations ~ table) {
+	margin-bottom: 32px;
+
+	img {
+		display: block;
+		margin: 0 auto;
+		max-height: 360px;
+		width: auto;
+	}
+}
+</style>
+
 ### Deep purple
 by [TheLastEnvoy](https://github.com/TheLastEnvoy)
 
 [**Get it**](https://gist.github.com/TheLastEnvoy/2e9c7723b7e35a9f1bdb8e78e117d194)
 
-| ![Deep Purple Theme](./themes/media/deep_purple_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Deep Purple Theme](./themes/media/deep_purple_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Deep Purple Theme](./themes/media/deep_purple_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Deep Purple Theme](./themes/media/deep_purple_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-<br>
+| ![](./themes/media/deep_purple_desktop_1.png){data-zoomable} | ![](./themes/media/deep_purple_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/deep_purple_desktop_2.png){data-zoomable} | ![](./themes/media/deep_purple_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Courvix Dark
@@ -33,11 +54,9 @@ by [Jeyso215](https://github.com/jeyso215)
 
 [**Get it**](https://gist.github.com/Jeyso215/76fd67b17d2407aa91a619fabc665887)
 
-| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Courvix Dark Theme](./themes/media/search-home.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Courvix Dark Theme](./themes/media/results-page.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Courvix Dark Theme](./themes/media/search-home.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+| ![](./themes/media/results-page.png){data-zoomable} | ![](./themes/media/search-home.png){data-zoomable} |
+|---|---|
 
-<br>
 
 ### Dark Mustard
 
@@ -45,17 +64,10 @@ by [Josh Ellington](https://github.com/joshellington/)
 
 [**Get it**](https://gist.github.com/joshellington/51765a15d8f780089619b638fc6aea6b)
 
+| ![](./themes/media/dark_mustard_desktop_1.png){data-zoomable} | ![](./themes/media/dark_mustard_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/dark_mustard_desktop_2.png){data-zoomable} | ![](./themes/media/dark_mustard_mobile_2.png){data-zoomable} |
 
-| ![Dark Mustard Theme](./themes/media/dark_mustard_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Dark Mustard Theme](./themes/media/dark_mustard_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Dark Mustard Theme](./themes/media/dark_mustard_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Dark Mustard Theme](./themes/media/dark_mustard_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Kagi Oranginum
 
@@ -63,17 +75,10 @@ by [sefidel](https://gist.github.com/sefidel)
 
 [**Get it**](https://gist.github.com/sefidel/ffb677da037e4d6951949a110132fe80#file-kagi-precompiled-css)
 
+| ![](./themes/media/kagi_oranginum_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_oranginum_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_oranginum_desktop_2.png){data-zoomable} | ![](./themes/media/kagi_oranginum_mobile_2.png){data-zoomable} |
 
-| ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Oranginum Theme](./themes/media/kagi_oranginum_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Monokai Hack
 
@@ -81,17 +86,10 @@ by [maxpl01t](https://github.com/maxpl01t)
 
 [**Get it**](https://gist.github.com/maxpl01t/7de6e4716e50d52f4ec14aa01e2047e0)
 
+| ![](./themes/media/monokai_hack_desktop_1.png){data-zoomable} | ![](./themes/media/monokai_hack_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/monokai_hack_desktop_2.png){data-zoomable} | ![](./themes/media/monokai_hack_mobile_2.png){data-zoomable} |
 
-| ![Monokai Hack Theme](./themes/media/monokai_hack_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Monokai Hack Theme](./themes/media/monokai_hack_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Monokai Hack Theme](./themes/media/monokai_hack_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Monokai Hack Theme](./themes/media/monokai_hack_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Nocturnal
 
@@ -99,17 +97,10 @@ by [Kel](https://github.com/Vexz00)
 
 [**Get it**](https://github.com/Vexz00/kagi-nocturnal-theme/blob/main/kagi-nocturnal-theme.css)
 
+| ![](./themes/media/nocturnal_desktop_1.png){data-zoomable} | ![](./themes/media/nocturnal_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/nocturnal_desktop_2.png){data-zoomable} | ![](./themes/media/nocturnal_mobile_2.png){data-zoomable} |
 
-| ![Nocturnal Theme](./themes/media/nocturnal_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Nocturnal Theme](./themes/media/nocturnal_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Nocturnal Theme](./themes/media/nocturnal_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Nocturnal Theme](./themes/media/nocturnal_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
 
 ### Minimal Fav Color
 
@@ -117,16 +108,9 @@ by [Matt Rangel](https://github.com/MattRangel)
 
 [**Get it**](https://github.com/MattRangel/kagi-search-custom-css/blob/main/custom.css)
 
-| ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_desktop_2.png){ data-zoomable  width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Minimal Fav Color Theme](./themes/media/minimal_fav_color_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/minimal_fav_color_desktop_1.png){data-zoomable} | ![](./themes/media/minimal_fav_color_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/minimal_fav_color_desktop_2.png){data-zoomable} | ![](./themes/media/minimal_fav_color_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Mathiazom
@@ -135,16 +119,9 @@ by [mathiazom](https://github.com/mathiazom)
 
 [**Get it**](https://gist.github.com/mathiazom/ccbdd3bd8ff7da8e010546fa186b1e70)
 
-| ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_desktop_2.png){ data-zoomable  width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Mathiazom Theme](./themes/media/kagi_mathiazom_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/kagi_mathiazom_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_mathiazom_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_mathiazom_desktop_2.png){data-zoomable} | ![](./themes/media/kagi_mathiazom_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Google-Style
@@ -153,16 +130,9 @@ by [neilio](https://github.com/neilio)
 
 [**Get it**](https://gist.github.com/neilio/c2c3495ff16c0a0401f4cf630438e1b3)
 
-| ![Kagi Google-Style Theme](./themes/media/kagi_google_style_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Google-Style Theme](./themes/media/kagi_google_style_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Google-Style Theme](./themes/media/kagi_google_style_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Google-Style Theme](./themes/media/kagi_google_style_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/kagi_google_style_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_google_style_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_google_style_desktop_2.png){data-zoomable} | ![](./themes/media/kagi_google_style_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Gruvbox Dark Theme
@@ -171,16 +141,9 @@ by [auphone](https://auphone.net/)
 
 [**Get it**](https://auphone.net/posts/kagi-gruvbox-dark-theme-css/)
 
-| ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Gruvbox Dark Theme](./themes/media/kagi_gruvbox_dark_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/kagi_gruvbox_dark_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_gruvbox_dark_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_gruvbox_dark_desktop_2.png){data-zoomable} | ![](./themes/media/kagi_gruvbox_dark_mobile_2.png){data-zoomable} |
 
 
 ### Kagi Darker
@@ -189,16 +152,9 @@ by [realrogue](https://github.com/realrogue/kagi-darker/)
 
 [**Get it**](https://github.com/realrogue/kagi-darker/releases/)
 
-| ![Kagi Darker Theme](./themes/media/roguedarker_dimages.jpg){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Darker Theme](./themes/media/roguedarker_dsearch.jpg){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Darker Theme](./themes/media/roguedarker_dsearchcomplete.jpg){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Darker Theme](./themes/media/roguedarker_iphone.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
+| ![](./themes/media/roguedarker_dimages.jpg){data-zoomable} | ![](./themes/media/roguedarker_dsearch.jpg){data-zoomable} |
+|---|---|
+| ![](./themes/media/roguedarker_dsearchcomplete.jpg){data-zoomable} | ![](./themes/media/roguedarker_iphone.png){data-zoomable} |
 
 
 ### Slimmed Down Theme
@@ -335,20 +291,10 @@ by rasti
 
 </details>
 
-
-
-| ![Slimmed Down Theme](./themes/media/slimmed_down_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Slimmed Down Theme](./themes/media/slimmed_down_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Slimmed Down Theme](./themes/media/slimmed_down_desktop_3.png){data-zoomable width="350px" style="display: block; margin: 0 auto"} | ![Slimmed Down Theme](./themes/media/slimmed_down_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-| ![Slimmed Down Theme](./themes/media/slimmed_down_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Slimmed Down Theme](./themes/media/slimmed_down_mobile_3.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
-
+| ![](./themes/media/slimmed_down_desktop_1.png){data-zoomable} | ![](./themes/media/slimmed_down_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/slimmed_down_desktop_2.png){data-zoomable} | ![](./themes/media/slimmed_down_mobile_2.png){data-zoomable} |
+| ![](./themes/media/slimmed_down_desktop_3.png){data-zoomable} | ![](./themes/media/slimmed_down_mobile_3.png){data-zoomable} |
 
 
 ### Kagi Catppuccin Mocha
@@ -357,17 +303,9 @@ by [jcrabapple](https://github.com/jcrabapple/)
 
 [**Get it**](https://repo.jcrabapple.com/jcrabapple/82208449e52b434a8e695c8124fa3f79)
 
-| ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Catppuccin Mocha Theme](./themes/media/kagi_catppuccin_mocha_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
-
-
-<br>
-
----
-
-<br>
-
+| ![](./themes/media/kagi_catppuccin_mocha_desktop_1.png){data-zoomable} | ![](./themes/media/kagi_catppuccin_mocha_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/kagi_catppuccin_mocha_desktop_2.png){data-zoomable} | ![](./themes/media/kagi_catppuccin_mocha_mobile_2.png){data-zoomable} |
 
 
 ### High Contrast Purple Kagi Theme for Low Vision
@@ -376,57 +314,66 @@ by [Veroniiiica](https://veroniiiica.com/)
 
 [**Get it**](https://veroniiiica.com/wp-content/uploads/2026/05/kagi_low_vision_theme_purple_high_contrast.txt)
 
-| ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_desktop_1.png){ data-zoomable width="350px" style="display: block; margin: 0 auto" } | ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_desktop_2.png){ data-zoomable width="350px" style="display: block; margin: 0 auto"} |
-|---:|---:|
-| ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_mobile_1.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} | ![Kagi Catppuccin Mocha Theme](./themes/media/high_contrast_purple_mobile_2.png){data-zoomable width="100px" style="display: block; margin: 0 auto"} |
+| ![](./themes/media/high_contrast_purple_desktop_1.png){data-zoomable} | ![](./themes/media/high_contrast_purple_mobile_1.png){data-zoomable} |
+|---|---|
+| ![](./themes/media/high_contrast_purple_desktop_2.png){data-zoomable} | ![](./themes/media/high_contrast_purple_mobile_2.png){data-zoomable} |
 
-
-<br>
-
----
-
-<br>
-
-
-
-You can collaborate on themes on the [Kagi Discord](https://kagi.com/discord) server or the community-managed [subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
 ## Customizations
 
-Apply the following custom CSS in your [Appearance settings](https://kagi.com/settings/custom_css).
+These are short snippets that you can copy into your custom CSS to accomplish specific things.
 
-<details><summary>Remove Underlined Links</summary>
+<details><summary>Use a different font</summary>
 
-Remove the underline from links from Kagi search results page.
+Note: If using a specific font makes reading significantly easier for you, we suggest using your browser's settings or a browser extension to apply your preferences across every website you visit instead of fixing things one site at a time. Our goal as a search engine is to launch you out into the rest of the web; if we're doing our job well, you'll be spending much more time out there than you do on our pages.
+
+If you want to set a custom font on Kagi pages, you can use any font installed on your computer like so,
 
 ```css
+body { font-family: "Comic Sans MS", sans-serif; }
+```
 
-/* Remove bottom border from links */
+or import any of the fonts available on [Google Fonts](https://fonts.google.com/), for example Atkinson Hyperlegible or Lexend.
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700");
+body { font-family: "Atkinson Hyperlegible", sans-serif; }
+```
+
+```css
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900");
+body { font-family: "Lexend", sans-serif; }
+```
+
+</details>
+
+<details><summary>Remove link underlines</summary>
+
+```css
+/* Remove underline from links */
 .__sri_title_link._0_sri_title_link._0_URL {
   border-bottom: none;
 }
 
-/* Remove underline with nested links */
+/* ... nested links, */
 .__srgi-title a {
-border-bottom: none; var(--result-item-title-border);
+  border-bottom: none;
 }
 
-/* Remove underline with News module */
+/* ... links in the News module, */
 .newsResultItem .newsResultHeader .newsResultTitle a._0_TITLE {
-  border-bottom: none; var(--result-item-title-border);
+  border-bottom: none;
 }
 
-/* Remove underline from links in Wikipedia module */
+/* ... and links in the Wikipedia module. */
 .wikipediaResult a {
-  border-bottom: none; var(--result-item-title-border);
+  border-bottom: none;
 }
 ```
 
 </details>
 
-<details><summary>Hide Quick Search button</summary>
-
-Hide the floating Quick Search button from Kagi search results page.
+<details><summary>Hide floating quick search button on mobile</summary>
 
 ```css
 .quick-search-btn {
@@ -442,25 +389,30 @@ Hide the floating Quick Search button from Kagi search results page.
 
 </details>
 
-<details><summary>Hide Stats</summary>
+<details><summary>Hide stats</summary>
 
 [**Get it**](https://gist.github.com/matteo-lgtm/4e84f1fb97d7abacf7c12cd561749aff)
 
 </details>
 
-# Creating Your Own Theme
+## Creating Your Own Theme
 
 [Cascading Style Sheets](https://en.wikipedia.org/wiki/CSS) (CSS) is a language used to stylize HTML elements in web pages. Using CSS, you can fully customize Kagi's search and landing pages from your [Appearance settings](https://kagi.com/settings/custom_css).
 
-Custom CSS does not apply to Settings pages, and is currently limited to 40,000 characters --- including whitespace.
+Custom CSS does not apply to settings pages and is currently limited to 40,000 characters, including whitespace.
 
-Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
+Use the `no_css` query parameter (for example, `kagi.com/search?q=test&no_css`) to disable your custom CSS if something horribly breaks!
 
-## Learn
+You can collaborate on themes on the [Kagi Discord server](https://kagi.com/discord) or the [community-managed subreddit](https://www.reddit.com/r/KagiUserCSS/).
 
-If you want to learn more about how to customize your Kagi Search CSS, below is a video tutorial. The video features a slightly older design of Kagi Search, but the CSS principles are the same.
+### Learn
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xpk5TAhGasc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+If you want to learn more about how to customize your Kagi Search CSS, below is a video tutorial. The video features an older design of Kagi Search, but the CSS principles are the same.
+
+<video src="./media/custom-css.mp4" controls>
+  <track kind="captions" src="/custom-css.captions.vtt" srclang="en" label="English" />
+  <track kind="chapters" src="/custom-css.chapters.vtt" srclang="en" />
+</video>
 
 Also, here are some web resources about how to use CSS in general:
 

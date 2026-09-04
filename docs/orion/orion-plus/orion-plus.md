@@ -2,7 +2,7 @@
 
 <img src="./media/Orion+.png" width="650" alt="About Orion window for Orion+ users"><br />
 
-While the Orion browser is free to use, [Orion+](https://kagi.com/onboarding?p=orion_plan) is an optional way for you to support the Orion project and mission. Your contribution will help us stay independent and deliver on our promise to become the best browser for our users.
+While the Orion browser is free to use, [Orion+](https://orionbrowser.com/orionplus) is an optional way for you to support the Orion project and mission. Your contribution will help us stay independent and deliver on our promise to become the best browser for our users.
 
 For a small cost ($5 per month, $50 per year, or $150 for lifetime), you’ll get:
 

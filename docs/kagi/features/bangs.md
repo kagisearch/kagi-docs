@@ -187,7 +187,7 @@ You can create your own Custom Bangs in Kagi using the [Search Shortcuts menu](s
 
 You can see Bangs in action - default, new and custom - by watching the video tutorial below.
 
-<iframe width="560" height="315" src="https://youtube.com/embed/JwLDrZmNIIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="How to Create Custom Bangs in Kagi Search" width="560" height="315" src="https://tilvids.com/videos/embed/h5Lb2pp8ATojvgXjwq965o?warningTitle=0&amp;p2p=0" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 
 ## Feeling Lucky
 

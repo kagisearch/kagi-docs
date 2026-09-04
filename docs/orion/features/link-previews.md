@@ -2,7 +2,7 @@
 
 Sometimes you want to quickly take a peek at a link without opening it in a new tab. Orion makes this possible thanks to its  External Link Previews. You can use this feature inside Orion and also in other apps.
 
-![Orion - Link Previews](./media/link_previews.gif){data-zoomable}
+![Orion - Link Previews](./media/link_previews.gif)
 
 ## Using Link Previews in Orion
 
