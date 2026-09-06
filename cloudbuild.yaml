@@ -1,8 +1,8 @@
 steps:
-  - name: 'node:19'
+  - name: 'node:22'
     entrypoint: 'npm'
-    args: ['install']
-  - name: 'node:19'
+    args: ['ci']
+  - name: 'node:22'
     entrypoint: 'npm'
     args:
       - 'run'

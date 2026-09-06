@@ -1,10 +1,10 @@
-ARG NODE_VERSION=19
+ARG NODE_VERSION=22
 FROM node:${NODE_VERSION}-alpine
 
 WORKDIR /usr/src/app
 
-COPY package.json .
-RUN npm install
+COPY package.json package-lock.json .
+RUN npm ci
 
 COPY . .
 
