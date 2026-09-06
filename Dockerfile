@@ -9,4 +9,4 @@ RUN npm ci
 COPY . .
 
 RUN npm run docs:build
-ENTRYPOINT npm run docs:preview
+ENTRYPOINT ["npm", "run", "docs:preview"]
