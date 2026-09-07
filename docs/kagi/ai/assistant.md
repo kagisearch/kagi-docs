@@ -209,7 +209,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
-| OpenAI        | [GPT 5.5](https://kagi.com/assistant?profile=gpt-5-5)                                             | gpt-5-5                  | Ultimate |
+| OpenAI        | [GPT 6 Astra](https://kagi.com/assistant?profile=gpt-6-astra)                                     | gpt-6-astra              | Ultimate |
 | OpenAI        | [GPT 5.6 Sol](https://kagi.com/assistant?profile=gpt-5-6-sol)                                     | gpt-5-6-sol              | Ultimate |
 | OpenAI        | [GPT 5.6 Terra](https://kagi.com/assistant?profile=gpt-5-6-terra)                                 | gpt-5-6-terra            | Ultimate |
 | OpenAI        | [GPT 5.6 Luna](https://kagi.com/assistant?profile=gpt-5-6-luna)                                   | gpt-5-6-luna             | Ultimate |
