@@ -188,9 +188,9 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Anthropic     | [Claude Opus 5](https://kagi.com/assistant?profile=claude-5-opus)                                 | claude-5-opus            | Ultimate |
 | Anthropic     | [Claude Fable 5.1](https://kagi.com/assistant?profile=claude-5-1-fable)                           | claude-5-1-fable         | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
-| DeepSeek      | [DeepSeek V4 Flash](https://kagi.com/assistant?profile=deepseek-v4-flash)                         | deepseek-v4-flash        | All      |
+| DeepSeek      | [DeepSeek V4.1 Flash](https://kagi.com/assistant?profile=deepseek-v4-1-flash)                     | deepseek-v4-1-flash      | All      |
 | Google        | [Gemini 3.8 Flash](https://kagi.com/assistant?profile=gemini-3-8-flash)                           | gemini-3-8-flash         | Ultimate |
-| Google        | [Gemini 3.5 Flash Lite](https://kagi.com/assistant?profile=gemini-3-5-flash-lite)                | gemini-3-5-flash-lite    | Ultimate |
+| Google        | [Gemini 3.5 Flash Lite](https://kagi.com/assistant?profile=gemini-3-5-flash-lite)                 | gemini-3-5-flash-lite    | Ultimate |
 | Google        | [Gemini 2.5 Pro](https://kagi.com/assistant?profile=gemini-2-5-pro)                               | gemini-2-5-pro           | Ultimate |
 | Google        | [Gemini 3.1 Pro (Preview)](https://kagi.com/assistant?profile=gemini-3-pro)                       | gemini-3-pro             | Ultimate |
 | Google        | [Gemini 3.1 Flash Lite](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)                 | gemini-3-1-flash-lite    | All      |
