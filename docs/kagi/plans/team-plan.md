@@ -1,7 +1,7 @@
 # Kagi Team plans
 
 Our [Kagi Team plans](https://kagi.com/pricing?plan=team) empower organizations with premium, ad-free search capabilities while maintaining complete privacy and control.
-Choose between Professional and Ultimate tiers for your team members, unlocking powerful tools like [The Assistant](../ai/assistant.md) for LLM-powered research,
+Choose between Professional and Ultimate tiers for your team members, unlocking powerful tools like [Kagi Assistant](../ai/assistant.md) for LLM-powered research,
 [Summarizer](../ai/summarize-page.md) for quick content analysis, and shared search customizations—all managed through a centralized billing and administration portal.
 
 **Key benefits**:
@@ -10,7 +10,7 @@ Choose between Professional and Ultimate tiers for your team members, unlocking 
 - Centralized billing and management
 - Shared search customizations ([Personalized Results](../features/website-info-personalized-results.md#personalized-results) and [Lenses](../features/lenses.md))
 - Kagi’s unique [privacy](../privacy/privacy-protection.md) and security
-- Access to [The Assistant](../ai/assistant.md), which brings premium LLM models in an easy-to-use interface (Ultimate tier).
+- Access to [Kagi Assistant](../ai/assistant.md), which brings premium LLM models in an easy-to-use interface (Ultimate tier).
 
 ## Getting started
 
@@ -164,8 +164,8 @@ Team members can share custom search configurations by using our [Lenses](../fea
 - Secure payment processing through Stripe
 
 ### Pricing
-- Professional tier: $10/month per member. Includes unlimited searches, and access to [FastGPT](../ai/fastgpt.md), [Summarizer](../ai/summarize-page.md) and [Kagi Translate](../translate.md)
-- Ultimate tier: $25/month per member. Includes everything in Professional plus access to [The Assistant](../ai/assistant.md).
+- Professional tier: $10/month per member. Includes unlimited searches, plus access to Kagi Summarize and Kagi Assistant with [standard models](../ai/assistant.md#available-llms)
+- Ultimate tier: $25/month per member. Includes everything in Professional and unlocks [premium models](../ai/assistant.md#available-llms) in Kagi Assistant and best-quality mode in Kagi Translate with expanded usage limits
 - Flexible assignment: Mix and match tiers for different team members
 
 ### Active member billing
