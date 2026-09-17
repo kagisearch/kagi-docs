@@ -31,6 +31,10 @@ We offer [Family plans](./family-plan.md) for two or more people. If you have a 
 
 You can also bring Kagi to your organization with our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html)! See how [Kagi for Teams](https://kagi.com/teams) can elevate your whole workspace with powerful search features and universal AI access, while keeping your organization's data private and secure.
 
+### Translate Plan:
+
+The [**Translate Individual plan**](https://translate.kagi.com/pricing) includes full access to all Kagi Translate features under a [Fair Use policy](../ai/assistant.html#fair-use-policy). Text and document translation, dictionary, proofreading, audio transcription, browser extension, every translation quality mode, and alternative translations with word insights.
+
 ## How searches are counted (Starter Plan)
 
 * [Bangs](../features/bangs.md) and search suggestions (while typing) are never counted as searches.
