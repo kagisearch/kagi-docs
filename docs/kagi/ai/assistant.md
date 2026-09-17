@@ -285,7 +285,7 @@ There's no fixed limit on conversation length. We automatically optimize lengthy
 
 - **Maximum 20,000 characters** for custom Assistant instructions
 
-### Fair Use Policy
+### AI Fair Use Policy
 
 We use a value-based usage system to maintain high-quality service for all users:
 
@@ -295,8 +295,8 @@ We use a value-based usage system to maintain high-quality service for all users
     - For instance, the **Ultimate yearly plan** allows up to **$270 worth of token usage for the entire year**.
 - A **20% margin markup** is included in token usage cost calculations to cover search queries, infrastructure, and development costs.
     - For example, **$25 token usage** consists of **$20 for raw token costs** and **$5 for operational costs**.
-- Users will receive an in-app reminder as they near their usage limit. If the limit is exceeded, new AI interactions will be disabled until they either renew their plan early or the next billing cycle begins.
-    - **Note:** We will soon introduce the option to purchase top-up credits, allowing you to extend Assistant usage beyond fair-use limits with an amount of your choice. These credits can then also be used for other Kagi products such as the API.
+- Users will receive an in-app reminder as they near their usage limit. If the limit is exceeded, new AI interactions will be disabled until their the next billing cycle begins. Users also have the option to upgrade their plan (Starter and Professional) or renew their plan early (Ultimate) to continue using AI features immediately.
+- Subscription plans for individual products have separate usage limits. Bundle plans such as Kagi Ultimate share a single usage limit.
 
 For additional questions about these limitations or policies, please contact our support team.
 
