@@ -185,7 +185,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Alibaba       | [Qwen3.8 27B](https://kagi.com/assistant?profile=qwen-3-8-27b)                                    | qwen-3-8-27b             | All      |
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
 | Anthropic     | [Claude 4.6 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | claude-4-sonnet          | Ultimate |
-| Anthropic     | [Claude Opus 5](https://kagi.com/assistant?profile=claude-5-opus)                                 | claude-5-opus            | Ultimate |
+| Anthropic     | [Claude Opus 5.5](https://kagi.com/assistant?profile=claude-5-5-opus)                             | claude-5-5-opus          | Ultimate |
 | Anthropic     | [Claude Fable 5.1](https://kagi.com/assistant?profile=claude-5-1-fable)                           | claude-5-1-fable         | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
 | DeepSeek      | [DeepSeek V4.1 Flash](https://kagi.com/assistant?profile=deepseek-v4-1-flash)                     | deepseek-v4-1-flash      | All      |
@@ -206,11 +206,11 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 6 Astra](https://kagi.com/assistant?profile=gpt-6-astra)                                     | gpt-6-astra              | Ultimate |
-| OpenAI        | [GPT 5.6 Sol](https://kagi.com/assistant?profile=gpt-5-6-sol)                                     | gpt-5-6-sol              | Ultimate |
+| OpenAI        | [GPT 6 Sol](https://kagi.com/assistant?profile=gpt-6-sol)                                         | gpt-6-sol                | Ultimate |
 | OpenAI        | [GPT 5.6 Terra](https://kagi.com/assistant?profile=gpt-5-6-terra)                                 | gpt-5-6-terra            | Ultimate |
-| OpenAI        | [GPT 5.6 Luna](https://kagi.com/assistant?profile=gpt-5-6-luna)                                   | gpt-5-6-luna             | Ultimate |
+| OpenAI        | [GPT 6 Luna](https://kagi.com/assistant?profile=gpt-6-luna)                                       | gpt-6-luna               | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
-| xAI           | [Grok 4.6](https://kagi.com/assistant?profile=grok-4-6)                                           | grok-4-6                 | Ultimate |
+| xAI           | [Grok 4.7](https://kagi.com/assistant?profile=grok-4-7)                                           | grok-4-7                 | Ultimate |
 | Z.ai          | [GLM 5.3](https://kagi.com/assistant?profile=glm-5-3)                                             | glm-5-3                  | Ultimate |
 | Z.ai          | [GLM 5.3 Flash](https://kagi.com/assistant?profile=glm-5-3-flash)                                 | glm-5-3-flash            | All      |
 
