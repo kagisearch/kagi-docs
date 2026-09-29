@@ -184,7 +184,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Alibaba       | [Qwen3.8 Max](https://kagi.com/assistant?profile=qwen-3-8-max)                                    | qwen-3-8-max             | Ultimate |
 | Alibaba       | [Qwen3.8 27B](https://kagi.com/assistant?profile=qwen-3-8-27b)                                    | qwen-3-8-27b             | All      |
 | Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
-| Anthropic     | [Claude 4.6 Sonnet](https://kagi.com/assistant?profile=claude-4-sonnet)                           | claude-4-sonnet          | Ultimate |
+| Anthropic     | [Claude 5.5 Sonnet](https://kagi.com/assistant?profile=claude-5-5-sonnet)                         | claude-5-5-sonnet        | Ultimate |
 | Anthropic     | [Claude Opus 5.5](https://kagi.com/assistant?profile=claude-5-5-opus)                             | claude-5-5-opus          | Ultimate |
 | Anthropic     | [Claude Fable 5.1](https://kagi.com/assistant?profile=claude-5-1-fable)                           | claude-5-1-fable         | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
@@ -253,8 +253,8 @@ The `lens` parameter can be used to set the lens if internet access is enabled. 
 
 The `q` parameter can be used to submit a prompt immediately after the page loads. The `qvalue` parameter can be used to prefill the prompt box without submitting it.
 
-Here is an example of a URL that enables internet access, uses the **Claude 4 Sonnet** model, applies the **Recipes lens**, and submits a prompt immediately. You might use it as a target for a custom bang.
-```https://kagi.com/assistant?profile=claude-4-sonnet&internet=true&lens=recipes&q=%s```
+Here is an example of a URL that enables internet access, uses the **Claude 5.5 Sonnet** model, applies the **Recipes lens**, and submits a prompt immediately. You might use it as a target for a custom bang.
+```https://kagi.com/assistant?profile=claude-5-5-sonnet&internet=true&lens=recipes&q=%s```
 
 ## Availability
 
