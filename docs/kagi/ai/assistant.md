@@ -206,7 +206,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 6 Astra](https://kagi.com/assistant?profile=gpt-6-astra)                                     | gpt-6-astra              | Ultimate |
-| OpenAI        | [GPT 6 Sol](https://kagi.com/assistant?profile=gpt-6-sol)                                         | gpt-6-sol                | Ultimate |
+| OpenAI        | [GPT 6.1 Sol](https://kagi.com/assistant?profile=gpt-6-1-sol)                                     | gpt-6-1-sol              | Ultimate |
 | OpenAI        | [GPT 5.6 Terra](https://kagi.com/assistant?profile=gpt-5-6-terra)                                 | gpt-5-6-terra            | Ultimate |
 | OpenAI        | [GPT 6 Luna](https://kagi.com/assistant?profile=gpt-6-luna)                                       | gpt-6-luna               | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
