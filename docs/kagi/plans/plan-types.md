@@ -13,9 +13,9 @@ Kagi offers several subscription plans.
 ### Individual:
 
 * The **Trial** plan is limited to 100 total searches and 100 AI interactions with [standard models](../ai/assistant.html#available-llms). This plan is suited for those interested in exploring Kagi and curious about paid search engines.
-* The **Starter** plan offers 300 searches per month and 300 AI interactions per month with [standard models](../ai/assistant.html#available-llms) for USD $5 per month + tax. This plan is perfect for users who are new to paid search engines and are looking to own their search experience.
-* The **Professional** plan offers unlimited searches, unlimited access to Kagi Summarize plus access to Kagi Assistant with [standard models](../ai/assistant.html#available-llms) for USD $10 per month + tax. This plan is suited for internet professionals and developers who are prolific and advanced search users.
-* The [**Ultimate**](./ultimate-plan.md) plan includes everything in Professional and unlocks [premium models](../ai/assistant.md#available-llms) in Kagi Assistant and best-quality mode in Kagi Translate with expanded usage limits. This plan delivers the most comprehensive search and AI experience available.
+* The **Starter** plan offers 300 searches per month, up to 300 AI interactions per month with [standard models](../ai/assistant.html#available-llms), and access to Kagi Translate for USD $5 per month + tax. This plan is perfect for users who are new to paid search engines and are looking to own their search experience.
+* The **Professional** plan offers unlimited searches, unlimited access to Kagi Summarize, Kagi Assistant with [standard models](../ai/assistant.html#available-llms), and Kagi Translate for USD $10 per month + tax. This plan is suited for internet professionals and developers who are prolific and advanced search users.
+* The [**Ultimate**](./ultimate-plan.md) plan includes everything in Professional and unlocks [premium models](../ai/assistant.md#available-llms) in Kagi Assistant and best-quality mode in Kagi Translate with expanded usage limits for USD $25 per month + tax. This plan delivers the most comprehensive search and AI experience available.
 
 **Notes:**
 
@@ -30,10 +30,6 @@ We offer [Family plans](./family-plan.md) for two or more people. If you have a 
 ### Team Plan:
 
 You can also bring Kagi to your organization with our [Team plan](https://help.kagi.com/kagi/plans/team-plan.html)! See how [Kagi for Teams](https://kagi.com/teams) can elevate your whole workspace with powerful search features and universal AI access, while keeping your organization's data private and secure.
-
-### Translate Plan:
-
-The [**Translate Individual plan**](https://translate.kagi.com/pricing) includes full access to all Kagi Translate features under a [Fair Use policy](../ai/assistant.html#fair-use-policy). Text and document translation, dictionary, proofreading, audio transcription, browser extension, every translation quality mode, and alternative translations with word insights.
 
 ## How searches are counted (Starter Plan)
 
