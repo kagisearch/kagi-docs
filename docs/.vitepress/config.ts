@@ -215,7 +215,15 @@ function sidebarKagi() {
                 { text: 'Kagi Maps', link: '/kagi/maps' },
                 { text: 'Kagi News', link: '/kagi/news/' },
                 { text: 'Kagi Summarize', link: '/kagi/summarizer/' },
-
+            	{
+                text: 'Kagi Mail',
+                collapsed: true,
+                link: '/kagi/mail/getting-started',
+                items: [
+                    { text: 'Getting started', link: '/kagi/mail/getting-started' },
+                    { text: 'FAQ',             link: '/kagi/mail/faq'             },
+                ]
+            	},
 		{
 			  text: 'Settings',
 			  collapsed: true,
