@@ -16,7 +16,7 @@ Pricing has not been finalized.
 
 ### What is the technology stack?
 *   **Backend:** Kagi Mail leverages [Stalwart](https://stalw.art), an open-source mail server.
-*   **Frontend:** The web client is built in-house by Kagi, leveraging [JMAP](https://jmap.io/spec-mail.html).
+*   **Frontend:** The web client is built in-house by Kagi, leveraging [JMAP](https://jmap.io/spec/rfc8621/).
 
 ### Which protocols will Kagi Mail support?
 Kagi Mail attempts to supports open standards, including IMAP4, SMTP, JMAP, and Sieve. For a full list of those supported by Stalwart, see the [RFCs it implements](https://stalw.art/docs/development/rfcs/).
