@@ -198,6 +198,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Mistral AI    | [Mistral Small 3](https://kagi.com/assistant?profile=mistral-small)                               | mistral-small            | All      |
 | Mistral AI    | [Mistral Medium 3.5](https://kagi.com/assistant?profile=mistral-medium-3-5)                       | mistral-medium-3-5       | Ultimate |
 | Mistral AI    | [Mistral Large 3](https://kagi.com/assistant?profile=mistral-large)                               | mistral-large            | All      |
+| Mistral AI    | [Mistral Large 4](https://kagi.com/assistant?profile=mistral-large-4)                             | mistral-large-4          | Ultimate |
 | MiniMax       | [MiniMax M3](https://kagi.com/assistant?profile=minimax-m3)                                       | minimax-m3               | All      |
 | Moonshot AI   | [Kimi K3](https://kagi.com/assistant?profile=kimi-k3)                                             | kimi-k3                  | Ultimate |
 | Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | All      |
