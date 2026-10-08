@@ -183,7 +183,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | :------------ | :------------------------------------------------------------------------------------------------ | :----------------------- | :------- |
 | Alibaba       | [Qwen3.8 Max](https://kagi.com/assistant?profile=qwen-3-8-max)                                    | qwen-3-8-max             | Ultimate |
 | Alibaba       | [Qwen3.8 27B](https://kagi.com/assistant?profile=qwen-3-8-27b)                                    | qwen-3-8-27b             | All      |
-| Anthropic     | [Claude 4.5 Haiku](https://kagi.com/assistant?profile=claude-4-haiku)                             | claude-4-haiku           | Ultimate |
+| Anthropic     | [Claude 5.5 Haiku](https://kagi.com/assistant?profile=claude-5-5-haiku)                           | claude-5-5-haiku         | All      |
 | Anthropic     | [Claude 5.5 Sonnet](https://kagi.com/assistant?profile=claude-5-5-sonnet)                         | claude-5-5-sonnet        | Ultimate |
 | Anthropic     | [Claude Opus 5.5](https://kagi.com/assistant?profile=claude-5-5-opus)                             | claude-5-5-opus          | Ultimate |
 | Anthropic     | [Claude Fable 5.1](https://kagi.com/assistant?profile=claude-5-1-fable)                           | claude-5-1-fable         | Ultimate |
