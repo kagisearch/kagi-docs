@@ -321,3 +321,6 @@ Here are some suggestions to reduce token usage:
 
 **Q**: Why is Assistant unable to access the web?\
 **A**: Check to make sure you haven't disabled web access. Look for the lens selector dropdown under the prompt entry box to the right of the model selector. Tap the globe to enable or disable web access. It should be colored light purple when web access is enabled. If you are still having issues, please contact support.
+
+**Q**: How do I open exported Kagi Assistant threads?\
+**A**: Exported threads are saved as Markdown (.md) files, so any text editor can open them. To see them formatted, use a free Markdown reader such as [Marko](https://apps.apple.com/app/marko-markdown-viewer/id6797180877) (Mac, iPhone/iPad), [PilcrowMD](https://pilcrowmd.com/) (Android), [MDHero](https://mdhero.app/) (Windows) or [md-viewer](https://github.com/aydiler/md-viewer) (Linux).
