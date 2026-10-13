@@ -19,7 +19,7 @@ Pricing has not been finalized.
 *   **Frontend:** The web client is built in-house by Kagi, leveraging [JMAP](https://jmap.io/spec-mail.html).
 
 ### Which protocols will Kagi Mail support?
-Kagi Mail attempts to supports open standards, including IMAP4, SMTP, JMAP, and Sieve. For a full list of those supported by Stalwart, see the [RFCs it implements](https://stalw.art/docs/development/rfcs/).
+Kagi Mail attempts to support open standards, including IMAP4, SMTP, JMAP, and Sieve. For a full list of those supported by Stalwart, see the [RFCs it implements](https://stalw.art/docs/development/rfcs/).
 
 ### Does it replace Google Drive or Calendar?
 
