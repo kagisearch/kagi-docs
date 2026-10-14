@@ -191,7 +191,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | DeepSeek      | [DeepSeek V4.1 Flash](https://kagi.com/assistant?profile=deepseek-v4-1-flash)                     | deepseek-v4-1-flash      | All      |
 | Google        | [Gemini 3.8 Flash](https://kagi.com/assistant?profile=gemini-3-8-flash)                           | gemini-3-8-flash         | Ultimate |
 | Google        | [Gemini 3.5 Flash Lite](https://kagi.com/assistant?profile=gemini-3-5-flash-lite)                 | gemini-3-5-flash-lite    | Ultimate |
-| Google        | [Gemini 3.1 Pro (Preview)](https://kagi.com/assistant?profile=gemini-3-pro)                       | gemini-3-pro             | Ultimate |
+| Google        | [Gemini 4 Argon](https://kagi.com/assistant?profile=gemini-4-argon)                               | gemini-4-argon           | Ultimate |
 | Google        | [Gemini 3.1 Flash Lite](https://kagi.com/assistant?profile=gemini-3-1-flash-lite)                 | gemini-3-1-flash-lite    | All      |
 | Meta          | [Muse Spark 1.3](https://kagi.com/assistant?profile=muse-spark-1-3)                               | muse-spark-1-3           | Ultimate |
 | Mistral AI    | [Mistral Small 4](https://kagi.com/assistant?profile=mistral-small-4)                             | mistral-small-4          | All      |
