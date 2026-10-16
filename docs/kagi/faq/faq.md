@@ -74,7 +74,7 @@ Try some of our most popular tools and products right now:
 - [Does Kagi support crypto / anonymous payments?](#does-kagi-support-crypto-anonymous-payments)
 - [I do not have a credit card. Can I also pay for Kagi with PayPal or crypto?](#i-do-not-have-a-credit-card-can-i-also-pay-for-kagi-with-paypal-or-crypto)
 - [How can I use the credit I added to my account to purchase one of the plans?](#how-can-i-use-the-credit-i-added-to-my-account-to-purchase-one-of-the-plans)
-- [If I upgrade my plan before my renewal date will I have to pay the full amount of the new plan?](#if-i-upgrade-my-plan-before-my-renewal-date-will-i-have-to-pay-the-full-amount-of-the-new-plan)
+- [If I choose to switch my plan before my renewal date will I have to pay the full amount of the new plan?](#if-i-choose-to-switch-my-plan-before-my-renewal-date-will-i-have-to-pay-the-full-amount-of-the-new-plan)
 - [Can I pay for outstanding invoices using the credit I added to my account?](#can-i-pay-for-outstanding-invoices-using-the-credit-i-added-to-my-account)
 - [I am trying to purchase a subscription, but the field to input my billing address is grayed out and I'm unable to type in it](#billing-address-is-grayed-out)
 
@@ -353,11 +353,11 @@ Yes. We have recently added [new payment options](https://blog.kagi.com/acceptin
 
 ### How can I use the credit I added to my account to purchase one of the plans?
 
-Please visit [Billing Settings](https://kagi.com/settings/billing) and choose one of the plans. You will be redirected to Stripe and your available credits will be used to cover the plan price.
+Please visit [Billing Settings](https://kagi.com/settings/billing_plan) and choose one of the plans. You will be redirected to Stripe, and your available credits will be used to cover the plan price.
 
-### If I upgrade my plan before my renewal date will I have to pay the full amount of the new plan?
+### If I choose to switch my plan before my renewal date, will I have to pay the full amount of the new plan?
 
-At anytime you upgrade, the unused portion of the previous plan will be prorated as credit towards your new plan.
+At any time you upgrade or downgrade, the unused portion of the previous plan will be prorated as credit towards your new plan.
 
 ### Can I pay for outstanding invoices using the credit I added to my account?
 
