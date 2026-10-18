@@ -178,7 +178,7 @@ Kagi has [key features](../why-kagi/kagi-vs-competition.md) you won't find in ot
 
 ### What is your policy on biases in search?
 
-We are very careful not to introduce a precedent with any type of non search quality related bias (including moral, political on any other type of bias). 
+We are very careful not to introduce a precedent with any type of non search quality related bias (including moral, political or any other type of bias). 
 
 Some results from traditional sources we use may reflect inherent biases beyond our control.
 
