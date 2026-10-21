@@ -114,7 +114,7 @@ You can also submit a bug report to [Orion feedback forum](https://orionfeedback
 <a name="supported_apis"></a>
 ## Supported WebExtensions APIs
 
-Orion currently supports [about 70% of the WebExtensions APIs](https://browser.kagi.com/WebExtensions-API-Support.html), and we add support for more all the time.
+Orion currently supports [about 70% of the WebExtensions APIs](/orion/browser-extensions/webext-api-coverage.html){target="_self"}, and we add support for more all the time.
 
 <a name="manifest"></a>
 ## Manifest v2 vs. v3
