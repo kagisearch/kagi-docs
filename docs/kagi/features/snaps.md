@@ -10,7 +10,7 @@
 
 Typing `@r headphones` will search for "headphones" but limit the results to reddit.com (`r` is the short code for Reddit). This allows you to quickly find relevant content on a specific site using Kagi's powerful index. It is effectively the same as doing `headphones site:old.reddit.com`.
 
-Its relative, [Bangs](./bangs.md) feature, invoked by using "!r headphones", would redirect the user to reddit's internal search.
+Its relative, [Bangs](./bangs.md) feature, invoked by using `!r headphones`, would redirect the user to reddit's internal search.
 
 ## How to Use Snaps
 
