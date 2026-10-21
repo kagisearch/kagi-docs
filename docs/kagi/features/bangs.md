@@ -163,7 +163,7 @@ Here is the full list of patterns that we support:
 
 ![Quick Bangs](./media/kagi-quick-bangs.png){data-zoomable}
 
-For convenience, Kagi allows you to customize Quick Bangs which do not require an exclamation (!).
+For convenience, Kagi allows you to customize Quick Bangs which do not require an exclamation (!) up to a maximum of 50.
 
 Configure Quick Bangs under [Search](https://kagi.com/settings/search) in the Kagi Settings.
 
