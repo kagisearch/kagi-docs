@@ -323,6 +323,21 @@ by [Veroniiiica](https://veroniiiica.com/)
 
 These are short snippets that you can copy into your custom CSS to accomplish specific things.
 
+<details><summary>Center results (ignore sidebar space)</summary>
+
+Kagi reserves space on the right for sidebar content (like the Wikipedia widget) even when there isn't any, so centered results look slightly off-center.
+
+First, set the **Show Results** option to **Center** in your [Appearance settings](https://kagi.com/settings/appearance). Then add this to your [Custom CSS](https://kagi.com/settings/custom_css):
+
+```css
+body[content-center] .center-content-box {
+    margin-left: auto;
+    margin-right: auto;
+}
+```
+
+</details>
+
 <details><summary>Use a different font</summary>
 
 Note: If using a specific font makes reading significantly easier for you, we suggest using your browser's settings or a browser extension to apply your preferences across every website you visit instead of fixing things one site at a time. Our goal as a search engine is to launch you out into the rest of the web; if we're doing our job well, you'll be spending much more time out there than you do on our pages.
@@ -380,12 +395,6 @@ body { font-family: "Lexend", sans-serif; }
   display: none;
 }
 ```
-
-</details>
-
-<details><summary>Hide AI features</summary>
-
-[**Get it**](https://codeberg.org/zerodogg/kagi-no-ai#readme)
 
 </details>
 
