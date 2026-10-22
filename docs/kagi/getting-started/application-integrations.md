@@ -44,7 +44,7 @@ To configure Kagi as a custom search in Alfred:
 3. Click the **Web Search** icon.
 4. Click the **Add Custom Search** button.
 5. Enter the following information:
-    1. Enter your Kagi **Session Link** as the **Search URL**. You can obtain your Kagi **Session Link** from the [Account Settings](https://kagi.com/settings/user_details).
+    1. Enter your Kagi **Session Link** as the **Search URL**. You can obtain your Kagi **Session Link** from the [Kagi Search account settings](https://kagi.com/settings/user_details).
     2. Add `&q={query}` at the end of the **Session Link** after pasting it in Alfred.
     3. Enter **Search Kagi for '{query}'** as the **Title**.
     4. Enter **kagi** as the **Keyword**.
