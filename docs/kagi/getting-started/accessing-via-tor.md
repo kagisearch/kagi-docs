@@ -35,3 +35,4 @@ Once you have the Tor Browser set up, follow these steps to access our search ca
 
 ## Limitations
 1. Apple sign in does not work due to Apple not supporting onion links for redirects.
+2. Passkeys may not work in Tor Browser. If you have trouble signing in with a passkey over Tor, sign in with your email and password instead.

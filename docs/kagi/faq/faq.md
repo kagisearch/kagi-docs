@@ -51,6 +51,7 @@ Try some of our most popular tools and products right now:
 ### Account & Sign-In
 - [Why does Kagi Search require an account?](#why-does-kagi-search-require-an-account)
 - [Why does Kagi Search require an email address?](#why-does-kagi-search-require-an-email-address)
+- [Where do I manage my Kagi sign-in, password, and 2FA?](#kagi-account)
 - [Can I use my Kagi account on multiple devices?](#use-account-on-multiple-devices)
 - [Can I use Kagi in private browser sessions or if I delete my cookies?](#using-login-token)
 - [How do I check my usage?](#how-do-i-check-my-usage)
@@ -244,6 +245,15 @@ Note that you can use an anonymous email provider such as [SimpleLogin](https://
 
 Kagi does not need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription product business.
 
+<a name="kagi-account"></a>
+### Where do I manage my Kagi sign-in, password, and 2FA? {#kagi-account}
+
+On September 10th, 2026, we migrated Kagi accounts to a single account system shared by all of our products. Your sign-in options, password, passkeys, and [two-factor authentication (2FA)](../privacy/two-factor-authentication.md) are managed at [account.kagi.com](https://account.kagi.com). See [Account Settings](../settings/account.md) for an overview.
+
+Your existing email, password, and 2FA continue to work. If you enabled 2FA before September 10th, 2026, your old backup codes were not transferred. Go to [account.kagi.com](https://account.kagi.com/account/security/recovery) and open `Security` > `Recovery` to [generate new ones](../privacy/two-factor-authentication.md#backup-codes).
+
+If something looks wrong with your account, contact [support@kagi.com](mailto:support@kagi.com).
+
 ### Can I use my Kagi account on multiple devices? {#use-account-on-multiple-devices}
 
 Yes, you can use your Kagi membership on all your devices, as long as you don't share your account. You can also log in on multiple web browsers on the same device.
@@ -251,7 +261,7 @@ Yes, you can use your Kagi membership on all your devices, as long as you don't 
 <a name="using-login-token"></a>
 ### Can I use Kagi in private browser sessions or if I am deleting my cookies? {#using-login-token}
 
-Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Account settings](https://kagi.com/settings/user_details) to get your login token.
+Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Kagi Search account settings](https://kagi.com/settings/user_details) to get your login token.
 
 This token is attached to the session it was copied from. You can log out of that session if you need to invalidate it for any reason.
 

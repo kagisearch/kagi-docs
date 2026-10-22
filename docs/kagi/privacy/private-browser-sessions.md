@@ -6,12 +6,12 @@ However, you can also use the Session Link feature to automatically log in to Ka
 
 ## Obtaining a Session Link
 
+![Session Link](./media/session_link.png){data-zoomable}
+
 A Session Link is a special Kagi URL that contains a "login token."
 You can use a Session Link to automatically log into your existing Kagi session from anywhere, including within private browser sessions.
 
-You can visit your [Account settings](https://kagi.com/settings/user_details) to get your Session Link:
-
-<img src="./media/session_link.png" width="500" alt="Session Link"><br />
+You can copy your Session Link from your [Kagi Search account settings](https://kagi.com/settings/user_details) (`Settings` > `Account`), or click `Copy` next to `Session Link` in the Control Center.
 
 Because a Session Link provides access to your Kagi account, it should always be kept private.
 
@@ -35,12 +35,14 @@ Read on for more details concerning sessions.
 A Session Link is attached to the Kagi session it was copied from.
 You can Sign Out of that Kagi session if you need to invalidate the Session Link for any reason.
 
+![Sign Out](./media/sign_out.png){data-zoomable}
+
 1. Open the session link in a private window
 2. Open the Control Center by clicking the icon on the top right of any page
-3. Click "Sign Out" to log out and invalidate the link.
+3. Click `Sign Out` to log out and invalidate the link.
 
-Alternatively, changing your password on your [Account settings](https://kagi.com/settings/user_details) will invalidate all sessions.
+![Kagi Account - Sessions](../settings/media/kagi_account_sessions.png){data-zoomable}
+
+Alternatively, you can invalidate all your other sessions at once. Go to [account.kagi.com](https://account.kagi.com/account/security/sessions), open `Security` > `Sessions`, and click `End all other sessions`. You can also click `End` next to a single session.
 
 Sessions will also expire after 90 days of being unused.
-
-<img src="./media/sign_out.png" width="300" alt="Sign Out"><br />
