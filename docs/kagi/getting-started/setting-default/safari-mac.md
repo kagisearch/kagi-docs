@@ -16,7 +16,7 @@
 
 To set up the Kagi extension for Safari on macOS:
 
-1. Visit your [Account Settings](https://kagi.com/settings/user_details) page and **copy the Session Link**.
+1. Visit your [Kagi Search account settings](https://kagi.com/settings/user_details) page and **copy the Session Link**.
 2. Open **Safari**.
 3. Click on the **Kagi extension icon** in Safari's toolbar.
 4. If you receive a prompt saying **The extension "Kagi for Safari" would like to access kagi.com.**,

@@ -261,7 +261,7 @@ Yes, you can use your Kagi membership on all your devices, as long as you don't 
 <a name="using-login-token"></a>
 ### Can I use Kagi in private browser sessions or if I am deleting my cookies? {#using-login-token}
 
-Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Account settings](https://kagi.com/settings/user_details) to get your login token.
+Yes, Kagi features a 'login token' which is simply a URL parameter that you can use to automatically log you into your existing Kagi session, from anywhere, including using search within private browser sessions. You can visit [Kagi Search account settings](https://kagi.com/settings/user_details) to get your login token.
 
 This token is attached to the session it was copied from. You can log out of that session if you need to invalidate it for any reason.
 
