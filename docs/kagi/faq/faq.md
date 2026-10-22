@@ -51,6 +51,7 @@ Try some of our most popular tools and products right now:
 ### Account & Sign-In
 - [Why does Kagi Search require an account?](#why-does-kagi-search-require-an-account)
 - [Why does Kagi Search require an email address?](#why-does-kagi-search-require-an-email-address)
+- [Where do I manage my Kagi sign-in, password, and 2FA?](#kagi-account)
 - [Can I use my Kagi account on multiple devices?](#use-account-on-multiple-devices)
 - [Can I use Kagi in private browser sessions or if I delete my cookies?](#using-login-token)
 - [How do I check my usage?](#how-do-i-check-my-usage)
@@ -243,6 +244,15 @@ We require an email address to be able to verify the account really belongs to y
 Note that you can use an anonymous email provider such as [SimpleLogin](https://simplelogin.io) with Kagi Search.
 
 Kagi does not need your personal information and the above requirements are just bare minimums needed in order to be able to operate a subscription product business.
+
+<a name="kagi-account"></a>
+### Where do I manage my Kagi sign-in, password, and 2FA? {#kagi-account}
+
+On September 10th, 2026, we migrated Kagi accounts to a single account system shared by all of our products. Your sign-in options, password, passkeys, and [two-factor authentication (2FA)](../privacy/two-factor-authentication.md) are managed at [account.kagi.com](https://account.kagi.com). See [Account Settings](../settings/account.md) for an overview.
+
+Your existing email, password, and 2FA continue to work. If you enabled 2FA before September 10th, 2026, your old backup codes were not transferred. Go to [account.kagi.com](https://account.kagi.com/account/security/recovery) and open `Security` > `Recovery` to [generate new ones](../privacy/two-factor-authentication.md#backup-codes).
+
+If something looks wrong with your account, contact [support@kagi.com](mailto:support@kagi.com).
 
 ### Can I use my Kagi account on multiple devices? {#use-account-on-multiple-devices}
 
