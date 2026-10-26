@@ -182,6 +182,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Developer     | Model                                                                                             | Profile                  | Plan     |
 | :------------ | :------------------------------------------------------------------------------------------------ | :----------------------- | :------- |
 | Alibaba       | [Qwen3.8 Max](https://kagi.com/assistant?profile=qwen-3-8-max)                                    | qwen-3-8-max             | Ultimate |
+| Alibaba       | [Qwen3.8 Flash](https://kagi.com/assistant?profile=qwen-3-8-flash)                                | qwen-3-8-flash           | All      |
 | Alibaba       | [Qwen3.8 27B](https://kagi.com/assistant?profile=qwen-3-8-27b)                                    | qwen-3-8-27b             | All      |
 | Anthropic     | [Claude 5.5 Haiku](https://kagi.com/assistant?profile=claude-5-5-haiku)                           | claude-5-5-haiku         | All      |
 | Anthropic     | [Claude 5.5 Sonnet](https://kagi.com/assistant?profile=claude-5-5-sonnet)                         | claude-5-5-sonnet        | Ultimate |
@@ -199,14 +200,14 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Mistral AI    | [Mistral Medium 3.5](https://kagi.com/assistant?profile=mistral-medium-3-5)                       | mistral-medium-3-5       | Ultimate |
 | Mistral AI    | [Mistral Large 3](https://kagi.com/assistant?profile=mistral-large)                               | mistral-large            | All      |
 | Mistral AI    | [Mistral Large 4](https://kagi.com/assistant?profile=mistral-large-4)                             | mistral-large-4          | Ultimate |
-| MiniMax       | [MiniMax M3](https://kagi.com/assistant?profile=minimax-m3)                                       | minimax-m3               | All      |
+| MiniMax       | [MiniMax M3.1 Flash](https://kagi.com/assistant?profile=minimax-m3-1-flash)                       | minimax-m3-1-flash       | All      |
 | Moonshot AI   | [Kimi K3](https://kagi.com/assistant?profile=kimi-k3)                                             | kimi-k3                  | Ultimate |
 | Moonshot AI   | [Kimi K2.7 Code](https://kagi.com/assistant?profile=kimi-k2-7-code)                               | kimi-k2-7-code           | All      |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
 | OpenAI        | [GPT 6 Astra](https://kagi.com/assistant?profile=gpt-6-astra)                                     | gpt-6-astra              | Ultimate |
 | OpenAI        | [GPT 6.1 Sol](https://kagi.com/assistant?profile=gpt-6-1-sol)                                     | gpt-6-1-sol              | Ultimate |
-| OpenAI        | [GPT 5.6 Terra](https://kagi.com/assistant?profile=gpt-5-6-terra)                                 | gpt-5-6-terra            | Ultimate |
+| OpenAI        | [GPT 6.1 Terra](https://kagi.com/assistant?profile=gpt-6-1-terra)                                 | gpt-6-1-terra            | Ultimate |
 | OpenAI        | [GPT 6 Luna](https://kagi.com/assistant?profile=gpt-6-luna)                                       | gpt-6-luna               | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |
 | xAI           | [Grok 4.7](https://kagi.com/assistant?profile=grok-4-7)                                           | grok-4-7                 | Ultimate |
