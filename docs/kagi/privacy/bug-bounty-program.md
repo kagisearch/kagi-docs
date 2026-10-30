@@ -193,6 +193,10 @@ that enhance the security and consistency of our services.
 |MEDIUM|[Orion Browser] Permission Request Spoofing via Embedded iFrame |$100|08-09-2025|
 |LOW|[Orion Browser] JavaScript Bypass via Private Tab |50$|15-09-2025|
 |LOW|[Orion Browser] JavaScript Bypass via Bookmarklets |80$|25-11-2025|
+|LOW|[Orion Browser] Address bar spoofing via orion://notes/|$50|08-09-2025|
+|LOW|[Orion Browser] XSS via invalid data URI handling|$50|12-09-2025|
+|MODERATE|[Orion Browser] Domain spoofing via link preview titles|$120|13-04-2026|
+|LOW|[Orion Browser] JavaScript URL execution leading to UXSS|$100|04-07-2026|
 
 
 **Cheripally Sathwik**
@@ -294,6 +298,7 @@ that enhance the security and consistency of our services.
 |LOW|[Orion Browser] URL spoofing in page loading component |$70|21-12-2025|
 |LOW|[Orion Browser] UI deception via window-name reuse |$70|09-02-2026|
 |LOW|[Orion Browser] URL spoofing via slow page loading on iOS |$50|09-05-2026|
+|LOW|[Orion Browser] Filename and extension spoofing via RTLO|$50|12-09-2025|
 
 
 **Syarif Muhammad Sajjad**
@@ -332,6 +337,13 @@ that enhance the security and consistency of our services.
 |LOW|[Orion Browser] Adress bar spoofing through invalid scheme |$60|31-12-2025|
 |LOW|[Orion Browser] UXSS via bookmarklet on MacOS and unsafe redirect/confirmation flow allows script execution in destination origin |$165|20-01-2026|
 |LOW|[Orion Browser] External protocol / Permission prompt origin spoofing via delayed navigation |$50|17-03-2026|
+|MODERATE|[Orion Browser] URL scheme origin spoofing|$100|04-09-2025|
+|MODERATE|[Orion Browser] Address bar spoofing via file URLs|$100|04-09-2025|
+|MODERATE|[Orion Browser] File picker origin spoofing|$100|04-09-2025|
+|MODERATE|[Orion Browser] URL scheme execution via an iframe|$100|04-09-2025|
+|MODERATE|[Orion Browser] Permission prompt bypass via keyboard input|$200|07-10-2025|
+|MODERATE|[Orion Browser] Popup blocker bypass on macOS|$120|20-11-2025|
+|LOW|[Orion Browser] Navigation hijacking via JavaScript popups|$50|25-11-2025|
 
 
 **Umar Zaid Ridwan**
@@ -343,6 +355,7 @@ that enhance the security and consistency of our services.
 |:---------|:----------------|:-----------|:-----------|
 |MODERATE|[Orion Browser] RTLO characters override |$120|09-02-2026|
 |LOW|[Orion Browser] Link preview spoofing via long URL encoding |$80|09-03-2026|
+|LOW|[Orion Browser] Origin confusion in cross-device FIDO authentication|$90|04-07-2026|
 
 **Duplicake**
 
@@ -383,6 +396,7 @@ that enhance the security and consistency of our services.
 |:---------|:----------------|:-----------|:-----------|
 |LOW|[Kagi Search] Unauthorized resource access in Rewrite API |$50|19-11-2025|
 |LOW|[Kagi Search] CSRF in billing credits |$70|04-12-2025|
+|LOW|[Kagi News] Outdated nginx server|$50|18-02-2026|
 
 **Ola**
 - Email: `***897@icloud.com`
@@ -409,3 +423,188 @@ that enhance the security and consistency of our services.
 | Severity | Report name | Rewarded | Date |
 |:---------|:----------------|:-----------|:-----------|
 |MODERATE|[Kagi Translate] DOM-based XSS |$120|27-04-2026|
+
+
+**Frozzipies**
+
+- Email: `***ies@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Orion Browser] HTTP authentication prompt spoofing|$200|08-06-2025|
+|MODERATE|[Orion Browser] Browser crash via a malicious extension manifest|$200|16-06-2025|
+
+
+**Norwin Boniao**
+
+- Email: `***iao@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Summarizer] Stored XSS in video titles|$200|27-06-2025|
+|MODERATE|[Orion Browser] Stored XSS in Kagi Search results|$200|16-07-2025|
+
+
+**Nandhu**
+
+- Email: `***178@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Assistant] File upload size restriction bypass|$200|01-07-2025|
+
+
+**Pavan Baile**
+
+- Email: `***e14@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Access to cached account data after logout|$50|28-07-2025|
+
+
+**Saad Sayed**
+
+- Email: `***360@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Insufficient rate limiting on signup|$100|28-07-2025|
+
+
+**Albert Pedersen**
+
+- Email: `***ert@albertpedersen.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Search] SSRF in the image proxy|$200|05-08-2025|
+
+
+**Sogai Mohamedamine**
+
+- Email: `***ine@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Stored HTML injection in lens creation|$50|05-08-2025|
+
+
+**bountyware**
+
+- Email: `***are@proton.me`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Information disclosure via Prometheus metrics|$50|08-08-2025|
+|LOW|[Orion Browser] Information disclosure on browser.kagi.com|$50|21-03-2026|
+
+
+**Imran Shaikh**
+
+- Email: `***704@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Open redirect in notification acknowledgement|$50|25-11-2025|
+
+
+**Roman Kartshikyan**
+
+- Email: `***yan@vektor-x.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] CSRF allows API key deletion|$70|28-11-2025|
+
+
+**Manav D**
+
+- Email: `***shi@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Maps] Reflected XSS in the infobox endpoint|$80|31-12-2025|
+
+
+**Rushikesh Kenjale**
+
+- Email: `***481@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] Trial search quota bypass via a race condition|$100|16-03-2026|
+|LOW|[Kagi Search] Missing rate limiting on sudo mode authentication|$50|17-03-2026|
+
+
+**Adam Shostack**
+
+- Email: `***dam@shostack.org`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Search] HTML injection in search results|$90|17-03-2026|
+
+
+**Tanvir Imon**
+
+- Email: `***.45@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi News] Blind SSRF in the favicon proxy|$70|12-04-2026|
+
+
+**Bhagirath Saxena**
+
+- Email: `***678@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Browser Extension] Session token persisted in dynamic request rules|$100|30-04-2026|
+
+
+**Khalid Elbaghdadi**
+
+- Email: `***0x1@gmail.com`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi FastGPT] Reflected XSS|$120|04-05-2026|
+
+
+**Erkan van Leerdam**
+
+- Email: `***dam@inbo.cx`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|LOW|[Kagi Assistant] Deleted threads reappear in the new interface|$90|22-06-2026|
+
+
+**Lyra Rebane**
+
+- Email: `***@lyra.horse`
+- Valid reports
+
+| Severity | Report name | Rewarded | Date |
+|:---------|:----------------|:-----------|:-----------|
+|MODERATE|[Kagi Translate] Session hijacking|$150|27-07-2026|
+|MODERATE|[Kagi Assistant] Stored XSS|$150|07-09-2026|
