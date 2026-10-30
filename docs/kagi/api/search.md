@@ -9,8 +9,12 @@ The full Search API reference is available at **[kagi.com/api/docs](https://kagi
 ## Example
 
 ```shell
-curl -H "Authorization: Bot $TOKEN" \
-  "https://kagi.com/api/v1/search?q=kagi+search"
+curl https://kagi.com/api/v1/search \
+  -H "Authorization: Bearer $KAGI_API_KEY" \
+  -H 'Content-Type: application/json' \
+  -d '{
+    "query": "Your query here"
+  }'
 ```
 
 ## Additional Settings
