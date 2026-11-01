@@ -1,8 +1,12 @@
 # Widgets
 
-## Answer Box
+<span id="answer-box"></span>
 
-The answer box widget provides quick results for math computations, science queries, and general facts. It's powered by Wolfram|Alpha.
+## Kagi Knowledge
+
+Kagi Knowledge provides quick answers for math computations, science queries, and general facts. It's powered by Wolfram|Alpha.
+
+To hide these answers in search results and autocomplete, turn off **Kagi Knowledge** in [Settings → Search Widgets](https://kagi.com/settings/more_search).
 
 #### Example Queries
 - [`1+23`](https://kagi.com/search?q=1%2B23) -> `= 24`

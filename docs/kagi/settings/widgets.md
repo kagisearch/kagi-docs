@@ -14,7 +14,7 @@ Each widget can be individually toggled, allowing you to tailor your results to 
 - **Public Records**: Choose whether the Public Records widget will appear in results.
 - **Podcasts**: Choose whether the Podcasts widget will appear in results.
 - **Quick Peeks**: Choose whether the Quick Peek widget will appear in results.
-- **Summary Box**: Choose whether the Summary Box widget will appear in results and autocomplete.
+- **[Kagi Knowledge](../features/widgets.md#kagi-knowledge)**: Choose whether answers powered by Wolfram|Alpha will appear in results and autocomplete.
 - **Cheat Sheet**: Choose whether the Cheat Sheet widget will appear for applicable searches. The cheat sheet widget provides cheat sheet for various programs. See [cheat.sh](https://cheat.sh) for more information.
 - **Blast from the Past**: Choose whether the Blast from the Past widget will appear. This widget highlights interesing and notable articles from the past.
 - **Code**: Choose whether the Code widget will appear when performing programming-related searches.
