@@ -187,7 +187,7 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Anthropic     | [Claude 5.5 Haiku](https://kagi.com/assistant?profile=claude-5-5-haiku)                           | claude-5-5-haiku         | All      |
 | Anthropic     | [Claude 5.5 Sonnet](https://kagi.com/assistant?profile=claude-5-5-sonnet)                         | claude-5-5-sonnet        | Ultimate |
 | Anthropic     | [Claude Opus 5.5](https://kagi.com/assistant?profile=claude-5-5-opus)                             | claude-5-5-opus          | Ultimate |
-| Anthropic     | [Claude Fable 5.1](https://kagi.com/assistant?profile=claude-5-1-fable)                           | claude-5-1-fable         | Ultimate |
+| Anthropic     | [Claude Fable 5.2](https://kagi.com/assistant?profile=claude-5-2-fable)                           | claude-5-2-fable         | Ultimate |
 | DeepSeek      | [DeepSeek V4 Pro](https://kagi.com/assistant?profile=deepseek-v4-pro)                             | deepseek-v4-pro          | Ultimate |
 | DeepSeek      | [DeepSeek V4.1 Flash](https://kagi.com/assistant?profile=deepseek-v4-1-flash)                     | deepseek-v4-1-flash      | All      |
 | Google        | [Gemini 3.8 Flash](https://kagi.com/assistant?profile=gemini-3-8-flash)                           | gemini-3-8-flash         | Ultimate |
