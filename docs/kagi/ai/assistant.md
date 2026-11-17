@@ -207,8 +207,8 @@ To use this feature, simply paste the URL in your Assistant conversation (make s
 | Moonshot AI   | [Kimi K3.1 Pro](https://kagi.com/assistant?profile=kimi-k3-1-pro)                                 | kimi-k3-1-pro            | Ultimate |
 | Nous Research | [Hermes-4-405B (reasoning)](https://kagi.com/assistant?profile=hermes-4-405b-thinking)            | hermes-4-405b-thinking   | All      |
 | OpenAI        | [GPT OSS 120B](https://kagi.com/assistant?profile=gpt-oss-120b)                                   | gpt-oss-120b             | All      |
-| OpenAI        | [GPT 6 Astra](https://kagi.com/assistant?profile=gpt-6-astra)                                     | gpt-6-astra              | Ultimate |
-| OpenAI        | [GPT 6.1 Sol](https://kagi.com/assistant?profile=gpt-6-1-sol)                                     | gpt-6-1-sol              | Ultimate |
+| OpenAI        | [GPT 6.2 Astra](https://kagi.com/assistant?profile=gpt-6-2-astra)                                 | gpt-6-2-astra            | Ultimate |
+| OpenAI        | [GPT 6.2 Sol](https://kagi.com/assistant?profile=gpt-6-2-sol)                                     | gpt-6-2-sol              | Ultimate |
 | OpenAI        | [GPT 6.1 Terra](https://kagi.com/assistant?profile=gpt-6-1-terra)                                 | gpt-6-1-terra            | Ultimate |
 | OpenAI        | [GPT 6 Luna](https://kagi.com/assistant?profile=gpt-6-luna)                                       | gpt-6-luna               | Ultimate |
 | OpenAI        | [ChatGPT](https://kagi.com/assistant?profile=chatgpt-4o)                                          | chatgpt-4o               | Ultimate |

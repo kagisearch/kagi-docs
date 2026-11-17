@@ -54,7 +54,7 @@ Please see notes below the table if you see results you find surprising, or get 
 | o3                                  |        67.6 |       4.8 |        30.9 |    12127 |   3.3 | kagi (ult) |
 | o4-mini                             |        67.6 |       3.1 |        16.0 |    11224 |   6.1 | kagi       |
 | gemini-3-1-flash-lite               |        67.2 |       0.0 |         5.7 |    20749 |  10.4 | kagi       |
-| gpt-5-6-sol                         |        67.0 |       2.7 |         3.4 |     8294 |  10.4 | kagi (ult) |
+| gpt-6-2-sol                         |        67.0 |       2.7 |         3.4 |     8294 |  10.4 | kagi (ult) |
 | qwen3-next-80b-a3b-thinking         |        66.7 |       1.0 |        58.2 |   442001 |  14.9 | openrouter |
 | inclusionai/ring-1t                 |        66.4 |       1.0 |       269.7 |   406334 |   4.3 | openrouter |
 | grok-4-fast-thinking                |        66.1 |       0.3 |         8.2 |   289270 | 311.1 | kagi       |
