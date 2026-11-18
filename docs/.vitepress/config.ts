@@ -218,9 +218,9 @@ function sidebarKagi() {
             	{
                 text: 'Kagi Mail',
                 collapsed: true,
-                link: '/kagi/mail/getting-started',
+                link: '/kagi/mail/',
                 items: [
-                    { text: 'Getting started', link: '/kagi/mail/getting-started' },
+                    { text: 'Getting started', link: '/kagi/mail/index' },
                     { text: 'FAQ',             link: '/kagi/mail/faq'             },
                 ]
             	},
