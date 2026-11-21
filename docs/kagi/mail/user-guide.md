@@ -14,8 +14,6 @@ head:
 
 Kagi Mail is a private email and calendar service from Kagi. There are no ads and no tracking, and your mail is never used to build a profile of you. It's built on open standards, so you can use it in your browser at [kagimail.com](https://kagimail.com) or in the [email app](#using-other-email-and-calendar-apps) you already use, and your mail stays yours to take with you.
 
-For example, you can sign up for a store's newsletter with an alias like `harbor-comet-velvet@kagimail.com`, then add a rule such as *"Label receipts and order confirmations as Shopping and skip the inbox."* If that alias starts getting spam, you turn it off, and your main address stays private.
-
 With Kagi Mail, you can:
 
 - [Block trackers](#privacy), with tracking pixels removed and remote images loaded through Kagi's proxy
