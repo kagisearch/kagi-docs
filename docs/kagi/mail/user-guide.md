@@ -673,6 +673,13 @@ Turn on **Catch-all** for a domain to receive mail sent to any address at that d
 
 Catch-all mail arrives in the domain owner's inbox and goes through the same spam filtering, rules, and Triage as the rest of your mail. To find it later, search for the address it was sent to, for example `to:bookstore@yourname.com`. To stop receiving it, turn **Catch-all** off.
 
+### Giving an Address to Someone Else
+
+Each Kagi account has one mailbox, so you can't add mailboxes for other people to your own account. To give someone an address on your domain:
+
+- If they don't have Kagi Mail yet, [set up an address](#setting-up-an-address-for-someone-new) for them. It becomes their own Kagi Mail account.
+- If they already have Kagi Mail, [share an address](#sharing-an-address) with them. It's added to their account, and you can take it back at any time.
+
 ### Sharing an Address
 
 You can give an address on your domain, such as `john@yourname.com`, to someone who already has Kagi Mail. Mail to that address arrives in their inbox, and they can send from it. Each address goes to one person. To reach several people at one address, such as `family@yourname.com`, create a [mailing list](#creating-a-mailing-list) instead.
@@ -681,7 +688,7 @@ You can give an address on your domain, such as `john@yourname.com`, to someone 
 2. Click the **Addresses** icon next to the domain.
 3. Under **Share an address**, enter the address to share and the person's Kagi Mail address, not a personal email.
 
-The person gets an email letting them know, and the address appears under **Shared accounts** in their sidebar. You can revoke the address at any time from the same page. New mail then stops reaching them, but mail they already received stays in their account.
+The person gets an email letting them know, and the address is added to their aliases, so they can choose it in the **From** field. You can revoke the address at any time from the same page. New mail then stops reaching them, but mail they already received stays in their account.
 
 You can't share an address you use yourself. To give one of your own aliases to someone else, delete it in [Settings > Aliases](https://kagimail.com/settings/aliases) first.
 
