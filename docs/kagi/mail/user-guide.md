@@ -112,6 +112,8 @@ This option is available in desktop browsers that support it, including Chrome, 
 
 Safari, Orion, Chrome for Android, and browsers on iPhone and iPad don't support it, so the option doesn't appear there.
 
+This applies to email links you click in that browser. To also open email links from other apps in Kagi Mail, make that browser your default email app: on Windows, set **MAILTO** to your browser in **Settings > Apps > Default apps**; on a Mac, open Apple Mail and choose your browser under **Settings > General > Default email reader**.
+
 ## Importing Your Mail
 
 You can bring your existing mail into Kagi Mail from Gmail, Outlook, iCloud Mail, Yahoo Mail, Fastmail, Proton Mail, AOL Mail, Tuta, or any other email account. To bring over your calendar too, see [Importing a Calendar](#importing-a-calendar).
