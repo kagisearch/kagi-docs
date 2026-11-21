@@ -467,7 +467,31 @@ To ask a question, type it in the search bar ending with `?`, for example `When 
 
 ### MCP
 
-**MCP** lets your own AI assistant search and read your mail over the [Model Context Protocol](https://modelcontextprotocol.io). Access is read-only, so the assistant can't change, delete, or send email. When you turn it on, the Kagi Mail Labs page shows setup instructions for Claude Code, Codex, and Claude. Other apps can connect to `https://kagimail.com/mcp`, and you sign in with your Kagi account.
+**MCP** lets your own AI assistant search and read your mail over the [Model Context Protocol](https://modelcontextprotocol.io). Access is read-only, so the assistant can't change, delete, or send email.
+
+When you turn it on in [Settings > Labs](https://kagimail.com/settings/experiments), the MCP section shows the details to connect with, and setup instructions under **Connect an assistant**:
+
+- **Endpoint:** `https://kagimail.com/mcp`
+- **OAuth client ID:** `388151328209128068`
+
+To connect an app:
+
+- **Claude Code:**
+
+  ```sh
+  claude mcp add --transport http kagimail https://kagimail.com/mcp --client-id 388151328209128068
+  ```
+
+- **Codex:**
+
+  ```sh
+  codex mcp add kagimail --url https://kagimail.com/mcp --oauth-client-id 388151328209128068
+  ```
+
+- **Claude** (claude.ai, desktop, and mobile): go to **Settings > Connectors > Add custom connector**. Paste the endpoint, then the client ID under **Advanced settings**, and leave the client secret blank.
+- **ChatGPT:** go to **Settings > Apps & connectors > Advanced**, turn on developer mode, then click **Create connector** and paste the endpoint and client ID.
+
+Other apps need both the endpoint and the client ID, and you then sign in with your Kagi account. Apps that can't take a client ID can't connect.
 
 ## Calendar
 
