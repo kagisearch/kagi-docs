@@ -12,27 +12,35 @@ head:
 
 <video src="./media/kagi-mail-overview.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-Kagi Mail is a private email and calendar service from Kagi. There are no ads and no tracking, and your mail is never used to build a profile of you. It's built on open standards, so you can use it in your browser at [kagimail.com](https://kagimail.com) or in the [email app](#using-other-email-and-calendar-apps) you already use, and your mail stays yours to take with you.
+Kagi Mail is a private email and calendar service from Kagi. Like Kagi Search, it's paid for by the people who use it, not by advertisers: there are no ads, no tracking, and your mail is never used to build a profile of you.
+
+Most email doesn't need you. Kagi Mail helps you find the email that does. It can hold mail from new senders until you let them in, flag likely phishing, move newsletters into a feed you read when you choose, and show you who's waiting on a reply. The writing always stays yours: when you email someone, they hear from you, in your own words.
+
+Some email services give you good email and nothing more. Others put AI in everything and never ask. Kagi Mail lets you choose: use Inbox Highlights, Preview, Rules, and Ask, or turn every AI feature off with one switch.
+
+Either way, you get private email that fits the way you already work. Use it in your browser at [kagimail.com](https://kagimail.com), from the keyboard, or in the [email app](#using-other-email-and-calendar-apps) you already use. Give every website its own alias, use your own domain, and move your mail over from Gmail or any other provider. And because it's built on open standards, your mail stays yours to take with you.
 
 With Kagi Mail, you can:
 
+- [See which emails need you](#inbox-highlights), from replies people are waiting on to what's due soon and what to review
+- [Know what each email is about](#preview) before you open it, with one-line previews
+- [Follow long threads](#thread-visualization) with a map of who's involved and where the conversation split
+- [Sort your mail in your own words](#filtering-mail-with-rules), with rules like *"Receipts go in Receipts"*
+- [Ask your inbox a question](#ask) and get the answer, with the matching emails listed below it
+- [Screen new senders](#triage) before they reach your inbox, with warnings about likely phishing
+- [Read newsletters as a feed](#newsletter-view) instead of one at a time
 - [Block trackers](#privacy), with tracking pixels removed and remote images loaded through Kagi's proxy
 - [Keep your address private](#aliases) with unlimited aliases
-- [Screen new senders](#triage) before they reach your inbox, with warnings about likely phishing
-- [See which emails need you](#inbox-highlights), from replies people are waiting on to what's due soon
-- [Know what each email is about](#preview) before you open it, with one-line previews
-- [Organize your mail by describing what you want](#filtering-mail-with-rules)
-- [Ask your inbox a question](#ask) and get a direct answer from your emails
 - [Email Kagi Assistant](#emailing-kagi-assistant) to find what was decided in a long thread, answer questions about your mail, or tell it how to file future messages in a thread
 - [Proofread](#proofreading-a-draft) and [translate](#translating-a-draft) your drafts before you send them
-- [Try new features](#kagi-mail-labs) in Kagi Mail Labs, like Newsletter view and Thread visualization
-- [Work from the keyboard](#keyboard-shortcuts), with a command prompt and shortcuts you can change
 - [Use any email or calendar app](#using-other-email-and-calendar-apps), over IMAP, JMAP, and CalDAV
 - [Use your own domains](#custom-domains), with catch-all addresses, shared addresses, and mailing lists
 - [Manage your calendar](#calendar) with invitations and sync
-- [Import your mail](#importing-your-mail) from another provider, and [export it](#exporting-your-mail) any time
+- [Work from the keyboard](#keyboard-shortcuts), with a command prompt and shortcuts you can change
+- [Import your mail](#importing-your-mail) from Gmail or another provider, and [export it](#exporting-your-mail) any time
+- [Try new features in Kagi Mail Labs](#kagi-mail-labs): [Inbox Highlights](#inbox-highlights), [Preview](#preview), [Triage](#triage), [Newsletter view](#newsletter-view), [Thread visualization](#thread-visualization), [Sender brand logos](#sender-brand-logos), [Ask](#ask), and [MCP](#mcp)
 
-Every account includes **50 GB** of storage.
+Every account includes **50 GB** of storage. Kagi Mail uses your Kagi account and is included with [Kagi Ultimate](#plans-and-limits).
 
 For questions about how Kagi Mail works under the hood, see the [Kagi Mail FAQ](./faq.md).
 
