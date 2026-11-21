@@ -7,8 +7,10 @@ head:
 ---
 
 # Using Kagi Mail
+
 <br>
-<video src="./media/kagi-mail-overview.mp4#t=0.1" width="720" type="video/mp4" preload="metadata" controls disablepictureinpicture />
+
+<video src="./media/kagi-mail-overview.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 Kagi Mail is a private email and calendar service from Kagi. There are no ads and no tracking, and your mail is never used to build a profile of you. It's built on open standards, so you can use it in your browser at [kagimail.com](https://kagimail.com) or in the [email app](#using-other-email-and-calendar-apps) you already use, and your mail stays yours to take with you.
 
@@ -69,13 +71,13 @@ When you start using Kagi Mail, an **Onboarding** checklist opens on the right s
 
 <video src="./media/clip-onboarding-toggle.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
-- **Import your mail**
-- **Import your calendar**
-- **Create an alias**
-- **Connect a mail app**
-- **Set up rules and permissions** (only appears when AI features are on)
-- **Learn the keyboard shortcuts**
-- **Check out what we're working on**, which opens Kagi Mail Labs
+- **[Import your mail](#importing-your-mail)**
+- **[Import your calendar](#importing-a-calendar)**
+- **[Create an alias](#aliases)**
+- **[Connect a mail app](#using-other-email-and-calendar-apps)**
+- **[Set up rules and permissions](#setting-up-rules)** (only appears when AI features are on)
+- **[Learn the keyboard shortcuts](#keyboard-shortcuts)**
+- **[Check out what we're working on](#kagi-mail-labs)**, which opens Kagi Mail Labs
 
 Each task links to the right page. Check off tasks yourself as you go. Checking off a task doesn't change any settings.
 
