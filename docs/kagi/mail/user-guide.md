@@ -104,7 +104,13 @@ Desktop notifications for new mail are under **Notifications** in [Settings > Me
 
 ### Opening Email Links in Kagi Mail
 
-To open `mailto:` links in Kagi Mail instead of your device's default email app, go to [Settings > Messages & Composing](https://kagimail.com/settings/mail) and click **Use Kagi Mail** under **Email links**. Your browser asks you to confirm. To undo this, click **Stop using Kagi Mail**.
+To open `mailto:` links in Kagi Mail instead of your device's default email app, go to [Settings > Messages & Composing](https://kagimail.com/settings/mail) and click **Use Kagi Mail** under **Email links**. Your browser asks you to allow it. To undo this, click **Stop using Kagi Mail**.
+
+![The Email links section in Settings > Messages & Composing](./media/mail-settings-email-links.png){data-zoomable}
+
+This option is available in desktop browsers that support it, including Chrome, Edge, Firefox, Opera, and Brave, and in Firefox for Android.
+
+Safari, Orion, Chrome for Android, and browsers on iPhone and iPad don't support it, so the option doesn't appear there.
 
 ## Importing Your Mail
 
@@ -513,6 +519,19 @@ To remove a subscription, click the trash icon (**Unsubscribe**) next to it and 
 ![Calendar settings, Subscriptions page, with the Unsubscribe button](./media/mail-calendar-subscriptions-sidebar-unsubscribe.png){data-zoomable}
 
 You can subscribe to up to **25** calendars.
+
+### Opening Calendar Links in Kagi Calendar
+
+To open `webcal:` links in Kagi Calendar instead of your device's calendar app, go to [Calendar settings](https://kagimail.com/calendar/settings) and click **Use Kagi Calendar** under **Calendar links**. Your browser asks you to allow it. To undo this, click **Stop using Kagi Calendar**.
+
+![The Calendar links section in Calendar settings](./media/mail-calendar-settings-calendar-links.png){data-zoomable}
+
+Once it's on:
+
+- Links to your own events, such as **View Event** in reminder emails, open the event in Kagi Calendar.
+- Links to other calendars open an **External calendar link** page. Click **Subscribe** to [subscribe to the calendar](#subscribing-to-other-calendars), or **Download calendar file** to save it.
+
+This option is available in desktop Chrome, Edge, Firefox, Opera, and Brave, and in Firefox for Android. Like [email links](#opening-email-links-in-kagi-mail), it isn't available in Safari, Orion, Chrome for Android, or browsers on iPhone and iPad.
 
 ## Using Other Email and Calendar Apps
 
