@@ -18,7 +18,7 @@ Most email doesn't need you. Kagi Mail helps you find the email that does. It ca
 
 Some email services give you good email and nothing more. Others put AI in everything and never ask. Kagi Mail lets you choose: use Inbox Highlights, Preview, Rules, and Ask, or turn every AI feature off with one switch.
 
-Either way, you get private email that fits the way you already work. Use it in your browser at [kagimail.com](https://kagimail.com) or in the [email app](#using-other-email-and-calendar-apps) you already use. Give every website its own alias, use your own domain, and move your mail over from Gmail or any other provider. And because it's built on open standards, your mail stays yours to take with you.
+Either way, you get private email that fits the way you already work. Use it in your browser at [kagimail.com](https://kagimail.com) or in the email and calendar apps you already use. Give every website its own alias, use your own domain, and move your mail over from Gmail or any other provider. And because it's built on open standards, your mail stays yours to take with you.
 
 With Kagi Mail, you can:
 
