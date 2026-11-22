@@ -416,7 +416,7 @@ Kagi Mail Labs is where we test new features before they become part of Kagi Mai
 
 **Preview** uses AI to replace the first lines of each email in your inbox list with a one-line preview of what the email is about, not only how it starts. It applies to new mail and needs the **Read message contents** permission from [Rules](#permissions).
 
-![Inbox rows with one-line previews](./media/mail-preview.png){data-zoomable}
+![Inbox rows, one with a one-line preview](./media/mail-preview.png){data-zoomable}
 
 This is different from the **Show Previews** setting in [Settings > Appearance](https://kagimail.com/settings), which turns the preview line in your inbox list on or off.
 
