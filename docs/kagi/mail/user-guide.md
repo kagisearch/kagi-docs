@@ -561,8 +561,6 @@ To remove a subscription, click the trash icon (**Unsubscribe**) next to it and 
 
 ![Calendar settings, Subscriptions page, with the Unsubscribe button](./media/mail-calendar-subscriptions-sidebar-unsubscribe.png){data-zoomable}
 
-You can subscribe to up to **25** calendars.
-
 ### Opening Calendar Links in Kagi Calendar
 
 To open `webcal:` links in Kagi Calendar instead of your device's calendar app, go to [Calendar settings](https://kagimail.com/calendar/settings) and click **Use Kagi Calendar** under **Calendar links**. Your browser asks you to allow it. To undo this, click **Stop using Kagi Calendar**.
@@ -821,7 +819,6 @@ Limits:
 - **50 GB** of storage per account
 - **Unlimited** aliases
 - **Unlimited** custom domains
-- Up to **25** subscribed calendars
 - Up to **5 files** per upload when attaching to an email. To attach more, add another batch.
 - **50 MB** per attachment
 - **75 MB** total attachments per email
