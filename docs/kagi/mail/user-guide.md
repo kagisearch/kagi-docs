@@ -399,7 +399,7 @@ Kagi Mail Labs is where we test new features before they become part of Kagi Mai
 | --- | --- | --- |
 | [Inbox Highlights](#inbox-highlights) | Shows the mail that most likely needs your attention | Yes |
 | [Preview](#preview) | Shows a one-line preview of what each new email is about, not only how it starts | Yes |
-| [Triage](#triage) | Holds mail from new senders in a separate mailbox and checks it for spam and phishing | Optional (only for the spam and phishing check) |
+| [Triage](#triage) | Holds mail from new senders until you approve them, and checks it for spam and phishing | Optional (only for the spam and phishing check) |
 | [Newsletter view](#newsletter-view) | Shows newsletters as a feed you can scroll through | No |
 | [Thread visualization](#thread-visualization) | Shows a conversation as a map of who was involved over time | Optional (only for strand summaries on hover) |
 | [Sender brand logos](#sender-brand-logos) | Shows a sender's verified brand logo instead of the letter avatar | No |
@@ -422,13 +422,22 @@ This is different from the **Show Previews** setting in [Settings > Appearance](
 
 ### Triage
 
-**Triage** holds mail from senders you haven't heard from before in a **New contact** mailbox instead of your inbox, and uses AI to check it for spam and phishing. Senders you've [allowed](#blocking-and-allowing-senders) still reach your inbox.
+**Triage** holds mail from senders you haven't heard from before until you approve them, and uses AI to check it for spam and phishing. Senders you've [allowed](#blocking-and-allowing-senders) still reach your inbox.
 
-Each sender in **New contact** has a card with a short note about their message. If the message looks like phishing, the note starts with **Critical:** and shows a warning icon. Flagged messages stay in **New contact** until you decide what to do with them.
+When mail from new senders is waiting, a **Screen first-time senders** button appears at the top of your inbox, with the number of messages waiting. Click it to open the **First-Time Contact Screening** page. Each sender has a card with a short note about their message. If the message looks like phishing, the note starts with **Critical:** and shows a warning icon.
+
+![The First-Time Contact Screening page with two sender cards, one flagged Critical](./media/mail-triage.png){data-zoomable}
+
+Mail waits on this page until you decide. On each card, click:
+
+- **Approve** to add the sender to your allowed senders and move their mail to your inbox. To allow everyone at the sender's domain instead, use the menu next to **Approve**. Only do this if you trust everyone at that domain, since shared email providers include strangers.
+- **Reject** to add the sender to your blocked senders and move their mail to **Junk**.
+
+<video src="./media/clip-triage.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 A warning icon next to the sender's address is a separate check: it means Kagi Mail couldn't confirm the email came from the sender shown. This can happen with forwarded emails, or when the sender's email service isn't set up for verification, so it doesn't necessarily mean the email is fake.
 
-Triage needs the **Read message contents** permission from [Rules](#permissions). Without it, new senders still go to **New contact**, but their mail isn't checked and no note appears.
+Triage needs the **Read message contents** permission from [Rules](#permissions). Without it, mail from new senders still waits for you to approve it, but it isn't checked and no note appears.
 
 ### Newsletter View
 
