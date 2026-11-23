@@ -279,7 +279,7 @@ To create an alias:
 4. Use the generated address, such as `harbor-comet-velvet@kagimail.com`, or type your own.
 5. Optionally, add a name and description, for example *Online Shopping*, to remember where you used it.
 
-<video src="./media/clip-create-alias.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/clip-create-alias-zoom.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 The alias list shows how many emails each alias has received and when the last one arrived. To stop an alias from receiving mail without deleting it, turn off its **Enabled** toggle. To find an alias, type in the **Filter aliases** box.
 
@@ -369,9 +369,9 @@ Without **Read message contents**, rules only see the sender, recipients, and su
 
 ## Emailing Kagi Assistant
 
-You can ask Kagi Assistant about your email. Add `assistant@kagimail.com` to a thread with **Reply**, CC, or **Forward**, and ask your question. For example: *"What did we decide in this thread, and what's still open?"*
+You can ask Kagi Assistant about your email. Add `assistant@kagimail.com` to a thread with **Reply**, CC, or **Forward**, and ask your question. For example: *"Who is bringing what, and what's still open?"*
 
-<video src="./media/clip-ask-assistant.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/clip-ask-assistant-zoom.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 ### Giving Instructions for a Thread
 
@@ -433,7 +433,7 @@ Mail waits on this page until you decide. On each card, click:
 - **Approve** to add the sender to your allowed senders and move their mail to your inbox. To allow everyone at the sender's domain instead, use the menu next to **Approve**. Only do this if you trust everyone at that domain, since shared email providers include strangers.
 - **Reject** to add the sender to your blocked senders and move their mail to **Junk**.
 
-<video src="./media/clip-triage.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/clip-triage-zoom.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 A warning icon next to the sender's address is a separate check: it means Kagi Mail couldn't confirm the email came from the sender shown. This can happen with forwarded emails, or when the sender's email service isn't set up for verification, so it doesn't necessarily mean the email is fake.
 
@@ -472,7 +472,7 @@ When a thread has more than one strand, a strands menu appears in the thread's h
 
 To ask a question, type it in the search bar ending with `?`, for example `When does my flight to Lisbon leave?`. You get an answer based on your emails at the top of the search results, with the matching emails listed below it under **Best matches**.
 
-![An answer to a question above the search results](./media/mail-ask.png){data-zoomable}
+<video src="./media/clip-ask.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 ### MCP
 
@@ -673,7 +673,7 @@ Press <kbd>?</kbd> for the full list.
 2. Type `bind focus-search` and press <kbd>Enter</kbd>.
 3. Press <kbd>Ctrl</kbd> + <kbd>F</kbd>.
 
-<video src="./media/clip-rebind-shortcut.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
+<video src="./media/clip-rebind-shortcut-zoom.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
 
 To remove one custom shortcut, run `unbind`. To restore all the defaults, click **Reset all bindings** at the bottom of [Settings > Keyboard Shortcuts](https://kagimail.com/settings/keybinds).
 
