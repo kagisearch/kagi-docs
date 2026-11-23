@@ -249,7 +249,7 @@ To file mail automatically, use [Rules](#filtering-mail-with-rules) or [Sieve fi
 
 ## Searching Mail
 
-Click the search bar at the top or press <kbd>Ctrl</kbd> + <kbd>K</kbd>. To narrow your results, use search operators. For example, `from:alex@example.com` finds messages from that sender. Search suggestions list the operators you can use.
+Click the search bar at the top or press <kbd>Ctrl</kbd> + <kbd>K</kbd> (<kbd>⌘</kbd> + <kbd>K</kbd> on a Mac). To narrow your results, use search operators. For example, `from:alex@example.com` finds messages from that sender. Search suggestions list the operators you can use.
 
 | Operator | Finds messages |
 | --- | --- |
@@ -625,12 +625,12 @@ Some shortcuts are sequences: press the first key, then the second. For example,
 | Shortcut | Action |
 | --- | --- |
 | <kbd>C</kbd> | New email |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd> | Search |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd> (<kbd>⌘</kbd> + <kbd>K</kbd> on a Mac) | Search |
 | <kbd>?</kbd> | View help |
 | <kbd>:</kbd> | Command prompt |
 | <kbd>Esc</kbd> | Go back |
 | <kbd>Space</kbd> | Select item |
-| <kbd>Ctrl</kbd> + <kbd>A</kbd> | Select all items |
+| <kbd>Ctrl</kbd> + <kbd>A</kbd> (<kbd>⌘</kbd> + <kbd>A</kbd> on a Mac) | Select all items |
 | <kbd>J</kbd> / <kbd>K</kbd> | Move down / up the list |
 | <kbd>H</kbd> / <kbd>L</kbd> | Previous / next thread |
 | <kbd>G</kbd> then <kbd>G</kbd> | Go to top |
