@@ -220,7 +220,7 @@ function sidebarKagi() {
                 collapsed: true,
                 link: '/kagi/mail/',
                 items: [
-                    { text: 'Getting started', link: '/kagi/mail/index' },
+                    { text: 'User Guide', link: '/kagi/mail/index' },
                     { text: 'FAQ',             link: '/kagi/mail/faq'             },
                 ]
             	},
