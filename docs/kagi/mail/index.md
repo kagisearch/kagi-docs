@@ -268,7 +268,7 @@ To create an alias:
 1. Go to [Settings > Aliases](https://kagimail.com/settings/aliases).
 2. Click **Create new alias**.
 3. Choose a domain: `kagimail.com` or one of your [custom domains](#custom-domains).
-4. Use the generated address, such as `harbor-comet-velvet@kagimail.com`, or type your own.
+4. On `kagimail.com`, use the generated address, such as `harbor-comet-velvet@kagimail.com`, or click the refresh icon for a new one. On your own domain, type the name you want.
 5. Optionally, add a name and description, for example *Online Shopping*, to remember where you used it.
 
 <video src="./media/clip-create-alias-zoom.mp4" width="720" type="video/mp4" autoplay muted loop playsinline disablepictureinpicture />
