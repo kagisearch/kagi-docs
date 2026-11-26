@@ -15,7 +15,7 @@ Kagi offers several subscription plans.
 * The **Trial** plan is limited to 100 total searches and 100 AI interactions with [standard models](../ai/assistant.html#available-llms). This plan is suited for those interested in exploring Kagi and curious about paid search engines.
 * The **Starter** plan offers 300 searches per month, up to 300 AI interactions per month with [standard models](../ai/assistant.html#available-llms), and access to Kagi Translate for USD $5 per month + tax. This plan is perfect for users who are new to paid search engines and are looking to own their search experience.
 * The **Professional** plan offers unlimited searches, unlimited access to Kagi Summarize, Kagi Assistant with [standard models](../ai/assistant.html#available-llms), and Kagi Translate for USD $10 per month + tax. This plan is suited for internet professionals and developers who are prolific and advanced search users.
-* The [**Ultimate**](./ultimate-plan.md) plan includes everything in Professional and unlocks [premium models](../ai/assistant.md#available-llms) in Kagi Assistant and best-quality mode in Kagi Translate with expanded usage limits for USD $25 per month + tax. This plan delivers the most comprehensive search and AI experience available.
+* The [**Ultimate**](./ultimate-plan.md) plan includes everything in Professional and unlocks [premium models](../ai/assistant.md#available-llms) in Kagi Assistant and best-quality mode in Kagi Translate with expanded usage limits for USD $25 per month + tax. Ultimate also includes [Kagi Mail](../mail/index.md) at no additional cost. This plan delivers the most comprehensive search and AI experience available.
 
 **Notes:**
 
@@ -56,7 +56,7 @@ If you find that you are consistently running out of searches at the end of each
 
 ### Consider the Ultimate Plan for Advanced Features
 
-If you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan. This gives you access to premium AI models.
+If you are interested in taking advantage of all the advanced features that Kagi is building then it is time to upgrade to the Ultimate plan. This gives you access to premium AI models and includes [Kagi Mail](../mail/index.md).
 
 ### Understand Your Consumption
 
