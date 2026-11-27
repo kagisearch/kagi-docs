@@ -21,7 +21,7 @@ Kagi offers several subscription plans.
 
 - **Yearly Starter Plan:** Includes 3,600 searches and 3,600 AI interactions for the full year.
 
-- **Kagi Assistant Usage:** Professional and Ultimate plans include Kagi Assistant access that scales with your subscription. Your plan's full monthly value is available for AI interactions. [See how usage works](../ai/assistant.html#fair-use-policy).
+- **Kagi Assistant Usage:** Professional and Ultimate plans include Kagi Assistant access that scales with your subscription. Your plan's full monthly value is available for AI interactions. [See how usage works](../ai/assistant.html#ai-fair-use-policy).
 
 ### Family Plan:
 
