@@ -309,7 +309,7 @@ We designed our product to give you a good answer and get you on your way instea
 
 ### What if I find a security issue?
 
-If you discover potential security issues on our platform, please notify our [security contact](mailto:vlad@kagi.com).
+If you discover potential security issues on our platform or products, we have a [bug bounty program](https://help.kagi.com/kagi/privacy/bug-bounty-program.html).
 
 <a name="warrant-canary"></a>
 ### Do you have a warrant canary? {#warrant-canary}
