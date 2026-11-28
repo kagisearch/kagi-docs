@@ -55,8 +55,7 @@ Kagi Inc.\
 548 Market St\
 PMB 477946\
 San Francisco, CA 94104-5401\
-Email: vlad@kagi.com (CEO)\
-Email: support@kagi.com (Support)
+Email: support@kagi.com (Customer support)
 
 ## Community
 
